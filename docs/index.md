@@ -3,16 +3,6 @@ title: 🪙 Cost of Living in Europe
 description: Compare cost of living across 26 European countries
 ---
 
-<script>
-if (window.location.pathname === '/' || window.location.pathname === '/index-en/') {
-  document.querySelectorAll('a').forEach(link => {
-    if (link.href.includes('/overview/') && !link.href.includes('-en')) {
-      link.href = link.href.replace('/overview/', '/overview-en/');
-    }
-  });
-}
-</script>
-
 # 🪙 Cost of Living in Europe
 
 *Your complete guide to cost of living in Europe*
@@ -36,52 +26,52 @@ if (window.location.pathname === '/' || window.location.pathname === '/index-en/
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇳🇴 [Norway](norway/overview-en/) | 1,603€ | → |
-| 🇸🇪 [Sweden](sweden/overview-en/) | 1,404€ | → |
-| 🇩🇰 [Denmark](denmark/overview-en/) | 1,775€ | → |
-| 🇫🇮 [Finland](finland/overview-en/) | 1,300€ | → |
-| 🇪🇪 [Estonia](estonia/overview-en/) | 698€ | → |
-| 🇮🇸 [Iceland](iceland/overview-en/) | 1,800€ | → |
+| 🇳🇴 [Norway](norway/overview/) | 1,603€ | → |
+| 🇸🇪 [Sweden](sweden/overview/) | 1,404€ | → |
+| 🇩🇰 [Denmark](denmark/overview/) | 1,775€ | → |
+| 🇫🇮 [Finland](finnland/overview/) | 1,300€ | → |
+| 🇪🇪 [Estonia](estonia/overview/) | 698€ | → |
+| 🇮🇸 [Iceland](iceland/overview/) | 1,800€ | → |
 
 ## 🏗️ Eastern Europe (6)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇵🇱 [Poland](poland/overview-en/) | 1,000€ | → |
-| 🇨🇿 [Czechia](czech/overview-en/) | 1,000€ | → |
-| 🇭🇺 [Hungary](hungary/overview-en/) | 650€ | → |
-| 🇷🇴 [Romania](romania/overview-en/) | 600€ | → |
-| 🇷🇸 [Serbia](serbia/overview-en/) | 700€ | → |
-| 🇧🇬 [Bulgaria](bulgaria/overview-en/) | 669€ | → |
+| 🇵🇱 [Poland](poland/overview/) | 1,000€ | → |
+| 🇨🇿 [Czechia](czech/overview/) | 1,000€ | → |
+| 🇭🇺 [Hungary](hungary/overview/) | 650€ | → |
+| 🇷🇴 [Romania](romania/overview/) | 600€ | → |
+| 🇷🇸 [Serbia](serbia/overview/) | 700€ | → |
+| 🇧🇬 [Bulgaria](bulgaria/overview/) | 669€ | → |
 
 ## ☀️ Southern Europe (6)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇪🇸 [Spain](spain/overview-en/) | 1,350€ | → |
-| 🇵🇹 [Portugal](portugal/overview-en/) | 1,100€ | → |
-| 🇮🇹 [Italy](italy/overview-en/) | 1,000€ | → |
-| 🇬🇷 [Greece](greece/overview-en/) | 550€ | → |
-| 🇭🇷 [Croatia](croatia/overview-en/) | 700€ | → |
-| 🇲🇹 [Malta](malta/overview-en/) | 1,100€ | → |
+| 🇪🇸 [Spain](spain/overview/) | 1,350€ | → |
+| 🇵🇹 [Portugal](portugal/overview/) | 1,100€ | → |
+| 🇮🇹 [Italy](italy/overview/) | 1,000€ | → |
+| 🇬🇷 [Greece](greece/overview/) | 550€ | → |
+| 🇭🇷 [Croatia](croatia/overview/) | 700€ | → |
+| 🇲🇹 [Malta](malta/overview/) | 1,100€ | → |
 
 ## 🔵 Central Europe (3)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇩🇪 [Germany](germany/overview-en/) | 1,270€ | → |
-| 🇦🇹 [Austria](austria/overview-en/) | 1,077€ | → |
-| 🇨🇭 [Switzerland](switzerland/overview-en/) | 2,580€ | → |
+| 🇩🇪 [Germany](germany/overview/) | 1,270€ | → |
+| 🇦🇹 [Austria](austria/overview/) | 1,077€ | → |
+| 🇨🇭 [Switzerland](switzerland/overview/) | 2,580€ | → |
 
 ## 🌊 Western Europe (5)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇬🇧 [UK](uk/overview-en/) | 2,530€ | → |
-| 🇮🇪 [Ireland](ireland/overview-en/) | 2,118€ | → |
-| 🇳🇱 [Netherlands](netherlands/overview-en/) | 2,260€ | → |
-| 🇧🇪 [Belgium](belgium/overview-en/) | 1,125€ | → |
-| 🇫🇷 [France](france/overview-en/) | 2,000€ | → |
+| 🇬🇧 [UK](uk/overview/) | 2,530€ | → |
+| 🇮🇪 [Ireland](ireland/overview/) | 2,118€ | → |
+| 🇳🇱 [Netherlands](netherlands/overview/) | 2,260€ | → |
+| 🇧🇪 [Belgium](belgium/overview/) | 1,125€ | → |
+| 🇫🇷 [France](france/overview/) | 2,000€ | → |
 
 ## 📊 Statistics
 
@@ -89,7 +79,5 @@ if (window.location.pathname === '/' || window.location.pathname === '/index-en/
 - 123+ Cities
 - Cheapest: 550€ (Greece)
 - Most Expensive: 2,580€ (Switzerland)
-
-[🇳🇴 View Norwegian version](/)
 
 *Data: Numbeo.com, March 2026*
