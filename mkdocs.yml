@@ -1,13 +1,16 @@
 site_name: 🪙 Euro Lavish
 site_description: Cost of Living in Europe - 26 Countries, 260 Cities
 site_author: Alcatelz
-site_url: https://euro-lavish.net
+site_url: https://designrpros.github.io/euro-lavish/
 
 theme:
   name: material
   palette:
-    primary: deep purple
+    scheme: slate
+    primary: teal
     accent: cyan
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.top
@@ -62,7 +65,3 @@ nav:
 copyright: "&copy; 2026 Euro Lavish | Data: Numbeo.com"
 
 use_directory_urls: false
-
-# GitHub Pages deploy
-remote_branch: gh-pages
-remote_name: origin

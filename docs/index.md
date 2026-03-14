@@ -1,6 +1,6 @@
 # 🪙 Euro Lavish
 
-> **Cost of Living in Europe** - 27 Countries, 270 Cities
+> **Cost of Living in Europe** - 26 Countries, 260 Cities
 
 ---
 
@@ -21,32 +21,74 @@
 
 ---
 
-## 🌍 Velg Region
+## 🏔️ Nord-Europa (6)
 
-### 🏔️ Nord-Europa
-[[norway/overview.md|Norge]] · [[sweden/overview.md|Sverige]] · [[denmark/overview.md|Danmark]] · [[finnland/overview.md|Finland]] · [[estonia/overview.md|Estland]] · [[iceland/overview.md|Island]]
+| Land | Leie | → |
+|------|------|-----|
+| 🇳🇴 [Norge](norway/overview.md) | 1,603€ | → |
+| 🇸🇪 [Sverige](sweden/overview.md) | 1,404€ | → |
+| 🇩🇰 [Danmark](denmark/overview.md) | 1,775€ | → |
+| 🇫🇮 [Finland](finland/overview.md) | 1,300€ | → |
+| 🇪🇪 [Estland](estonia/overview.md) | 698€ | → |
+| 🇮🇸 [Island](iceland/overview.md) | 1,800€ | → |
 
-### 🏗️ Øst-Europa
-[[poland/overview.md|Polen]] · [[czech/overview.md|Tsjekkia]] · [[hungary/overview.md|Ungarn]] · [[romania/overview.md|Romania]] · [[serbia/overview.md|Serbia]] · [[bulgaria/overview.md|Bulgaria]]
+---
 
-### ☀️ Sør-Europa
-[[spain/overview.md|Spania]] · [[portugal/overview.md|Portugal]] · [[italy/overview.md|Italia]] · [[greece/overview.md|Hellas]] · [[croatia/overview.md|Kroatia]] · [[malta/overview.md|Malta]]
+## 🏗️ Øst-Europa (6)
 
-### 🔵 Sentral-Europa
-[[germany/overview.md|Tyskland]] · [[austria/overview.md|Østerrike]] · [[switzerland/overview.md|Sveits]]
+| Land | Leie | → |
+|------|------|-----|
+| 🇵🇱 [Polen](poland/overview.md) | 1,000€ | → |
+| 🇨🇿 [Tsjekkia](czech/overview.md) | 1,000€ | → |
+| 🇭🇺 [Ungarn](hungary/overview.md) | 650€ | → |
+| 🇷🇴 [Romania](romania/overview.md) | 600€ | → |
+| 🇷🇸 [Serbia](serbia/overview.md) | 700€ | → |
+| 🇧🇬 [Bulgaria](bulgaria/overview.md) | 669€ | → |
 
-### 🌊 Vest-Europa
-[[uk/overview.md|Storbritannia]] · [[ireland/overview.md|Irland]] · [[netherlands/overview.md|Nederland]] · [[belgium/overview.md|Belgia]] · [[france/overview.md|Frankrike]]
+---
+
+## ☀️ Sør-Europa (6)
+
+| Land | Leie | → |
+|------|------|-----|
+| 🇪🇸 [Spania](spain/overview.md) | 1,350€ | → |
+| 🇵🇹 [Portugal](portugal/overview.md) | 1,100€ | → |
+| 🇮🇹 [Italia](italy/overview.md) | 1,000€ | → |
+| 🇬🇷 [Hellas](greece/overview.md) | 550€ | → |
+| 🇭🇷 [Kroatia](croatia/overview.md) | 700€ | → |
+| 🇲🇹 [Malta](malta/overview.md) | 1,100€ | → |
+
+---
+
+## 🔵 Sentral-Europa (3)
+
+| Land | Leie | → |
+|------|------|-----|
+| 🇩🇪 [Tyskland](germany/overview.md) | 1,270€ | → |
+| 🇦🇹 [Østerrike](austria/overview.md) | 1,077€ | → |
+| 🇨🇭 [Sveits](switzerland/overview.md) | 2,580€ | → |
+
+---
+
+## 🌊 Vest-Europa (5)
+
+| Land | Leie | → |
+|------|------|-----|
+| 🇬🇧 [Storbritannia](uk/overview.md) | 2,530€ | → |
+| 🇮🇪 [Irland](ireland/overview.md) | 2,118€ | → |
+| 🇳🇱 [Nederland](netherlands/overview.md) | 2,260€ | → |
+| 🇧🇪 [Belgia](belgium/overview.md) | 1,125€ | → |
+| 🇫🇷 [Frankrike](france/overview.md) | 2,000€ | → |
 
 ---
 
 ## 📊 Statistikk
 
-- **27 Land**
-- **270 Byer** (10 per land)
+- **26 Land**
+- **260 Byer** (10 per land)
 - **Billigst:** 550€ (Hellas)
 - **Dyrest:** 2,580€ (Sveits)
 
 ---
 
-*�Data: Numbeo.com, Mars 2026* · *💱 Veiledning: ~11.5 NOK/EUR*
+*Data: Numbeo.com, Mars 2026* · *Veiledning: ~11.5 NOK/EUR*
