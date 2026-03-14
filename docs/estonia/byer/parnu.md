@@ -25,6 +25,22 @@ description: Cost of Living in Pärnu
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Parnu) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Parnu--Estonia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Pärnu](https://www.reddit.com/r/Pärnu/) |
+| 📍 **TripAdvisor** | [Things to do in Pärnu](https://www.tripadvisor.com/Search?q=Pärnu) |
+| 📖 **Lonely Planet** | [Pärnu Guide](https://www.lonelyplanet.com/search?q=Pärnu) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Estonia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Pärnu+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Estonia overview](../index.md)
 

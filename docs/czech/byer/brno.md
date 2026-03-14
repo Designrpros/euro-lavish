@@ -25,6 +25,22 @@ description: Cost of Living in Brno
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Brno) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Brno--Czechia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Brno](https://www.reddit.com/r/Brno/) |
+| 📍 **TripAdvisor** | [Things to do in Brno](https://www.tripadvisor.com/Search?q=Brno) |
+| 📖 **Lonely Planet** | [Brno Guide](https://www.lonelyplanet.com/search?q=Brno) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Czechia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Brno+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Czechia overview](../index.md)
 

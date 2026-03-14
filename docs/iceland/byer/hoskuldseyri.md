@@ -25,6 +25,22 @@ description: Cost of Living in Hafnarfjörður
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Hafnarfjorour) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Hafnarfjorour--Iceland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Hafnarfjörður](https://www.reddit.com/r/Hafnarfjörður/) |
+| 📍 **TripAdvisor** | [Things to do in Hafnarfjörður](https://www.tripadvisor.com/Search?q=Hafnarfjörður) |
+| 📖 **Lonely Planet** | [Hafnarfjörður Guide](https://www.lonelyplanet.com/search?q=Hafnarfjörður) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Iceland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Hafnarfjörður+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Iceland overview](../index.md)
 

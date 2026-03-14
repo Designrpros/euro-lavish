@@ -25,6 +25,22 @@ description: Cost of Living in Gdańsk
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gdansk) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gdansk--Poland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Gdańsk](https://www.reddit.com/r/Gdańsk/) |
+| 📍 **TripAdvisor** | [Things to do in Gdańsk](https://www.tripadvisor.com/Search?q=Gdańsk) |
+| 📖 **Lonely Planet** | [Gdańsk Guide](https://www.lonelyplanet.com/search?q=Gdańsk) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Poland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Gdańsk+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Poland overview](../index.md)
 

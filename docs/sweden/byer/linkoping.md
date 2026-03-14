@@ -25,6 +25,22 @@ description: Cost of Living in Linköping
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Linkoping) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Linkoping--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Linköping](https://www.reddit.com/r/Linköping/) |
+| 📍 **TripAdvisor** | [Things to do in Linköping](https://www.tripadvisor.com/Search?q=Linköping) |
+| 📖 **Lonely Planet** | [Linköping Guide](https://www.lonelyplanet.com/search?q=Linköping) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Linköping+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

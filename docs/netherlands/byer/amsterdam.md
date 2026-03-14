@@ -25,7 +25,23 @@ description: Cost of Living in Amsterdam
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Amsterdam--Netherlands) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) |
+| 📍 **TripAdvisor** | [Things to do in Amsterdam](https://www.tripadvisor.com/Search?q=Amsterdam) |
+| 📖 **Lonely Planet** | [Amsterdam Guide](https://www.lonelyplanet.com/search?q=Amsterdam) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Netherlands)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Amsterdam+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Netherlands overview](../overview.md)
+[Back to Netherlands overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

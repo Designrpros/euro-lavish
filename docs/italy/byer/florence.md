@@ -25,7 +25,23 @@ description: Cost of Living in Florence
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Florence) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Florence--Italy) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Florence](https://www.reddit.com/r/Florence/) |
+| 📍 **TripAdvisor** | [Things to do in Florence](https://www.tripadvisor.com/Search?q=Florence) |
+| 📖 **Lonely Planet** | [Florence Guide](https://www.lonelyplanet.com/search?q=Florence) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Italy)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Florence+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Italy overview](../overview.md)
+[Back to Italy overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

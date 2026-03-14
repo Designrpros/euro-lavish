@@ -25,6 +25,22 @@ description: Cost of Living in Malmö
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Malmo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Malmo--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Malmö](https://www.reddit.com/r/Malmö/) |
+| 📍 **TripAdvisor** | [Things to do in Malmö](https://www.tripadvisor.com/Search?q=Malmö) |
+| 📖 **Lonely Planet** | [Malmö Guide](https://www.lonelyplanet.com/search?q=Malmö) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Malmö+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

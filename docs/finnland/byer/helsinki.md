@@ -25,6 +25,22 @@ description: Cost of Living in Helsinki
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Helsinki) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Helsinki](https://www.reddit.com/r/Helsinki/) |
+| 📍 **TripAdvisor** | [Things to do in Helsinki](https://www.tripadvisor.com/Search?q=Helsinki) |
+| 📖 **Lonely Planet** | [Helsinki Guide](https://www.lonelyplanet.com/search?q=Helsinki) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Finland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Helsinki+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Finland overview](../index.md)
 

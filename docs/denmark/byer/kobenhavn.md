@@ -25,6 +25,22 @@ description: Cost of Living in Copenhagen
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Copenhagen--Denmark) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Copenhagen](https://www.reddit.com/r/Copenhagen/) |
+| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://www.tripadvisor.com/Search?q=Copenhagen) |
+| 📖 **Lonely Planet** | [Copenhagen Guide](https://www.lonelyplanet.com/search?q=Copenhagen) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Denmark)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Copenhagen+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Denmark overview](../overview.md)
 

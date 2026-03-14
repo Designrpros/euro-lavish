@@ -23,6 +23,22 @@ description: Cost of Living in Jönköping
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Jonkoping) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Jonkoping--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Jönköping](https://www.reddit.com/r/Jönköping/) |
+| 📍 **TripAdvisor** | [Things to do in Jönköping](https://www.tripadvisor.com/Search?q=Jönköping) |
+| 📖 **Lonely Planet** | [Jönköping Guide](https://www.lonelyplanet.com/search?q=Jönköping) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Jönköping+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

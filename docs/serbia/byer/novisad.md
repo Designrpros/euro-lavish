@@ -25,7 +25,23 @@ description: Cost of Living in Novi Sad
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Novi+Sad) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Novi-Sad--Serbia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Novi Sad](https://www.reddit.com/r/Novi Sad/) |
+| 📍 **TripAdvisor** | [Things to do in Novi Sad](https://www.tripadvisor.com/Search?q=Novi Sad) |
+| 📖 **Lonely Planet** | [Novi Sad Guide](https://www.lonelyplanet.com/search?q=Novi Sad) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Serbia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Novi Sad+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Serbia overview](../overview.md)
+[Back to Serbia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

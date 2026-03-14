@@ -25,6 +25,22 @@ description: Cost of Living in Molde
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Molde) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Molde--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Molde](https://www.reddit.com/r/Molde/) |
+| 📍 **TripAdvisor** | [Things to do in Molde](https://www.tripadvisor.com/Search?q=Molde) |
+| 📖 **Lonely Planet** | [Molde Guide](https://www.lonelyplanet.com/search?q=Molde) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Molde+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

@@ -25,6 +25,22 @@ description: Cost of Living in Plzeň
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Plzen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Plzen--Czechia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Plzeň](https://www.reddit.com/r/Plzeň/) |
+| 📍 **TripAdvisor** | [Things to do in Plzeň](https://www.tripadvisor.com/Search?q=Plzeň) |
+| 📖 **Lonely Planet** | [Plzeň Guide](https://www.lonelyplanet.com/search?q=Plzeň) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Czechia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Plzeň+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Czechia overview](../index.md)
 

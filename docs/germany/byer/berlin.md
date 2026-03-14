@@ -25,7 +25,23 @@ description: Cost of Living in Berlin
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Berlin) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Berlin--Germany) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Berlin](https://www.reddit.com/r/Berlin/) |
+| 📍 **TripAdvisor** | [Things to do in Berlin](https://www.tripadvisor.com/Search?q=Berlin) |
+| 📖 **Lonely Planet** | [Berlin Guide](https://www.lonelyplanet.com/search?q=Berlin) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Germany)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Berlin+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Germany overview](../overview.md)
+[Back to Germany overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

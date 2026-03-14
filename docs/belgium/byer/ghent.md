@@ -25,7 +25,23 @@ description: Cost of Living in Ghent
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Ghent) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Ghent--Belgium) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Ghent](https://www.reddit.com/r/Ghent/) |
+| 📍 **TripAdvisor** | [Things to do in Ghent](https://www.tripadvisor.com/Search?q=Ghent) |
+| 📖 **Lonely Planet** | [Ghent Guide](https://www.lonelyplanet.com/search?q=Ghent) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Belgium)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Ghent+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Belgium overview](../overview.md)
+[Back to Belgium overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -25,6 +25,22 @@ description: Cost of Living in Narva
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Narva) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Narva--Estonia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Narva](https://www.reddit.com/r/Narva/) |
+| 📍 **TripAdvisor** | [Things to do in Narva](https://www.tripadvisor.com/Search?q=Narva) |
+| 📖 **Lonely Planet** | [Narva Guide](https://www.lonelyplanet.com/search?q=Narva) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Estonia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Narva+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Estonia overview](../index.md)
 

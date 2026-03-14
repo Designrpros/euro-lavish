@@ -25,7 +25,23 @@ description: Cost of Living in Varna
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Varna) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Varna--Bulgaria) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Varna](https://www.reddit.com/r/Varna/) |
+| 📍 **TripAdvisor** | [Things to do in Varna](https://www.tripadvisor.com/Search?q=Varna) |
+| 📖 **Lonely Planet** | [Varna Guide](https://www.lonelyplanet.com/search?q=Varna) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Bulgaria)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Varna+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Bulgaria overview](../overview.md)
+[Back to Bulgaria overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

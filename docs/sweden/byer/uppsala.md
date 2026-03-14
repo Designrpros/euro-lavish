@@ -25,6 +25,22 @@ description: Cost of Living in Uppsala
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Uppsala) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Uppsala--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Uppsala](https://www.reddit.com/r/Uppsala/) |
+| 📍 **TripAdvisor** | [Things to do in Uppsala](https://www.tripadvisor.com/Search?q=Uppsala) |
+| 📖 **Lonely Planet** | [Uppsala Guide](https://www.lonelyplanet.com/search?q=Uppsala) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Uppsala+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

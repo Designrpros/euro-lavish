@@ -25,6 +25,22 @@ description: Cost of Living in Aarhus
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Aarhus) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Aarhus--Denmark) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Aarhus](https://www.reddit.com/r/Aarhus/) |
+| 📍 **TripAdvisor** | [Things to do in Aarhus](https://www.tripadvisor.com/Search?q=Aarhus) |
+| 📖 **Lonely Planet** | [Aarhus Guide](https://www.lonelyplanet.com/search?q=Aarhus) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Denmark)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Aarhus+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Denmark overview](../index.md)
 

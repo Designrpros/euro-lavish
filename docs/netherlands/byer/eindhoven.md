@@ -25,7 +25,23 @@ description: Cost of Living in Eindhoven
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Eindhoven) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Eindhoven--Netherlands) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Eindhoven](https://www.reddit.com/r/Eindhoven/) |
+| 📍 **TripAdvisor** | [Things to do in Eindhoven](https://www.tripadvisor.com/Search?q=Eindhoven) |
+| 📖 **Lonely Planet** | [Eindhoven Guide](https://www.lonelyplanet.com/search?q=Eindhoven) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Netherlands)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Eindhoven+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Netherlands overview](../overview.md)
+[Back to Netherlands overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

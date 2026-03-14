@@ -25,7 +25,23 @@ description: Cost of Living in Dublin
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Dublin--Ireland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Dublin](https://www.reddit.com/r/Dublin/) |
+| 📍 **TripAdvisor** | [Things to do in Dublin](https://www.tripadvisor.com/Search?q=Dublin) |
+| 📖 **Lonely Planet** | [Dublin Guide](https://www.lonelyplanet.com/search?q=Dublin) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Ireland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Dublin+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Ireland overview](../overview.md)
+[Back to Ireland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

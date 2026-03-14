@@ -23,7 +23,23 @@ description: Cost of Living in Geneva
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Geneva) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Geneva--Switzerland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Geneva](https://www.reddit.com/r/Geneva/) |
+| 📍 **TripAdvisor** | [Things to do in Geneva](https://www.tripadvisor.com/Search?q=Geneva) |
+| 📖 **Lonely Planet** | [Geneva Guide](https://www.lonelyplanet.com/search?q=Geneva) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Switzerland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Geneva+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Switzerland overview](../overview.md)
+[Back to Switzerland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

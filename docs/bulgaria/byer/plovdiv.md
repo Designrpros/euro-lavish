@@ -25,7 +25,23 @@ description: Cost of Living in Plovdiv
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Plovdiv) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Plovdiv--Bulgaria) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Plovdiv](https://www.reddit.com/r/Plovdiv/) |
+| 📍 **TripAdvisor** | [Things to do in Plovdiv](https://www.tripadvisor.com/Search?q=Plovdiv) |
+| 📖 **Lonely Planet** | [Plovdiv Guide](https://www.lonelyplanet.com/search?q=Plovdiv) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Bulgaria)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Plovdiv+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Bulgaria overview](../overview.md)
+[Back to Bulgaria overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

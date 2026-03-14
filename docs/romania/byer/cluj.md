@@ -25,7 +25,23 @@ description: Cost of Living in Cluj-Napoca
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Cluj-Napoca) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Cluj-Napoca--Romania) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Cluj-Napoca](https://www.reddit.com/r/Cluj-Napoca/) |
+| 📍 **TripAdvisor** | [Things to do in Cluj-Napoca](https://www.tripadvisor.com/Search?q=Cluj-Napoca) |
+| 📖 **Lonely Planet** | [Cluj-Napoca Guide](https://www.lonelyplanet.com/search?q=Cluj-Napoca) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Romania)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Cluj-Napoca+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Romania overview](../overview.md)
+[Back to Romania overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

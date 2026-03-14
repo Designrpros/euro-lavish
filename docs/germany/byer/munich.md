@@ -25,7 +25,23 @@ description: Cost of Living in Munich
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Munich) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Munich--Germany) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Munich](https://www.reddit.com/r/Munich/) |
+| 📍 **TripAdvisor** | [Things to do in Munich](https://www.tripadvisor.com/Search?q=Munich) |
+| 📖 **Lonely Planet** | [Munich Guide](https://www.lonelyplanet.com/search?q=Munich) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Germany)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Munich+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Germany overview](../overview.md)
+[Back to Germany overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

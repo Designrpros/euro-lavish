@@ -25,7 +25,23 @@ description: Cost of Living in Belgrade
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Belgrade) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Belgrade--Serbia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Belgrade](https://www.reddit.com/r/Belgrade/) |
+| 📍 **TripAdvisor** | [Things to do in Belgrade](https://www.tripadvisor.com/Search?q=Belgrade) |
+| 📖 **Lonely Planet** | [Belgrade Guide](https://www.lonelyplanet.com/search?q=Belgrade) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Serbia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Belgrade+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Serbia overview](../overview.md)
+[Back to Serbia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

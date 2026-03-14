@@ -25,6 +25,22 @@ description: Cost of Living in Gothenburg
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gothenburg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gothenburg--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Gothenburg](https://www.reddit.com/r/Gothenburg/) |
+| 📍 **TripAdvisor** | [Things to do in Gothenburg](https://www.tripadvisor.com/Search?q=Gothenburg) |
+| 📖 **Lonely Planet** | [Gothenburg Guide](https://www.lonelyplanet.com/search?q=Gothenburg) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Gothenburg+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../overview.md)
 

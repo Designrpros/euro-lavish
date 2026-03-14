@@ -25,7 +25,23 @@ description: Cost of Living in Zagreb
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Zagreb) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Zagreb--Croatia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Zagreb](https://www.reddit.com/r/Zagreb/) |
+| 📍 **TripAdvisor** | [Things to do in Zagreb](https://www.tripadvisor.com/Search?q=Zagreb) |
+| 📖 **Lonely Planet** | [Zagreb Guide](https://www.lonelyplanet.com/search?q=Zagreb) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Croatia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Zagreb+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Croatia overview](../overview.md)
+[Back to Croatia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

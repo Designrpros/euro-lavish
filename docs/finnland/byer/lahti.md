@@ -25,6 +25,22 @@ description: Cost of Living in Lahti
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lahti) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lahti--Finland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Lahti](https://www.reddit.com/r/Lahti/) |
+| 📍 **TripAdvisor** | [Things to do in Lahti](https://www.tripadvisor.com/Search?q=Lahti) |
+| 📖 **Lonely Planet** | [Lahti Guide](https://www.lonelyplanet.com/search?q=Lahti) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Finland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Lahti+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Finland overview](../index.md)
 

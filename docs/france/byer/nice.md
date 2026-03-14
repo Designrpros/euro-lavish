@@ -25,7 +25,23 @@ description: Cost of Living in Nice
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Nice) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Nice--France) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Nice](https://www.reddit.com/r/Nice/) |
+| 📍 **TripAdvisor** | [Things to do in Nice](https://www.tripadvisor.com/Search?q=Nice) |
+| 📖 **Lonely Planet** | [Nice Guide](https://www.lonelyplanet.com/search?q=Nice) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for France)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Nice+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to France overview](../overview.md)
+[Back to France overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

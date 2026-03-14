@@ -25,6 +25,22 @@ description: Cost of Living in Ostrava
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Ostrava) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Ostrava--Czechia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Ostrava](https://www.reddit.com/r/Ostrava/) |
+| 📍 **TripAdvisor** | [Things to do in Ostrava](https://www.tripadvisor.com/Search?q=Ostrava) |
+| 📖 **Lonely Planet** | [Ostrava Guide](https://www.lonelyplanet.com/search?q=Ostrava) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Czechia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Ostrava+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Czechia overview](../index.md)
 

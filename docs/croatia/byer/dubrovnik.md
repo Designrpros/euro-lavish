@@ -25,7 +25,23 @@ description: Cost of Living in Dubrovnik
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Dubrovnik) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Dubrovnik--Croatia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Dubrovnik](https://www.reddit.com/r/Dubrovnik/) |
+| 📍 **TripAdvisor** | [Things to do in Dubrovnik](https://www.tripadvisor.com/Search?q=Dubrovnik) |
+| 📖 **Lonely Planet** | [Dubrovnik Guide](https://www.lonelyplanet.com/search?q=Dubrovnik) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Croatia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Dubrovnik+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Croatia overview](../overview.md)
+[Back to Croatia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -25,6 +25,22 @@ description: Cost of Living in Wroclaw
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Wroclaw) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Wroclaw--Poland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Wroclaw](https://www.reddit.com/r/Wroclaw/) |
+| 📍 **TripAdvisor** | [Things to do in Wroclaw](https://www.tripadvisor.com/Search?q=Wroclaw) |
+| 📖 **Lonely Planet** | [Wroclaw Guide](https://www.lonelyplanet.com/search?q=Wroclaw) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Poland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Wroclaw+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Poland overview](../index.md)
 

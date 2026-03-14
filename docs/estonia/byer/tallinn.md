@@ -25,6 +25,22 @@ description: Cost of Living in Tallinn
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Tallinn) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tallinn--Estonia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Tallinn](https://www.reddit.com/r/Tallinn/) |
+| 📍 **TripAdvisor** | [Things to do in Tallinn](https://www.tripadvisor.com/Search?q=Tallinn) |
+| 📖 **Lonely Planet** | [Tallinn Guide](https://www.lonelyplanet.com/search?q=Tallinn) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Estonia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Tallinn+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Estonia overview](../index.md)
 

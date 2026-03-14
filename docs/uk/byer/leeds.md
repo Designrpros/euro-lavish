@@ -25,7 +25,23 @@ description: Cost of Living in Leeds
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Leeds) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Leeds--UK) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Leeds](https://www.reddit.com/r/Leeds/) |
+| 📍 **TripAdvisor** | [Things to do in Leeds](https://www.tripadvisor.com/Search?q=Leeds) |
+| 📖 **Lonely Planet** | [Leeds Guide](https://www.lonelyplanet.com/search?q=Leeds) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for UK)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Leeds+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to UK overview](../overview.md)
+[Back to UK overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

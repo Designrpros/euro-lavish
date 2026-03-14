@@ -25,6 +25,22 @@ description: Cost of Living in Drammen
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Drammen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Drammen--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Drammen](https://www.reddit.com/r/Drammen/) |
+| 📍 **TripAdvisor** | [Things to do in Drammen](https://www.tripadvisor.com/Search?q=Drammen) |
+| 📖 **Lonely Planet** | [Drammen Guide](https://www.lonelyplanet.com/search?q=Drammen) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Drammen+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

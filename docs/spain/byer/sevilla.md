@@ -25,6 +25,22 @@ description: Cost of Living in Seville
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Seville) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Seville--Spain) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Seville](https://www.reddit.com/r/Seville/) |
+| 📍 **TripAdvisor** | [Things to do in Seville](https://www.tripadvisor.com/Search?q=Seville) |
+| 📖 **Lonely Planet** | [Seville Guide](https://www.lonelyplanet.com/search?q=Seville) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Spain)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Seville+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Spain overview](../overview.md)
 

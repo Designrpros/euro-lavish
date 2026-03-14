@@ -25,7 +25,23 @@ description: Cost of Living in London
 | [Booking.com](https://www.booking.com/searchresults.html?ss=London) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/London--UK) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/London](https://www.reddit.com/r/London/) |
+| 📍 **TripAdvisor** | [Things to do in London](https://www.tripadvisor.com/Search?q=London) |
+| 📖 **Lonely Planet** | [London Guide](https://www.lonelyplanet.com/search?q=London) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for UK)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/London+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to UK overview](../overview.md)
+[Back to UK overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

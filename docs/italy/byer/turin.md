@@ -25,7 +25,23 @@ description: Cost of Living in Turin
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Turin) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Turin--Italy) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Turin](https://www.reddit.com/r/Turin/) |
+| 📍 **TripAdvisor** | [Things to do in Turin](https://www.tripadvisor.com/Search?q=Turin) |
+| 📖 **Lonely Planet** | [Turin Guide](https://www.lonelyplanet.com/search?q=Turin) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Italy)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Turin+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Italy overview](../overview.md)
+[Back to Italy overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

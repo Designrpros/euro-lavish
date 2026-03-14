@@ -25,7 +25,23 @@ description: Cost of Living in Frankfurt
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Frankfurt) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Frankfurt--Germany) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Frankfurt](https://www.reddit.com/r/Frankfurt/) |
+| 📍 **TripAdvisor** | [Things to do in Frankfurt](https://www.tripadvisor.com/Search?q=Frankfurt) |
+| 📖 **Lonely Planet** | [Frankfurt Guide](https://www.lonelyplanet.com/search?q=Frankfurt) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Germany)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Frankfurt+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Germany overview](../overview.md)
+[Back to Germany overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -25,7 +25,23 @@ description: Cost of Living in Vienna
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Vienna) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Vienna--Austria) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Vienna](https://www.reddit.com/r/Vienna/) |
+| 📍 **TripAdvisor** | [Things to do in Vienna](https://www.tripadvisor.com/Search?q=Vienna) |
+| 📖 **Lonely Planet** | [Vienna Guide](https://www.lonelyplanet.com/search?q=Vienna) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Austria)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Vienna+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Austria overview](../overview.md)
+[Back to Austria overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

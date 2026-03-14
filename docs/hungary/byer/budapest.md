@@ -25,6 +25,22 @@ description: Cost of Living in Budapest
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Budapest) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Budapest--Hungary) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Budapest](https://www.reddit.com/r/Budapest/) |
+| 📍 **TripAdvisor** | [Things to do in Budapest](https://www.tripadvisor.com/Search?q=Budapest) |
+| 📖 **Lonely Planet** | [Budapest Guide](https://www.lonelyplanet.com/search?q=Budapest) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Hungary)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Budapest+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Hungary overview](../index.md)
 

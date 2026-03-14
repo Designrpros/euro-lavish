@@ -25,7 +25,23 @@ description: Cost of Living in Athens
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Athens) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Athens--Greece) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Athens](https://www.reddit.com/r/Athens/) |
+| 📍 **TripAdvisor** | [Things to do in Athens](https://www.tripadvisor.com/Search?q=Athens) |
+| 📖 **Lonely Planet** | [Athens Guide](https://www.lonelyplanet.com/search?q=Athens) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Greece)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Athens+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Greece overview](../overview.md)
+[Back to Greece overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

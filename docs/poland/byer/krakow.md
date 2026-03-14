@@ -25,6 +25,22 @@ description: Cost of Living in Krakow
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Krakow) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Krakow--Poland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Krakow](https://www.reddit.com/r/Krakow/) |
+| 📍 **TripAdvisor** | [Things to do in Krakow](https://www.tripadvisor.com/Search?q=Krakow) |
+| 📖 **Lonely Planet** | [Krakow Guide](https://www.lonelyplanet.com/search?q=Krakow) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Poland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Krakow+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Poland overview](../index.md)
 

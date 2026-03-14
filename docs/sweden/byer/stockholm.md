@@ -25,6 +25,22 @@ description: Cost of Living in Stockholm
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Stockholm) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Stockholm--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Stockholm](https://www.reddit.com/r/Stockholm/) |
+| 📍 **TripAdvisor** | [Things to do in Stockholm](https://www.tripadvisor.com/Search?q=Stockholm) |
+| 📖 **Lonely Planet** | [Stockholm Guide](https://www.lonelyplanet.com/search?q=Stockholm) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Stockholm+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

@@ -25,6 +25,22 @@ description: Cost of Living in Porsgrunn
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Porsgrunn) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Porsgrunn--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Porsgrunn](https://www.reddit.com/r/Porsgrunn/) |
+| 📍 **TripAdvisor** | [Things to do in Porsgrunn](https://www.tripadvisor.com/Search?q=Porsgrunn) |
+| 📖 **Lonely Planet** | [Porsgrunn Guide](https://www.lonelyplanet.com/search?q=Porsgrunn) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Porsgrunn+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

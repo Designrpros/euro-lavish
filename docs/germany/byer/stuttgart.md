@@ -25,7 +25,23 @@ description: Cost of Living in Stuttgart
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Stuttgart) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Stuttgart--Germany) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Stuttgart](https://www.reddit.com/r/Stuttgart/) |
+| 📍 **TripAdvisor** | [Things to do in Stuttgart](https://www.tripadvisor.com/Search?q=Stuttgart) |
+| 📖 **Lonely Planet** | [Stuttgart Guide](https://www.lonelyplanet.com/search?q=Stuttgart) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Germany)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Stuttgart+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Germany overview](../overview.md)
+[Back to Germany overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

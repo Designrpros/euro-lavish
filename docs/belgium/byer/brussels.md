@@ -25,7 +25,23 @@ description: Cost of Living in Brussels
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Brussels) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Brussels--Belgium) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Brussels](https://www.reddit.com/r/Brussels/) |
+| 📍 **TripAdvisor** | [Things to do in Brussels](https://www.tripadvisor.com/Search?q=Brussels) |
+| 📖 **Lonely Planet** | [Brussels Guide](https://www.lonelyplanet.com/search?q=Brussels) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Belgium)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Brussels+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Belgium overview](../overview.md)
+[Back to Belgium overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

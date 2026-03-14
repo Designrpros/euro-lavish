@@ -23,6 +23,22 @@ description: Cost of Living in Randers
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Randers) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Randers--Denmark) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Randers](https://www.reddit.com/r/Randers/) |
+| 📍 **TripAdvisor** | [Things to do in Randers](https://www.tripadvisor.com/Search?q=Randers) |
+| 📖 **Lonely Planet** | [Randers Guide](https://www.lonelyplanet.com/search?q=Randers) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Denmark)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Randers+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Denmark overview](../overview.md)
 

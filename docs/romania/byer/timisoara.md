@@ -25,7 +25,23 @@ description: Cost of Living in Timișoara
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Timisoara) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Timisoara--Romania) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Timișoara](https://www.reddit.com/r/Timișoara/) |
+| 📍 **TripAdvisor** | [Things to do in Timișoara](https://www.tripadvisor.com/Search?q=Timișoara) |
+| 📖 **Lonely Planet** | [Timișoara Guide](https://www.lonelyplanet.com/search?q=Timișoara) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Romania)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Timișoara+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Romania overview](../overview.md)
+[Back to Romania overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

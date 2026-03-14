@@ -25,6 +25,22 @@ description: Cost of Living in Trondheim
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Trondheim) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Trondheim--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Trondheim](https://www.reddit.com/r/Trondheim/) |
+| 📍 **TripAdvisor** | [Things to do in Trondheim](https://www.tripadvisor.com/Search?q=Trondheim) |
+| 📖 **Lonely Planet** | [Trondheim Guide](https://www.lonelyplanet.com/search?q=Trondheim) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Trondheim+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

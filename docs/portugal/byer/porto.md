@@ -25,7 +25,23 @@ description: Cost of Living in Porto
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Porto) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Porto--Portugal) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Porto](https://www.reddit.com/r/Porto/) |
+| 📍 **TripAdvisor** | [Things to do in Porto](https://www.tripadvisor.com/Search?q=Porto) |
+| 📖 **Lonely Planet** | [Porto Guide](https://www.lonelyplanet.com/search?q=Porto) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Portugal)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Porto+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Portugal overview](../overview.md)
+[Back to Portugal overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

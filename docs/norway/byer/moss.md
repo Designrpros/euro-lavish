@@ -25,6 +25,22 @@ description: Cost of Living in Moss
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Moss) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Moss--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Moss](https://www.reddit.com/r/Moss/) |
+| 📍 **TripAdvisor** | [Things to do in Moss](https://www.tripadvisor.com/Search?q=Moss) |
+| 📖 **Lonely Planet** | [Moss Guide](https://www.lonelyplanet.com/search?q=Moss) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Moss+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

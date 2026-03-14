@@ -25,7 +25,23 @@ description: Cost of Living in Zurich
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Zurich) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Zurich--Switzerland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Zurich](https://www.reddit.com/r/Zurich/) |
+| 📍 **TripAdvisor** | [Things to do in Zurich](https://www.tripadvisor.com/Search?q=Zurich) |
+| 📖 **Lonely Planet** | [Zurich Guide](https://www.lonelyplanet.com/search?q=Zurich) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Switzerland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Zurich+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Switzerland overview](../overview.md)
+[Back to Switzerland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

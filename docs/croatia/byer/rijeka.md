@@ -25,7 +25,23 @@ description: Cost of Living in Rijeka
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rijeka) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rijeka--Croatia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Rijeka](https://www.reddit.com/r/Rijeka/) |
+| 📍 **TripAdvisor** | [Things to do in Rijeka](https://www.tripadvisor.com/Search?q=Rijeka) |
+| 📖 **Lonely Planet** | [Rijeka Guide](https://www.lonelyplanet.com/search?q=Rijeka) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Croatia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Rijeka+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Croatia overview](../overview.md)
+[Back to Croatia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

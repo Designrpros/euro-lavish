@@ -25,6 +25,22 @@ description: Cost of Living in Bucharest
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bucharest) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bucharest--Romania) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Bucharest](https://www.reddit.com/r/Bucharest/) |
+| 📍 **TripAdvisor** | [Things to do in Bucharest](https://www.tripadvisor.com/Search?q=Bucharest) |
+| 📖 **Lonely Planet** | [Bucharest Guide](https://www.lonelyplanet.com/search?q=Bucharest) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Romania)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Bucharest+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Romania overview](../index.md)
 

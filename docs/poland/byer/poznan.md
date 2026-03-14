@@ -25,6 +25,22 @@ description: Cost of Living in Poznań
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Poznan) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Poznan--Poland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Poznań](https://www.reddit.com/r/Poznań/) |
+| 📍 **TripAdvisor** | [Things to do in Poznań](https://www.tripadvisor.com/Search?q=Poznań) |
+| 📖 **Lonely Planet** | [Poznań Guide](https://www.lonelyplanet.com/search?q=Poznań) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Poland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Poznań+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Poland overview](../index.md)
 

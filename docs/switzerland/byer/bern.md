@@ -23,7 +23,23 @@ description: Cost of Living in Bern
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bern) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bern--Switzerland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Bern](https://www.reddit.com/r/Bern/) |
+| 📍 **TripAdvisor** | [Things to do in Bern](https://www.tripadvisor.com/Search?q=Bern) |
+| 📖 **Lonely Planet** | [Bern Guide](https://www.lonelyplanet.com/search?q=Bern) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Switzerland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Bern+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Switzerland overview](../overview.md)
+[Back to Switzerland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

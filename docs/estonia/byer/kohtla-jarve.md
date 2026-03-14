@@ -25,6 +25,22 @@ description: Cost of Living in Kohtla-Järve
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kohtla-Jarve) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kohtla-Jarve--Estonia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Kohtla-Järve](https://www.reddit.com/r/Kohtla-Järve/) |
+| 📍 **TripAdvisor** | [Things to do in Kohtla-Järve](https://www.tripadvisor.com/Search?q=Kohtla-Järve) |
+| 📖 **Lonely Planet** | [Kohtla-Järve Guide](https://www.lonelyplanet.com/search?q=Kohtla-Järve) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Estonia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Kohtla-Järve+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Estonia overview](../overview.md)
 

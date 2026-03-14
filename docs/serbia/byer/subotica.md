@@ -25,7 +25,23 @@ description: Cost of Living in Subotica
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Subotica) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Subotica--Serbia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Subotica](https://www.reddit.com/r/Subotica/) |
+| 📍 **TripAdvisor** | [Things to do in Subotica](https://www.tripadvisor.com/Search?q=Subotica) |
+| 📖 **Lonely Planet** | [Subotica Guide](https://www.lonelyplanet.com/search?q=Subotica) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Serbia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Subotica+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Serbia overview](../overview.md)
+[Back to Serbia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

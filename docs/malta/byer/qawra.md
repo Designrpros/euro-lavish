@@ -25,7 +25,23 @@ description: Cost of Living in Qawra
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Qawra) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Qawra--Malta) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Qawra](https://www.reddit.com/r/Qawra/) |
+| 📍 **TripAdvisor** | [Things to do in Qawra](https://www.tripadvisor.com/Search?q=Qawra) |
+| 📖 **Lonely Planet** | [Qawra Guide](https://www.lonelyplanet.com/search?q=Qawra) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Malta)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Qawra+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Malta overview](../overview.md)
+[Back to Malta overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

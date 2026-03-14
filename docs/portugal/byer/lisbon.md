@@ -25,7 +25,23 @@ description: Cost of Living in Lisbon
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lisbon) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lisbon--Portugal) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Lisbon](https://www.reddit.com/r/Lisbon/) |
+| 📍 **TripAdvisor** | [Things to do in Lisbon](https://www.tripadvisor.com/Search?q=Lisbon) |
+| 📖 **Lonely Planet** | [Lisbon Guide](https://www.lonelyplanet.com/search?q=Lisbon) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Portugal)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Lisbon+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Portugal overview](../overview.md)
+[Back to Portugal overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

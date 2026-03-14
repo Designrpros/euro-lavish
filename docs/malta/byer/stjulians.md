@@ -25,7 +25,23 @@ description: Cost of Living in St. Julian's
 | [Booking.com](https://www.booking.com/searchresults.html?ss=St+Julian%27s+Malta) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/St-Julian-s--Malta) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/St. Julian's](https://www.reddit.com/r/St. Julian's/) |
+| 📍 **TripAdvisor** | [Things to do in St. Julian's](https://www.tripadvisor.com/Search?q=St. Julian's) |
+| 📖 **Lonely Planet** | [St. Julian's Guide](https://www.lonelyplanet.com/search?q=St. Julian's) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Malta)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/St. Julian's+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Malta overview](../overview.md)
+[Back to Malta overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -25,6 +25,22 @@ description: Cost of Living in Reykjavik
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Reykjavik--Iceland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Reykjavik](https://www.reddit.com/r/Reykjavik/) |
+| 📍 **TripAdvisor** | [Things to do in Reykjavik](https://www.tripadvisor.com/Search?q=Reykjavik) |
+| 📖 **Lonely Planet** | [Reykjavik Guide](https://www.lonelyplanet.com/search?q=Reykjavik) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Iceland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Reykjavik+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Iceland overview](../index.md)
 

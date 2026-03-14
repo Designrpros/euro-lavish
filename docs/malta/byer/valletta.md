@@ -25,7 +25,23 @@ description: Cost of Living in Valletta
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Valletta) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Valletta--Malta) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Valletta](https://www.reddit.com/r/Valletta/) |
+| 📍 **TripAdvisor** | [Things to do in Valletta](https://www.tripadvisor.com/Search?q=Valletta) |
+| 📖 **Lonely Planet** | [Valletta Guide](https://www.lonelyplanet.com/search?q=Valletta) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Malta)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Valletta+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Malta overview](../overview.md)
+[Back to Malta overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

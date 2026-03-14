@@ -25,7 +25,23 @@ description: Cost of Living in Hamburg
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Hamburg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Hamburg--Germany) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Hamburg](https://www.reddit.com/r/Hamburg/) |
+| 📍 **TripAdvisor** | [Things to do in Hamburg](https://www.tripadvisor.com/Search?q=Hamburg) |
+| 📖 **Lonely Planet** | [Hamburg Guide](https://www.lonelyplanet.com/search?q=Hamburg) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Germany)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Hamburg+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Germany overview](../overview.md)
+[Back to Germany overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

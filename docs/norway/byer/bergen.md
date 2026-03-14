@@ -25,6 +25,22 @@ description: Cost of Living in Bergen
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bergen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bergen--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Bergen](https://www.reddit.com/r/Bergen/) |
+| 📍 **TripAdvisor** | [Things to do in Bergen](https://www.tripadvisor.com/Search?q=Bergen) |
+| 📖 **Lonely Planet** | [Bergen Guide](https://www.lonelyplanet.com/search?q=Bergen) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Bergen+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

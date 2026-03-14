@@ -25,7 +25,23 @@ description: Cost of Living in Galway
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Galway) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Galway--Ireland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Galway](https://www.reddit.com/r/Galway/) |
+| 📍 **TripAdvisor** | [Things to do in Galway](https://www.tripadvisor.com/Search?q=Galway) |
+| 📖 **Lonely Planet** | [Galway Guide](https://www.lonelyplanet.com/search?q=Galway) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Ireland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Galway+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Ireland overview](../overview.md)
+[Back to Ireland overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

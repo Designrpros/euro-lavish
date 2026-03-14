@@ -25,6 +25,22 @@ description: Cost of Living in Örebro
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Orebro) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Orebro--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Örebro](https://www.reddit.com/r/Örebro/) |
+| 📍 **TripAdvisor** | [Things to do in Örebro](https://www.tripadvisor.com/Search?q=Örebro) |
+| 📖 **Lonely Planet** | [Örebro Guide](https://www.lonelyplanet.com/search?q=Örebro) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Örebro+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

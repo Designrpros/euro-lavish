@@ -25,6 +25,22 @@ description: Cost of Living in Debrecen
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Debrecen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Debrecen--Hungary) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Debrecen](https://www.reddit.com/r/Debrecen/) |
+| 📍 **TripAdvisor** | [Things to do in Debrecen](https://www.tripadvisor.com/Search?q=Debrecen) |
+| 📖 **Lonely Planet** | [Debrecen Guide](https://www.lonelyplanet.com/search?q=Debrecen) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Hungary)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Debrecen+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Hungary overview](../index.md)
 

@@ -25,7 +25,23 @@ description: Cost of Living in Faro
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Faro) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Faro--Portugal) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Faro](https://www.reddit.com/r/Faro/) |
+| 📍 **TripAdvisor** | [Things to do in Faro](https://www.tripadvisor.com/Search?q=Faro) |
+| 📖 **Lonely Planet** | [Faro Guide](https://www.lonelyplanet.com/search?q=Faro) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Portugal)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Faro+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Portugal overview](../overview.md)
+[Back to Portugal overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

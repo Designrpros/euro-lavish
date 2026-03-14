@@ -25,6 +25,22 @@ description: Cost of Living in Szeged
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Szeged) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Szeged--Hungary) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Szeged](https://www.reddit.com/r/Szeged/) |
+| 📍 **TripAdvisor** | [Things to do in Szeged](https://www.tripadvisor.com/Search?q=Szeged) |
+| 📖 **Lonely Planet** | [Szeged Guide](https://www.lonelyplanet.com/search?q=Szeged) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Hungary)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Szeged+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Hungary overview](../index.md)
 

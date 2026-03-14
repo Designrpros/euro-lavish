@@ -25,7 +25,23 @@ description: Cost of Living in Târgu Mureș
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Targu+Mures) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Targu-Mures--Romania) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Târgu Mureș](https://www.reddit.com/r/Târgu Mureș/) |
+| 📍 **TripAdvisor** | [Things to do in Târgu Mureș](https://www.tripadvisor.com/Search?q=Târgu Mureș) |
+| 📖 **Lonely Planet** | [Târgu Mureș Guide](https://www.lonelyplanet.com/search?q=Târgu Mureș) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Romania)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Târgu Mureș+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Romania overview](../overview.md)
+[Back to Romania overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

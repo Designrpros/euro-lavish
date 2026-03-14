@@ -23,6 +23,22 @@ description: Cost of Living in Roskilde
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Roskilde) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Roskilde--Denmark) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Roskilde](https://www.reddit.com/r/Roskilde/) |
+| 📍 **TripAdvisor** | [Things to do in Roskilde](https://www.tripadvisor.com/Search?q=Roskilde) |
+| 📖 **Lonely Planet** | [Roskilde Guide](https://www.lonelyplanet.com/search?q=Roskilde) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Denmark)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Roskilde+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Denmark overview](../overview.md)
 

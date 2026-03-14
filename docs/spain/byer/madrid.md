@@ -25,7 +25,23 @@ description: Cost of Living in Madrid
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Madrid) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Madrid--Spain) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Madrid](https://www.reddit.com/r/Madrid/) |
+| 📍 **TripAdvisor** | [Things to do in Madrid](https://www.tripadvisor.com/Search?q=Madrid) |
+| 📖 **Lonely Planet** | [Madrid Guide](https://www.lonelyplanet.com/search?q=Madrid) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Spain)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Madrid+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Spain overview](../overview.md)
+[Back to Spain overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -25,7 +25,23 @@ description: Cost of Living in Rome
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rome) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rome--Italy) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Rome](https://www.reddit.com/r/Rome/) |
+| 📍 **TripAdvisor** | [Things to do in Rome](https://www.tripadvisor.com/Search?q=Rome) |
+| 📖 **Lonely Planet** | [Rome Guide](https://www.lonelyplanet.com/search?q=Rome) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Italy)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Rome+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Italy overview](../overview.md)
+[Back to Italy overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

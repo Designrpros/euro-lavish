@@ -25,6 +25,22 @@ description: Cost of Living in Warsaw
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Warsaw) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Warsaw--Poland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Warsaw](https://www.reddit.com/r/Warsaw/) |
+| 📍 **TripAdvisor** | [Things to do in Warsaw](https://www.tripadvisor.com/Search?q=Warsaw) |
+| 📖 **Lonely Planet** | [Warsaw Guide](https://www.lonelyplanet.com/search?q=Warsaw) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Poland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Warsaw+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Poland overview](../index.md)
 

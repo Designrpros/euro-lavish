@@ -25,6 +25,22 @@ description: Cost of Living in Tampere
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Tampere) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tampere--Finland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Tampere](https://www.reddit.com/r/Tampere/) |
+| 📍 **TripAdvisor** | [Things to do in Tampere](https://www.tripadvisor.com/Search?q=Tampere) |
+| 📖 **Lonely Planet** | [Tampere Guide](https://www.lonelyplanet.com/search?q=Tampere) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Finland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Tampere+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Finland overview](../index.md)
 

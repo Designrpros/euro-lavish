@@ -25,7 +25,23 @@ description: Cost of Living in Niš
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Nis) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Nis--Serbia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Niš](https://www.reddit.com/r/Niš/) |
+| 📍 **TripAdvisor** | [Things to do in Niš](https://www.tripadvisor.com/Search?q=Niš) |
+| 📖 **Lonely Planet** | [Niš Guide](https://www.lonelyplanet.com/search?q=Niš) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Serbia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Niš+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Serbia overview](../overview.md)
+[Back to Serbia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

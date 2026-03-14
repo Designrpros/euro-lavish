@@ -25,6 +25,22 @@ description: Cost of Living in Olomouc
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Olomouc) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Olomouc--Czechia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Olomouc](https://www.reddit.com/r/Olomouc/) |
+| 📍 **TripAdvisor** | [Things to do in Olomouc](https://www.tripadvisor.com/Search?q=Olomouc) |
+| 📖 **Lonely Planet** | [Olomouc Guide](https://www.lonelyplanet.com/search?q=Olomouc) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Czechia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Olomouc+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Czechia overview](../index.md)
 

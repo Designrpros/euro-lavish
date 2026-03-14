@@ -25,7 +25,23 @@ description: Cost of Living in Kragujevac
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kragujevac) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kragujevac--Serbia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Kragujevac](https://www.reddit.com/r/Kragujevac/) |
+| 📍 **TripAdvisor** | [Things to do in Kragujevac](https://www.tripadvisor.com/Search?q=Kragujevac) |
+| 📖 **Lonely Planet** | [Kragujevac Guide](https://www.lonelyplanet.com/search?q=Kragujevac) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Serbia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Kragujevac+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Serbia overview](../overview.md)
+[Back to Serbia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

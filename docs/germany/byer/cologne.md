@@ -25,7 +25,23 @@ description: Cost of Living in Cologne
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Cologne) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Cologne--Germany) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Cologne](https://www.reddit.com/r/Cologne/) |
+| 📍 **TripAdvisor** | [Things to do in Cologne](https://www.tripadvisor.com/Search?q=Cologne) |
+| 📖 **Lonely Planet** | [Cologne Guide](https://www.lonelyplanet.com/search?q=Cologne) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Germany)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Cologne+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Germany overview](../overview.md)
+[Back to Germany overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

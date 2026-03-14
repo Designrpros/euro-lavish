@@ -23,6 +23,22 @@ description: Cost of Living in Lund
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lund) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lund--Sweden) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Lund](https://www.reddit.com/r/Lund/) |
+| 📍 **TripAdvisor** | [Things to do in Lund](https://www.tripadvisor.com/Search?q=Lund) |
+| 📖 **Lonely Planet** | [Lund Guide](https://www.lonelyplanet.com/search?q=Lund) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Sweden)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Lund+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Sweden overview](../index.md)
 

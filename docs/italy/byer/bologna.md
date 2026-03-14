@@ -23,7 +23,23 @@ description: Cost of Living in Bologna
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bologna) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bologna--Italy) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Bologna](https://www.reddit.com/r/Bologna/) |
+| 📍 **TripAdvisor** | [Things to do in Bologna](https://www.tripadvisor.com/Search?q=Bologna) |
+| 📖 **Lonely Planet** | [Bologna Guide](https://www.lonelyplanet.com/search?q=Bologna) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Italy)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Bologna+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Italy overview](../overview.md)
+[Back to Italy overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

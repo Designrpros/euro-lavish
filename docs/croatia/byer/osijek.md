@@ -25,7 +25,23 @@ description: Cost of Living in Osijek
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Osijek) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Osijek--Croatia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Osijek](https://www.reddit.com/r/Osijek/) |
+| 📍 **TripAdvisor** | [Things to do in Osijek](https://www.tripadvisor.com/Search?q=Osijek) |
+| 📖 **Lonely Planet** | [Osijek Guide](https://www.lonelyplanet.com/search?q=Osijek) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Croatia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Osijek+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Croatia overview](../overview.md)
+[Back to Croatia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

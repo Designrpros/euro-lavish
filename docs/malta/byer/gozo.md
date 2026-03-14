@@ -25,7 +25,23 @@ description: Cost of Living in Gozo
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gozo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gozo--Malta) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Gozo](https://www.reddit.com/r/Gozo/) |
+| 📍 **TripAdvisor** | [Things to do in Gozo](https://www.tripadvisor.com/Search?q=Gozo) |
+| 📖 **Lonely Planet** | [Gozo Guide](https://www.lonelyplanet.com/search?q=Gozo) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Malta)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Gozo+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Malta overview](../overview.md)
+[Back to Malta overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

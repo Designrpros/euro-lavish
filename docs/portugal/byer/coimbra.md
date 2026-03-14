@@ -25,7 +25,23 @@ description: Cost of Living in Coimbra
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Coimbra) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Coimbra--Portugal) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Coimbra](https://www.reddit.com/r/Coimbra/) |
+| 📍 **TripAdvisor** | [Things to do in Coimbra](https://www.tripadvisor.com/Search?q=Coimbra) |
+| 📖 **Lonely Planet** | [Coimbra Guide](https://www.lonelyplanet.com/search?q=Coimbra) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Portugal)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Coimbra+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Portugal overview](../overview.md)
+[Back to Portugal overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

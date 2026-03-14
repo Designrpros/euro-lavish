@@ -25,7 +25,23 @@ description: Cost of Living in Groningen
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Groningen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Groningen--Netherlands) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Groningen](https://www.reddit.com/r/Groningen/) |
+| 📍 **TripAdvisor** | [Things to do in Groningen](https://www.tripadvisor.com/Search?q=Groningen) |
+| 📖 **Lonely Planet** | [Groningen Guide](https://www.lonelyplanet.com/search?q=Groningen) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Netherlands)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Groningen+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Netherlands overview](../overview.md)
+[Back to Netherlands overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

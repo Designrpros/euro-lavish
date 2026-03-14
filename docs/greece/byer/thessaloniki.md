@@ -25,7 +25,23 @@ description: Cost of Living in Thessaloniki
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Thessaloniki) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Thessaloniki--Greece) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Thessaloniki](https://www.reddit.com/r/Thessaloniki/) |
+| 📍 **TripAdvisor** | [Things to do in Thessaloniki](https://www.tripadvisor.com/Search?q=Thessaloniki) |
+| 📖 **Lonely Planet** | [Thessaloniki Guide](https://www.lonelyplanet.com/search?q=Thessaloniki) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Greece)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Thessaloniki+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Greece overview](../overview.md)
+[Back to Greece overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

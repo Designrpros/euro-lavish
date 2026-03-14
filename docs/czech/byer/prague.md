@@ -25,6 +25,22 @@ description: Cost of Living in Prague
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Prague) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Prague--Czechia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Prague](https://www.reddit.com/r/Prague/) |
+| 📍 **TripAdvisor** | [Things to do in Prague](https://www.tripadvisor.com/Search?q=Prague) |
+| 📖 **Lonely Planet** | [Prague Guide](https://www.lonelyplanet.com/search?q=Prague) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Czechia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Prague+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Czechia overview](../index.md)
 

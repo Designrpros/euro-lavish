@@ -25,7 +25,23 @@ description: Cost of Living in Innsbruck
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Innsbruck) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Innsbruck--Austria) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Innsbruck](https://www.reddit.com/r/Innsbruck/) |
+| 📍 **TripAdvisor** | [Things to do in Innsbruck](https://www.tripadvisor.com/Search?q=Innsbruck) |
+| 📖 **Lonely Planet** | [Innsbruck Guide](https://www.lonelyplanet.com/search?q=Innsbruck) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Austria)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Innsbruck+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Austria overview](../overview.md)
+[Back to Austria overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

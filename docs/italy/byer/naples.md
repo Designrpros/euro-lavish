@@ -25,7 +25,23 @@ description: Cost of Living in Naples
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Naples) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Naples--Italy) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Naples](https://www.reddit.com/r/Naples/) |
+| 📍 **TripAdvisor** | [Things to do in Naples](https://www.tripadvisor.com/Search?q=Naples) |
+| 📖 **Lonely Planet** | [Naples Guide](https://www.lonelyplanet.com/search?q=Naples) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Italy)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Naples+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Italy overview](../overview.md)
+[Back to Italy overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

@@ -25,6 +25,22 @@ description: Cost of Living in Herning
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Herning) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Herning--Denmark) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Herning](https://www.reddit.com/r/Herning/) |
+| 📍 **TripAdvisor** | [Things to do in Herning](https://www.tripadvisor.com/Search?q=Herning) |
+| 📖 **Lonely Planet** | [Herning Guide](https://www.lonelyplanet.com/search?q=Herning) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Denmark)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Herning+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Denmark overview](../overview.md)
 

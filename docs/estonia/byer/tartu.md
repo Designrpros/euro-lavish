@@ -25,6 +25,22 @@ description: Cost of Living in Tartu
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Tartu) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tartu--Estonia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Tartu](https://www.reddit.com/r/Tartu/) |
+| 📍 **TripAdvisor** | [Things to do in Tartu](https://www.tripadvisor.com/Search?q=Tartu) |
+| 📖 **Lonely Planet** | [Tartu Guide](https://www.lonelyplanet.com/search?q=Tartu) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Estonia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Tartu+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Estonia overview](../index.md)
 

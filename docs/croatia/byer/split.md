@@ -25,7 +25,23 @@ description: Cost of Living in Split
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Split) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Split--Croatia) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Split](https://www.reddit.com/r/Split/) |
+| 📍 **TripAdvisor** | [Things to do in Split](https://www.tripadvisor.com/Search?q=Split) |
+| 📖 **Lonely Planet** | [Split Guide](https://www.lonelyplanet.com/search?q=Split) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Croatia)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Split+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Croatia overview](../overview.md)
+[Back to Croatia overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

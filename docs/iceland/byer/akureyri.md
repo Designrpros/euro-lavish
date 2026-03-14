@@ -25,6 +25,22 @@ description: Cost of Living in Akureyri
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Akureyri) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Akureyri--Iceland) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Akureyri](https://www.reddit.com/r/Akureyri/) |
+| 📍 **TripAdvisor** | [Things to do in Akureyri](https://www.tripadvisor.com/Search?q=Akureyri) |
+| 📖 **Lonely Planet** | [Akureyri Guide](https://www.lonelyplanet.com/search?q=Akureyri) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Iceland)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Akureyri+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Iceland overview](../index.md)
 

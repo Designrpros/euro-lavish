@@ -25,6 +25,22 @@ description: Cost of Living in Oslo
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Oslo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Oslo--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Oslo](https://www.reddit.com/r/Oslo/) |
+| 📍 **TripAdvisor** | [Things to do in Oslo](https://www.tripadvisor.com/Search?q=Oslo) |
+| 📖 **Lonely Planet** | [Oslo Guide](https://www.lonelyplanet.com/search?q=Oslo) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Oslo+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 

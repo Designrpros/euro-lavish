@@ -25,7 +25,23 @@ description: Cost of Living in Rotterdam
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rotterdam) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rotterdam--Netherlands) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Rotterdam](https://www.reddit.com/r/Rotterdam/) |
+| 📍 **TripAdvisor** | [Things to do in Rotterdam](https://www.tripadvisor.com/Search?q=Rotterdam) |
+| 📖 **Lonely Planet** | [Rotterdam Guide](https://www.lonelyplanet.com/search?q=Rotterdam) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Netherlands)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Rotterdam+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
-[Back to Netherlands overview](../overview.md)
+[Back to Netherlands overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

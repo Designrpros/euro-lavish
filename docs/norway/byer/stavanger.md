@@ -25,6 +25,22 @@ description: Cost of Living in Stavanger
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Stavanger) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Stavanger--Norway) | Vacation Rentals |
 
+
+## 🧭 Explore & Community
+
+| Platform | Link |
+|----------|------|
+| 💬 **Reddit** | [r/Stavanger](https://www.reddit.com/r/Stavanger/) |
+| 📍 **TripAdvisor** | [Things to do in Stavanger](https://www.tripadvisor.com/Search?q=Stavanger) |
+| 📖 **Lonely Planet** | [Stavanger Guide](https://www.lonelyplanet.com/search?q=Stavanger) |
+
+## 🚀 Digital Nomad Hub
+
+- **Nomad Score**: ⭐⭐⭐
+- **Internet Speed**: 🛜 High Speed Fiber (Typical for Norway)
+- **Coworking**: [Find local workspaces](https://www.google.com/maps/search/Stavanger+Coworking/)
+- **Best time to visit**: May - September
+
 ## ← Back
 [Back to Norway overview](../index.md)
 
