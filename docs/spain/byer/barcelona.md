@@ -30,6 +30,12 @@ description: Levekostnader i Barcelona
 | [Lonely Planet](https://www.lonelyplanet.com/spain/barcelona) | 📖 |
 | [r/Barcelona](https://www.reddit.com/r/Barcelona/) | 🇺 |
 
+## 🏨 Hoteller & Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/es/barcelona.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/barcelona) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Spania overview](../overview.md)
 

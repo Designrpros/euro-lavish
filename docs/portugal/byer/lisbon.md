@@ -30,6 +30,12 @@ description: Levekostnader i Lisboa
 | [Lonely Planet](https://www.lonelyplanet.com/portugal/lisbon) | 📖 |
 | [r/Portugal](https://www.reddit.com/r/portugal/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/pt/lisbon.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/lisbon) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Portugal overview](../overview.md)
 

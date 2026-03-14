@@ -33,6 +33,12 @@ description: Levekostnader i Drammen
 |-------|-------------|
 | [r/Norway](https://www.reddit.com/r/Norway/) | 🇺 Reddit |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/no/drammen.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/drammen) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Norge overview](../overview.md)
 

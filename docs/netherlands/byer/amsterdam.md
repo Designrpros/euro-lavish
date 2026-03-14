@@ -30,6 +30,12 @@ description: Levekostnader i Amsterdam
 | [Lonely Planet](https://www.lonelyplanet.com/netherlands/amsterdam) | 📖 |
 | [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/nl/amsterdam.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/amsterdam) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Nederland overview](../overview.md)
 

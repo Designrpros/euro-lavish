@@ -31,6 +31,12 @@ description: Levekostnader i London
 | [Lonely Planet](https://www.lonelyplanet.com/england/london) | 📖 |
 | [r/london](https://www.reddit.com/r/london/) | 🇺 |
 
+## 🏨 Hoteller & Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/gb/london.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.co.uk/london) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Storbritannia overview](../overview.md)
 

@@ -28,6 +28,12 @@ description: Levekostnader i Akureyri
 |-------|-------------|
 | [r/iceland](https://www.reddit.com/r/iceland/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/is/akureyri.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/akureyri) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Island overview](../overview.md)
 

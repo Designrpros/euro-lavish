@@ -28,6 +28,12 @@ description: Levekostnader i Turku
 |-------|-------------|
 | [r/Finland](https://www.reddit.com/r/finland/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/fi/turku.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/turku) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Finland overview](../overview.md)
 

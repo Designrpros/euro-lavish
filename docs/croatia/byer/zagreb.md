@@ -29,6 +29,12 @@ description: Levekostnader i Zagreb
 | [TripAdvisor Zagreb](https://www.tripadvisor.com-g294874-Zagreb-Vacations.html) | 🎯 |
 | [r/croatia](https://www.reddit.com/r/croatia/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/hr/zagreb.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/zagreb) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Kroatia overview](../overview.md)
 

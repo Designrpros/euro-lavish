@@ -29,6 +29,12 @@ description: Levekostnader i Porto
 | [TripAdvisor Porto](https://www.tripadvisor.com-g189591-Porto_Porto_District_Northern_Portugal-Vacations.html) | 🎯 |
 | [r/Portugal](https://www.reddit.com/r/portugal/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/pt/porto.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/porto) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Portugal overview](../overview.md)
 

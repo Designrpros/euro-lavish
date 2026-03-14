@@ -29,6 +29,12 @@ description: Levekostnader i Valencia
 | [TripAdvisor Valencia](https://www.tripadvisor.com/Travel-g187529-Valencia_Province_of_Valencia-Valencia_Region-Vacations.html) | 🎯 |
 | [r/spain](https://www.reddit.com/r/spain/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/es/valencia.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/valencia) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Spania overview](../overview.md)
 

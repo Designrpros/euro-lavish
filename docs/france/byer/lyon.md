@@ -29,6 +29,12 @@ description: Levekostnader i Lyon
 | [TripAdvisor Lyon](https://www.tripadvisor.com-g187263-Lyon_Auvergne_Rhone_Alps-Vacations.html) | 🎯 |
 | [r/france](https://www.reddit.com/r/france/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/fr/lyon.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/lyon) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Frankrike overview](../overview.md)
 

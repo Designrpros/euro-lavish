@@ -30,6 +30,12 @@ description: Levekostnader i Madrid
 | [Lonely Planet](https://www.lonelyplanet.com/spain/madrid) | 📖 |
 | [r/spain](https://www.reddit.com/r/spain/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/es/madrid.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/madrid) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Spania overview](../overview.md)
 

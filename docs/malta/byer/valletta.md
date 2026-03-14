@@ -29,6 +29,12 @@ description: Levekostnader i Valletta
 | [TripAdvisor Valletta](https://www.tripadvisor.com-g190106-Valletta_Island_of_Malta-Vacations.html) | 🎯 |
 | [r/Malta](https://www.reddit.com/r/Malta/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/mt/valletta.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/valletta) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Malta overview](../overview.md)
 

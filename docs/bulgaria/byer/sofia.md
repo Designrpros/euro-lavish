@@ -29,6 +29,12 @@ description: Levekostnader i Sofia
 | [TripAdvisor Sofia](https://www.tripadvisor.com-g294457-Sofia_Sofia_Region-Vacations.html) | 🎯 |
 | [r/bulgaria](https://www.reddit.com/r/bulgaria/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/bg/sofia.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/sofia) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Bulgaria overview](../overview.md)
 

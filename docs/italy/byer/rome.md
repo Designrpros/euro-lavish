@@ -30,6 +30,12 @@ description: Levekostnader i Roma
 | [Lonely Planet](https://www.lonelyplanet.com/italy/rome) | 📖 |
 | [r/rome](https://www.reddit.com/r/rome/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/it/rome.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/rome) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Italia overview](../overview.md)
 

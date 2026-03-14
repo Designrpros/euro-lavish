@@ -28,6 +28,12 @@ description: Levekostnader i Tampere
 |-------|-------------|
 | [r/Finland](https://www.reddit.com/r/finland/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/fi/tampere.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/tampere) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Finland overview](../overview.md)
 

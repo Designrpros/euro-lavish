@@ -29,6 +29,12 @@ description: Levekostnader i Warszawa
 | [TripAdvisor Warsaw](https://www.tripadvisor.com-g274789-Warsaw_Mazovia_Province_Central_Poland-Vacations.html) | 🎯 |
 | [r/poland](https://www.reddit.com/r/poland/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/pl/warsaw.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/warsaw) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Polen overview](../overview.md)
 

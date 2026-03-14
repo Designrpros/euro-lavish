@@ -35,6 +35,12 @@ description: Levekostnader i Stavanger
 | [Lonely Planet](https://www.lonelyplanet.com/norway/stavanger) | 📖 Reiseguide |
 | [r/Norway](https://www.reddit.com/r/Norway/) | 🇺 Reddit |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/no/stavanger.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/stavanger) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Norge overview](../overview.md)
 

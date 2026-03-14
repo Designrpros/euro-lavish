@@ -29,6 +29,12 @@ description: Levekostnader i Manchester
 | [TripAdvisor Manchester](https://www.tripadvisor.com/Travel-g187069-Manchester_Greater_Manchester-Vacations.html) | 🎯 |
 | [r/Manchester](https://www.reddit.com/r/manchester/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/gb/manchester.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/manchester) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Storbritannia overview](../overview.md)
 

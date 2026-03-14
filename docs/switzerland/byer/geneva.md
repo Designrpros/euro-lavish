@@ -23,6 +23,12 @@ description: Levekostnader i Genève
 |-------|-------------|
 | [Homegate](https://www.homegate.ch) | 🔴 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/ch/geneva.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/geneva) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Sveits overview](../overview.md)
 

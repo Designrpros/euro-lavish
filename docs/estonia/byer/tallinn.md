@@ -30,6 +30,12 @@ description: Levekostnader i Tallinn
 | [Lonely Planet](https://www.lonelyplanet.com/estonia/tallinn) | 📖 |
 | [r/estonia](https://www.reddit.com/r/estonia/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/ee/tallinn.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/tallinn) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Estland overview](../overview.md)
 

@@ -23,6 +23,12 @@ description: Levekostnader i Thessaloniki
 |-------|-------------|
 | [Spitogatos](https://www.spitogatos.gr) | 🔴 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/gr/thessaloniki.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/thessaloniki) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Hellas overview](../overview.md)
 

@@ -29,6 +29,12 @@ description: Levekostnader i Zürich
 | [TripAdvisor Zurich](https://www.tripadvisor.com-g188049-Zurich.html) | 🎯 |
 | [r/zurich](https://www.reddit.com/r/zurich/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/ch/zurich.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/zurich) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Sveits overview](../overview.md)
 

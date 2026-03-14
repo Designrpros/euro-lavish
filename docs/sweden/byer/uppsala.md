@@ -34,6 +34,12 @@ description: Levekostnader i Uppsala
 | [TripAdvisor Uppsala](https://www.tripadvisor.com/Travel-g189894-Uppsala-Uppsala_County-Vacations.html) | 🎯 |
 | [r/sweden](https://www.reddit.com/r/sweden/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/se/uppsala.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/uppsala) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Sverige overview](../overview.md)
 

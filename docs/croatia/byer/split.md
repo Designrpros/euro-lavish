@@ -23,6 +23,12 @@ description: Levekostnader i Split
 |-------|-------------|
 | [Njuškalo](https://www.njuskalo.hr) | 🔴 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/hr/split.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/split) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Kroatia overview](../overview.md)
 

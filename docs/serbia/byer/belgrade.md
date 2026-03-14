@@ -29,6 +29,12 @@ description: Levekostnader i Beograd
 | [TripAdvisor Belgrade](https://www.tripadvisor.com-g294469-Belgrade-Vacations.html) | 🎯 |
 | [r/serbia](https://www.reddit.com/r/serbia/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/rs/belgrade.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/belgrade) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Serbia overview](../overview.md)
 

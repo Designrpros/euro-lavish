@@ -30,6 +30,12 @@ description: Levekostnader i Aten
 | [Lonely Planet](https://www.lonelyplanet.com/greece/athens) | 📖 |
 | [r/Greece](https://www.reddit.com/r/Greece/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/gr/athens.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/athens) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Hellas overview](../overview.md)
 

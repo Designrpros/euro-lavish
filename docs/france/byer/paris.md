@@ -30,6 +30,12 @@ description: Levekostnader i Paris
 | [Lonely Planet](https://www.lonelyplanet.com/france/paris) | 📖 |
 | [r/paris](https://www.reddit.com/r/paris/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/fr/paris.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/paris) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Frankrike overview](../overview.md)
 

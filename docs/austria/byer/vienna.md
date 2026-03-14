@@ -30,6 +30,12 @@ description: Levekostnader i Wien
 | [Lonely Planet](https://www.lonelyplanet.com/austria/vienna) | 📖 |
 | [r/austria](https://www.reddit.com/r/austria/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/at/vienna.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/vienna) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Østerrike overview](../overview.md)
 

@@ -29,6 +29,12 @@ description: Levekostnader i Marseille
 | [TripAdvisor Marseille](https://www.tripadvisor.com-g187253-Marseille_Bouches_du_Rhone_Provence_Alps_Cote_d_Azur-Vacations.html) | 🎯 |
 | [r/france](https://www.reddit.com/r/france/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/fr/marseille.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/marseille) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Frankrike overview](../overview.md)
 

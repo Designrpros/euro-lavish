@@ -23,6 +23,12 @@ description: Levekostnader i Kraków
 |-------|-------------|
 | [OLX](https://www.olx.pl) | 🔴 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/pl/krakow.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/krakow) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Polen overview](../overview.md)
 

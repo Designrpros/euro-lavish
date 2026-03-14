@@ -29,6 +29,12 @@ description: Levekostnader i Napoli
 | [TripAdvisor Naples](https://www.tripadvisor.com-g187785-Naples_Province_of_Naples_Campania-Vacations.html) | 🎯 |
 | [r/italy](https://www.reddit.com/r/italy/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/it/naples.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/naples) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Italia overview](../overview.md)
 

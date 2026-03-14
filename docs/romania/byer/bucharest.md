@@ -29,6 +29,12 @@ description: Levekostnader i București
 | [TripAdvisor Bucharest](https://www.tripadvisor.com-g294458-Bucharest-Vacations.html) | 🎯 |
 | [r/romania](https://www.reddit.com/r/romania/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/ro/bucharest.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/bucharest) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Romania overview](../overview.md)
 

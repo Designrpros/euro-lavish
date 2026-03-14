@@ -30,6 +30,12 @@ description: Levekostnader i Budapest
 | [Lonely Planet](https://www.lonelyplanet.com/hungary/budapest) | 📖 |
 | [r/budapest](https://www.reddit.com/r/budapest/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/hu/budapest.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/budapest) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Ungarn overview](../overview.md)
 

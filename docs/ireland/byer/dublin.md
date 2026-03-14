@@ -29,6 +29,12 @@ description: Levekostnader i Dublin
 | [TripAdvisor Dublin](https://www.tripadvisor.com-g186605-Dublin.html) | 🎯 |
 | [r/Dublin](https://www.reddit.com/r/Dublin/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/ie/dublin.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/dublin) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Irland overview](../overview.md)
 

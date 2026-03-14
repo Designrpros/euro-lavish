@@ -30,6 +30,12 @@ description: Levekostnader i Praha
 | [Lonely Planet](https://www.lonelyplanet.com/czech-republic/prague) | 📖 |
 | [r/czechia](https://www.reddit.com/r/czechia/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/cz/prague.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/prague) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Tsjekkia overview](../overview.md)
 

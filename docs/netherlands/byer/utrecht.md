@@ -23,6 +23,12 @@ description: Levekostnader i Utrecht
 |-------|-------------|
 | [Pararius](https://www.pararius.com) | 🔴 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/nl/utrecht.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/utrecht) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Nederland overview](../overview.md)
 

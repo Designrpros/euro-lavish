@@ -28,6 +28,12 @@ description: Levekostnader i Roskilde
 |-------|-------------|
 | [r/Denmark](https://www.reddit.com/r/denmark/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/dk/roskilde.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/roskilde) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Danmark overview](../overview.md)
 

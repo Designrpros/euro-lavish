@@ -28,6 +28,12 @@ description: Levekostnader i Rotterdam
 |-------|-------------|
 | [r/Netherlands](https://www.reddit.com/r/Netherlands/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/nl/rotterdam.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/rotterdam) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Nederland overview](../overview.md)
 

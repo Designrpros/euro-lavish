@@ -29,6 +29,12 @@ description: Levekostnader i Brussel
 | [TripAdvisor Brussels](https://www.tripadvisor.com-g188644-Brussels-Vacations.html) | 🎯 |
 | [r/belgium](https://www.reddit.com/r/belgium/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/be/brussels.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/brussels) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Belgia overview](../overview.md)
 

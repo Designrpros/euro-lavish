@@ -30,6 +30,12 @@ description: Levekostnader i Milano
 | [Lonely Planet](https://www.lonelyplanet.com/italy/milan) | 📖 |
 | [r/Milan](https://www.reddit.com/r/milan/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/it/milan.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/milan) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Italia overview](../overview.md)
 

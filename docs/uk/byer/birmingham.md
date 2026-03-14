@@ -28,6 +28,12 @@ description: Levekostnader i Birmingham
 |-------|-------------|
 | [r/uk](https://www.reddit.com/r/UK/) | 🇺 |
 
+## 🏨 Hoteller \& Leie
+| Tjeneste | Lenke |
+|----------|-------|-------|
+| [Booking.com](https://www.booking.com/city/gb/birmingham.html) | 🔴 Hoteller |
+| [Airbnb](https://www.airbnb.no/birmingham) | 🟡 Leie |
+
 ## ← Tilbake
 [Tilbake til Storbritannia overview](../overview.md)
 
