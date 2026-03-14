@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Norge
 
 # 🇳🇴 Norge
 
-![Norge](/assets/countries/norway.svg)
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.0%2C58.0%2C16.0%2C71.0&layer=mapnik"></iframe>
 
 ## 📊 Levekostnader
 
