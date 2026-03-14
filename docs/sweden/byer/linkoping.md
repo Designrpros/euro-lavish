@@ -1,47 +1,31 @@
 ---
-title: 🏙️ Linköping - Sverige
-description: Levekostnader i Linköping
+title: 🏙️ Linköping - Sweden
+description: Cost of Living in Linköping
 ---
 
 # 🏙️ Linköping
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=15.5%2C58.3%2C15.8%2C58.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=15.5%2C58.3%2C15.9%2C58.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | SEK |
-|----------|------|-----|
-| Leie (sentrum) | 1,050€ | ~12,075 kr |
-| Måltid  | 13€ | ~149 kr |
-| Øl (0.5L) | 6€ | ~69 kr |
-| Cappuccino | 4€ | ~46 kr |
-| Transport | 4€ | ~46 kr |
-| Kino | 12€ | ~138 kr |
+| Category | Price | SEK |
+|----------|-------|-----|
+| Rent (center) | 800€ | ~8,800 kr |
+| Meal | 11€ | ~121 kr |
+| Beer (0.5L) | 5.50€ | ~61 kr |
+| Cappuccino | 3.50€ | ~39 kr |
+| Transport | 3€ | ~33 kr |
+| Cinema | 10€ | ~110 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Hemnet](https://www.hemnet.se) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed](https://www.indeed.se) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Linkoping) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Linkoping--Sweden) | Vacation Rentals |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/se/linkoping.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/linkoping) | 🟡 Leie |
+## ← Back
+[Back to Sweden overview](../overview.md)
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/sweden](https://www.reddit.com/r/sweden/) | 🇺 |
-
-## ← Tilbake
-[Tilbake til Sverige overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

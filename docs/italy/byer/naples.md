@@ -1,43 +1,31 @@
 ---
-title: 🏙️ Napoli - Italia
-description: Levekostnader i Napoli
+title: 🏙️ Naples - Italy
+description: Cost of Living in Naples
 ---
 
-# 🏙️ Napoli
+# 🏙️ Naples
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.2%2C40.8%2C14.5%2C41.1&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.1%2C40.8%2C14.5%2C41.0&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 700€ |
-| Måltid  | 12€ |
-| Øl (0.5L) | 4€ |
-| Cappuccino | 1.50€ |
-| Transport | 1.30€ |
-| Kino | 8€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 750€ | ~750€ |
+| Meal | 12€ | ~12€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 1.50€ | ~1.50€ |
+| Transport | 1.40€ | ~1.40€ |
+| Cinema | 8€ | ~8€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Idealista](https://www.idealista.it) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Naples](https://www.tripadvisor.com-g187785-Naples_Province_of_Naples_Campania-Vacations.html) | 🎯 |
-| [r/italy](https://www.reddit.com/r/italy/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Naples) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Naples--Italy) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/it/naples.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/naples) | 🟡 Leie |
+## ← Back
+[Back to Italy overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Italia overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

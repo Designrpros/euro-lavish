@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Köln - Tyskland
-description: Levekostnader i Köln
+title: 🏙️ Cologne - Germany
+description: Cost of Living in Cologne
 ---
 
-# 🏙️ Köln
+# 🏙️ Cologne
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.9%2C50.8%2C7.2%2C51.1&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.9%2C50.9%2C7.4%2C51.2&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,100€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 4€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 12€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,100€ | ~1,100€ |
+| Meal | 12€ | ~12€ |
+| Beer (0.5L) | 3€ | ~3€ |
+| Cappuccino | 3.50€ | ~3.50€ |
+| Transport | 2.80€ | ~2.80€ |
+| Cinema | 10€ | ~10€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/de/cologne.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/cologne) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Tyskland overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Cologne) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Cologne--Germany) | Vacation Rentals |
 
----
+## ← Back
+[Back to Germany overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

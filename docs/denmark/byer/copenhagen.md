@@ -26,6 +26,6 @@ description: Cost of Living in Copenhagen
 | [Airbnb](https://www.airbnb.com/s/Copenhagen--Denmark) | Vacation Rentals |
 
 ## ← Back
-[Back to Denmark overview](../overview-en.md)
+[Back to Denmark overview](../overview.md)
 
 *Data: Numbeo.com, March 2026*

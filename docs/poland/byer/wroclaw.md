@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Wrocław - Polen
-description: Levekostnader i Wrocław
+title: 🏙️ Wroclaw - Poland
+description: Cost of Living in Wroclaw
 ---
 
-# 🏙️ Wrocław
+# 🏙️ Wroclaw
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=16.8%2C51.0%2C17.1%2C51.3&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=16.9%2C51.0%2C17.3%2C51.2&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | PLN |
-|----------|------|-----|
-| Leie (sentrum) | 600€ | ~2,640 zł |
-| Måltid  | 9€ | ~40 zł |
-| Øl (0.5L) | 2.50€ | ~11 zł |
-| Cappuccino | 2.50€ | ~11 zł |
-| Transport | 1€ | ~4 zł |
-| Kino | 6€ | ~26 zł |
+| Category | Price | PLN |
+|----------|-------|-----|
+| Rent (center) | 750€ | ~3,225 zł |
+| Meal | 8€ | ~34 zł |
+| Beer (0.5L) | 3€ | ~13 zł |
+| Cappuccino | 2.80€ | ~12 zł |
+| Transport | 1€ | ~4.30 zł |
+| Cinema | 5€ | ~22 zł |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/pl/wroclaw.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/wroclaw) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Polen overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Wroclaw) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Wroclaw--Poland) | Vacation Rentals |
 
----
+## ← Back
+[Back to Poland overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

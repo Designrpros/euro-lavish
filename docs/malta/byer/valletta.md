@@ -1,43 +1,31 @@
 ---
 title: 🏙️ Valletta - Malta
-description: Levekostnader i Valletta
+description: Cost of Living in Valletta
 ---
 
 # 🏙️ Valletta
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.50%2C35.88%2C14.53%2C35.90&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.5%2C35.8%2C14.9%2C36.0&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,100€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 4€ |
-| Cappuccino | 3€ |
-| Transport | 1.50€ |
-| Kino | 10€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,100€ | ~1,100€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 1.50€ | ~1.50€ |
+| Cinema | 10€ | ~10€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Property Malta](https://www.propertymalta.com.mt) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Valletta](https://www.tripadvisor.com-g190106-Valletta_Island_of_Malta-Vacations.html) | 🎯 |
-| [r/Malta](https://www.reddit.com/r/Malta/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Valletta) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Valletta--Malta) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/mt/valletta.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/valletta) | 🟡 Leie |
+## ← Back
+[Back to Malta overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Malta overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Madrid - Spania
-description: Levekostnader i Madrid
+title: 🏙️ Madrid - Spain
+description: Cost of Living in Madrid
 ---
 
 # 🏙️ Madrid
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.8%2C40.3%2C-3.5%2C40.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.8%2C40.3%2C-3.4%2C40.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,200€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 3€ |
-| Cappuccino | 2.50€ |
-| Transport | 1.80€ |
-| Kino | 9€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,350€ | ~1,350€ |
+| Meal | 14€ | ~14€ |
+| Beer (0.5L) | 3€ | ~3€ |
+| Cappuccino | 2.50€ | ~2.50€ |
+| Transport | 1.80€ | ~1.80€ |
+| Cinema | 9€ | ~9€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Idealista](https://www.idealista.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Madrid](https://www.tripadvisor.com/Travel-g187514-Madrid-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/spain/madrid) | 📖 |
-| [r/spain](https://www.reddit.com/r/spain/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Madrid) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Madrid--Spain) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/es/madrid.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/madrid) | 🟡 Leie |
+## ← Back
+[Back to Spain overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Spania overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

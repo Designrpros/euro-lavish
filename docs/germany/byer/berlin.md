@@ -26,6 +26,6 @@ description: Cost of Living in Berlin
 | [Airbnb](https://www.airbnb.com/s/Berlin--Germany) | Vacation Rentals |
 
 ## ← Back
-[Back to Germany overview](../overview-en.md)
+[Back to Germany overview](../overview.md)
 
 *Data: Numbeo.com, March 2026*

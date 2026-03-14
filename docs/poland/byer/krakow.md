@@ -1,37 +1,31 @@
 ---
-title: 🏙️ Kraków - Polen
-description: Levekostnader i Kraków
+title: 🏙️ Krakow - Poland
+description: Cost of Living in Krakow
 ---
 
-# 🏙️ Kraków
+# 🏙️ Krakow
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.9%2C49.9%2C20.2%2C50.2&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.8%2C49.9%2C20.2%2C50.1&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | PLN |
-|----------|------|-----|
-| Leie (sentrum) | 600€ | ~2,640 zł |
-| Måltid  | 9€ | ~40 zł |
-| Øl (0.5L) | 2.50€ | ~11 zł |
-| Cappuccino | 2.50€ | ~11 zł |
-| Transport | 1€ | ~4 zł |
-| Kino | 6€ | ~26 zł |
+| Category | Price | PLN |
+|----------|-------|-----|
+| Rent (center) | 800€ | ~3,440 zł |
+| Meal | 9€ | ~39 zł |
+| Beer (0.5L) | 3.50€ | ~15 zł |
+| Cappuccino | 3€ | ~13 zł |
+| Transport | 1€ | ~4.30 zł |
+| Cinema | 6€ | ~26 zł |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [OLX](https://www.olx.pl) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/pl/krakow.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/krakow) | 🟡 Leie |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Krakow) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Krakow--Poland) | Vacation Rentals |
 
-## ← Tilbake
-[Tilbake til Polen overview](../overview.md)
+## ← Back
+[Back to Poland overview](../overview.md)
 
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

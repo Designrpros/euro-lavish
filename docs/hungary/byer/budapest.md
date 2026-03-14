@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Budapest - Ungarn
-description: Levekostnader i Budapest
+title: 🏙️ Budapest - Hungary
+description: Cost of Living in Budapest
 ---
 
 # 🏙️ Budapest
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.9%2C47.4%2C19.2%2C47.7&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.9%2C47.4%2C19.3%2C47.6&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | HUF |
-|----------|------|-----|
-| Leie (sentrum) | 800€ | ~314,000 Ft |
-| Måltid  | 10€ | ~3,900 Ft |
-| Øl (0.5L) | 2€ | ~780 Ft |
+| Category | Price | HUF |
+|----------|-------|-----|
+| Rent (center) | 800€ | ~314,000 Ft |
+| Meal | 10€ | ~3,900 Ft |
+| Beer (0.5L) | 2.80€ | ~1,100 Ft |
 | Cappuccino | 2.50€ | ~980 Ft |
 | Transport | 1.10€ | ~430 Ft |
-| Kino | 7€ | ~2,700 Ft |
+| Cinema | 7€ | ~2,700 Ft |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Ingatlan.com](https://www.ingatlan.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Budapest](https://www.tripadvisor.com-g274887-Budapest_Central_Hungary-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/hungary/budapest) | 📖 |
-| [r/budapest](https://www.reddit.com/r/budapest/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Budapest) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Budapest--Hungary) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/hu/budapest.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/budapest) | 🟡 Leie |
+## ← Back
+[Back to Hungary overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Ungarn overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

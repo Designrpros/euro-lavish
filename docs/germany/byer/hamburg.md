@@ -1,33 +1,31 @@
 ---
-title: 🏙️ Hamburg - Tyskland
-description: Levekostnader i Hamburg
+title: 🏙️ Hamburg - Germany
+description: Cost of Living in Hamburg
 ---
 
 # 🏙️ Hamburg
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.8%2C53.4%2C10.1%2C53.7&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.8%2C53.4%2C10.3%2C53.7&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,100€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 4€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 12€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,300€ | ~1,300€ |
+| Meal | 13€ | ~13€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 3.80€ | ~3.80€ |
+| Transport | 3€ | ~3€ |
+| Cinema | 11€ | ~11€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [ImmobilienScout24](https://www.immobilienscout24.de) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed Hamburg](https://www.indeed.de/l/hamburg) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Hamburg) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Hamburg--Germany) | Vacation Rentals |
 
----
+## ← Back
+[Back to Germany overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

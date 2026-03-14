@@ -1,43 +1,31 @@
 ---
-title: 🏙️ Dublin - Irland
-description: Levekostnader i Dublin
+title: 🏙️ Dublin - Ireland
+description: Cost of Living in Dublin
 ---
 
 # 🏙️ Dublin
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-6.3%2C53.3%2C-6.0%2C53.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-6.4%2C53.2%2C-6.0%2C53.4&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | EUR |
-|----------|------|-----|
-| Leie (sentrum) | 1,800€ |
-| Måltid  | 18€ |
-| Øl (0.5L) | 7€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 13€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 2,300€ | ~2,300€ |
+| Meal | 18€ | ~18€ |
+| Beer (0.5L) | 6€ | ~6€ |
+| Cappuccino | 4.50€ | ~4.50€ |
+| Transport | 3€ | ~3€ |
+| Cinema | 12€ | ~12€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Daft.ie](https://www.daft.ie) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Dublin](https://www.tripadvisor.com-g186605-Dublin.html) | 🎯 |
-| [r/Dublin](https://www.reddit.com/r/Dublin/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Dublin--Ireland) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/ie/dublin.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/dublin) | 🟡 Leie |
+## ← Back
+[Back to Ireland overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Irland overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

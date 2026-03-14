@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Dubrovnik - Kroatia
-description: Levekostnader i Dubrovnik
+title: 🏙️ Dubrovnik - Croatia
+description: Cost of Living in Dubrovnik
 ---
 
 # 🏙️ Dubrovnik
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.0%2C42.6%2C18.3%2C42.9&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.0%2C42.6%2C18.4%2C42.8&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 800€ |
-| Måltid  | 14€ |
-| Øl (0.5L) | 3.50€ |
-| Cappuccino | 2.80€ |
-| Transport | 1.50€ |
-| Kino | 7€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 800€ | ~800€ |
+| Meal | 14€ | ~14€ |
+| Beer (0.5L) | 4.50€ | ~4.50€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 1.50€ | ~1.50€ |
+| Cinema | 8€ | ~8€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/hr/dubrovnik.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/dubrovnik) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Kroatia overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Dubrovnik) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Dubrovnik--Croatia) | Vacation Rentals |
 
----
+## ← Back
+[Back to Croatia overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

@@ -26,6 +26,6 @@ description: Cost of Living in Oslo
 | [Airbnb](https://www.airbnb.com/s/Oslo--Norway) | Vacation Rentals |
 
 ## ← Back
-[Back to Norway overview](../overview-en.md)
+[Back to Norway overview](../overview.md)
 
 *Data: Numbeo.com, March 2026*

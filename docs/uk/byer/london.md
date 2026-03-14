@@ -1,45 +1,31 @@
 ---
-title: 🏙️ London - Storbritannia
-description: Levekostnader i London
+title: 🏙️ London - UK
+description: Cost of Living in London
 ---
 
 # 🏙️ London
 
 <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.5%2C51.3%2C0.3%2C51.7&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | GBP |
-|----------|------|-----|
-| Leie (sentrum) | 2,500£ | ~€2,900 |
-| Måltid  | 20£ | ~€23 |
-| Øl (0.5L) | 7£ | ~€8 |
-| Cappuccino | 4.50£ | ~€5.20 |
-| Transport | 3£ | ~€3.50 |
-| Kino | 15£ | ~€17 |
+| Category | Price | GBP |
+|----------|-------|-----|
+| Rent (center) | 2,530€ | ~2,200£ |
+| Meal | 20€ | ~17£ |
+| Beer (0.5L) | 7€ | ~6£ |
+| Cappuccino | 4.50€ | ~3.90£ |
+| Transport | 3.50€ | ~3£ |
+| Cinema | 15€ | ~13£ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Rightmove](https://www.rightmove.co.uk) | 🔴 |
-| [Zoopla](https://www.zoopla.co.uk) | |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor London](https://www.tripadvisor.com/Travel-g186338-London_England-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/england/london) | 📖 |
-| [r/london](https://www.reddit.com/r/london/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=London) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/London--UK) | Vacation Rentals |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/gb/london.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.co.uk/london) | 🟡 Leie |
+## ← Back
+[Back to UK overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Storbritannia overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

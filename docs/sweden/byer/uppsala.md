@@ -1,48 +1,31 @@
 ---
-title: 🏙️ Uppsala - Sverige
-description: Levekostnader i Uppsala
+title: 🏙️ Uppsala - Sweden
+description: Cost of Living in Uppsala
 ---
 
 # 🏙️ Uppsala
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.5%2C59.8%2C17.8%2C60.0&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.5%2C59.8%2C17.9%2C60.0&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | SEK |
-|----------|------|-----|
-| Leie (sentrum) | 1,000€ | ~11,500 kr |
-| Måltid  | 13€ | ~149 kr |
-| Øl (0.5L) | 6€ | ~69 kr |
-| Cappuccino | 4€ | ~46 kr |
-| Transport | 4€ | ~46 kr |
-| Kino | 12€ | ~138 kr |
+| Category | Price | SEK |
+|----------|-------|-----|
+| Rent (center) | 850€ | ~9,350 kr |
+| Meal | 11€ | ~121 kr |
+| Beer (0.5L) | 5.50€ | ~61 kr |
+| Cappuccino | 3.50€ | ~39 kr |
+| Transport | 3€ | ~33 kr |
+| Cinema | 10€ | ~110 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Hemnet](https://www.hemnet.se) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed Uppsala](https://www.indeed.se) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Uppsala) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Uppsala--Sweden) | Vacation Rentals |
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Uppsala](https://www.tripadvisor.com/Travel-g189894-Uppsala-Uppsala_County-Vacations.html) | 🎯 |
-| [r/sweden](https://www.reddit.com/r/sweden/) | 🇺 |
+## ← Back
+[Back to Sweden overview](../overview.md)
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/se/uppsala.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/uppsala) | 🟡 Leie |
-
-## ← Tilbake
-[Tilbake til Sverige overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

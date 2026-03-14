@@ -1,43 +1,31 @@
 ---
-title: 🏙️ Marseille - Frankrike
-description: Levekostnader i Marseille
+title: 🏙️ Marseille - France
+description: Cost of Living in Marseille
 ---
 
 # 🏙️ Marseille
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.3%2C43.2%2C5.6%2C43.5&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.2%2C43.2%2C5.6%2C43.4&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 850€ |
-| Måltid  | 14€ |
-| Øl (0.5L) | 5€ |
-| Cappuccino | 3€ |
-| Transport | 1.80€ |
-| Kino | 9€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 850€ | ~850€ |
+| Meal | 13€ | ~13€ |
+| Beer (0.5L) | 5.50€ | ~5.50€ |
+| Cappuccino | 3.50€ | ~3.50€ |
+| Transport | 1.80€ | ~1.80€ |
+| Cinema | 9€ | ~9€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Seloger](https://www.seloger.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Marseille](https://www.tripadvisor.com-g187253-Marseille_Bouches_du_Rhone_Provence_Alps_Cote_d_Azur-Vacations.html) | 🎯 |
-| [r/france](https://www.reddit.com/r/france/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Marseille) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Marseille--France) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/fr/marseille.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/marseille) | 🟡 Leie |
+## ← Back
+[Back to France overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Frankrike overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

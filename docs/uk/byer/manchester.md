@@ -1,43 +1,31 @@
 ---
-title: 🏙️ Manchester - Storbritannia
-description: Levekostnader i Manchester
+title: 🏙️ Manchester - UK
+description: Cost of Living in Manchester
 ---
 
 # 🏙️ Manchester
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.3%2C53.4%2C-2.0%2C53.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.3%2C53.4%2C-1.9%2C53.6&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | GBP |
-|----------|------|-----|
-| Leie (sentrum) | 1,200£ | ~€1,400 |
-| Måltid  | 15£ | ~€17 |
-| Øl (0.5L) | 5£ | ~€6 |
-| Cappuccino | 3.50£ | ~€4 |
-| Transport | 2.80£ | ~€3.20 |
-| Kino | 12£ | ~€14 |
+| Category | Price | GBP |
+|----------|-------|-----|
+| Rent (center) | 1,400€ | ~1,215£ |
+| Meal | 15€ | ~13£ |
+| Beer (0.5L) | 6€ | ~5£ |
+| Cappuccino | 4€ | ~3.50£ |
+| Transport | 3€ | ~2.60£ |
+| Cinema | 12€ | ~10£ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Rightmove](https://www.rightmove.co.uk) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Manchester](https://www.tripadvisor.com/Travel-g187069-Manchester_Greater_Manchester-Vacations.html) | 🎯 |
-| [r/Manchester](https://www.reddit.com/r/manchester/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Manchester) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Manchester--UK) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/gb/manchester.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/manchester) | 🟡 Leie |
+## ← Back
+[Back to UK overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Storbritannia overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

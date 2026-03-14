@@ -1,47 +1,31 @@
 ---
-title: 🏙️ Drammen - Norge
-description: Levekostnader i Drammen
+title: 🏙️ Drammen - Norway
+description: Cost of Living in Drammen
 ---
 
 # 🏙️ Drammen
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.1%2C59.7%2C10.4%2C60.0&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.0%2C59.7%2C10.3%2C59.9&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | NOK |
-|----------|------|-----|
-| Leie (sentrum) | 1,050€ | ~12,075 kr |
-| Måltid  | 17€ | ~195 kr |
-| Øl (0.5L) | 9€ | ~103 kr |
-| Cappuccino | 4€ | ~46 kr |
+| Category | Price | NOK |
+|----------|-------|-----|
+| Rent (center) | 10,500 kr | ~1,150€ |
+| Meal | 15€ | ~172 kr |
+| Beer (0.5L) | 8€ | ~92 kr |
+| Cappuccino | 3.50€ | ~40 kr |
 | Transport | 3.80€ | ~44 kr |
-| Kino | 12€ | ~138 kr |
+| Cinema | 11€ | ~126 kr |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Finn.no](https://www.finn.no) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed](https://www.indeed.no) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Drammen) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Drammen--Norway) | Vacation Rentals |
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [r/Norway](https://www.reddit.com/r/Norway/) | 🇺 Reddit |
+## ← Back
+[Back to Norway overview](../overview.md)
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/no/drammen.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/drammen) | 🟡 Leie |
-
-## ← Tilbake
-[Tilbake til Norge overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

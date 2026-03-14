@@ -1,43 +1,31 @@
 ---
-title: 🏙️ Beograd - Serbia
-description: Levekostnader i Beograd
+title: 🏙️ Belgrade - Serbia
+description: Cost of Living in Belgrade
 ---
 
-# 🏙️ Beograd
+# 🏙️ Belgrade
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.3%2C44.7%2C20.6%2C45.0&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.3%2C44.7%2C20.7%2C44.9&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 450€ |
-| Måltid  | 8€ |
-| Øl (0.5L) | 2€ |
-| Cappuccino | 2€ |
-| Transport | 0.80€ |
-| Kino | 5€ |
+| Category | Price | RSD |
+|----------|-------|-----|
+| Rent (center) | 500€ | ~58,500 RSD |
+| Meal | 8€ | ~935 RSD |
+| Beer (0.5L) | 2€ | ~234 RSD |
+| Cappuccino | 2€ | ~234 RSD |
+| Transport | 0.80€ | ~94 RSD |
+| Cinema | 5€ | ~585 RSD |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [HaloOglasi](https://www.halooglasi.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Belgrade](https://www.tripadvisor.com-g294469-Belgrade-Vacations.html) | 🎯 |
-| [r/serbia](https://www.reddit.com/r/serbia/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Belgrade) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Belgrade--Serbia) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/rs/belgrade.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/belgrade) | 🟡 Leie |
+## ← Back
+[Back to Serbia overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Serbia overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

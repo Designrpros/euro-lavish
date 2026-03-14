@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Barcelona - Spania
-description: Levekostnader i Barcelona
+title: 🏙️ Barcelona - Spain
+description: Cost of Living in Barcelona
 ---
 
 # 🏙️ Barcelona
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0%2C41.3%2C2.3%2C41.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0%2C41.3%2C2.4%2C41.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,400€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 3€ |
-| Cappuccino | 2.50€ |
-| Transport | 2.40€ |
-| Kino | 9€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,400€ | ~1,400€ |
+| Meal | 14€ | ~14€ |
+| Beer (0.5L) | 3€ | ~3€ |
+| Cappuccino | 2.50€ | ~2.50€ |
+| Transport | 2.20€ | ~2.20€ |
+| Cinema | 9€ | ~9€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Idealista](https://www.idealista.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Barcelona](https://www.tripadvisor.com/Travel-g187497-Barcelona_Catalonia-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/spain/barcelona) | 📖 |
-| [r/Barcelona](https://www.reddit.com/r/Barcelona/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Barcelona) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Barcelona--Spain) | Vacation Rentals |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/es/barcelona.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/barcelona) | 🟡 Leie |
+## ← Back
+[Back to Spain overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Spania overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

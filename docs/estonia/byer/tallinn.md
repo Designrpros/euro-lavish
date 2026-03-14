@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Tallinn - Estland
-description: Levekostnader i Tallinn
+title: 🏙️ Tallinn - Estonia
+description: Cost of Living in Tallinn
 ---
 
 # 🏙️ Tallinn
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=24.5%2C59.3%2C24.8%2C59.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=24.5%2C59.3%2C24.9%2C59.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 800€ |
-| Måltid  | 12€ |
-| Øl (0.5L) | 5€ |
-| Cappuccino | 3€ |
-| Transport | 2€ |
-| Kino | 8€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 698€ | ~698€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 6€ | ~6€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 2€ | ~2€ |
+| Cinema | 8€ | ~8€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [KV.EE](https://www.kv.ee) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Tallinn](https://www.tripadvisor.com/Travel-g274952-Tallinn_Harju_County-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/estonia/tallinn) | 📖 |
-| [r/estonia](https://www.reddit.com/r/estonia/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Tallinn) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Tallinn--Estonia) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/ee/tallinn.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/tallinn) | 🟡 Leie |
+## ← Back
+[Back to Estonia overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Estland overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

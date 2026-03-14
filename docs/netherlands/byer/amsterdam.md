@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Amsterdam - Nederland
-description: Levekostnader i Amsterdam
+title: 🏙️ Amsterdam - Netherlands
+description: Cost of Living in Amsterdam
 ---
 
 # 🏙️ Amsterdam
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.8%2C52.3%2C5.1%2C52.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.8%2C52.3%2C5.2%2C52.5&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,800€ |
-| Måltid  | 18€ |
-| Øl (0.5L) | 6€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 13€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 2,260€ | ~2,260€ |
+| Meal | 18€ | ~18€ |
+| Beer (0.5L) | 5€ | ~5€ |
+| Cappuccino | 4€ | ~4€ |
+| Transport | 3.50€ | ~3.50€ |
+| Cinema | 12€ | ~12€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Pararius](https://www.pararius.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Amsterdam](https://www.tripadvisor.com-g188590-Amsterdam_North_Holland_Province-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/netherlands/amsterdam) | 📖 |
-| [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Amsterdam--Netherlands) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/nl/amsterdam.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/amsterdam) | 🟡 Leie |
+## ← Back
+[Back to Netherlands overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Nederland overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

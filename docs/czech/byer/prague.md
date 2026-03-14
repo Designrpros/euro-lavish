@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Praha - Tsjekkia
-description: Levekostnader i Praha
+title: 🏙️ Prague - Czechia
+description: Cost of Living in Prague
 ---
 
-# 🏙️ Praha
+# 🏙️ Prague
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.3%2C49.9%2C14.6%2C50.2&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.3%2C50.0%2C14.7%2C50.2&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | CZK |
-|----------|------|-----|
-| Leie (sentrum) | 1,000€ | ~24,500 Kč |
-| Måltid  | 12€ | ~294 Kč |
-| Øl (0.5L) | 2.50€ | ~61 Kč |
+| Category | Price | CZK |
+|----------|-------|-----|
+| Rent (center) | 1,200€ | ~29,400 Kč |
+| Meal | 12€ | ~294 Kč |
+| Beer (0.5L) | 2.40€ | ~59 Kč |
 | Cappuccino | 3.50€ | ~86 Kč |
 | Transport | 1.20€ | ~29 Kč |
-| Kino | 7€ | ~171 Kč |
+| Cinema | 7€ | ~171 Kč |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Sreality](https://www.sreality.cz) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Prague](https://www.tripadvisor.com-g274707-Prague_Bohemia-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/czech-republic/prague) | 📖 |
-| [r/czechia](https://www.reddit.com/r/czechia/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Prague) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Prague--Czechia) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/cz/prague.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/prague) | 🟡 Leie |
+## ← Back
+[Back to Czechia overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Tsjekkia overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

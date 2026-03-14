@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Moss - Norge
-description: Levekostnader i Moss
+title: 🏙️ Moss - Norway
+description: Cost of Living in Moss
 ---
 
 # 🏙️ Moss
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.6%2C59.4%2C10.9%2C59.7&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.6%2C59.4%2C10.9%2C59.6&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | NOK |
-|----------|------|-----|
-| Leie (sentrum) | 920€ | ~10,580 kr |
-| Måltid  | 16€ | ~184 kr |
-| Øl (0.5L) | 9€ | ~103 kr |
-| Cappuccino | 4€ | ~46 kr |
+| Category | Price | NOK |
+|----------|-------|-----|
+| Rent (center) | 9,200 kr | ~1,007€ |
+| Meal | 13€ | ~149 kr |
+| Beer (0.5L) | 7€ | ~80 kr |
+| Cappuccino | 3.50€ | ~40 kr |
 | Transport | 3.80€ | ~44 kr |
-| Kino | 12€ | ~138 kr |
+| Cinema | 10€ | ~115 kr |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/no/moss.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/moss) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Norge overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Moss) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Moss--Norway) | Vacation Rentals |
 
----
+## ← Back
+[Back to Norway overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

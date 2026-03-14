@@ -1,43 +1,31 @@
 ---
-title: 🏙️ Lyon - Frankrike
-description: Levekostnader i Lyon
+title: 🏙️ Lyon - France
+description: Cost of Living in Lyon
 ---
 
 # 🏙️ Lyon
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.8%2C45.7%2C5.1%2C46.0&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.7%2C45.7%2C5.1%2C45.9&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 900€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 6€ |
-| Cappuccino | 3.50€ |
-| Transport | 1.90€ |
-| Kino | 10€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 950€ | ~950€ |
+| Meal | 14€ | ~14€ |
+| Beer (0.5L) | 6€ | ~6€ |
+| Cappuccino | 3.50€ | ~3.50€ |
+| Transport | 1.80€ | ~1.80€ |
+| Cinema | 10€ | ~10€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Seloger](https://www.seloger.com) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Lyon](https://www.tripadvisor.com-g187263-Lyon_Auvergne_Rhone_Alps-Vacations.html) | 🎯 |
-| [r/france](https://www.reddit.com/r/france/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Lyon) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Lyon--France) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/fr/lyon.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/lyon) | 🟡 Leie |
+## ← Back
+[Back to France overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Frankrike overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

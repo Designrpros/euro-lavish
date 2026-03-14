@@ -1,44 +1,31 @@
 ---
-title: 🏙️ Roma - Italia
-description: Levekostnader i Roma
+title: 🏙️ Rome - Italy
+description: Cost of Living in Rome
 ---
 
-# 🏙️ Roma
+# 🏙️ Rome
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.4%2C41.8%2C12.7%2C42.1&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.4%2C41.8%2C12.7%2C42.0&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,500€ |
-| Måltid  | 18€ |
-| Øl (0.5L) | 6€ |
-| Cappuccino | 1.80€ |
-| Transport | 1.50€ |
-| Kino | 10€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,500€ | ~1,500€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 5€ | ~5€ |
+| Cappuccino | 1.80€ | ~1.80€ |
+| Transport | 1.50€ | ~1.50€ |
+| Cinema | 10€ | ~10€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Idealista](https://www.idealista.it) | 🔴 |
+## 🏨 Hotels & Airbnb
 
-## 🔗 Nyttige Lenker
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [TripAdvisor Rome](https://www.tripadvisor.com-g187791-Rome_Lazio-Vacations.html) | 🎯 |
-| [Lonely Planet](https://www.lonelyplanet.com/italy/rome) | 📖 |
-| [r/rome](https://www.reddit.com/r/rome/) | 🇺 |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Rome) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Rome--Italy) | Vacation Rentals |
 
-## 🏨 Hoteller \& Leie
-| Tjeneste | Lenke |
-|----------|-------|-------|
-| [Booking.com](https://www.booking.com/city/it/rome.html) | 🔴 Hoteller |
-| [Airbnb](https://www.airbnb.no/rome) | 🟡 Leie |
+## ← Back
+[Back to Italy overview](../overview.md)
 
-## ← Tilbake
-[Tilbake til Italia overview](../overview.md)
-
----
-
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

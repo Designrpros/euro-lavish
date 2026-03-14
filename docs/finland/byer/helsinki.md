@@ -1,34 +1,31 @@
 ---
 title: 🏙️ Helsinki - Finland
-description: Levekostnader i Helsinki
+description: Cost of Living in Helsinki
 ---
 
 # 🏙️ Helsinki
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=24.9%2C60.1%2C25.2%2C60.3&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=24.8%2C60.1%2C25.2%2C60.3&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 1,300€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 8€ |
-| Cappuccino | 4€ |
-| Transport | 3€ |
-| Kino | 12€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 1,300€ | ~1,300€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 7€ | ~7€ |
+| Cappuccino | 4€ | ~4€ |
+| Transport | 3€ | ~3€ |
+| Cinema | 12€ | ~12€ |
 
-## 🏠 Bolig
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Oikotie](https://www.oikotie.fi) | 🔴 |
-| [Vuokraovi](https://www.vuokraovi.com) | Leie |
+## 🏨 Hotels & Airbnb
 
-## 💼 Jobb
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Indeed Helsinki](https://www.indeed.fi) | Jobbsøk |
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Helsinki) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
 
----
+## ← Back
+[Back to Finland overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*

@@ -1,32 +1,31 @@
 ---
-title: 🏙️ Torino - Italia
-description: Levekostnader i Torino
+title: 🏙️ Turin - Italy
+description: Cost of Living in Turin
 ---
 
-# 🏙️ Torino
+# 🏙️ Turin
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.5%2C45.0%2C7.8%2C45.3&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.5%2C45.0%2C7.9%2C45.2&layer=mapnik"></iframe>
 
-## 📊 Levekostnader
+## 📊 Cost of Living
 
-| Kategori | Pris | 
-|----------|------|
-| Leie (sentrum) | 950€ |
-| Måltid  | 15€ |
-| Øl (0.5L) | 5€ |
-| Cappuccino | 1.70€ |
-| Transport | 1.40€ |
-| Kino | 9€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (center) | 850€ | ~850€ |
+| Meal | 13€ | ~13€ |
+| Beer (0.5L) | 4.50€ | ~4.50€ |
+| Cappuccino | 1.60€ | ~1.60€ |
+| Transport | 1.50€ | ~1.50€ |
+| Cinema | 8€ | ~8€ |
 
-## 🏨 Hoteller & Leie
-| Tjeneste | Lenke |
-|----------|-------|
-| [Booking.com](https://www.booking.com/city/it/turin.html) | 🔴 |
-| [Airbnb](https://www.airbnb.no/turin) | 🟡 |
+## 🏨 Hotels & Airbnb
 
-## ← Tilbake
-[Tilbake til Italia overview](../overview.md)
+| Service | Link |
+|---------|------|
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Turin) | Hotels |
+| [Airbnb](https://www.airbnb.com/s/Turin--Italy) | Vacation Rentals |
 
----
+## ← Back
+[Back to Italy overview](../overview.md)
 
-*Data: Numbeo.com*
+*Data: Numbeo.com, March 2026*
