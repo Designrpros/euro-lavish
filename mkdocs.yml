@@ -19,6 +19,7 @@ theme:
 plugins:
   - search:
       separator: '[\s\-\.]+'
+      prebuild_index: true
 
 nav:
   - 🏠 EN: index-en.md
