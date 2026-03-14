@@ -26,6 +26,6 @@ description: Cost of Living in Fredrikstad
 | [Airbnb](https://www.airbnb.com/s/Fredrikstad--Norway) | Vacation Rentals |
 
 ## ← Back
-[Back to Norway overview](../overview.md)
+[Back to Norway overview](../index.md)
 
 *Data: Numbeo.com, March 2026*

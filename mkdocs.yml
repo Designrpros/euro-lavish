@@ -26,36 +26,36 @@ plugins:
 
 nav:
   - 🏔️ Northern Europe:
-    - norway/overview.md
-    - sweden/overview.md
-    - denmark/overview.md
-    - estonia/overview.md
-    - iceland/overview.md
-    - finnland/overview.md
+    - norway/index.md
+    - sweden/index.md
+    - denmark/index.md
+    - estonia/index.md
+    - iceland/index.md
+    - finnland/index.md
   - 🏗️ Eastern Europe:
-    - poland/overview.md
-    - czech/overview.md
-    - hungary/overview.md
-    - romania/overview.md
-    - serbia/overview.md
-    - bulgaria/overview.md
+    - poland/index.md
+    - czech/index.md
+    - hungary/index.md
+    - romania/index.md
+    - serbia/index.md
+    - bulgaria/index.md
   - ☀️ Southern Europe:
-    - spain/overview.md
-    - portugal/overview.md
-    - italy/overview.md
-    - greece/overview.md
-    - croatia/overview.md
-    - malta/overview.md
+    - spain/index.md
+    - portugal/index.md
+    - italy/index.md
+    - greece/index.md
+    - croatia/index.md
+    - malta/index.md
   - 🔵 Central Europe:
-    - germany/overview.md
-    - austria/overview.md
-    - switzerland/overview.md
+    - germany/index.md
+    - austria/index.md
+    - switzerland/index.md
   - 🌊 Western Europe:
-    - uk/overview.md
-    - ireland/overview.md
-    - netherlands/overview.md
-    - belgium/overview.md
-    - france/overview.md
+    - uk/index.md
+    - ireland/index.md
+    - netherlands/index.md
+    - belgium/index.md
+    - france/index.md
   - 💰 Affiliate: affiliate.md
   - 🎒 Backpack: backpack/index.md
   - 📰 Blog: blog/index.md

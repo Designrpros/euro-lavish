@@ -26,52 +26,52 @@ description: Compare cost of living across 26 European countries
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇳🇴 [Norway](norway/overview/) | 1,603€ | → |
-| 🇸🇪 [Sweden](sweden/overview/) | 1,404€ | → |
-| 🇩🇰 [Denmark](denmark/overview/) | 1,775€ | → |
-| 🇫🇮 [Finland](finnland/overview/) | 1,300€ | → |
-| 🇪🇪 [Estonia](estonia/overview/) | 698€ | → |
-| 🇮🇸 [Iceland](iceland/overview/) | 1,800€ | → |
+| 🇳🇴 [Norway](norway/) | 1,603€ | → |
+| 🇸🇪 [Sweden](sweden/) | 1,404€ | → |
+| 🇩🇰 [Denmark](denmark/) | 1,775€ | → |
+| 🇫🇮 [Finland](finnland/) | 1,300€ | → |
+| 🇪🇪 [Estonia](estonia/) | 698€ | → |
+| 🇮🇸 [Iceland](iceland/) | 1,800€ | → |
 
 ## 🏗️ Eastern Europe (6)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇵🇱 [Poland](poland/overview/) | 1,000€ | → |
-| 🇨🇿 [Czechia](czech/overview/) | 1,000€ | → |
-| 🇭🇺 [Hungary](hungary/overview/) | 650€ | → |
-| 🇷🇴 [Romania](romania/overview/) | 600€ | → |
-| 🇷🇸 [Serbia](serbia/overview/) | 700€ | → |
-| 🇧🇬 [Bulgaria](bulgaria/overview/) | 669€ | → |
+| 🇵🇱 [Poland](poland/) | 1,000€ | → |
+| 🇨🇿 [Czechia](czech/) | 1,000€ | → |
+| 🇭🇺 [Hungary](hungary/) | 650€ | → |
+| 🇷🇴 [Romania](romania/) | 600€ | → |
+| 🇷🇸 [Serbia](serbia/) | 700€ | → |
+| 🇧🇬 [Bulgaria](bulgaria/) | 669€ | → |
 
 ## ☀️ Southern Europe (6)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇪🇸 [Spain](spain/overview/) | 1,350€ | → |
-| 🇵🇹 [Portugal](portugal/overview/) | 1,100€ | → |
-| 🇮🇹 [Italy](italy/overview/) | 1,000€ | → |
-| 🇬🇷 [Greece](greece/overview/) | 550€ | → |
-| 🇭🇷 [Croatia](croatia/overview/) | 700€ | → |
-| 🇲🇹 [Malta](malta/overview/) | 1,100€ | → |
+| 🇪🇸 [Spain](spain/) | 1,350€ | → |
+| 🇵🇹 [Portugal](portugal/) | 1,100€ | → |
+| 🇮🇹 [Italy](italy/) | 1,000€ | → |
+| 🇬🇷 [Greece](greece/) | 550€ | → |
+| 🇭🇷 [Croatia](croatia/) | 700€ | → |
+| 🇲🇹 [Malta](malta/) | 1,100€ | → |
 
 ## 🔵 Central Europe (3)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇩🇪 [Germany](germany/overview/) | 1,270€ | → |
-| 🇦🇹 [Austria](austria/overview/) | 1,077€ | → |
-| 🇨🇭 [Switzerland](switzerland/overview/) | 2,580€ | → |
+| 🇩🇪 [Germany](germany/) | 1,270€ | → |
+| 🇦🇹 [Austria](austria/) | 1,077€ | → |
+| 🇨🇭 [Switzerland](switzerland/) | 2,580€ | → |
 
 ## 🌊 Western Europe (5)
 
 | Country | Rent | → |
 |---------|------|---|
-| 🇬🇧 [UK](uk/overview/) | 2,530€ | → |
-| 🇮🇪 [Ireland](ireland/overview/) | 2,118€ | → |
-| 🇳🇱 [Netherlands](netherlands/overview/) | 2,260€ | → |
-| 🇧🇪 [Belgium](belgium/overview/) | 1,125€ | → |
-| 🇫🇷 [France](france/overview/) | 2,000€ | → |
+| 🇬🇧 [UK](uk/) | 2,530€ | → |
+| 🇮🇪 [Ireland](ireland/) | 2,118€ | → |
+| 🇳🇱 [Netherlands](netherlands/) | 2,260€ | → |
+| 🇧🇪 [Belgium](belgium/) | 1,125€ | → |
+| 🇫🇷 [France](france/) | 2,000€ | → |
 
 ## 📊 Statistics
 
