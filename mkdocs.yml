@@ -1,16 +1,13 @@
 site_name: 🪙 Euro Lavish
-site_description: Cost of Living in Europe - 26 Countries, 260 Cities
+site_description: Cost of Living in Europe - 26 Countries, Multiple Cities
 site_author: Alcatelz
 site_url: https://designrpros.github.io/euro-lavish/
 
 theme:
   name: material
   palette:
-    scheme: slate
     primary: teal
     accent: cyan
-  icon:
-    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.top
@@ -22,21 +19,24 @@ plugins:
   - search:
       separator: '[\s\-\.]+'
 
-markdown_extensions:
-  - toc:
-      permalink: true
-  - attr_list
-  - tables
-
 nav:
   - 🏠 Home: index.md
   - 🏔️ Nord-Europa:
     - norway/overview.md
+    - norway/byer/oslo.md
+    - norway/byer/bergen.md
+    - norway/byer/trondheim.md
     - sweden/overview.md
+    - sweden/byer/stockholm.md
+    - sweden/byer/goteborg.md
+    - sweden/byer/malmo.md
     - denmark/overview.md
-    - finland/overview.md
+    - denmark/byer/kobenhavn.md
+    - denmark/byer/aarhus.md
+    - denmark/byer/odense.md
     - estonia/overview.md
     - iceland/overview.md
+    - iceland/byer/reykjavik.md
   - 🏗️ Øst-Europa:
     - poland/overview.md
     - czech/overview.md
@@ -61,9 +61,4 @@ nav:
     - netherlands/overview.md
     - belgium/overview.md
     - france/overview.md
-  - 🔗 Nyttige Lenker:
-    - europe-links.md
-
-copyright: "&copy; 2026 Euro Lavish | Data: Numbeo.com"
-
-use_directory_urls: false
+  - 🌍 Lenker: europe-links.md

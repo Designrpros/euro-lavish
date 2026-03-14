@@ -1,70 +1,35 @@
 ---
-title: 🏛️ Oslo - Norge
+title: 🏙️ Oslo - Norge
 description: Levekostnader i Oslo
 ---
 
-# 🏛️ Oslo
+# 🏙️ Oslo
 
-![Oslo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oslo_From_Opera_House.jpg/800px-Oslo_From_Opera_House.jpg)
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.5%2C59.8%2C10.7%2C60.0&layer=mapnik"></iframe>
 
-## 📊 Leiepriser
+## 📊 Levekostnader
 
-| Type | Pris/mnd |
-|------|----------|
-| Sentrum (1-rom) | 12,000-18,000 kr |
-| Utenfor sentrum | 8,000-12,000 kr |
-| Delerom | 5,000-8,000 kr |
+| Kategori | Pris | NOK |
+|----------|------|-----|
+| Leie (sentrum) | 1,603€ | ~18,431 kr |
+| Måltid  | 22€ | ~253 kr |
+| Øl (0.5L) | 10€ | ~115 kr |
+| Cappuccino | 4.60€ | ~53 kr |
+| Transport | 3.80€ | ~44 kr |
+| Kino | 14€ | ~161 kr |
 
-## 🍽️ Mat & Drikke
+## 🏠 Bolig
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Finn.no](https://www.finn.no/bolig/boligtilsalg) | 🔴 Bolig |
+| [Hybel.no](https://www.hybel.no) | Leie |
 
-| Kategori | Pris |
-|----------|------|
-| Måltid på restaurant | 200-400 kr |
-| Fast food | 80-120 kr |
-| Øl (0.5L) | 80-120 kr |
-| Cappuccino | 45-60 kr |
-| Kaffe på kafé | 35-50 kr |
-
-## 🚌 Transport
-
-| Type | Pris |
-|------|------|
-| Månedskort | 1,030 kr |
-| Enkeltreise | 35-55 kr |
-| T-bane/buss | 35-55 kr |
-| Taxiture (km) | 15-20 kr |
-
-## 🏥 Helse & Fitness
-
-| Kategori | Pris |
-|----------|------|
-| Gym | 300-600 kr/mnd |
-| Lege | 200-400 kr |
-| Tandpleier | 500-1,000 kr |
-
-## 🌤️ Vær
-
-| Måned | Temp | Nedbør |
-|-------|------|--------|
-| Januar | -2°C | 50mm |
-| April | 8°C | 40mm |
-| Juli | 17°C | 80mm |
-| Oktober | 7°C | 70mm |
-
-## 👍 Pro
-
-- 🎭 Rikt kulturliv
-- 🏔️ Nærhet til natur
-- 💼 Jobbmuligheter
-- 🏥 God helse
-
-## 👎 Cons
-
-- 💸 Veldig dyrt
-- 🏠 Vanskelig å finne bolig
-- 🌧️ Mye regn
-- 🧅 Mørketid vinter
+## 💼 Jobb
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Indeed Oslo](https://www.indeed.no/l/oslo) | Jobbsøk |
+| [LinkedIn](https://www.linkedin.com/jobs) | Jobbsøk |
 
 ---
 
-*Data: Numbeo.com, Mars 2026*
+*Data: Numbeo.com*
