@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Spania
 
 # 🇪🇸 Spania
 
-![Spania](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Barcelona_1992_Costa_Rica_2.jpg/800px-Barcelona_1992_Costa_Rica_2.jpg)
+![Spania](/assets/countries/spain.svg
 
 ## 📊 Levekostnader
 

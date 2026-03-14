@@ -7,14 +7,26 @@ description: Generelle lenker for hele Europa
 
 ## 🏠 Eiendom & Bolig
 
+| Lenke | Beskrivelse | Land |
+|-------|-------------|------|
+| [Finn.no](https://www.finn.no) | 🔴 Største i Norge | 🇳🇴 |
+| [Idealista](https://www.idealista.com) | Spania, Italia, Portugal | 🇪🇸🇵🇹🇮🇹 |
+| [ImmobilienScout24](https://www.immobilienscout24.de) | Tyskland | 🇩🇪 |
+| [Rightmove](https://www.rightmove.co.uk) | Storbritannia | 🇬🇧 |
+| [Pararius](https://www.pararius.com) | Nederland | 🇳🇱 |
+| [SeLoger](https://www.seloger.com) | Frankrike | 🇫🇷 |
+| [Spitogatos](https://www.spitogatos.gr) | Hellas | 🇬🇷 |
+| [OLX](https://www.olx.pl) | Polen | 🇵🇱 |
+
+## 🛒 Kjøp & Salg (Brukt)
+
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Idealista](https://www.idealista.com) | Spania, Italia, Portugal |
-| [ImmobilienScout24](https://www.immobilienscout24.de) | Tyskland |
-| [Rightmove](https://www.rightmove.co.uk) | Storbritannia |
-| [Pararius](https://www.pararius.com) | Nederland |
-| [SeLoger](https://www.seloger.com) | Frankrike |
-| [Bricks & Logic](https://www.bricksandlogic.com) | EU-wide eiendom |
+| [eBay](https://www.ebay.com) | 🟡 Internasjalt |
+| [Facebook Marketplace](https://www.facebook.com/marketplace) | Facebook |
+| [Vinted](https://www.vinted.com) | Klær |
+| [Tradera](https://www.tradera.com) | Svensk auction |
+| [Kleider](https://www.kleider.ch) | Sveitsisk |
 
 ## 💼 Jobb
 
@@ -24,6 +36,7 @@ description: Generelle lenker for hele Europa
 | [LinkedIn](https://www.linkedin.com) | Profesjonelt nettverk |
 | [EURES](https://eures.ec.europa.eu) | EU jobbportal |
 | [Glassdoor](https://www.glassdoor.com) | Lønn & anmeldelser |
+| [XING](https://www.xing.com) | Tysk LinkedIn |
 
 ## 🚌 Transport
 
@@ -35,7 +48,25 @@ description: Generelle lenker for hele Europa
 | [Skyscanner](https://www.skyscanner.no) | Fly |
 | [Google Maps](https://maps.google.com) | Kart |
 
-## 🌍 Turisme & Info
+## 🎮 Reddit Fellesskap
+
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/expats](https://www.reddit.com/r/expats/) | Expats i Europa |
+| [r/digitalnomad](https://www.reddit.com/r/digitalnomad/) | Digital nomader |
+| [r/IWantOut](https://www.reddit.com/r/IWantOut/) | Flytte ut |
+| [r/Europe](https://www.reddit.com/r/Europe/) | Europa generelt |
+
+## 🌤️ Vær & Klima
+
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Windy.com](https://www.windy.com) | Vær & vind |
+| [yr.no](https://www.yr.no) | Norsk vær |
+| [Magic Seaweed](https://www.magicseaweed.com) | Surf-vær |
+| [Snow-Forecast](https://www.snow-forecast.com) | Snø-vær |
+
+## 🌐 Turisme & Anmeldelser
 
 | Lenke | Beskrivelse |
 |-------|-------------|
@@ -44,27 +75,6 @@ description: Generelle lenker for hele Europa
 | [Wikivoyage](https://en.wikivoyage.org) | Gratis reiseguide |
 | [Eurostat](https://ec.europa.eu/eurostat) | EU statistikk |
 
-## 🌤️ Vær & Klima
-
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Windy.com](https://www.windy.com) | Vær & vind |
-| [yr.no](https://www.yr.no) | Norsk vær |
-| [Meteo365](https://www.meteo365.com) | Europa-vær |
-
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Magic Seaweed](https://www.magicseaweed.com) | Surf-vær |
-| [Snow-Forecast](https://www.snow-forecast.com) | Snø-vær |
-
-## 🏄 Aktiviteter
-
-| Lenke | Beskrivelse |
-|-------|-------------|
-| [Surfline](https://www.surfline.com) | Surf |
-| [Skiresort.info](https://www.skiresort.info) | Skisted |
-| [AllTrails](https://www.alltrails.com) | Turstier |
-
 ## 📱 Praktisk
 
 | Lenke | Beskrivelse |
@@ -72,6 +82,7 @@ description: Generelle lenker for hele Europa
 | [Wise](https://wise.com) | Valuta/overføringer |
 | [Google Translate](https://translate.google.com) | Oversettelse |
 | [Numbeo](https://www.numbeo.com) | Levekostnader |
+| [Expatistan](https://www.expatistan.com) | Levekostnader |
 
 ---
 

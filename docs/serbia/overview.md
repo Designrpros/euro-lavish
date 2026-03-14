@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Serbia
 
 # 🇷🇸 Serbia
 
-![Serbia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kalemegdan.jpg/800px-Kalemegdan.jpg)
+![Serbia](/assets/countries/serbia.svg
 
 ## 📊 Levekostnader
 

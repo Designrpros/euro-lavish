@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Tsjekkia
 
 # 🇨🇿 Tsjekkia
 
-![Tsjekkia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Prague_-_Charles_Bridge.jpg/800px-Prague_-_Charles_Bridge.jpg)
+![Tsjekkia](/assets/countries/czech.svg
 
 ## 📊 Levekostnader
 

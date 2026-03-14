@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Irland
 
 # 🇮🇪 Irland
 
-![Irland](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trinity_College_Dublin.jpg/800px-Trinity_College_Dublin.jpg)
+![Irland](/assets/countries/ireland.svg
 
 ## 📊 Levekostnader
 

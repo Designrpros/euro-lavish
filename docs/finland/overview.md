@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Finland
 
 # 🇫🇮 Finland
 
-![Finland](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Helsinki_Montage.jpg/800px-Helsinki_Montage.jpg)
+![Finland](/assets/countries/finland.svg)
 
 ## 📊 Levekostnader
 

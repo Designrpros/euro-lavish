@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Romania
 
 # 🇷🇴 Romania
 
-![Romania](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Palace_of_the_Parliament_Bucharest.jpg/800px-Palace_of_the_Parliament_Bucharest.jpg)
+![Romania](/assets/countries/romania.svg
 
 ## 📊 Levekostnader
 

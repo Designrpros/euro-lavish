@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Storbritannia
 
 # 🇬🇧 Storbritannia
 
-![Storbritannia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/London_Heathrow_Terminal_5_Main_Building.jpg/800px-London_Heathrow_Terminal_5_Main_Building.jpg)
+![Storbritannia](/assets/countries/uk.svg
 
 ## 📊 Levekostnader
 

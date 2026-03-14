@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Bulgaria
 
 # 🇧🇬 Bulgaria
 
-![Bulgaria](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sofia_Night_Panorama.jpg/800px-Sofia_Night_Panorama.jpg)
+![Bulgaria](/assets/countries/bulgaria.svg
 
 ## 📊 Levekostnader
 

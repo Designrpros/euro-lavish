@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Danmark
 
 # 🇩🇰 Danmark
 
-![Danmark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/K%C3%B8benhavn_R%C3%A5dhuset.jpg/800px-K%C3%B8benhavn_R%C3%A5dhuset.jpg)
+![Danmark](/assets/countries/denmark.svg)
 
 ## 📊 Levekostnader
 

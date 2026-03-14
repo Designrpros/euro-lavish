@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Hellas
 
 # 🇬🇷 Hellas
 
-![Hellas](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Acropolis_of_Athens.jpg/800px-Acropolis_of_Athens.jpg)
+![Hellas](/assets/countries/greece.svg)
 
 ## 📊 Levekostnader
 
@@ -40,35 +40,58 @@ description: Komplett levekostnad-guide for Hellas
 ### 🏠 Bolig & Leie
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Spitogatos](https://www.spitogatos.gr) | Boligplattform |
+| [Spitogatos](https://www.spitogatos.gr) | 🔴 Største boligplattform |
 | [Xe.gr](https://www.xe.gr) | Eiendom |
 | [Airbnb Hellas](https://www.airbnb.no/greece) | Korttidsleie |
+| [Idealista](https://www.idealista.com/en-greece) | Bolig |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [eBay Greece](https://www.ebay.gr) | 🟡 Bruktmarked |
+| [Karousos](https://www.karousos.gr) | Brukt biler |
+| [Facebook: Ελλάδα Αγορά Πώληση](https://www.facebook.com/groups/) | Facebook-gruppe |
 
 ### 💼 Jobb & Karriere
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [Job.gr](https://www.job.gr) | Jobbsøk |
 | [LinkedIn Greece](https://www.linkedin.com) | Profesjonelt nettverk |
+| [Glassdoor](https://www.glassdoor.com/Reviews/greece-reviews) | Anmeldelser |
 
 ### 🚌 Transport
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [Athens Transport](https://www.athenstransport.com) | Kollektiv transport |
 | [KTEL](https://www.ktelbus.com) | Buss mellom byer |
-| [Ferryhopper](https://www.ferryhopper.com) | Ferger |
+| [Ferryhopper](https://www.ferryhopper.com) | 🛥️ Ferger |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Greece](https://www.reddit.com/r/Greece/) | 🇺 Reddit |
+| [r/Athens](https://www.reddit.com/r/athens/) | Reddit Athens |
+| [Facebook: Ελλάδα](https://www.facebook.com/groups/greece/) | Facebook-gruppe |
+
+### 🌐 Turisme & Anmeldelser
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [TripAdvisor Hellas](https://www.tripadvisor.com/Tourism-g189398-Greece-Vacations.html) | TripAdvisor |
+| [Lonely Planet Hellas](https://www.lonelyplanet.com/greece) | Reiseguide |
+| [Visit Greece](https://www.visitgreece.gr) | Offisiell turisme |
 
 ### 📱 App-er
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Uber Athens](https://www.uber.com) | Taxi/taxi |
+| [Uber Athens](https://www.uber.com) | Taxi |
 | [Beat](https://www.beat.co) | Taxi-app |
+| [Google Maps](https://maps.google.com) | Kart |
 
 ### 🌍 Generelt
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Meteo.gr](https://www.meteo.gr) | Vær |
+| [Meteo.gr](https://www.meteo.gr) | 🌤️ Vær |
 | [Greek Travel](https://www.greektravel.com) | Turist-info |
-| [Lonely Planet Greece](https://www.lonelyplanet.com/greece) | Reiseguide |
 
 ---
 

@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Polen
 
 # 🇵🇱 Polen
 
-![Polen](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Krakow_-_Ratusz.jpg/800px-Krakow_-_Ratusz.jpg)
+![Polen](/assets/countries/poland.svg)
 
 ## 📊 Levekostnader
 

@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Italia
 
 # 🇮🇹 Italia
 
-![Italia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/800px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg)
+![Italia](/assets/countries/italy.svg
 
 ## 📊 Levekostnader
 

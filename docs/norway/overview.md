@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Norge
 
 # 🇳🇴 Norge
 
-![Norge](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oslo_From_Opera_House.jpg/800px-Oslo_From_Opera_House.jpg)
+![Norge](/assets/countries/norway.svg)
 
 ## 📊 Levekostnader
 
@@ -38,9 +38,18 @@ description: Komplett levekostnad-guide for Norge
 ### 🏠 Bolig & Leie
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Finn.no](https://www.finn.no) | Største boligplattform |
+| [Finn.no](https://www.finn.no) | 🔴 Største boligplattform |
 | [Hybel.no](https://www.hybel.no) | Leieboliger |
 | [Utleiemegleren](https://www.utleiemegleren.no) | Utleiemegler |
+| [Privatmegleren](https://www.privatmegleren.no) | Eiendomsmegler |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Finn.no Torget](https://www.finn.no/torget) | 🟡 Største markedsplass |
+| [Kjøp & Salg](https://www.facebook.com/groups/kjopogsalgnorge/) | Facebook-gruppe |
+| [Tori.no](https://www.tori.no) | Bruktmarked |
+| [Klassisk.no](https://www.klassisk.no) | Brukt biler |
 
 ### 💼 Jobb & Karriere
 | Lenke | Beskrivelse |
@@ -48,26 +57,45 @@ description: Komplett levekostnad-guide for Norge
 | [Nav.no](https://www.nav.no) | Offentlig jobbsøk |
 | [Indeed.no](https://www.indeed.no) | Jobbsøkemotor |
 | [LinkedIn](https://www.linkedin.com) | Profesjonelt nettverk |
+| [Karriere.no](https://www.karriere.no) | Karriereportal |
 
 ### 🚌 Transport
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Ruter.no](https://www.ruter.no) | Kollektiv transport Oslo |
+| [Ruter.no](https://www.ruter.no) | Kollektiv Oslo |
 | [Entur.no](https://www.entur.no) | Hele Norges transport |
 | [Vegvesen.no](https://www.vegvesen.no) | Vei og trafikk |
+| [Kjørtid.no](https://www.kjortid.no) | Billig drivstoff |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/Norway](https://www.reddit.com/r/Norway/) | 🇺 Reddit |
+| [r/Oslo](https://www.reddit.com/r/Oslo/) | Reddit Oslo |
+| [Facebook: Norge](https://www.facebook.com/groups/norge/) | Facebook-gruppe |
+| [Discord Norge](https://discord.gg/norge) | Discord |
+
+### 🌐 Turisme & Anmeldelser
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [TripAdvisor Norge](https://www.tripadvisor.com/Travel-g190455-Norway.html) | TripAdvisor |
+| [Lonely Planet Norge](https://www.lonelyplanet.com/norway) | Reiseguide |
+| [Visit Norway](https://www.visitnorway.com) | Offisiell turisme |
 
 ### 📱 App-er
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [Ruter App](https://ruter.no/reise) | Billett-app |
 | [Kollektiv](https://kollektiv.app) | Kollektiv-app |
+| [Finn App](https://www.finn.no/app) | Bolig-app |
 
 ### 🌍 Generelt
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [ yr.no](https://www.yr.no) | Vær |
+| [yr.no](https://www.yr.no) | 🌤️ Vær |
 | [Regjeringen.no](https://www.regjeringen.no) | Offisiell info |
 | [UDI.no](https://www.udi.no) | Innvandring |
+| [Altinn.no](https://www.altinn.no) | Offentlige tjenester |
 
 ---
 

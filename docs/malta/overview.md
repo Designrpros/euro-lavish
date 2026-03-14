@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Malta
 
 # 🇲🇹 Malta
 
-![Malta](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Valletta_1.jpg/800px-Valletta_1.jpg)
+![Malta](/assets/countries/malta.svg
 
 ## 📊 Levekostnader
 

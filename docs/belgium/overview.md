@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Belgia
 
 # 🇧🇪 Belgia
 
-![Belgia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Brussels_Grand_Place.jpg/800px-Brussels_Grand_Place.jpg)
+![Belgia](/assets/countries/belgium.svg
 
 ## 📊 Levekostnader
 

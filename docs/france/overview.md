@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Frankrike
 
 # 🇫🇷 Frankrike
 
-![Frankrike](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/La_Tour_Eiffel_vue_de_la_Tour_Montparnasse.jpg/800px-La_Tour_Eiffel_vue_de_la_Tour_Montparnasse.jpg)
+![Frankrike](/assets/countries/france.svg
 
 ## 📊 Levekostnader
 

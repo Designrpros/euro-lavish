@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Østerrike
 
 # 🇦🇹 Østerrike
 
-![Østerrike](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vienna_City_Hall.jpg/800px-Vienna_City_Hall.jpg)
+![Østerrike](/assets/countries/austria.svg
 
 ## 📊 Levekostnader
 

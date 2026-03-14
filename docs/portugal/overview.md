@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Portugal
 
 # 🇵🇹 Portugal
 
-![Portugal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Padr%C3%A3o_dos_Descobrimentos.JPG/800px-Padr%C3%A3o_dos_Descobrimentos.JPG)
+![Portugal](/assets/countries/portugal.svg)
 
 ## 📊 Levekostnader
 

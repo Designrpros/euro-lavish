@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Ungarn
 
 # 🇭🇺 Ungarn
 
-![Ungarn](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Budapest_Parliament.jpg/800px-Budapest_Parliament.jpg)
+![Ungarn](/assets/countries/hungary.svg
 
 ## 📊 Levekostnader
 

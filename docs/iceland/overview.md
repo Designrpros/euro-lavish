@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Island
 
 # 🇮🇸 Island
 
-![Island](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reykjavik_Montage.jpg/800px-Reykjavik_Montage.jpg)
+![Island](/assets/countries/iceland.svg
 
 ## 📊 Levekostnader
 

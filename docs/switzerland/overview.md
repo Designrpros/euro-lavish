@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Sveits
 
 # 🇨🇭 Sveits
 
-![Sveits](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Z%C3%BCrich_Lake.jpg/800px-Z%C3%BCrich_Lake.jpg)
+![Sveits](/assets/countries/switzerland.svg
 
 ## 📊 Levekostnader
 

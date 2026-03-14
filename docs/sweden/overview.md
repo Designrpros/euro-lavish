@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Sverige
 
 # 🇸🇪 Sverige
 
-![Sverige](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Stockholm_waterfront_02.jpg/800px-Stockholm_waterfront_02.jpg)
+![Sverige](/assets/countries/sweden.svg)
 
 ## 📊 Levekostnader
 

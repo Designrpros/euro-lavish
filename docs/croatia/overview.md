@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Kroatia
 
 # 🇭🇷 Kroatia
 
-![Kroatia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dubrovnik_Croatia.jpg/800px-Dubrovnik_Croatia.jpg)
+![Kroatia](/assets/countries/croatia.svg
 
 ## 📊 Levekostnader
 

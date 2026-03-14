@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Tyskland
 
 # 🇩🇪 Tyskland
 
-![Tyskland](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Berlin_TV_Tower.jpg/800px-Berlin_TV_Tower.jpg)
+![Tyskland](/assets/countries/germany.svg)
 
 ## 📊 Levekostnader
 
@@ -24,7 +24,7 @@ description: Komplett levekostnad-guide for Tyskland
 |---|-----|----------|---------|
 | 1 | [Leipzig](byer/leipzig.md) | 700€ | Tech |
 | 2 | [Dresden](byer/dresden.md) | 750€ | Historie |
-| 3 | [Essen](byer/essen.md) | 720€ | |
+| 3 | [Essen](byer/esssen.md) | 720€ | |
 | 4 | [Dortmund](byer/dortmund.md) | 730€ | |
 | 5 | [Hannover](byer/hannover.md) | 800€ | |
 | 6 | [Bremen](byer/bremen.md) | 850€ | |
@@ -38,36 +38,61 @@ description: Komplett levekostnad-guide for Tyskland
 ### 🏠 Bolig & Leie
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [ImmobilienScout24](https://www.immobilienscout24.de) | Største boligplattform |
+| [ImmobilienScout24](https://www.immobilienscout24.de) | 🔴 Største boligplattform |
 | [WG-Gesucht](https://www.wg-gesucht.de) | Delebolig |
 | [Kalaydo](https://www.kalaydo.de) | Eiendom |
+| [ImmoWelt](https://www.immowelt.de) | Eiendom |
+
+### 🛒 Kjøp & Salg (Brukt)
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de) | 🟡 Største i Tyskland |
+| [Facebook Marketplace](https://www.facebook.com/marketplace) | Facebook |
+| [Kleider](https://www.kleider.ch) | Brukt klær |
 
 ### 💼 Jobb & Karriere
 | Lenke | Beskrivelse |
 |-------|-------------|
 | [Indeed Germany](https://www.indeed.de) | Jobbsøk |
+| [XING](https://www.xing.com) | 🔵 Tysk LinkedIn |
 | [LinkedIn Germany](https://www.linkedin.com) | Profesjonelt nettverk |
-| [XING](https://www.xing.com) | Tysk LinkedIn |
+| [Glassdoor](https://www.glassdoor.com/Reviews/germany-reviews) | Anmeldelser |
 
 ### 🚌 Transport
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Deutsche Bahn](https://www.bahn.de) | Tog |
+| [Deutsche Bahn](https://www.bahn.de) | 🔵 Tog |
 | [BVG](https://www.bvg.de) | Berlin transport |
 | [MVV](https://www.mvv-muenchen.de) | München transport |
+| [FlixBus](https://www.flixbus.de) | Buss |
+
+### 🎮 Lokale Fellesskap
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [r/germany](https://www.reddit.com/r/germany/) | 🇺 Reddit |
+| [r/Berlin](https://www.reddit.com/r/berlin/) | Reddit Berlin |
+| [Facebook: Deutschland](https://www.facebook.com/groups/deutschland/) | Facebook-gruppe |
+
+### 🌐 Turisme & Anmeldelser
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [TripAdvisor Tyskland](https://www.tripadvisor.com/Tourism-g187275-Germany-Vacations.html) | TripAdvisor |
+| [Lonely Planet Tyskland](https://www.lonelyplanet.com/germany) | Reiseguide |
+| [Germany Travel](https://www.germany.travel) | Offisiell turisme |
 
 ### 📱 App-er
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [DB Navigator](https://www.bahn.de) | Tog-app |
+| [DB Navigator](https://www.bahn.de) | 🔵 Tog-app |
 | [BVG Fahrinfo](https://www.bvg.de) | Berlin-app |
+| [Google Maps](https://maps.google.com) | Kart |
 
 ### 🌍 Generelt
 | Lenke | Beskrivelse |
 |-------|-------------|
-| [Wetter.com](https://www.wetter.com) | Vær |
-| [Lonely Planet Germany](https://www.lonelyplanet.com/germany) | Reiseguide |
+| [Wetter.com](https://www.wetter.com) | 🌤️ Vær |
 | [Auswaertiges Amt](https://www.auswaertiges-amt.de) | Utenriksdept |
+| [Bundeskanzler](https://www.bundeskanzler.de) | Offisiell info |
 
 ---
 

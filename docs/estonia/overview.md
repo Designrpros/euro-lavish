@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Estland
 
 # 🇪🇪 Estland
 
-![Estland](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tallinn_Montage.jpg/800px-Tallinn_Montage.jpg)
+![Estland](/assets/countries/estonia.svg
 
 ## 📊 Levekostnader
 

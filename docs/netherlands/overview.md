@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Nederland
 
 # 🇳🇱 Nederland
 
-![Nederland](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canal_Amsterdam.jpg/800px-Canal_Amsterdam.jpg)
+![Nederland](/assets/countries/netherlands.svg
 
 ## 📊 Levekostnader
 
