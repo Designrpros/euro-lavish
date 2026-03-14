@@ -1,11 +1,33 @@
+---
+title: 🇨🇭 Sveits - Euro Lavish
+description: Komplett levekostnad-guide for Sveits
+---
+
 # 🇨🇭 Sveits
 
-## 📊 Leie: 2,580€ | Måltid: 31€ | Øl: 8.30€
+![Sveits](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Z%C3%BCrich_Lake.jpg/800px-Z%C3%BCrich_Lake.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | CHF |
+|----------|------|-----|
+| Leie (sentrum) | 2,580€ | ~2,580 CHF |
+| Måltid  | 31€ | ~31 CHF |
+| Øl (0.5L) | 8.30€ | ~8.30 CHF |
+| Cappuccino | 6€ | ~6 CHF |
+| Transport | 5€ | ~5 CHF |
+| Kino | 20€ | ~20 CHF |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Lugano | 1,700€ | |
-| 2 | Bern | 1,800€ | |
-| 3 | Basel | 1,900€ | |
-| 4 | Genève | 2,400€ | |
-| 5 | Zürich | 2,580€ | Dyrest |
+| 1 | [Lugano](byer/lugano.md) | 1,700€ | |
+| 2 | [Bern](byer/bern.md) | 1,800€ | |
+| 3 | [Basel](byer/basel.md) | 1,900€ | |
+| 4 | [Genève](byer/geneve.md) | 2,400€ | |
+| 5 | [Zürich](byer/zurich.md) | 2,580€ | Dyrest |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

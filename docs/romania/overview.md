@@ -1,16 +1,38 @@
+---
+title: 🇷🇴 Romania - Euro Lavish
+description: Komplett levekostnad-guide for Romania
+---
+
 # 🇷🇴 Romania
 
-## 📊 Leie: 600€ | Måltid: 12€ | Øl: 3€
+![Romania](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Palace_of_the_Parliament_Bucharest.jpg/800px-Palace_of_the_Parliament_Bucharest.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | 
+|----------|------|
+| Leie (sentrum) | 600€ | 
+| Måltid  | 12€ |
+| Øl (0.5L) | 3€ |
+| Cappuccino | 2€ |
+| Transport | 0.50€ |
+| Kino | 6€ |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Galați | 320€ | |
-| 2 | Craiova | 350€ | |
-| 3 | Ploiești | 380€ | |
-| 4 | Iași | 380€ | |
-| 5 | Oradea | 400€ | |
-| 6 | Timișoara | 420€ | |
-| 7 | Constanța | 450€ | Kyst |
-| 8 | Brașov | 480€ | |
-| 9 | Cluj-Napoca | 500€ | Tech |
-| 10 | București | 600€ | Hovedstad |
+| 1 | [Galați](byer/galati.md) | 320€ | |
+| 2 | [Craiova](byer/craiova.md) | 350€ | |
+| 3 | [Ploiești](byer/ploiesti.md) | 380€ | |
+| 4 | [Iași](byer/iasi.md) | 380€ | |
+| 5 | [Oradea](byer/oradea.md) | 400€ | |
+| 6 | [Timișoara](byer/timisoara.md) | 420€ | |
+| 7 | [Constanța](byer/constanta.md) | 450€ | Kyst |
+| 8 | [Brașov](byer/brasov.md) | 480€ | |
+| 9 | [Cluj-Napoca](byer/clujnapoca.md) | 500€ | Tech |
+| 10 | [București](byer/bucuresti.md) | 600€ | Hovedstad |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

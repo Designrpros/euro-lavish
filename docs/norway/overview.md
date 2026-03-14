@@ -5,7 +5,7 @@ description: Komplett levekostnad-guide for Norge
 
 # 🇳🇴 Norge
 
-![Oslo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oslo_From_Opera_House.jpg/800px-Oslo_From_Opera_House.jpg)
+![Norge](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oslo_From_Opera_House.jpg/800px-Oslo_From_Opera_House.jpg)
 
 ## 📊 Levekostnader
 
@@ -33,12 +33,41 @@ description: Komplett levekostnad-guide for Norge
 | 9 | [Stavanger](byer/stavanger.md) | 13,000 kr | Olje-hovedstad |
 | 10 | [Oslo](byer/oslo.md) | 18,431 kr | Hovedstad |
 
-## 💡 Tips
+## 🔗 Nyttige Lenker
 
-> 💰 **Norge er dyrest i Europa** - men lønningene er også høyest
+### 🏠 Bolig & Leie
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Finn.no](https://www.finn.no) | Største boligplattform |
+| [Hybel.no](https://www.hybel.no) | Leieboliger |
+| [Utleiemegleren](https://www.utleiemegleren.no) | Utleiemegler |
 
-**Billigste by:** Kristiansund (8,500 kr)
-**Dyreste by:** Oslo (18,431 kr)
+### 💼 Jobb & Karriere
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Nav.no](https://www.nav.no) | Offentlig jobbsøk |
+| [Indeed.no](https://www.indeed.no) | Jobbsøkemotor |
+| [LinkedIn](https://www.linkedin.com) | Profesjonelt nettverk |
+
+### 🚌 Transport
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Ruter.no](https://www.ruter.no) | Kollektiv transport Oslo |
+| [Entur.no](https://www.entur.no) | Hele Norges transport |
+| [Vegvesen.no](https://www.vegvesen.no) | Vei og trafikk |
+
+### 📱 App-er
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [Ruter App](https://ruter.no/reise) | Billett-app |
+| [Kollektiv](https://kollektiv.app) | Kollektiv-app |
+
+### 🌍 Generelt
+| Lenke | Beskrivelse |
+|-------|-------------|
+| [ yr.no](https://www.yr.no) | Vær |
+| [Regjeringen.no](https://www.regjeringen.no) | Offisiell info |
+| [UDI.no](https://www.udi.no) | Innvandring |
 
 ---
 

@@ -1,16 +1,38 @@
+---
+title: 🇸🇪 Sverige - Euro Lavish
+description: Komplett levekostnad-guide for Sverige
+---
+
 # 🇸🇪 Sverige
 
-## 📊 Leie: 1,404€ | Måltid: 14€ | Øl: 6.50€
+![Sverige](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Stockholm_waterfront_02.jpg/800px-Stockholm_waterfront_02.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | SEK |
+|----------|------|-----|
+| Leie (sentrum) | 1,404€ | ~16,150 kr |
+| Måltid  | 14€ | ~161 kr |
+| Øl (0.5L) | 6.50€ | ~75 kr |
+| Cappuccino | 4€ | ~46 kr |
+| Transport | 4.50€ | ~52 kr |
+| Kino | 14€ | ~161 kr |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Norrköping | 9,200 kr | Industri |
-| 2 | Helsingborg | 9,500 kr | Kyst |
-| 3 | Malmö | 9,500 kr | Storby |
-| 4 | Västerås | 9,800 kr | Tech |
-| 5 | Örebro | 10,000 kr | Universitet |
-| 6 | Linköping | 10,500 kr | Tech |
-| 7 | Uppsala | 10,000 kr | Universitet |
-| 8 | Lund | 11,000 kr | Tech |
-| 9 | Göteborg | 12,000 kr | Storby |
-| 10 | Stockholm | 16,150 kr | Hovedstad |
+| 1 | [Norrköping](byer/norrkoping.md) | 9,200 kr | Industri |
+| 2 | [Helsingborg](byer/helsingborg.md) | 9,500 kr | Kyst |
+| 3 | [Malmö](byer/malmo.md) | 9,500 kr | Storby |
+| 4 | [Västerås](byer/vasteras.md) | 9,800 kr | Tech |
+| 5 | [Örebro](byer/orebro.md) | 10,000 kr | Universitet |
+| 6 | [Linköping](byer/linkoping.md) | 10,500 kr | Tech |
+| 7 | [Uppsala](byer/uppsala.md) | 10,000 kr | Universitet |
+| 8 | [Lund](byer/lund.md) | 11,000 kr | Tech |
+| 9 | [Göteborg](byer/goteborg.md) | 12,000 kr | Storby |
+| 10 | [Stockholm](byer/stockholm.md) | 16,150 kr | Hovedstad |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

@@ -1,13 +1,35 @@
+---
+title: 🇳🇱 Nederland - Euro Lavish
+description: Komplett levekostnad-guide for Nederland
+---
+
 # 🇳🇱 Nederland
 
-## 📊 Leie: 2,260€ | Måltid: 20€ | Øl: 6€
+![Nederland](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canal_Amsterdam.jpg/800px-Canal_Amsterdam.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | 
+|----------|------|
+| Leie (sentrum) | 2,260€ | 
+| Måltid  | 20€ |
+| Øl (0.5L) | 6€ |
+| Cappuccino | 4€ |
+| Transport | 4€ |
+| Kino | 13€ |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Groningen | 1,100€ | |
-| 2 | Maastricht | 1,200€ | |
-| 3 | Eindhoven | 1,400€ | Tech |
-| 4 | Den Haag | 1,500€ | |
-| 5 | Rotterdam | 1,500€ | |
-| 6 | Utrecht | 1,600€ | |
-| 7 | Amsterdam | 2,260€ | Dyrest |
+| 1 | [Groningen](byer/groningen.md) | 1,100€ | |
+| 2 | [Maastricht](byer/maastricht.md) | 1,200€ | |
+| 3 | [Eindhoven](byer/eindhoven.md) | 1,400€ | Tech |
+| 4 | [Den Haag](byer/den_haag.md) | 1,500€ | |
+| 5 | [Rotterdam](byer/rotterdam.md) | 1,500€ | |
+| 6 | [Utrecht](byer/utrecht.md) | 1,600€ | |
+| 7 | [Amsterdam](byer/amsterdam.md) | 2,260€ | Dyrest |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

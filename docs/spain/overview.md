@@ -1,16 +1,38 @@
+---
+title: 🇪🇸 Spania - Euro Lavish
+description: Komplett levekostnad-guide for Spania
+---
+
 # 🇪🇸 Spania
 
-## 📊 Leie: 1,350€ | Måltid: 16€ | Øl: 4€
+![Spania](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Barcelona_1992_Costa_Rica_2.jpg/800px-Barcelona_1992_Costa_Rica_2.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | 
+|----------|------|
+| Leie (sentrum) | 1,350€ | 
+| Måltid  | 16€ |
+| Øl (0.5L) | 4€ |
+| Cappuccino | 2.50€ |
+| Transport | 2€ |
+| Kino | 9€ |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Granada | 600€ | Historie |
-| 2 | Málaga | 750€ | Strand |
-| 3 | Sevilla | 800€ | |
-| 4 | Valencia | 850€ | |
-| 5 | Bilbao | 950€ | |
-| 6 | Madrid | 1,200€ | Hovedstad |
-| 7 | Palma | 1,400€ | Strand |
-| 8 | Ibiza | 1,500€ | Party |
-| 9 | Marbella | 1,600€ | Luxus |
-| 10 | Barcelona | 1,401€ | |
+| 1 | [Granada](byer/granada.md) | 600€ | Historie |
+| 2 | [Málaga](byer/malaga.md) | 750€ | Strand |
+| 3 | [Sevilla](byer/sevilla.md) | 800€ | |
+| 4 | [Valencia](byer/valencia.md) | 850€ | |
+| 5 | [Bilbao](byer/bilbao.md) | 950€ | |
+| 6 | [Madrid](byer/madrid.md) | 1,200€ | Hovedstad |
+| 7 | [Palma](byer/palma.md) | 1,400€ | Strand |
+| 8 | [Ibiza](byer/ibiza.md) | 1,500€ | Party |
+| 9 | [Marbella](byer/marbella.md) | 1,600€ | Luxus |
+| 10 | [Barcelona](byer/barcelona.md) | 1,401€ | |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

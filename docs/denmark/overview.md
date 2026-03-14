@@ -1,16 +1,38 @@
+---
+title: 🇩🇰 Danmark - Euro Lavish
+description: Komplett levekostnad-guide for Danmark
+---
+
 # 🇩🇰 Danmark
 
-## 📊 Leie: 1,775€ | Måltid: 20€ | Øl: 8€
+![Danmark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/K%C3%B8benhavn_R%C3%A5dhuset.jpg/800px-K%C3%B8benhavn_R%C3%A5dhuset.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | DKK |
+|----------|------|-----|
+| Leie (sentrum) | 1,775€ | ~13,281 kr |
+| Måltid  | 20€ | ~149 kr |
+| Øl (0.5L) | 8€ | ~60 kr |
+| Cappuccino | 5€ | ~37 kr |
+| Transport | 4€ | ~30 kr |
+| Kino | 14€ | ~105 kr |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Aalborg | 7,500 kr | Universitet |
-| 2 | Odense | 8,000 kr | Eventyr |
-| 3 | Esbjerg | 8,500 kr | Havn |
-| 4 | Randers | 7,800 kr | |
-| 5 | Kolding | 8,200 kr | |
-| 6 | Horsens | 8,000 kr | |
-| 7 | Herning | 8,000 kr | |
-| 8 | Vejle | 8,500 kr | |
-| 9 | Roskilde | 10,000 kr | Historie |
-| 10 | København | 13,281 kr | Hovedstad |
+| 1 | [Aalborg](byer/aalborg.md) | 7,500 kr | Universitet |
+| 2 | [Odense](byer/odense.md) | 8,000 kr | Eventyr |
+| 3 | [Esbjerg](byer/esbjerg.md) | 8,500 kr | Havn |
+| 4 | [Randers](byer/randers.md) | 7,800 kr | |
+| 5 | [Kolding](byer/kolding.md) | 8,200 kr | |
+| 6 | [Horsens](byer/horsens.md) | 8,000 kr | |
+| 7 | [Herning](byer/herning.md) | 8,000 kr | |
+| 8 | [Vejle](byer/vejle.md) | 8,500 kr | |
+| 9 | [Roskilde](byer/roskilde.md) | 10,000 kr | Historie |
+| 10 | [København](byer/kobenhavn.md) | 13,281 kr | Hovedstad |
+
+---
+
+*Data: Numbeo.com, Mars 2026*

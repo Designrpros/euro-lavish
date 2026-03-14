@@ -1,16 +1,38 @@
+---
+title: 🇵🇱 Polen - Euro Lavish
+description: Komplett levekostnad-guide for Polen
+---
+
 # 🇵🇱 Polen
 
-## 📊 Leie: 1,000€ | Måltid: 10€ | Øl: 4.30€
+![Polen](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Krakow_-_Ratusz.jpg/800px-Krakow_-_Ratusz.jpg)
+
+## 📊 Levekostnader
+
+| Kategori | Pris | 
+|----------|------|
+| Leie (sentrum) | 1,000€ | 
+| Måltid  | 10€ |
+| Øl (0.5L) | 4.30€ |
+| Cappuccino | 3.50€ |
+| Transport | 1€ |
+| Kino | 7€ |
+
+## 🏙️ Byer (Billig → Dyr)
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | Kielce | 480€ | |
-| 2 | Łódź | 500€ | |
-| 3 | Katowice | 550€ | |
-| 4 | Lublin | 520€ | |
-| 5 | Bydgoszcz | 540€ | |
-| 6 | Poznań | 650€ | |
-| 7 | Wrocław | 750€ | |
-| 8 | Gdańsk | 800€ | Kyst |
-| 9 | Kraków | 850€ | Historie |
-| 10 | Warszawa | 1,000€ | Hovedstad |
+| 1 | [Kielce](byer/kielce.md) | 480€ | |
+| 2 | [Łódź](byer/lodz.md) | 500€ | |
+| 3 | [Katowice](byer/katowice.md) | 550€ | |
+| 4 | [Lublin](byer/lublin.md) | 520€ | |
+| 5 | [Bydgoszcz](byer/bydgoszcz.md) | 540€ | |
+| 6 | [Poznań](byer/poznan.md) | 650€ | |
+| 7 | [Wrocław](byer/wroclaw.md) | 750€ | |
+| 8 | [Gdańsk](byer/gdansk.md) | 800€ | Kyst |
+| 9 | [Kraków](byer/krakow.md) | 850€ | Historie |
+| 10 | [Warszawa](byer/warszawa.md) | 1,000€ | Hovedstad |
+
+---
+
+*Data: Numbeo.com, Mars 2026*
