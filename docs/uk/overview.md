@@ -22,13 +22,13 @@ description: Complete cost of living guide for UK
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Liverpool | 750£ | |
-| 2 | Leeds | 800£ | |
-| 3 | Glasgow | 825£ | |
-| 4 | Birmingham | 955£ | |
-| 5 | Manchester | 1,215£ | |
-| 6 | Edinburgh | 1,129£ | |
-| 7 | London | 2,200£ | Capital |
+| 1 | [Liverpool](uk/byer/liverpool/) | 750£ | |
+| 2 | [Leeds](uk/byer/leeds/) | 800£ | |
+| 3 | [Glasgow](uk/byer/glasgow/) | 825£ | |
+| 4 | [Birmingham](uk/byer/birmingham/) | 955£ | |
+| 5 | [Manchester](uk/byer/manchester/) | 1,215£ | |
+| 6 | [Edinburgh](uk/byer/edinburgh/) | 1,129£ | |
+| 7 | [London](uk/byer/london/) | 2,200£ | Capital |
 
 ## 🔗 Useful Links
 
@@ -42,13 +42,6 @@ description: Complete cost of living guide for UK
 | Link | Description |
 |------|-------------|
 | [Indeed UK](https://www.indeed.co.uk) | 🔴 Job search |
-| [LinkedIn](https://www.linkedin.com) | Professional |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [National Rail](https://www.nationalrail.co.uk) | 🔵 Trains |
-| [TfL](https://tfl.gov.uk) | London transport |
 
 ## 🛸 Drug Policy
 

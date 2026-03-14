@@ -22,12 +22,12 @@ description: Complete cost of living guide for Netherlands
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Groningen | 1,000€ | |
-| 2 | Eindhoven | 1,200€ | |
-| 3 | Utrecht | 1,350€ | |
-| 4 | The Hague | 1,400€ | |
-| 5 | Rotterdam | 1,500€ | |
-| 6 | Amsterdam | 2,260€ | Capital |
+| 1 | [Groningen](netherlands/byer/groningen/) | 1,000€ | |
+| 2 | [Eindhoven](netherlands/byer/eindhoven/) | 1,200€ | |
+| 3 | [Utrecht](netherlands/byer/utrecht/) | 1,350€ | |
+| 4 | [Den Haag](netherlands/byer/denhaag/) | 1,400€ | |
+| 5 | [Rotterdam](netherlands/byer/rotterdam/) | 1,500€ | |
+| 6 | [Amsterdam](netherlands/byer/amsterdam/) | 2,260€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -41,13 +41,6 @@ description: Complete cost of living guide for Netherlands
 | Link | Description |
 |------|-------------|
 | [Indeed Netherlands](https://www.indeed.nl) | 🔴 Job search |
-| [LinkedIn](https://www.linkedin.com) | Professional |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [NS](https://www.ns.nl) | 🔵 Trains |
-| [GVB](https://www.gvb.nl) | Amsterdam |
 
 ## 🛸 Drug Policy
 

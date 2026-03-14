@@ -22,9 +22,9 @@ description: Complete cost of living guide for Ireland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Galway | 1,200€ | |
-| 2 | Cork | 1,400€ | 2nd city |
-| 3 | Dublin | 2,300€ | Capital |
+| 1 | [Galway](ireland/byer/galway/) | 1,200€ | |
+| 2 | [Cork](ireland/byer/cork/) | 1,400€ | 2nd city |
+| 3 | [Dublin](ireland/byer/dublin/) | 2,300€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -32,19 +32,11 @@ description: Complete cost of living guide for Ireland
 | Link | Description |
 |------|-------------|
 | [Daft.ie](https://www.daft.ie) | 🔴 Biggest housing |
-| [MyHome](https://www.myhome.ie) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Ireland](https://www.indeed.ie) | 🔴 Job search |
-| [LinkedIn](https://www.linkedin.com) | Professional |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Iarnrod Eireann](https://www.irishrail.ie) | 🔵 Trains |
-| [Dublin Bus](https://www.dublinbus.ie) | Bus |
 
 ## 🛸 Drug Policy
 

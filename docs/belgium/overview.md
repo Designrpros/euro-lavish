@@ -22,9 +22,9 @@ description: Complete cost of living guide for Belgium
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Ghent | 900€ | |
-| 2 | Antwerp | 1,000€ | |
-| 3 | Brussels | 1,200€ | Capital |
+| 1 | [Ghent](belgium/byer/ghent/) | 900€ | |
+| 2 | [Antwerp](belgium/byer/antwerp/) | 1,000€ | |
+| 3 | [Brussels](belgium/byer/brussels/) | 1,200€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -32,19 +32,11 @@ description: Complete cost of living guide for Belgium
 | Link | Description |
 |------|-------------|
 | [Immoweb](https://www.immoweb.be) | 🔴 Biggest housing |
-| [Zimmo](https://www.zimmo.be) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Belgium](https://www.indeed.be) | 🔴 Job search |
-| [VDAB](https://www.vdab.be) | Flemish jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [NMBS](https://www.nmbs.be) | 🔵 Trains |
-| [STIB](https://www.stib-mivb.be) | Brussels |
 
 ## 🛸 Drug Policy
 

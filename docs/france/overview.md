@@ -22,12 +22,12 @@ description: Complete cost of living guide for France
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Nantes | 750€ | |
-| 2 | Toulouse | 800€ | |
-| 3 | Marseille | 850€ | |
-| 4 | Lyon | 950€ | 2nd city |
-| 5 | Nice | 1,100€ | |
-| 6 | Paris | 2,000€ | Capital |
+| 1 | [Nantes](france/byer/nantes/) | 750€ | |
+| 2 | [Toulouse](france/byer/toulouse/) | 800€ | |
+| 3 | [Marseille](france/byer/marseille/) | 850€ | |
+| 4 | [Lyon](france/byer/lyon/) | 950€ | 2nd city |
+| 5 | [Nice](france/byer/nice/) | 1,100€ | |
+| 6 | [Paris](france/byer/paris/) | 2,000€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -41,13 +41,6 @@ description: Complete cost of living guide for France
 | Link | Description |
 |------|-------------|
 | [Pôle Emploi](https://www.pole-emploi.fr) | 🔴 Public job service |
-| [Indeed France](https://www.indeed.fr) | Job search |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [SNCF](https://www.sncf.com) | 🔵 Trains |
-| [RATP](https://www.ratp.fr) | Paris metro |
 
 ## 🛸 Drug Policy
 
