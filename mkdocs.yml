@@ -14,6 +14,7 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.instant
+    - navigation.expand
 
 plugins:
   - search:
@@ -23,20 +24,11 @@ nav:
   - 🏠 Home: index.md
   - 🏔️ Nord-Europa:
     - norway/overview.md
-    - norway/byer/oslo.md
-    - norway/byer/bergen.md
-    - norway/byer/trondheim.md
     - sweden/overview.md
-    - sweden/byer/stockholm.md
-    - sweden/byer/goteborg.md
-    - sweden/byer/malmo.md
     - denmark/overview.md
-    - denmark/byer/kobenhavn.md
-    - denmark/byer/aarhus.md
-    - denmark/byer/odense.md
     - estonia/overview.md
     - iceland/overview.md
-    - iceland/byer/reykjavik.md
+    -finland/overview.md
   - 🏗️ Øst-Europa:
     - poland/overview.md
     - czech/overview.md
