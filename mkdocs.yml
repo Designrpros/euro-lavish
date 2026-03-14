@@ -3,10 +3,6 @@ site_description: Cost of living in 26 European countries and 120+ cities
 site_author: Alcatelz
 site_url: https://designrpros.github.io/CostOfLiving/
 
-google_analytics:
-  - G-KCYT87ZMVZ
-  - auto
-
 theme:
   name: material
   palette:
@@ -19,6 +15,9 @@ theme:
     - search.highlight
     - navigation.instant
     - navigation.expand
+
+extra_javascript:
+  - assets/javascripts/analytics.js
 
 plugins:
   - search:
@@ -58,7 +57,7 @@ nav:
     - belgium/overview.md
     - france/overview.md
   - 💰 Affiliate: affiliate.md
-  - 🛠️ Practical: praktisk/index.md
   - 🎒 Backpack: backpack/index.md
   - 📰 Blog: blog/index.md
+  - 🛠️ Practical: praktisk/index.md
   - 🌍 Links: europe-links.md
