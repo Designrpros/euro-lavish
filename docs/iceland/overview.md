@@ -1,6 +1,6 @@
 ---
 title: 🇮🇸 Iceland
-description: Complete cost of living guide for Iceland
+description: Cost of Living in Iceland
 ---
 
 # 🇮🇸 Iceland
@@ -9,20 +9,19 @@ description: Complete cost of living guide for Iceland
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,800€ |
-| Meal | 20€ |
-| Beer (0.5L) | 10€ |
-| Cappuccino | 5€ |
-| Transport | 4€ |
-| Cinema | 14€ |
+| Category | Price | ISK |
+|----------|-------|-----|
+| Rent (city center) | 1,800€ | ~260,000 kr |
+| Meal | 20€ | ~2,900 kr |
+| Beer (0.5L) | 10€ | ~1,400 kr |
+| Cappuccino | 5€ | ~720 kr |
+| Transport | 4€ | ~580 kr |
+| Cinema | 14€ | ~2,000 kr |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🔴 | Strict |
-
----
 
 *Data: Numbeo.com, March 2026*

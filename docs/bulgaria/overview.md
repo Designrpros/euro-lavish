@@ -1,6 +1,6 @@
 ---
 title: 🇧🇬 Bulgaria
-description: Complete cost of living guide for Bulgaria
+description: Cost of Living in Bulgaria
 ---
 
 # 🇧🇬 Bulgaria
@@ -9,20 +9,19 @@ description: Complete cost of living guide for Bulgaria
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 669€ |
-| Meal | 10€ |
-| Beer (0.5L) | 2.69€ |
-| Cappuccino | 2€ |
-| Transport | 0.80€ |
-| Cinema | 5€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 669€ | ~669€ |
+| Meal | 10€ | ~10€ |
+| Beer (0.5L) | 2.69€ | ~2.69€ |
+| Cappuccino | 2€ | ~2€ |
+| Transport | 0.80€ | ~0.80€ |
+| Cinema | 5€ | ~5€ |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🔴 | Strict |
-
----
 
 *Data: Numbeo.com, March 2026*

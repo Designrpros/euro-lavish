@@ -1,29 +1,27 @@
 ---
 title: 🇮🇹 Italy
-description: Complete cost of living guide for Italy
+description: Cost of Living in Italy
 ---
 
 # 🇮🇹 Italy
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0%2C36.0%2C19.0%2C47.0\&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5%2C36.0%2C18.5%2C47.0&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,500€ |
-| Meal | 18€ |
-| Beer (0.5L) | 6€ |
-| Cappuccino | 1.80€ |
-| Transport | 1.50€ |
-| Cinema | 10€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 1,000€ | ~1,000€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 5€ | ~5€ |
+| Cappuccino | 1.80€ | ~1.80€ |
+| Transport | 1.50€ | ~1.50€ |
+| Cinema | 10€ | ~10€ |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis (medical) | 🟢 | Prescription |
-| Cannabis (recreational) | 🔴 | Fines/jail |
-
----
+| Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*

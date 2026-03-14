@@ -1,6 +1,6 @@
 ---
 title: 🇷🇴 Romania
-description: Complete cost of living guide for Romania
+description: Cost of Living in Romania
 ---
 
 # 🇷🇴 Romania
@@ -9,20 +9,19 @@ description: Complete cost of living guide for Romania
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 600€ |
-| Meal | 12€ |
-| Beer (0.5L) | 3€ |
-| Cappuccino | 2.50€ |
-| Transport | 0.70€ |
-| Cinema | 6€ |
+| Category | Price | RON |
+|----------|-------|-----|
+| Rent (city center) | 600€ | ~2,980 RON |
+| Meal | 12€ | ~60 RON |
+| Beer (0.5L) | 3€ | ~15 RON |
+| Cappuccino | 2.50€ | ~12 RON |
+| Transport | 0.70€ | ~3.50 RON |
+| Cinema | 6€ | ~30 RON |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🔴 | Strict |
-
----
 
 *Data: Numbeo.com, March 2026*

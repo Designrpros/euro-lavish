@@ -1,6 +1,6 @@
 ---
 title: 🇧🇪 Belgium
-description: Complete cost of living guide for Belgium
+description: Cost of Living in Belgium
 ---
 
 # 🇧🇪 Belgium
@@ -9,24 +9,19 @@ description: Complete cost of living guide for Belgium
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,100€ |
-| Meal | 18€ |
-| Beer (0.5L) | 5€ |
-| Cappuccino | 3.50€ |
-| Transport | 2.50€ |
-| Cinema | 11€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 1,125€ | ~1,125€ |
+| Meal | 18€ | ~18€ |
+| Beer (0.5L) | 3€ | ~3€ |
+| Cappuccino | 3.50€ | ~3.50€ |
+| Transport | 2.10€ | ~2.10€ |
+| Cinema | 12€ | ~12€ |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🟢 | Partial |
-
-### 📝 Notes
-- Belgium: personal use allowed
-- Ownership under 3g: not criminal
-
----
+| Cannabis | 🟢 | Legalized |
 
 *Data: Numbeo.com, March 2026*

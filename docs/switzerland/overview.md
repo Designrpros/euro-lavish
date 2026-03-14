@@ -1,29 +1,27 @@
 ---
 title: 🇨🇭 Switzerland
-description: Complete cost of living guide for Switzerland
+description: Cost of Living in Switzerland
 ---
 
 # 🇨🇭 Switzerland
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.5%2C45.7%2C10.5%2C47.8&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.9%2C45.8%2C10.5%2C47.8&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 
 | Category | Price | CHF |
 |----------|-------|-----|
-| Rent (city center) | 2,580€ | ~2,480 CHF |
-| Meal | 30€ | ~29 CHF |
-| Beer (0.5L) | 8€ | ~7.50 CHF |
-| Cappuccino | 6€ | ~5.50 CHF |
-| Transport | 4.50€ | ~4.30 CHF |
-| Cinema | 20€ | ~19 CHF |
+| Rent (city center) | 2,580€ | ~2,580 CHF |
+| Meal | 25€ | ~25 CHF |
+| Beer (0.5L) | 7€ | ~7 CHF |
+| Cappuccino | 5.50€ | ~5.50 CHF |
+| Transport | 4.50€ | ~4.50 CHF |
+| Cinema | 20€ | ~20 CHF |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
-| Cannabis | 🟡 | Canton differences |
-| MDMA | 🔴 | Illegal |
-
----
+| Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*

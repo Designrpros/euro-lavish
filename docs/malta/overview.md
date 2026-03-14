@@ -1,6 +1,6 @@
 ---
 title: 🇲🇹 Malta
-description: Complete cost of living guide for Malta
+description: Cost of Living in Malta
 ---
 
 # 🇲🇹 Malta
@@ -9,24 +9,19 @@ description: Complete cost of living guide for Malta
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 1,100€ |
-| Meal | 15€ |
-| Beer (0.5L) | 4€ |
-| Cappuccino | 3€ |
-| Transport | 1.50€ |
-| Cinema | 10€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 1,100€ | ~1,100€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 4€ | ~4€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 1.50€ | ~1.50€ |
+| Cinema | 10€ | ~10€ |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🟢 | Legalized 2021 |
-
-### 📝 Notes
-- Malta: **first EU country** to legalize
-- 2021: personal use allowed
-
----
 
 *Data: Numbeo.com, March 2026*

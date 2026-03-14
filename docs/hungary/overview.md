@@ -1,6 +1,6 @@
 ---
 title: 🇭🇺 Hungary
-description: Complete cost of living guide for Hungary
+description: Cost of Living in Hungary
 ---
 
 # 🇭🇺 Hungary
@@ -18,11 +18,10 @@ description: Complete cost of living guide for Hungary
 | Transport | 1.10€ | ~430 Ft |
 | Cinema | 7€ | ~2,700 Ft |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🔴 | Strict |
-
----
 
 *Data: Numbeo.com, March 2026*

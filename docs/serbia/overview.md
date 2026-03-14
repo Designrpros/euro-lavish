@@ -1,6 +1,6 @@
 ---
 title: 🇷🇸 Serbia
-description: Complete cost of living guide for Serbia
+description: Cost of Living in Serbia
 ---
 
 # 🇷🇸 Serbia
@@ -9,20 +9,19 @@ description: Complete cost of living guide for Serbia
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 450€ |
-| Meal | 8€ |
-| Beer (0.5L) | 2€ |
-| Cappuccino | 2€ |
-| Transport | 0.80€ |
-| Cinema | 5€ |
+| Category | Price | RSD |
+|----------|-------|-----|
+| Rent (city center) | 450€ | ~52,650 RSD |
+| Meal | 8€ | ~935 RSD |
+| Beer (0.5L) | 2€ | ~234 RSD |
+| Cappuccino | 2€ | ~234 RSD |
+| Transport | 0.80€ | ~94 RSD |
+| Cinema | 5€ | ~585 RSD |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🟡 | Mild |
-
----
 
 *Data: Numbeo.com, March 2026*

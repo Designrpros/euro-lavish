@@ -1,6 +1,6 @@
 ---
 title: 🇪🇪 Estonia
-description: Complete cost of living guide for Estonia
+description: Cost of Living in Estonia
 ---
 
 # 🇪🇪 Estonia
@@ -9,20 +9,19 @@ description: Complete cost of living guide for Estonia
 
 ## 📊 Cost of Living
 
-| Category | Price | 
-|----------|-------|
-| Rent (city center) | 698€ |
-| Meal | 15€ |
-| Beer (0.5L) | 6€ |
-| Cappuccino | 3€ |
-| Transport | 2€ |
-| Cinema | 8€ |
+| Category | Price | EUR |
+|----------|-------|-----|
+| Rent (city center) | 698€ | ~698€ |
+| Meal | 15€ | ~15€ |
+| Beer (0.5L) | 6€ | ~6€ |
+| Cappuccino | 3€ | ~3€ |
+| Transport | 2€ | ~2€ |
+| Cinema | 8€ | ~8€ |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🔴 | Strict |
-
----
 
 *Data: Numbeo.com, March 2026*

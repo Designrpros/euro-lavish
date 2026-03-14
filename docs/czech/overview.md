@@ -1,6 +1,6 @@
 ---
 title: 🇨🇿 Czechia
-description: Complete cost of living guide for Czechia
+description: Cost of Living in Czechia
 ---
 
 # 🇨🇿 Czechia
@@ -18,11 +18,10 @@ description: Complete cost of living guide for Czechia
 | Transport | 1.20€ | ~29 Kč |
 | Cinema | 7€ | ~171 Kč |
 
+## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|
 | Cannabis | 🟢 | Legalized 2024 |
-
----
 
 *Data: Numbeo.com, March 2026*
