@@ -18,18 +18,6 @@ description: Complete cost of living guide for Austria
 | Transport | 2.40€ |
 | Cinema | 10€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Linz](byer/linz.md) | 700€ | |
-| 2 | [Graz](byer/graz.md) | 750€ | |
-| 3 | [Klagenfurt](byer/klagenfurt.md) | 700€ | |
-| 4 | [Innsbruck](byer/innsbruck.md) | 850€ | |
-| 5 | [Salzburg](byer/salzburg.md) | 950€ | |
-| 6 | [Wien](byer/vienna.md) | 1,077€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

@@ -18,17 +18,6 @@ description: Complete cost of living guide for Netherlands
 | Transport | 3€ |
 | Cinema | 13€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Groningen](byer/groningen.md) | 1,100€ | |
-| 2 | [Utrecht](byer/utrecht.md) | 1,400€ | |
-| 3 | [Rotterdam](byer/rotterdam.md) | 1,500€ | |
-| 4 | [Den Haag](byer/denhaag.md) | 1,550€ | |
-| 5 | [Amsterdam](byer/amsterdam.md) | 1,800€ | Capital |
-
-## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |

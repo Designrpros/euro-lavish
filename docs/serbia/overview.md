@@ -18,15 +18,6 @@ description: Complete cost of living guide for Serbia
 | Transport | 0.80€ |
 | Cinema | 5€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Niš](byer/nis.md) | 300€ | |
-| 2 | [Novi Sad](byer/novisad.md) | 350€ | |
-| 3 | [Beograd](byer/belgrade.md) | 450€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

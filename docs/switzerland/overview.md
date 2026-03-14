@@ -18,17 +18,6 @@ description: Complete cost of living guide for Switzerland
 | Transport | 4.50€ | ~4.30 CHF |
 | Cinema | 20€ | ~19 CHF |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Lugano](byer/lugano.md) | 1,800 CHF | |
-| 2 | [Bern](byer/bern.md) | 2,000 CHF | |
-| 3 | [Zürich](byer/zurich.md) | 2,400 CHF | |
-| 4 | [Genève](byer/geneva.md) | 2,700 CHF | |
-| 5 | [Basel](byer/basel.md) | 2,200 CHF | |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

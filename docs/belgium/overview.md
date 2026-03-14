@@ -18,17 +18,6 @@ description: Complete cost of living guide for Belgium
 | Transport | 2.50€ |
 | Cinema | 11€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Charleroi](byer/charleroi.md) | 700€ | |
-| 2 | [Liege](byer/liege.md) | 800€ | |
-| 3 | [Ghent](byer/ghent.md) | 900€ | |
-| 4 | [Antwerp](byer/antwerp.md) | 1,000€ | |
-| 5 | [Brussels](byer/brussels.md) | 1,100€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

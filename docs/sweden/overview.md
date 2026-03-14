@@ -18,22 +18,6 @@ description: Complete cost of living guide for Sweden
 | Transport | 4.50€ | ~52 kr |
 | Cinema | 14€ | ~161 kr |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Norrköping](byer/norrkoping.md) | 9,200 kr | Industry |
-| 2 | [Helsingborg](byer/helsingborg.md) | 9,500 kr | Coast |
-| 3 | [Malmö](byer/malmo.md) | 9,500 kr | City |
-| 4 | [Västerås](byer/vasteras.md) | 9,800 kr | Tech |
-| 5 | [Örebro](byer/orebro.md) | 10,000 kr | University |
-| 6 | [Linköping](byer/linkoping.md) | 10,500 kr | Tech |
-| 7 | [Uppsala](byer/uppsala.md) | 10,000 kr | University |
-| 8 | [Lund](byer/lund.md) | 11,000 kr | Tech |
-| 9 | [Göteborg](byer/goteborg.md) | 12,000 kr | City |
-| 10 | [Stockholm](byer/stockholm.md) | 16,150 kr | Capital |
-
-## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |

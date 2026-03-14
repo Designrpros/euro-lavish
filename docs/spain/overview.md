@@ -18,18 +18,6 @@ description: Complete cost of living guide for Spain
 | Transport | 1.80€ |
 | Cinema | 9€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Zaragoza](byer/zaragoza.md) | 700€ | |
-| 2 | [Granada](byer/granada.md) | 750€ | |
-| 3 | [Malaga](byer/malaga.md) | 850€ | |
-| 4 | [Valencia](byer/valencia.md) | 900€ | |
-| 5 | [Barcelona](byer/barcelona.md) | 1,400€ | Tourism |
-| 6 | [Madrid](byer/madrid.md) | 1,500€ | Capital |
-
-## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |

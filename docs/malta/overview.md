@@ -18,16 +18,6 @@ description: Complete cost of living guide for Malta
 | Transport | 1.50€ |
 | Cinema | 10€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Gozo](byer/gozo.md) | 700€ | Island |
-| 2 | [Qawra](byer/qawra.md) | 800€ | |
-| 3 | [Sliema](byer/sliema.md) | 1,000€ | |
-| 4 | [Valletta](byer/valletta.md) | 1,100€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

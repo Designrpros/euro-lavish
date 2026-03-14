@@ -18,16 +18,6 @@ description: Complete cost of living guide for Hungary
 | Transport | 1.10€ | ~430 Ft |
 | Cinema | 7€ | ~2,700 Ft |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Debrecen](byer/debrecen.md) | 500€ | |
-| 2 | [Szeged](byer/szeged.md) | 450€ | |
-| 3 | [Pécs](byer/pecs.md) | 400€ | |
-| 4 | [Budapest](byer/budapest.md) | 650€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

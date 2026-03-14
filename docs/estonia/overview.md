@@ -18,16 +18,6 @@ description: Complete cost of living guide for Estonia
 | Transport | 2€ |
 | Cinema | 8€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Narva](byer/narva.md) | 400€ | |
-| 2 | [Pärnu](byer/parnu.md) | 500€ | |
-| 3 | [Tartu](byer/tartu.md) | 600€ | University |
-| 4 | [Tallinn](byer/tallinn.md) | 698€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

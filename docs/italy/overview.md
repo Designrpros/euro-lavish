@@ -18,18 +18,6 @@ description: Complete cost of living guide for Italy
 | Transport | 1.50€ |
 | Cinema | 10€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Napoli](byer/naples.md) | 700€ | |
-| 2 | [Palermo](byer/palermo.md) | 650€ | |
-| 3 | [Bologna](byer/bologna.md) | 1,000€ | |
-| 4 | [Torino](byer/turin.md) | 950€ | |
-| 5 | [Milano](byer/milan.md) | 1,800€ | Finance |
-| 6 | [Roma](byer/rome.md) | 1,500€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

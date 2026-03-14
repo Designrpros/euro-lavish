@@ -18,22 +18,6 @@ description: Complete cost of living guide for Denmark
 | Transport | 4€ | ~30 kr |
 | Cinema | 14€ | ~105 kr |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Aalborg](byer/aalborg.md) | 7,500 kr | University |
-| 2 | [Odense](byer/odense.md) | 8,000 kr | Fairy tale |
-| 3 | [Esbjerg](byer/esbjerg.md) | 8,500 kr | Port |
-| 4 | [Randers](byer/randers.md) | 7,800 kr | |
-| 5 | [Kolding](byer/kolding.md) | 8,200 kr | |
-| 6 | [Horsens](byer/horsens.md) | 8,000 kr | |
-| 7 | [Herning](byer/herning.md) | 8,000 kr | |
-| 8 | [Vejle](byer/vejle.md) | 8,500 kr | |
-| 9 | [Roskilde](byer/roskilde.md) | 10,000 kr | History |
-| 10 | [København](byer/kobenhavn.md) | 13,281 kr | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

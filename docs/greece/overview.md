@@ -18,22 +18,6 @@ description: Complete cost of living guide for Greece
 | Transport | 1.50€ |
 | Cinema | 8€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Heraklion](byer/heraklion.md) | 400€ | Crete |
-| 2 | [Patras](byer/patras.md) | 420€ | |
-| 3 | [Larissa](byer/larissa.md) | 450€ | |
-| 4 | [Ioannina](byer/ioannina.md) | 460€ | |
-| 5 | [Volos](byer/volos.md) | 480€ | |
-| 6 | [Chania](byer/chania.md) | 520€ | Crete |
-| 7 | [Rhodes](byer/rhodes.md) | 500€ | Island |
-| 8 | [Thessaloniki](byer/thessaloniki.md) | 550€ | |
-| 9 | [Athens](byer/athens.md) | 615€ | History |
-| 10 | [Santorini](byer/santorini.md) | 1,200€ | Tourism |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

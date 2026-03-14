@@ -18,16 +18,6 @@ description: Complete cost of living guide for Czechia
 | Transport | 1.20€ | ~29 Kč |
 | Cinema | 7€ | ~171 Kč |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Ostrava](byer/ostrava.md) | 600€ | |
-| 2 | [Plzeň](byer/plzen.md) | 650€ | |
-| 3 | [Brno](byer/brno.md) | 750€ | |
-| 4 | [Praha](byer/prague.md) | 1,000€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

@@ -18,15 +18,6 @@ description: Complete cost of living guide for Bulgaria
 | Transport | 0.80€ |
 | Cinema | 5€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Plovdiv](byer/plovdiv.md) | 400€ | |
-| 2 | [Varna](byer/varna.md) | 450€ | |
-| 3 | [Sofia](byer/sofia.md) | 669€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

@@ -18,16 +18,6 @@ description: Complete cost of living guide for Ireland
 | Transport | 3€ |
 | Cinema | 13€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Galway](byer/galway.md) | 1,200€ | |
-| 2 | [Limerick](byer/limerick.md) | 1,100€ | |
-| 3 | [Cork](byer/cork.md) | 1,300€ | |
-| 4 | [Dublin](byer/dublin.md) | 1,800€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

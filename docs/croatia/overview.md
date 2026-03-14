@@ -18,17 +18,6 @@ description: Complete cost of living guide for Croatia
 | Transport | 1.50€ |
 | Cinema | 7€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Osijek](byer/osijek.md) | 400€ | |
-| 2 | [Rijeka](byer/rijeka.md) | 500€ | |
-| 3 | [Zagreb](byer/zagreb.md) | 700€ | Capital |
-| 4 | [Split](byer/split.md) | 650€ | |
-| 5 | [Dubrovnik](byer/dubrovnik.md) | 800€ | |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

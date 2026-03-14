@@ -18,17 +18,6 @@ description: Complete cost of living guide for France
 | Transport | 2.10€ |
 | Cinema | 12€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Nantes](byer/nantes.md) | 900€ | |
-| 2 | [Lyon](byer/lyon.md) | 1,000€ | |
-| 3 | [Toulouse](byer/toulouse.md) | 950€ | |
-| 4 | [Marseille](byer/marseille.md) | 1,000€ | |
-| 5 | [Paris](byer/paris.md) | 1,800€ | Capital |
-
-## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |

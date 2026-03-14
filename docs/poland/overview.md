@@ -18,20 +18,6 @@ description: Complete cost of living guide for Poland
 | Transport | 1€ | ~4 zł |
 | Cinema | 7€ | ~30 zł |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Lublin](byer/lublin.md) | 2,000 zł | |
-| 2 | [Bialystok](byer/bialystok.md) | 2,200 zł | |
-| 3 | [Katowice](byer/katowice.md) | 2,500 zł | |
-| 4 | [Gdansk](byer/gdansk.md) | 3,000 zł | |
-| 5 | [Wroclaw](byer/wroclaw.md) | 3,200 zł | |
-| 6 | [Poznan](byer/poznan.md) | 3,300 zł | |
-| 7 | [Krakow](byer/krakow.md) | 3,500 zł | |
-| 8 | [Warszawa](byer/warsaw.md) | 4,200 zł | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

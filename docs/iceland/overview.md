@@ -18,14 +18,6 @@ description: Complete cost of living guide for Iceland
 | Transport | 4€ |
 | Cinema | 14€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Akureyri](byer/akureyri.md) | 1,200€ | |
-| 2 | [Reykjavik](byer/reykjavik.md) | 1,800€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

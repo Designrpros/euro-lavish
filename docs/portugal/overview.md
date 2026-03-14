@@ -18,17 +18,6 @@ description: Complete cost of living guide for Portugal
 | Transport | 1.80€ |
 | Cinema | 8€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Braga](byer/braga.md) | 600€ | |
-| 2 | [Porto](byer/porto.md) | 800€ | |
-| 3 | [Coimbra](byer/coimbra.md) | 700€ | University |
-| 4 | [Lisboa](byer/lisbon.md) | 1,200€ | Capital |
-| 5 | [Faro](byer/faro.md) | 850€ | Algarve |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

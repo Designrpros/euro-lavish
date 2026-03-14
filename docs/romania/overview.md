@@ -18,16 +18,6 @@ description: Complete cost of living guide for Romania
 | Transport | 0.70€ |
 | Cinema | 6€ |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Craiova](byer/craiova.md) | 400€ | |
-| 2 | [Timișoara](byer/timisoara.md) | 450€ | |
-| 3 | [Cluj-Napoca](byer/cluj.md) | 500€ | |
-| 4 | [București](byer/bucharest.md) | 600€ | Capital |
-
-## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
 |-----------|--------|---------|

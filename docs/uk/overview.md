@@ -18,17 +18,6 @@ description: Complete cost of living guide for United Kingdom
 | Transport | 3£ | ~€3.50 |
 | Cinema | 15£ | ~€17 |
 
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Leeds](byer/leeds.md) | 1,050£ | |
-| 2 | [Liverpool](byer/liverpool.md) | 950£ | |
-| 3 | [Birmingham](byer/birmingham.md) | 1,200£ | |
-| 4 | [Manchester](byer/manchester.md) | 1,400£ | |
-| 5 | [London](byer/london.md) | 2,500£ | Capital |
-
-## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
 | Link | Description |
