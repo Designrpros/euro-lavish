@@ -3,6 +3,10 @@ site_description: Cost of living in 26 European countries and 120+ cities
 site_author: Alcatelz
 site_url: https://designrpros.github.io/euro-lavish/
 
+google_analytics:
+  - G-KCYT87ZMVZ
+  - auto
+
 theme:
   name: material
   palette:
