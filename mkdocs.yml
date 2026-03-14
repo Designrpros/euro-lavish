@@ -2,7 +2,6 @@ site_name: 🪙
 site_description: Cost of Living in Europe - 26 Countries, Multiple Cities
 site_author: Alcatelz
 site_url: https://designrpros.github.io/euro-lavish/
-alternate_prefix: en/
 
 theme:
   name: material
@@ -16,8 +15,6 @@ theme:
     - search.highlight
     - navigation.instant
     - navigation.expand
-    - header.autohide
-  language: en
 
 plugins:
   - search:
@@ -25,15 +22,13 @@ plugins:
       prebuild_index: true
 
 nav:
-  - 🏠 EN: index-en.md
-  - 🏠 NO: index.md
   - 🏔️ Nord-Europa:
     - norway/overview.md
     - sweden/overview.md
     - denmark/overview.md
     - estonia/overview.md
     - iceland/overview.md
-    - finland/overview.md
+    - finnland/overview.md
   - 🏗️ Øst-Europa:
     - poland/overview.md
     - czech/overview.md
@@ -61,18 +56,3 @@ nav:
   - 💰 Affiliate: affiliate.md
   - 🛠️ Praktisk: praktisk/index.md
   - 🌍 Lenker: europe-links.md
-
-extra:
-  alternate:
-    - link: /
-      name: 🇬🇧 English
-      fixed: true
-    - link: /index-en/
-      name: 🇬🇧 English
-      fixed: true
-    - link: /index-en/
-      name: 🇳🇴 Norsk
-      fixed: true
-    - link: /
-      name: 🇳🇴 Norsk
-      fixed: true
