@@ -22,13 +22,13 @@ description: Complete cost of living guide for Germany
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Leipzig](byer/leipzig.md) | 750€ | |
-| 2 | [Stuttgart](byer/stuttgart.md) | 1,050€ | |
-| 3 | [Cologne](byer/cologne.md) | 1,100€ | |
-| 4 | [Frankfurt](byer/frankfurt.md) | 1,400€ | Finance |
-| 5 | [Hamburg](byer/hamburg.md) | 1,300€ | Port |
-| 6 | [München](byer/munich.md) | 1,800€ | Most expensive |
-| 7 | [Berlin](byer/berlin.md) | 1,270€ | Capital |
+| 1 | [Leipzig](../byer/leipzig.md) | 750€ | |
+| 2 | [Stuttgart](../byer/stuttgart.md) | 1,050€ | |
+| 3 | [Cologne](../byer/cologne.md) | 1,100€ | |
+| 4 | [Frankfurt](../byer/frankfurt.md) | 1,400€ | Finance |
+| 5 | [Hamburg](../byer/hamburg.md) | 1,300€ | Port |
+| 6 | [München](../byer/munich.md) | 1,800€ | Most expensive |
+| 7 | [Berlin](../byer/berlin.md) | 1,270€ | Capital |
 
 ## 🔗 Useful Links
 

@@ -22,10 +22,10 @@ description: Complete cost of living guide for Greece
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Heraklion](byer/heraklion.md) | 450€ | Crete |
-| 2 | [Chania](byer/chania.md) | 500€ | Crete |
-| 3 | [Thessaloniki](byer/thessaloniki.md) | 550€ | 2nd city |
-| 4 | [Athens](byer/athens.md) | 650€ | Capital |
+| 1 | [Heraklion](../byer/heraklion.md) | 450€ | Crete |
+| 2 | [Chania](../byer/chania.md) | 500€ | Crete |
+| 3 | [Thessaloniki](../byer/thessaloniki.md) | 550€ | 2nd city |
+| 4 | [Athens](../byer/athens.md) | 650€ | Capital |
 
 ## 🔗 Useful Links
 

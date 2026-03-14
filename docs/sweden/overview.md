@@ -22,13 +22,13 @@ description: Complete cost of living guide for Sweden
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Västerås](byer/vasteras.md) | 8,250 kr | |
-| 2 | [Örebro](byer/orebro.md) | 8,250 kr | |
-| 3 | [Linköping](byer/linkoping.md) | 8,800 kr | |
-| 4 | [Uppsala](byer/uppsala.md) | 9,350 kr | University |
-| 5 | [Malmö](byer/malmo.md) | 9,900 kr | |
-| 6 | [Göteborg](byer/goteborg.md) | 12,100 kr | 2nd city |
-| 7 | [Stockholm](byer/stockholm.md) | 15,500 kr | Capital |
+| 1 | [Västerås](../byer/vasteras.md) | 8,250 kr | |
+| 2 | [Örebro](../byer/orebro.md) | 8,250 kr | |
+| 3 | [Linköping](../byer/linkoping.md) | 8,800 kr | |
+| 4 | [Uppsala](../byer/uppsala.md) | 9,350 kr | University |
+| 5 | [Malmö](../byer/malmo.md) | 9,900 kr | |
+| 6 | [Göteborg](../byer/goteborg.md) | 12,100 kr | 2nd city |
+| 7 | [Stockholm](../byer/stockholm.md) | 15,500 kr | Capital |
 
 ## 🔗 Useful Links
 

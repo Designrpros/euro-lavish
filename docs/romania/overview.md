@@ -22,11 +22,11 @@ description: Complete cost of living guide for Romania
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Târgu Mureș](byer/targumures.md) | 1,888 RON | |
-| 2 | [Iași](byer/iasi.md) | 2,235 RON | |
-| 3 | [Timișoara](byer/timisoara.md) | 2,483 RON | |
-| 4 | [Cluj-Napoca](byer/cluj.md) | 2,980 RON | |
-| 5 | [Bucharest](byer/bucharest.md) | 3,477 RON | Capital |
+| 1 | [Târgu Mureș](../byer/targumures.md) | 1,888 RON | |
+| 2 | [Iași](../byer/iasi.md) | 2,235 RON | |
+| 3 | [Timișoara](../byer/timisoara.md) | 2,483 RON | |
+| 4 | [Cluj-Napoca](../byer/cluj.md) | 2,980 RON | |
+| 5 | [Bucharest](../byer/bucharest.md) | 3,477 RON | Capital |
 
 ## 🔗 Useful Links
 

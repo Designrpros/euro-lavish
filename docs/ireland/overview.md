@@ -22,9 +22,9 @@ description: Complete cost of living guide for Ireland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Galway](byer/galway.md) | 1,200€ | |
-| 2 | [Cork](byer/cork.md) | 1,400€ | 2nd city |
-| 3 | [Dublin](byer/dublin.md) | 2,300€ | Capital |
+| 1 | [Galway](../byer/galway.md) | 1,200€ | |
+| 2 | [Cork](../byer/cork.md) | 1,400€ | 2nd city |
+| 3 | [Dublin](../byer/dublin.md) | 2,300€ | Capital |
 
 ## 🔗 Useful Links
 
