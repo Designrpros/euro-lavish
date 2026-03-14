@@ -22,7 +22,11 @@ description: Complete cost of living guide for Serbia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Belgrade | 58,500 RSD | Capital |
+| 1 | [Niš](serbia/byer/nis/) | 29,250 RSD | |
+| 2 | [Kragujevac](serbia/byer/kragujevac/) | 31,590 RSD | |
+| 3 | [Subotica](serbia/byer/subotica/) | 32,760 RSD | |
+| 4 | [Novi Sad](serbia/byer/novisad/) | 40,950 RSD | |
+| 5 | [Belgrade](serbia/byer/belgrade/) | 58,500 RSD | Capital |
 
 ## 🔗 Useful Links
 
@@ -30,19 +34,11 @@ description: Complete cost of living guide for Serbia
 | Link | Description |
 |------|-------------|
 | [Nekretnine.rs](https://www.nekretnine.rs) | Housing |
-| [HaloOglasi](https://www.halooglasi.com) | Classifieds |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Serbia](https://www.indeed.rs) | Job search |
-| [Poslovi.rs](https://www.poslovi.rs) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [Serbian Railways](https://www.srbvoz.rs) | 🔵 Trains |
-| [GSP](https://www.gsp.rs) | Belgrade bus |
 
 ## 🛸 Drug Policy
 

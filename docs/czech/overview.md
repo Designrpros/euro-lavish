@@ -22,8 +22,11 @@ description: Complete cost of living guide for Czechia
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Brno | 18,375 Kč | 2nd city |
-| 2 | Prague | 29,400 Kč | Capital |
+| 1 | [Ostrava](czech/byer/ostrava/) | 14,700 Kč | |
+| 2 | [Olomouc](czech/byer/olomouc/) | 13,475 Kč | |
+| 3 | [Plzeň](czech/byer/plzen/) | 15,925 Kč | |
+| 4 | [Brno](czech/byer/brno/) | 18,375 Kč | 2nd city |
+| 5 | [Prague](czech/byer/prague/) | 29,400 Kč | Capital |
 
 ## 🔗 Useful Links
 
@@ -31,19 +34,11 @@ description: Complete cost of living guide for Czechia
 | Link | Description |
 |------|-------------|
 | [SReality](https://www.sreality.cz) | 🔴 Biggest housing |
-| [ bezrealitky](https://www.bezrealitky.cz) | No-fee rentals |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Czech](https://www.indeed.cz) | Job search |
-| [Jobs.cz](https://www.jobs.cz) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [CD](https://www.cd.cz) | 🔵 Trains |
-| [DPP](https://www.dpp.cz) | Prague |
 
 ## 🛸 Drug Policy
 

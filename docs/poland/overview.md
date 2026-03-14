@@ -22,9 +22,11 @@ description: Complete cost of living guide for Poland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Wroclaw | 3,225 zł | |
-| 2 | Krakow | 3,440 zł | |
-| 3 | Warsaw | 4,300 zł | Capital |
+| 1 | [Wroclaw](poland/byer/wroclaw/) | 3,225 zł | |
+| 2 | [Krakow](poland/byer/krakow/) | 3,440 zł | |
+| 3 | [Gdańsk](poland/byer/gdansk/) | 3,870 zł | |
+| 4 | [Poznań](poland/byer/poznan/) | 3,655 zł | |
+| 5 | [Warsaw](poland/byer/warsaw/) | 4,300 zł | Capital |
 
 ## 🔗 Useful Links
 
@@ -38,13 +40,6 @@ description: Complete cost of living guide for Poland
 | Link | Description |
 |------|-------------|
 | [Indeed Poland](https://www.indeed.pl) | 🔴 Job search |
-| [Pracuj.pl](https://www.pracuj.pl) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [PKP](https://www.pkp.pl) | 🔵 Trains |
-| [PKS](https://www.pks.pl) | Buses |
 
 ## 🛸 Drug Policy
 

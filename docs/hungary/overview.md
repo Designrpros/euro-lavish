@@ -22,8 +22,10 @@ description: Complete cost of living guide for Hungary
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Debrecen | 196,250 Ft | |
-| 2 | Budapest | 314,000 Ft | Capital |
+| 1 | [Debrecen](hungary/byer/debrecen/) | 196,250 Ft | |
+| 2 | [Szeged](hungary/byer/szeged/) | 176,625 Ft | |
+| 3 | [Pécs](hungary/byer/pecs/) | 157,000 Ft | |
+| 4 | [Budapest](hungary/byer/budapest/) | 314,000 Ft | Capital |
 
 ## 🔗 Useful Links
 
@@ -31,19 +33,11 @@ description: Complete cost of living guide for Hungary
 | Link | Description |
 |------|-------------|
 | [Ingatlan.com](https://www.ingatlan.com) | 🔴 Biggest housing |
-| [Jofogas](https://www.jofogas.hu) | Classifieds |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Hungary](https://www.indeed.hu) | Job search |
-| [Profession](https://www.profession.hu) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [MAV](https://www.mav.hu) | 🔵 Trains |
-| [BKK](https://www.bkk.hu) | Budapest |
 
 ## 🛸 Drug Policy
 

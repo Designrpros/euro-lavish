@@ -22,7 +22,11 @@ description: Complete cost of living guide for Bulgaria
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Sofia | 669€ | Capital |
+| 1 | [Veliko Tarnovo](bulgaria/byer/velikoturnovo/) | 380€ | |
+| 2 | [Burgas](bulgaria/byer/burgas/) | 400€ | |
+| 3 | [Plovdiv](bulgaria/byer/plovdiv/) | 450€ | |
+| 4 | [Varna](bulgaria/byer/varna/) | 500€ | |
+| 5 | [Sofia](bulgaria/byer/sofia/) | 669€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -30,19 +34,11 @@ description: Complete cost of living guide for Bulgaria
 | Link | Description |
 |------|-------------|
 | [Imoti.net](https://www.imoti.net) | 🔴 Biggest housing |
-| [Housing.bg](https://www.housing.bg) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Bulgaria](https://www.indeed.bg) | Job search |
-| [Jobticker](https://www.jobticker.bg) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [BDZ](https://www.bdz.bg) | 🔵 Trains |
-| [Sofia Transport](https://www.sofiatraffic.bg) | Metro |
 
 ## 🛸 Drug Policy
 

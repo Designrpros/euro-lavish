@@ -22,8 +22,11 @@ description: Complete cost of living guide for Romania
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Cluj-Napoca | 2,980 RON | |
-| 2 | Bucharest | 3,477 RON | Capital |
+| 1 | [Târgu Mureș](romania/byer/targumures/) | 1,888 RON | |
+| 2 | [Iași](romania/byer/iasi/) | 2,235 RON | |
+| 3 | [Timișoara](romania/byer/timisoara/) | 2,483 RON | |
+| 4 | [Cluj-Napoca](romania/byer/cluj/) | 2,980 RON | |
+| 5 | [Bucharest](romania/byer/bucharest/) | 3,477 RON | Capital |
 
 ## 🔗 Useful Links
 
@@ -31,19 +34,11 @@ description: Complete cost of living guide for Romania
 | Link | Description |
 |------|-------------|
 | [Imobiliare.ro](https://www.imobiliare.ro) | 🔴 Biggest housing |
-| [Storia.ro](https://www.storia.ro) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Romania](https://www.indeed.ro) | Job search |
-| [BestJobs](https://www.bestjobs.eu) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [CFR](https://www.cfrcalatori.ro) | 🔵 Trains |
-| [STB](https://www.stb.ro) | Bucharest |
 
 ## 🛸 Drug Policy
 

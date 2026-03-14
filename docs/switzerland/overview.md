@@ -22,9 +22,9 @@ description: Complete cost of living guide for Switzerland
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Bern | 1,800 CHF | |
-| 2 | Geneva | 2,500 CHF | |
-| 3 | Zurich | 2,800 CHF | Capital |
+| 1 | [Bern](switzerland/byer/bern/) | 1,800 CHF | |
+| 2 | [Geneva](switzerland/byer/geneva/) | 2,500 CHF | |
+| 3 | [Zurich](switzerland/byer/zurich/) | 2,800 CHF | Capital |
 
 ## 🔗 Useful Links
 
@@ -32,19 +32,11 @@ description: Complete cost of living guide for Switzerland
 | Link | Description |
 |------|-------------|
 | [Immoscout24](https://www.immoscout24.ch) | 🔴 Biggest housing |
-| [Homegate](https://www.homegate.ch) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Switzerland](https://www.indeed.ch) | 🔴 Job search |
-| [LinkedIn](https://www.linkedin.com) | Professional |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [SBB](https://www.sbb.ch) | 🔵 Trains |
-| [ZVV](https://www.zvv.ch) | Zurich |
 
 ## 🛸 Drug Policy
 

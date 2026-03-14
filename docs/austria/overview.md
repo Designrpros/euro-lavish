@@ -22,9 +22,9 @@ description: Complete cost of living guide for Austria
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | Innsbruck | 900€ | |
-| 2 | Salzburg | 950€ | |
-| 3 | Vienna | 1,100€ | Capital |
+| 1 | [Innsbruck](austria/byer/innsbruck/) | 900€ | |
+| 2 | [Salzburg](austria/byer/salzburg/) | 950€ | |
+| 3 | [Vienna](austria/byer/vienna/) | 1,100€ | Capital |
 
 ## 🔗 Useful Links
 
@@ -32,19 +32,11 @@ description: Complete cost of living guide for Austria
 | Link | Description |
 |------|-------------|
 | [Willhaben](https://www.willhaben.at) | 🔴 Biggest housing |
-| [Immobilien.net](https://www.immobilien.net) | Real estate |
 
 ### 💼 Jobs
 | Link | Description |
 |------|-------------|
 | [Indeed Austria](https://www.indeed.at) | Job search |
-| [Karriere.at](https://www.karriere.at) | Jobs |
-
-### 🚌 Transport
-| Link | Description |
-|------|-------------|
-| [OBB](https://www.oebb.at) | 🔵 Trains |
-| [Wiener Linien](https://www.wienerlinien.at) | Vienna |
 
 ## 🛸 Drug Policy
 
