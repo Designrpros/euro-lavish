@@ -55,6 +55,20 @@ description: Complete cost of living guide for Italy
 | 6 | [Turin](cities/turin.md) | 850€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Ciao / Buongiorno |
+| **Thank you** | Grazie |
+| **Yes/No** | Sì / No |
+| **How are you?** | Come stai? |
+| **Excuse me** | Scusi |
+| **Check, please!** | Il conto, per favore! |
+| **Do you speak English?** | Parla inglese? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

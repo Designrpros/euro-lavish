@@ -55,6 +55,20 @@ description: Complete cost of living guide for Finland
 | 6 | [Turku](cities/turku.md) | 800€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hei |
+| **Thank you** | Kiitos |
+| **Yes/No** | Kyllä / Ei |
+| **How are you?** | Mitä kuuluu? |
+| **Excuse me** | Anteeksi |
+| **Check, please!** | Lasku, kiitos! |
+| **Do you speak English?** | Puhutteko englantia? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

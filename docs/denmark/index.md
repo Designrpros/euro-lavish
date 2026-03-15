@@ -58,6 +58,20 @@ description: Complete cost of living guide for Denmark
 | 9 | [Roskilde](cities/roskilde.md) | --- |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hej |
+| **Thank you** | Tak |
+| **Yes/No** | Ja / Nej |
+| **How are you?** | Hvordan har du det? |
+| **Excuse me** | Undskyld |
+| **Check, please!** | Regningen, tak! |
+| **Do you speak English?** | Taler du engelsk? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

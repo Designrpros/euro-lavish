@@ -54,6 +54,20 @@ description: Complete cost of living guide for Spain
 | 5 | [Valencia](cities/valencia.md) | 950€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hola |
+| **Thank you** | Gracias |
+| **Yes/No** | Sí / No |
+| **How are you?** | ¿Cómo estás? |
+| **Excuse me** | Perdone |
+| **Check, please!** | ¡La cuenta, por favor! |
+| **Do you speak English?** | ¿Habla inglés? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

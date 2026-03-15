@@ -54,6 +54,20 @@ description: Complete cost of living guide for Bulgaria
 | 5 | [Veliko Tarnovo](cities/velikoturnovo.md) | 380€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Zdravei |
+| **Thank you** | Blagodarya |
+| **Yes/No** | Da / Ne |
+| **How are you?** | Kak si? |
+| **Excuse me** | Izvinete |
+| **Check, please!** | Smetkata, molya! |
+| **Do you speak English?** | Govorite li angliiski? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

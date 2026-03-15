@@ -59,6 +59,20 @@ description: Complete cost of living guide for Norway
 | 10 | [Trondheim](cities/trondheim.md) | 1,100€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hallo |
+| **Thank you** | Takk |
+| **Yes/No** | Ja / Nei |
+| **How are you?** | Hvordan har du det? |
+| **Excuse me** | Unnskyld |
+| **Check, please!** | Regningen, takk! |
+| **Do you speak English?** | Snakker du engelsk? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

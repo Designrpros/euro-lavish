@@ -55,6 +55,20 @@ description: Complete cost of living guide for Netherlands
 | 6 | [Utrecht](cities/utrecht.md) | 1,350€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hoi / Hallo |
+| **Thank you** | Bedankt |
+| **Yes/No** | Ja / Nee |
+| **How are you?** | Hoe gaat het? |
+| **Excuse me** | Pardon |
+| **Check, please!** | De rekening, alstublieft! |
+| **Do you speak English?** | Spreekt u Engels? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

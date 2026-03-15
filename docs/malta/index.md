@@ -54,6 +54,20 @@ description: Complete cost of living guide for Malta
 | 5 | [Valletta](cities/valletta.md) | 1,100€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Bonġu |
+| **Thank you** | Grazzi |
+| **Yes/No** | Iva / Le |
+| **How are you?** | Kif anti? |
+| **Excuse me** | Skużani |
+| **Check, please!** | Il-kont, jekk jogħġbok! |
+| **Do you speak English?** | Titkellem bl-Ingliż? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

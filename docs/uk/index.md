@@ -56,6 +56,20 @@ description: Complete cost of living guide for UK
 | 7 | [Manchester](cities/manchester.md) | 1,400€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hello |
+| **Thank you** | Thank you |
+| **Yes/No** | Yes / No |
+| **How are you?** | How are you? |
+| **Excuse me** | Excuse me |
+| **Check, please!** | The check, please! |
+| **Do you speak English?** | Do you speak English? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -55,6 +55,20 @@ description: Complete cost of living guide for Hungary
 | 6 | [Szeged](cities/szeged.md) | 450€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Szia |
+| **Thank you** | Köszönöm |
+| **Yes/No** | Igen / Nem |
+| **How are you?** | Hogy vagy? |
+| **Excuse me** | Elnézést |
+| **Check, please!** | A számlát, kérem! |
+| **Do you speak English?** | Beszél angolul? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

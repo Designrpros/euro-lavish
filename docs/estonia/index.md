@@ -55,6 +55,20 @@ description: Complete cost of living guide for Estonia
 | 6 | [Tartu](cities/tartu.md) | 500€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Tere |
+| **Thank you** | Aitäh |
+| **Yes/No** | Jah / Ei |
+| **How are you?** | Kuidas läheb? |
+| **Excuse me** | Vabandust |
+| **Check, please!** | Arve, palun! |
+| **Do you speak English?** | Kas te räägite inglise keelt? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -55,6 +55,20 @@ description: Complete cost of living guide for Portugal
 | 6 | [Setubal](cities/setubal.md) | 750€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Olá |
+| **Thank you** | Obrigado |
+| **Yes/No** | Sim / Não |
+| **How are you?** | Como está? |
+| **Excuse me** | Com licença |
+| **Check, please!** | A conta, por favor! |
+| **Do you speak English?** | Fala inglês? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

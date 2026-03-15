@@ -56,6 +56,20 @@ description: Complete cost of living guide for Germany
 | 7 | [Stuttgart](cities/stuttgart.md) | 1,050€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hallo |
+| **Thank you** | Danke |
+| **Yes/No** | Ja / Nein |
+| **How are you?** | Wie geht es dir? |
+| **Excuse me** | Entschuldigung |
+| **Check, please!** | Die Rechnung, bitte! |
+| **Do you speak English?** | Sprechen Sie Englisch? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -57,6 +57,20 @@ description: Complete cost of living guide for Greece
 | 8 | [Volos](cities/volos.md) | 420€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Yassas |
+| **Thank you** | Efcharisto |
+| **Yes/No** | Nai / Ochi |
+| **How are you?** | Ti kanis? |
+| **Excuse me** | Signomi |
+| **Check, please!** | Ton logariasmo, parakalo! |
+| **Do you speak English?** | Milate Anglika? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -54,6 +54,20 @@ description: Complete cost of living guide for Poland
 | 5 | [Wroclaw](cities/wroclaw.md) | 750€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Cześć |
+| **Thank you** | Dziękuję |
+| **Yes/No** | Tak / Nie |
+| **How are you?** | Jak się masz? |
+| **Excuse me** | Przepraszam |
+| **Check, please!** | Poproszę rachunek! |
+| **Do you speak English?** | Czy mówisz po angielsku? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

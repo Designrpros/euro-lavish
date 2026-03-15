@@ -54,6 +54,20 @@ description: Complete cost of living guide for Switzerland
 | 5 | [Zurich](cities/zurich.md) | 2,800€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Grüezi / Hallo |
+| **Thank you** | Danke |
+| **Yes/No** | Ja / Nein |
+| **How are you?** | Wie geht's? |
+| **Excuse me** | Exgüsi |
+| **Check, please!** | Zahlen bitte! |
+| **Do you speak English?** | Sprechen Sie Englisch? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

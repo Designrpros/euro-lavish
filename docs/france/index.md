@@ -55,6 +55,20 @@ description: Complete cost of living guide for France
 | 6 | [Toulouse](cities/toulouse.md) | 800€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Bonjour |
+| **Thank you** | Merci |
+| **Yes/No** | Oui / Non |
+| **How are you?** | Comment ça va ? |
+| **Excuse me** | Excusez-moi |
+| **Check, please!** | L'addition, s'il vous plaît ! |
+| **Do you speak English?** | Parlez-vous anglais ? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

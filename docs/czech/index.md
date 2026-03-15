@@ -54,6 +54,20 @@ description: Complete cost of living guide for Czechia
 | 5 | [Prague](cities/prague.md) | 1,200€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Ahoj |
+| **Thank you** | Děkuji |
+| **Yes/No** | Ano / Ne |
+| **How are you?** | Jak se máš? |
+| **Excuse me** | Promiňte |
+| **Check, please!** | Účet, prosím! |
+| **Do you speak English?** | Mluvíte anglicky? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

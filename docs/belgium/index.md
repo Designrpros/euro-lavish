@@ -55,6 +55,20 @@ description: Complete cost of living guide for Belgium
 | 6 | [Liege](cities/liege.md) | 750€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hallo / Bonjour |
+| **Thank you** | Dank u / Merci |
+| **Yes/No** | Ja / Oui |
+| **How are you?** | Hoe gaat het? / Ça va? |
+| **Excuse me** | Excuseer / Pardon |
+| **Check, please!** | De rekening, aub / L'addition, svp |
+| **Do you speak English?** | Spreekt u Engels? / Anglais? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

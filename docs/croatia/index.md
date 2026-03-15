@@ -54,6 +54,20 @@ description: Complete cost of living guide for Croatia
 | 5 | [Zagreb](cities/zagreb.md) | 700€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Bok / Zdravo |
+| **Thank you** | Hvala |
+| **Yes/No** | Da / Ne |
+| **How are you?** | Kako ste? |
+| **Excuse me** | Oprostite |
+| **Check, please!** | Račun, molim! |
+| **Do you speak English?** | Govorite li engleski? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

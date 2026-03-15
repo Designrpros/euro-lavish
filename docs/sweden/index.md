@@ -58,6 +58,20 @@ description: Complete cost of living guide for Sweden
 | 9 | [Västerås](cities/vasteras.md) | 750€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Hej |
+| **Thank you** | Tack |
+| **Yes/No** | Ja / Nej |
+| **How are you?** | Hur mår du? |
+| **Excuse me** | Ursäkta |
+| **Check, please!** | Notan, tack! |
+| **Do you speak English?** | Pratar du engelska? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

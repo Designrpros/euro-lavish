@@ -55,6 +55,20 @@ description: Complete cost of living guide for Iceland
 | 6 | [Reykjavik](cities/reykjavik.md) | 1,800€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Halló |
+| **Thank you** | Takk |
+| **Yes/No** | Já / Nei |
+| **How are you?** | Hvernig hefurðu það? |
+| **Excuse me** | Afsakið |
+| **Check, please!** | Reikninginn, takk! |
+| **Do you speak English?** | Talarðu ensku? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -54,6 +54,20 @@ description: Complete cost of living guide for Austria
 | 5 | [Vienna](cities/vienna.md) | 1,100€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Servus / Hallo |
+| **Thank you** | Danke |
+| **Yes/No** | Ja / Nein |
+| **How are you?** | Wie geht's? |
+| **Excuse me** | Entschuldigen Sie |
+| **Check, please!** | Zahlen bitte! |
+| **Do you speak English?** | Sprechen Sie Englisch? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

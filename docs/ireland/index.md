@@ -54,6 +54,20 @@ description: Complete cost of living guide for Ireland
 | 5 | [Waterford](cities/waterford.md) | 1,200€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Dia dhuit |
+| **Thank you** | Go raibh maith agat |
+| **Yes/No** | Tá / Níl |
+| **How are you?** | Conas atá tú? |
+| **Excuse me** | Gabh mo leithscéal |
+| **Check, please!** | An bille, le do thoil! |
+| **Do you speak English?** | An labhraíonn tú Béarla? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

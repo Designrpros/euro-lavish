@@ -54,6 +54,20 @@ description: Complete cost of living guide for Romania
 | 5 | [Timișoara](cities/timisoara.md) | 500€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Salut |
+| **Thank you** | Mulțumesc |
+| **Yes/No** | Da / Nu |
+| **How are you?** | Ce faci? |
+| **Excuse me** | Scuzați-må |
+| **Check, please!** | Nota, vă rog! |
+| **Do you speak English?** | Vorbiți engleză? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

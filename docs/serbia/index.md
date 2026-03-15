@@ -54,6 +54,20 @@ description: Complete cost of living guide for Serbia
 | 5 | [Subotica](cities/subotica.md) | 280€ |  |
 
 
+
+
+## 🗣️ Essential Phrases
+
+| English | Local Language |
+|---------|----------------|
+| **Hello** | Zdravo |
+| **Thank you** | Hvala |
+| **Yes/No** | Da / Ne |
+| **How are you?** | Kako si? |
+| **Excuse me** | Izvinite |
+| **Check, please!** | Račun, molim! |
+| **Do you speak English?** | Govorite li engleski? |
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
