@@ -5,7 +5,7 @@ description: Complete cost of living guide for Poland
 
 # 🇵🇱 Poland
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.0%2C49.0%2C24.0%2C55.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.20%2C50.92%2C20.80%2C53.08&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

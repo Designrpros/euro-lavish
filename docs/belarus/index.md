@@ -5,7 +5,7 @@ description: Complete cost of living guide for Belarus
 
 # 🇧🇾 Belarus
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=23.1%2C51.3%2C32.8%2C56.2&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=26.20%2C52.75%2C29.70%2C54.75&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

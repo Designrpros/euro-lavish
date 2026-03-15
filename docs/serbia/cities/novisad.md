@@ -5,7 +5,7 @@ description: Cost of Living in Novi Sad
 
 # 🏙️ Novi Sad
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.8%2C45.2%2C20.2%2C45.4&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Novi+Sad,Serbia&t=&z=12&ie=UTF8&iwloc=&output=embed"></iframe>
 
 ## 📊 Cost of Living
 

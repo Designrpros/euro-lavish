@@ -5,7 +5,7 @@ description: Cost of Living in Limassol
 
 # 🏙️ Limassol
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=32.2%2C34.5%2C34.7%2C35.8&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Limassol,Cyprus&t=&z=12&ie=UTF8&iwloc=&output=embed"></iframe>
 
 ## 📊 Cost of Living in Limassol
 

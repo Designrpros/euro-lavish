@@ -5,7 +5,7 @@ description: Complete cost of living guide for Hungary
 
 # 🇭🇺 Hungary
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=16.0%2C46.0%2C23.0%2C48.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.24%2C46.25%2C20.76%2C48.25&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

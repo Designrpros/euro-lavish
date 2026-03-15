@@ -5,7 +5,7 @@ description: Cost of Living in Trondheim
 
 # 🏙️ Trondheim
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.2%2C63.4%2C10.5%2C63.6&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Trondheim,Norway&t=&z=12&ie=UTF8&iwloc=&output=embed"></iframe>
 
 ## 📊 Cost of Living
 

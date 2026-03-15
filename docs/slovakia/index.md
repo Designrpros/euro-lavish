@@ -5,7 +5,7 @@ description: Complete cost of living guide for Slovakia
 
 # 🇸🇰 Slovakia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=16.8%2C47.7%2C22.6%2C49.7&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.66%2C47.70%2C20.74%2C49.70&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

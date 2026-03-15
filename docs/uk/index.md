@@ -5,7 +5,7 @@ description: Complete cost of living guide for UK
 
 # 🇬🇧 United Kingdom
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.0%2C49.0%2C2.0%2C61.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.80%2C52.84%2C-1.20%2C57.16&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

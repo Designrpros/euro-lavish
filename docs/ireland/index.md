@@ -5,7 +5,7 @@ description: Complete cost of living guide for Ireland
 
 # 🇮🇪 Ireland
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-10.5%2C51.5%2C-6.0%2C55.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-9.25%2C52.50%2C-7.25%2C54.50&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

@@ -5,7 +5,7 @@ description: Cost of Living in Gyor
 
 # 🏙️ Gyor
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.5,47.6,17.8,47.8&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Gyor,Hungary&t=&z=12&ie=UTF8&iwloc=&output=embed"></iframe>
 
 ## 📊 Cost of Living
 

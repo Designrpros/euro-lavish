@@ -5,7 +5,7 @@ description: Cost of Living in Edirne
 
 # 🏙️ Edirne
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=26.0%2C40.0%2C29.0%2C42.0&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Edirne,Turkey&t=&z=12&ie=UTF8&iwloc=&output=embed"></iframe>
 
 ## 📊 Cost of Living in Edirne
 

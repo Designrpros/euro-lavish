@@ -5,7 +5,7 @@ description: Complete cost of living guide for Austria
 
 # 🇦🇹 Austria
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.5%2C46.4%2C17.0%2C49.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.90%2C46.70%2C14.60%2C48.70&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

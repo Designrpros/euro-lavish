@@ -5,7 +5,7 @@ description: Complete cost of living guide for Serbia
 
 # 🇷🇸 Serbia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.0%2C42.0%2C23.0%2C46.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.50%2C43.25%2C21.50%2C45.25&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

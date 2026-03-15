@@ -5,7 +5,7 @@ description: Complete cost of living guide for Turkey (European)
 
 # 🇹🇷 Turkey (European)
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=26.0%2C40.0%2C29.0%2C42.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=26.50%2C40.00%2C28.50%2C42.00&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

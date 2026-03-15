@@ -5,7 +5,7 @@ description: Complete cost of living guide for Slovenia
 
 # 🇸🇮 Slovenia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.3%2C45.4%2C16.6%2C47.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.95%2C45.20%2C15.95%2C47.20&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

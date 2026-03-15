@@ -5,7 +5,7 @@ description: Complete cost of living guide for Andorra
 
 # 🇦🇩 Andorra
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4%2C42.4%2C1.8%2C42.7&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.60%2C41.55%2C2.60%2C43.55&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

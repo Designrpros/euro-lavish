@@ -5,7 +5,7 @@ description: Complete cost of living guide for Liechtenstein
 
 # 🇱🇮 Liechtenstein
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.4%2C47.0%2C9.6%2C47.3&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.50%2C46.15%2C10.50%2C48.15&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

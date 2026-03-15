@@ -5,7 +5,7 @@ description: Complete cost of living guide for Norway
 
 # 🇳🇴 Norway
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.0%2C58.0%2C16.0%2C71.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.84%2C62.16%2C12.16%2C66.84&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

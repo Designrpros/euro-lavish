@@ -5,7 +5,7 @@ description: Complete cost of living guide for Croatia
 
 # 🇭🇷 Croatia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.0%2C42.0%2C20.0%2C47.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=15.24%2C43.50%2C17.76%2C45.50&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

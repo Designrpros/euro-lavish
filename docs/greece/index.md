@@ -5,7 +5,7 @@ description: Complete cost of living guide for Greece
 
 # 🇬🇷 Greece
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.0%2C35.0%2C30.0%2C42.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=22.52%2C37.24%2C26.48%2C39.76&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

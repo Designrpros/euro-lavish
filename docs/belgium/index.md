@@ -5,7 +5,7 @@ description: Complete cost of living guide for Belgium
 
 # 🇧🇪 Belgium
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.5%2C49.5%2C6.5%2C51.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.50%2C49.50%2C5.50%2C51.50&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

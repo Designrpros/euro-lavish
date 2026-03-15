@@ -5,7 +5,7 @@ description: Complete cost of living guide for Montenegro
 
 # 🇲🇪 Montenegro
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.4%2C41.8%2C20.4%2C43.6&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.40%2C41.70%2C20.40%2C43.70&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

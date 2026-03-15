@@ -5,7 +5,7 @@ description: Complete cost of living guide for Switzerland
 
 # 🇨🇭 Switzerland
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.9%2C45.8%2C10.5%2C47.8&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.20%2C45.80%2C9.20%2C47.80&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

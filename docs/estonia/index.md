@@ -5,7 +5,7 @@ description: Complete cost of living guide for Estonia
 
 # 🇪🇪 Estonia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=21.5%2C57.5%2C28.5%2C60.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=23.74%2C57.75%2C26.26%2C59.75&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

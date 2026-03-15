@@ -5,7 +5,7 @@ description: Complete cost of living guide for Czechia
 
 # 🇨🇿 Czechia
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.0%2C48.5%2C19.0%2C51.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.24%2C49.00%2C16.76%2C51.00&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

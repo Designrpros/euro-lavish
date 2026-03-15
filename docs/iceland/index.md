@@ -5,7 +5,7 @@ description: Complete cost of living guide for Iceland
 
 # 🇮🇸 Iceland
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-25.0%2C63.0%2C-11.0%2C67.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-20.52%2C64.00%2C-15.48%2C66.00&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

@@ -5,7 +5,7 @@ description: Complete cost of living guide for Malta
 
 # 🇲🇹 Malta
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=14.0%2C35.8%2C14.6%2C36.1&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.30%2C34.95%2C15.30%2C36.95&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

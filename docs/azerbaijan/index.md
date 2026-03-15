@@ -5,7 +5,7 @@ description: Complete cost of living guide for Azerbaijan
 
 # 🇦🇿 Azerbaijan
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=44.7%2C38.4%2C50.6%2C41.9&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=46.59%2C39.15%2C48.71%2C41.15&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

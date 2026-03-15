@@ -5,7 +5,7 @@ description: Complete cost of living guide for Romania
 
 # 🇷🇴 Romania
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.0%2C43.5%2C30.0%2C48.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=23.20%2C45.00%2C26.80%2C47.00&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

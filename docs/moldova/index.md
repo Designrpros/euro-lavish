@@ -5,7 +5,7 @@ description: Complete cost of living guide for Moldova
 
 # 🇲🇩 Moldova
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=26.6%2C45.4%2C30.2%2C48.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=27.40%2C45.95%2C29.40%2C47.95&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

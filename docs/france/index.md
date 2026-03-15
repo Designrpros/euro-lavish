@@ -5,7 +5,7 @@ description: Complete cost of living guide for France
 
 # 🇫🇷 France
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-5.0%2C41.0%2C10.0%2C51.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.20%2C44.20%2C5.20%2C47.80&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

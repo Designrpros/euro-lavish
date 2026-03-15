@@ -5,7 +5,7 @@ description: Complete cost of living guide for Cyprus
 
 # 🇨🇾 Cyprus
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=32.2%2C34.5%2C34.7%2C35.8&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=32.45%2C34.15%2C34.45%2C36.15&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 

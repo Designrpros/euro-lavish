@@ -5,7 +5,7 @@ description: Complete cost of living guide for Netherlands
 
 # 🇳🇱 Netherlands
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0%2C50.5%2C7.5%2C54.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.25%2C51.25%2C6.25%2C53.25&layer=mapnik"></iframe>
 
 ## 📊 Cost of Living
 
