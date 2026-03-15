@@ -18,13 +18,21 @@ description: Cost of Living in Setubal
 | Transport | 1.60€ | ~1.6 EUR |
 | Cinema | 8€ | ~8 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Setubal](https://www.google.com/maps/search/Gym+and+Workout+in+Setubal) |
+| 🧖 **Spas & Wellness** | [Find Spas in Setubal](https://www.google.com/maps/search/Spa+and+Wellness+in+Setubal) |
+| 💻 **Coworking** | [Find Coworking in Setubal](https://www.google.com/maps/search/Coworking+Spaces+in+Setubal) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Setubal](https://www.google.com/maps/search/laptop+friendly+cafes+in+Setubal) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Setubal](https://www.google.com/maps/search/supermarket+in+Setubal) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Setubal) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Setubal--Portugal) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

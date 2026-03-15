@@ -18,13 +18,21 @@ description: Cost of Living in Drammen
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 11€ | ~126 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Drammen](https://www.google.com/maps/search/Gym+and+Workout+in+Drammen) |
+| 🧖 **Spas & Wellness** | [Find Spas in Drammen](https://www.google.com/maps/search/Spa+and+Wellness+in+Drammen) |
+| 💻 **Coworking** | [Find Coworking in Drammen](https://www.google.com/maps/search/Coworking+Spaces+in+Drammen) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Drammen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Drammen) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Drammen](https://www.google.com/maps/search/supermarket+in+Drammen) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Drammen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Drammen--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

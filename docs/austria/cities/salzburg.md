@@ -18,13 +18,21 @@ description: Cost of Living in Salzburg
 | Transport | 2.40€ | ~2.40€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Salzburg](https://www.google.com/maps/search/Gym+and+Workout+in+Salzburg) |
+| 🧖 **Spas & Wellness** | [Find Spas in Salzburg](https://www.google.com/maps/search/Spa+and+Wellness+in+Salzburg) |
+| 💻 **Coworking** | [Find Coworking in Salzburg](https://www.google.com/maps/search/Coworking+Spaces+in+Salzburg) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Salzburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Salzburg) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Salzburg](https://www.google.com/maps/search/supermarket+in+Salzburg) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Salzburg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Salzburg--Austria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

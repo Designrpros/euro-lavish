@@ -18,7 +18,26 @@ description: Complete cost of living guide for Finland
 | Transport | 3€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Helsinki](cities/helsinki.md) | 1,100€ |  |
+| 2 | [Kuopio](cities/kuopio.md) | 650€ |  |
+| 3 | [Lahti](cities/lahti.md) | 700€ |  |
+| 4 | [Oulu](cities/oulu.md) | 750€ |  |
+| 5 | [Tampere](cities/tampere.md) | 850€ |  |
+| 6 | [Turku](cities/turku.md) | 800€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇫🇮 Finland](https://www.google.com/maps/search/Gym+and+Workout+in+🇫🇮+Finland) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇫🇮 Finland](https://www.google.com/maps/search/Spa+and+Wellness+in+🇫🇮+Finland) |
+| 💻 **Coworking** | [Find Coworking in 🇫🇮 Finland](https://www.google.com/maps/search/Coworking+Spaces+in+🇫🇮+Finland) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇫🇮 Finland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇫🇮+Finland) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇫🇮 Finland](https://www.google.com/maps/search/supermarket+in+🇫🇮+Finland) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Finland
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [HSL](https://www.hsl.fi/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Helsinki](cities/helsinki.md) | 1,100€ |  |
-| 2 | [Kuopio](cities/kuopio.md) | 650€ |  |
-| 3 | [Lahti](cities/lahti.md) | 700€ |  |
-| 4 | [Oulu](cities/oulu.md) | 750€ |  |
-| 5 | [Tampere](cities/tampere.md) | 850€ |  |
-| 6 | [Turku](cities/turku.md) | 800€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Finland
 | **Check, please!** | Lasku, kiitos! |
 | **Do you speak English?** | Puhutteko englantia? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -82,10 +93,3 @@ description: Complete cost of living guide for Finland
 |------|-------------|
 | [Te-palvelut](https://www.te-palvelut.fi) | Public employment |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

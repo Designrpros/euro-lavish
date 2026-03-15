@@ -16,6 +16,23 @@ description: Complete cost of living guide for Montenegro
 | Beer (0.5L) | 2.50€ | ~2.50 EUR |
 | Cappuccino | 2€ | ~2 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Podgorica](cities/podgorica.md) | 500€ |
+| [Nikšić](cities/nikšić.md) | 500€ |
+| [Budva](cities/budva.md) | 500€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇲🇪 Montenegro](https://www.google.com/maps/search/Gym+and+Workout+in+🇲🇪+Montenegro) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇲🇪 Montenegro](https://www.google.com/maps/search/Spa+and+Wellness+in+🇲🇪+Montenegro) |
+| 💻 **Coworking** | [Find Coworking in 🇲🇪 Montenegro](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇪+Montenegro) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇪 Montenegro](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇪+Montenegro) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇪 Montenegro](https://www.google.com/maps/search/supermarket+in+🇲🇪+Montenegro) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Montenegro
 | **Excuse me** | Oprostite |
 | **Check, please!** | Račun, molim! |
 | **Do you speak English?** | Govorite li engleski? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Podgorica](cities/podgorica.md) | 500€ |
-| [Nikšić](cities/nikšić.md) | 500€ |
-| [Budva](cities/budva.md) | 500€ |
 
 ## 🔗 Useful Links
 

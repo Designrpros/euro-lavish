@@ -18,13 +18,21 @@ description: Cost of Living in Sliema
 1.50€ | ~1.50€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Sliema](https://www.google.com/maps/search/Gym+and+Workout+in+Sliema) |
+| 🧖 **Spas & Wellness** | [Find Spas in Sliema](https://www.google.com/maps/search/Spa+and+Wellness+in+Sliema) |
+| 💻 **Coworking** | [Find Coworking in Sliema](https://www.google.com/maps/search/Coworking+Spaces+in+Sliema) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Sliema](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sliema) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Sliema](https://www.google.com/maps/search/supermarket+in+Sliema) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Sliema) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Sliema--Malta) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

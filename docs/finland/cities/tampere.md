@@ -18,13 +18,21 @@ description: Cost of Living in Tampere
 | Transport | 3€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Tampere](https://www.google.com/maps/search/Gym+and+Workout+in+Tampere) |
+| 🧖 **Spas & Wellness** | [Find Spas in Tampere](https://www.google.com/maps/search/Spa+and+Wellness+in+Tampere) |
+| 💻 **Coworking** | [Find Coworking in Tampere](https://www.google.com/maps/search/Coworking+Spaces+in+Tampere) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Tampere](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tampere) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Tampere](https://www.google.com/maps/search/supermarket+in+Tampere) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Tampere) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tampere--Finland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

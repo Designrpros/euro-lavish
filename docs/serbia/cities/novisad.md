@@ -18,13 +18,21 @@ description: Cost of Living in Novi Sad
 | Transport | 0.70€ | ~82 RSD |
 | Cinema | 4€ | ~468 RSD |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Novi Sad](https://www.google.com/maps/search/Gym+and+Workout+in+Novi+Sad) |
+| 🧖 **Spas & Wellness** | [Find Spas in Novi Sad](https://www.google.com/maps/search/Spa+and+Wellness+in+Novi+Sad) |
+| 💻 **Coworking** | [Find Coworking in Novi Sad](https://www.google.com/maps/search/Coworking+Spaces+in+Novi+Sad) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Novi Sad](https://www.google.com/maps/search/laptop+friendly+cafes+in+Novi+Sad) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Novi Sad](https://www.google.com/maps/search/supermarket+in+Novi+Sad) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Novi+Sad) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Novi-Sad--Serbia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

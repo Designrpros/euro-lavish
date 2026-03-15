@@ -18,13 +18,21 @@ description: Cost of Living in Bucharest
 | Transport | 0.70€ | ~3.50 RON |
 | Cinema | 6€ | ~30 RON |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Bucharest](https://www.google.com/maps/search/Gym+and+Workout+in+Bucharest) |
+| 🧖 **Spas & Wellness** | [Find Spas in Bucharest](https://www.google.com/maps/search/Spa+and+Wellness+in+Bucharest) |
+| 💻 **Coworking** | [Find Coworking in Bucharest](https://www.google.com/maps/search/Coworking+Spaces+in+Bucharest) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Bucharest](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bucharest) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Bucharest](https://www.google.com/maps/search/supermarket+in+Bucharest) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bucharest) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bucharest--Romania) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Valencia
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Valencia](https://www.google.com/maps/search/Gym+and+Workout+in+Valencia) |
+| 🧖 **Spas & Wellness** | [Find Spas in Valencia](https://www.google.com/maps/search/Spa+and+Wellness+in+Valencia) |
+| 💻 **Coworking** | [Find Coworking in Valencia](https://www.google.com/maps/search/Coworking+Spaces+in+Valencia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Valencia](https://www.google.com/maps/search/laptop+friendly+cafes+in+Valencia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Valencia](https://www.google.com/maps/search/supermarket+in+Valencia) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Valencia) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Valencia--Spain) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

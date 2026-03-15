@@ -18,13 +18,21 @@ description: Cost of Living in Prague
 | Transport | 1.20€ | ~29 Kč |
 | Cinema | 7€ | ~171 Kč |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Prague](https://www.google.com/maps/search/Gym+and+Workout+in+Prague) |
+| 🧖 **Spas & Wellness** | [Find Spas in Prague](https://www.google.com/maps/search/Spa+and+Wellness+in+Prague) |
+| 💻 **Coworking** | [Find Coworking in Prague](https://www.google.com/maps/search/Coworking+Spaces+in+Prague) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Prague](https://www.google.com/maps/search/laptop+friendly+cafes+in+Prague) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Prague](https://www.google.com/maps/search/supermarket+in+Prague) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Prague) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Prague--Czechia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,7 +18,25 @@ description: Complete cost of living guide for Czechia
 | Transport | 1.20€ | ~29 Kč |
 | Cinema | 7€ | ~171 Kč |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Brno](cities/brno.md) | 750€ |  |
+| 2 | [Olomouc](cities/olomouc.md) | 550€ |  |
+| 3 | [Ostrava](cities/ostrava.md) | 600€ |  |
+| 4 | [Plzeň](cities/plzen.md) | 650€ |  |
+| 5 | [Prague](cities/prague.md) | 1,200€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇨🇿 Czechia](https://www.google.com/maps/search/Gym+and+Workout+in+🇨🇿+Czechia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇨🇿 Czechia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇨🇿+Czechia) |
+| 💻 **Coworking** | [Find Coworking in 🇨🇿 Czechia](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇿+Czechia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇿 Czechia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇿+Czechia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇿 Czechia](https://www.google.com/maps/search/supermarket+in+🇨🇿+Czechia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Czechia
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [PID Lítačka](https://app.pidlitacka.cz/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Brno](cities/brno.md) | 750€ |  |
-| 2 | [Olomouc](cities/olomouc.md) | 550€ |  |
-| 3 | [Ostrava](cities/ostrava.md) | 600€ |  |
-| 4 | [Plzeň](cities/plzen.md) | 650€ |  |
-| 5 | [Prague](cities/prague.md) | 1,200€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Czechia
 | **Check, please!** | Účet, prosím! |
 | **Do you speak English?** | Mluvíte anglicky? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Legalized 2024 |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Czechia
 |------|-------------|
 | [Indeed Czech](https://www.indeed.cz) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟢 | Legalized 2024 |
-
-*Data: Numbeo.com, March 2026*

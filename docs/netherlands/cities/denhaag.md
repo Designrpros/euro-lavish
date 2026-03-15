@@ -18,13 +18,21 @@ description: Cost of Living in The Hague
 | Transport | 3€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in The Hague](https://www.google.com/maps/search/Gym+and+Workout+in+The+Hague) |
+| 🧖 **Spas & Wellness** | [Find Spas in The Hague](https://www.google.com/maps/search/Spa+and+Wellness+in+The+Hague) |
+| 💻 **Coworking** | [Find Coworking in The Hague](https://www.google.com/maps/search/Coworking+Spaces+in+The+Hague) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in The Hague](https://www.google.com/maps/search/laptop+friendly+cafes+in+The+Hague) |
+| 🛒 **Supermarkets** | [Find Supermarkets in The Hague](https://www.google.com/maps/search/supermarket+in+The+Hague) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=The+Hague) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/The-Hague--Netherlands) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

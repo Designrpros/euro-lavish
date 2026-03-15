@@ -18,13 +18,21 @@ description: Cost of Living in Ostrava
 | Transport | 0.90€ | ~22 Kč |
 | Cinema | 5€ | ~122 Kč |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Ostrava](https://www.google.com/maps/search/Gym+and+Workout+in+Ostrava) |
+| 🧖 **Spas & Wellness** | [Find Spas in Ostrava](https://www.google.com/maps/search/Spa+and+Wellness+in+Ostrava) |
+| 💻 **Coworking** | [Find Coworking in Ostrava](https://www.google.com/maps/search/Coworking+Spaces+in+Ostrava) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Ostrava](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ostrava) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Ostrava](https://www.google.com/maps/search/supermarket+in+Ostrava) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Ostrava) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Ostrava--Czechia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Niš
 | Transport | 0.60€ | ~70 RSD |
 | Cinema | 4€ | ~468 RSD |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Niš](https://www.google.com/maps/search/Gym+and+Workout+in+Niš) |
+| 🧖 **Spas & Wellness** | [Find Spas in Niš](https://www.google.com/maps/search/Spa+and+Wellness+in+Niš) |
+| 💻 **Coworking** | [Find Coworking in Niš](https://www.google.com/maps/search/Coworking+Spaces+in+Niš) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Niš](https://www.google.com/maps/search/laptop+friendly+cafes+in+Niš) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Niš](https://www.google.com/maps/search/supermarket+in+Niš) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Nis) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Nis--Serbia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

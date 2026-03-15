@@ -16,13 +16,21 @@ description: Cost of Living in Randers
 | Transport | 2.50€ | ~19 kr |
 | Cinema | 9€ | ~67 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Randers](https://www.google.com/maps/search/Gym+and+Workout+in+Randers) |
+| 🧖 **Spas & Wellness** | [Find Spas in Randers](https://www.google.com/maps/search/Spa+and+Wellness+in+Randers) |
+| 💻 **Coworking** | [Find Coworking in Randers](https://www.google.com/maps/search/Coworking+Spaces+in+Randers) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Randers](https://www.google.com/maps/search/laptop+friendly+cafes+in+Randers) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Randers](https://www.google.com/maps/search/supermarket+in+Randers) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Randers) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Randers--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

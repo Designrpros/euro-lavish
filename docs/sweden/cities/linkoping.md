@@ -18,13 +18,21 @@ description: Cost of Living in Linköping
 | Transport | 3€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Linköping](https://www.google.com/maps/search/Gym+and+Workout+in+Linköping) |
+| 🧖 **Spas & Wellness** | [Find Spas in Linköping](https://www.google.com/maps/search/Spa+and+Wellness+in+Linköping) |
+| 💻 **Coworking** | [Find Coworking in Linköping](https://www.google.com/maps/search/Coworking+Spaces+in+Linköping) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Linköping](https://www.google.com/maps/search/laptop+friendly+cafes+in+Linköping) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Linköping](https://www.google.com/maps/search/supermarket+in+Linköping) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Linkoping) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Linkoping--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

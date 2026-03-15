@@ -18,13 +18,21 @@ description: Cost of Living in Tartu
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Tartu](https://www.google.com/maps/search/Gym+and+Workout+in+Tartu) |
+| 🧖 **Spas & Wellness** | [Find Spas in Tartu](https://www.google.com/maps/search/Spa+and+Wellness+in+Tartu) |
+| 💻 **Coworking** | [Find Coworking in Tartu](https://www.google.com/maps/search/Coworking+Spaces+in+Tartu) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Tartu](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tartu) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Tartu](https://www.google.com/maps/search/supermarket+in+Tartu) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Tartu) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tartu--Estonia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

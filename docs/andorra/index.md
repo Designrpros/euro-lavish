@@ -16,6 +16,21 @@ description: Complete cost of living guide for Andorra
 | Beer (0.5L) | 3.50€ | ~3.50 EUR |
 | Cappuccino | 2€ | ~2 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Andorra la Vella](cities/andorra-la-vella.md) | 1200€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇦🇩 Andorra](https://www.google.com/maps/search/Gym+and+Workout+in+🇦🇩+Andorra) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇦🇩 Andorra](https://www.google.com/maps/search/Spa+and+Wellness+in+🇦🇩+Andorra) |
+| 💻 **Coworking** | [Find Coworking in 🇦🇩 Andorra](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇩+Andorra) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇩 Andorra](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇩+Andorra) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇩 Andorra](https://www.google.com/maps/search/supermarket+in+🇦🇩+Andorra) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,12 +50,6 @@ description: Complete cost of living guide for Andorra
 | **Excuse me** | Perdoni |
 | **Check, please!** | El compte, si us plau! |
 | **Do you speak English?** | Parles anglès? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Andorra la Vella](cities/andorra-la-vella.md) | 1200€ |
 
 ## 🔗 Useful Links
 

@@ -18,13 +18,21 @@ description: Cost of Living in Manchester
 | Transport | 3€ | ~2.60£ |
 | Cinema | 12€ | ~10£ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Manchester](https://www.google.com/maps/search/Gym+and+Workout+in+Manchester) |
+| 🧖 **Spas & Wellness** | [Find Spas in Manchester](https://www.google.com/maps/search/Spa+and+Wellness+in+Manchester) |
+| 💻 **Coworking** | [Find Coworking in Manchester](https://www.google.com/maps/search/Coworking+Spaces+in+Manchester) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Manchester](https://www.google.com/maps/search/laptop+friendly+cafes+in+Manchester) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Manchester](https://www.google.com/maps/search/supermarket+in+Manchester) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Manchester) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Manchester--UK) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

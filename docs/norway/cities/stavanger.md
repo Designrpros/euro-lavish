@@ -18,13 +18,21 @@ description: Cost of Living in Stavanger
 | Transport | 4€ | ~46 kr |
 | Cinema | 13€ | ~149 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Stavanger](https://www.google.com/maps/search/Gym+and+Workout+in+Stavanger) |
+| 🧖 **Spas & Wellness** | [Find Spas in Stavanger](https://www.google.com/maps/search/Spa+and+Wellness+in+Stavanger) |
+| 💻 **Coworking** | [Find Coworking in Stavanger](https://www.google.com/maps/search/Coworking+Spaces+in+Stavanger) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Stavanger](https://www.google.com/maps/search/laptop+friendly+cafes+in+Stavanger) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Stavanger](https://www.google.com/maps/search/supermarket+in+Stavanger) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Stavanger) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Stavanger--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

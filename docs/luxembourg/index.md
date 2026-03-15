@@ -16,6 +16,21 @@ description: Complete cost of living guide for Luxembourg
 | Beer (0.5L) | 6€ | ~6 EUR |
 | Cappuccino | 4€ | ~4 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Luxembourg City](cities/luxembourg-city.md) | 1800€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇱🇺 Luxembourg](https://www.google.com/maps/search/Gym+and+Workout+in+🇱🇺+Luxembourg) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇱🇺 Luxembourg](https://www.google.com/maps/search/Spa+and+Wellness+in+🇱🇺+Luxembourg) |
+| 💻 **Coworking** | [Find Coworking in 🇱🇺 Luxembourg](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇺+Luxembourg) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇺 Luxembourg](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇺+Luxembourg) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇺 Luxembourg](https://www.google.com/maps/search/supermarket+in+🇱🇺+Luxembourg) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,12 +50,6 @@ description: Complete cost of living guide for Luxembourg
 | **Excuse me** | Entschëllegt |
 | **Check, please!** | D'Rechung, wann ech gelift! |
 | **Do you speak English?** | Schwätzt Dir Englesch? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Luxembourg City](cities/luxembourg-city.md) | 1800€ |
 
 ## 🔗 Useful Links
 

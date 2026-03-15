@@ -18,13 +18,21 @@ description: Cost of Living in Molde
 | Transport | 3.50€ | ~40 kr |
 | Cinema | 10€ | ~115 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Molde](https://www.google.com/maps/search/Gym+and+Workout+in+Molde) |
+| 🧖 **Spas & Wellness** | [Find Spas in Molde](https://www.google.com/maps/search/Spa+and+Wellness+in+Molde) |
+| 💻 **Coworking** | [Find Coworking in Molde](https://www.google.com/maps/search/Coworking+Spaces+in+Molde) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Molde](https://www.google.com/maps/search/laptop+friendly+cafes+in+Molde) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Molde](https://www.google.com/maps/search/supermarket+in+Molde) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Molde) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Molde--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

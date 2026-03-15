@@ -16,6 +16,23 @@ description: Complete cost of living guide for Slovakia
 | Beer (0.5L) | 2.50€ | ~2.50 EUR |
 | Cappuccino | 2.50€ | ~2.50 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Bratislava](cities/bratislava.md) | 600€ |
+| [Košice](cities/košice.md) | 600€ |
+| [Prešov](cities/prešov.md) | 600€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇸🇰 Slovakia](https://www.google.com/maps/search/Gym+and+Workout+in+🇸🇰+Slovakia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇸🇰 Slovakia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇸🇰+Slovakia) |
+| 💻 **Coworking** | [Find Coworking in 🇸🇰 Slovakia](https://www.google.com/maps/search/Coworking+Spaces+in+🇸🇰+Slovakia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇸🇰 Slovakia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇸🇰+Slovakia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇸🇰 Slovakia](https://www.google.com/maps/search/supermarket+in+🇸🇰+Slovakia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Slovakia
 | **Excuse me** | Prepáčte |
 | **Check, please!** | Účet, prosím! |
 | **Do you speak English?** | Hovoríte po anglicky? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Bratislava](cities/bratislava.md) | 600€ |
-| [Košice](cities/košice.md) | 600€ |
-| [Prešov](cities/prešov.md) | 600€ |
 
 ## 🔗 Useful Links
 

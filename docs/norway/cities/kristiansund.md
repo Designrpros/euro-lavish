@@ -18,13 +18,21 @@ description: Cost of Living in Kristiansund
 | Transport | 3.50€ | ~40 kr |
 | Cinema | 9€ | ~103 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kristiansund](https://www.google.com/maps/search/Gym+and+Workout+in+Kristiansund) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kristiansund](https://www.google.com/maps/search/Spa+and+Wellness+in+Kristiansund) |
+| 💻 **Coworking** | [Find Coworking in Kristiansund](https://www.google.com/maps/search/Coworking+Spaces+in+Kristiansund) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kristiansund](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kristiansund) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kristiansund](https://www.google.com/maps/search/supermarket+in+Kristiansund) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kristiansund) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kristiansund--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

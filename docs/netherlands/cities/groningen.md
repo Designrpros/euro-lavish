@@ -18,13 +18,21 @@ description: Cost of Living in Groningen
 | Transport | 3€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Groningen](https://www.google.com/maps/search/Gym+and+Workout+in+Groningen) |
+| 🧖 **Spas & Wellness** | [Find Spas in Groningen](https://www.google.com/maps/search/Spa+and+Wellness+in+Groningen) |
+| 💻 **Coworking** | [Find Coworking in Groningen](https://www.google.com/maps/search/Coworking+Spaces+in+Groningen) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Groningen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Groningen) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Groningen](https://www.google.com/maps/search/supermarket+in+Groningen) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Groningen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Groningen--Netherlands) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

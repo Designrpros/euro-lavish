@@ -18,7 +18,26 @@ description: Complete cost of living guide for Portugal
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 8€ | ~8€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Braga](cities/braga.md) | 700€ |  |
+| 2 | [Coimbra](cities/coimbra.md) | 600€ |  |
+| 3 | [Faro](cities/faro.md) | 800€ |  |
+| 4 | [Lisbon](cities/lisbon.md) | 1,400€ |  |
+| 5 | [Porto](cities/porto.md) | 1,000€ |  |
+| 6 | [Setubal](cities/setubal.md) | 750€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇵🇹 Portugal](https://www.google.com/maps/search/Gym+and+Workout+in+🇵🇹+Portugal) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇵🇹 Portugal](https://www.google.com/maps/search/Spa+and+Wellness+in+🇵🇹+Portugal) |
+| 💻 **Coworking** | [Find Coworking in 🇵🇹 Portugal](https://www.google.com/maps/search/Coworking+Spaces+in+🇵🇹+Portugal) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇵🇹 Portugal](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇵🇹+Portugal) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇵🇹 Portugal](https://www.google.com/maps/search/supermarket+in+🇵🇹+Portugal) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Portugal
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [Bolt / Uber](https://bolt.eu/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Braga](cities/braga.md) | 700€ |  |
-| 2 | [Coimbra](cities/coimbra.md) | 600€ |  |
-| 3 | [Faro](cities/faro.md) | 800€ |  |
-| 4 | [Lisbon](cities/lisbon.md) | 1,400€ |  |
-| 5 | [Porto](cities/porto.md) | 1,000€ |  |
-| 6 | [Setubal](cities/setubal.md) | 750€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Portugal
 | **Check, please!** | A conta, por favor! |
 | **Do you speak English?** | Fala inglês? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -81,10 +92,3 @@ description: Complete cost of living guide for Portugal
 |------|-------------|
 | [Indeed Portugal](https://www.indeed.pt) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

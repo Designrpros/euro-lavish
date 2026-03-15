@@ -18,13 +18,21 @@ description: Cost of Living in Fredrikstad
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 10€ | ~115 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Fredrikstad](https://www.google.com/maps/search/Gym+and+Workout+in+Fredrikstad) |
+| 🧖 **Spas & Wellness** | [Find Spas in Fredrikstad](https://www.google.com/maps/search/Spa+and+Wellness+in+Fredrikstad) |
+| 💻 **Coworking** | [Find Coworking in Fredrikstad](https://www.google.com/maps/search/Coworking+Spaces+in+Fredrikstad) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Fredrikstad](https://www.google.com/maps/search/laptop+friendly+cafes+in+Fredrikstad) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Fredrikstad](https://www.google.com/maps/search/supermarket+in+Fredrikstad) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Fredrikstad) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Fredrikstad--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

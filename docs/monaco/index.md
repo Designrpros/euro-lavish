@@ -16,6 +16,21 @@ description: Complete cost of living guide for Monaco
 | Beer (0.5L) | 8€ | ~8 EUR |
 | Cappuccino | 6€ | ~6 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Monaco](cities/monaco.md) | 6000€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇲🇨 Monaco](https://www.google.com/maps/search/Gym+and+Workout+in+🇲🇨+Monaco) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇲🇨 Monaco](https://www.google.com/maps/search/Spa+and+Wellness+in+🇲🇨+Monaco) |
+| 💻 **Coworking** | [Find Coworking in 🇲🇨 Monaco](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇨+Monaco) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇨 Monaco](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇨+Monaco) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇨 Monaco](https://www.google.com/maps/search/supermarket+in+🇲🇨+Monaco) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,12 +50,6 @@ description: Complete cost of living guide for Monaco
 | **Excuse me** | Excusez-moi |
 | **Check, please!** | L'addition, s'il vous plaît ! |
 | **Do you speak English?** | Parlez-vous anglais ? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Monaco](cities/monaco.md) | 6000€ |
 
 ## 🔗 Useful Links
 

@@ -16,13 +16,21 @@ description: Cost of Living in Roskilde
 | Transport | 3€ | ~22 kr |
 | Cinema | 11€ | ~82 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Roskilde](https://www.google.com/maps/search/Gym+and+Workout+in+Roskilde) |
+| 🧖 **Spas & Wellness** | [Find Spas in Roskilde](https://www.google.com/maps/search/Spa+and+Wellness+in+Roskilde) |
+| 💻 **Coworking** | [Find Coworking in Roskilde](https://www.google.com/maps/search/Coworking+Spaces+in+Roskilde) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Roskilde](https://www.google.com/maps/search/laptop+friendly+cafes+in+Roskilde) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Roskilde](https://www.google.com/maps/search/supermarket+in+Roskilde) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Roskilde) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Roskilde--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

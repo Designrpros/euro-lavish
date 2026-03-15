@@ -18,13 +18,21 @@ description: Cost of Living in Veliko Tarnovo
 | Transport | 0.60€ | ~0.60€ |
 | Cinema | 4€ | ~4€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Veliko Tarnovo](https://www.google.com/maps/search/Gym+and+Workout+in+Veliko+Tarnovo) |
+| 🧖 **Spas & Wellness** | [Find Spas in Veliko Tarnovo](https://www.google.com/maps/search/Spa+and+Wellness+in+Veliko+Tarnovo) |
+| 💻 **Coworking** | [Find Coworking in Veliko Tarnovo](https://www.google.com/maps/search/Coworking+Spaces+in+Veliko+Tarnovo) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Veliko Tarnovo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Veliko+Tarnovo) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Veliko Tarnovo](https://www.google.com/maps/search/supermarket+in+Veliko+Tarnovo) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Veliko+Tarnovo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Veliko-Tarnovo--Bulgaria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -15,3 +15,13 @@ description: Cost of Living in Istanbul
 | Coffee | 2.50€ |
 
 [Back to Turkey (European)](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Istanbul](https://www.google.com/maps/search/Gym+and+Workout+in+Istanbul) |
+| 🧖 **Spas & Wellness** | [Find Spas in Istanbul](https://www.google.com/maps/search/Spa+and+Wellness+in+Istanbul) |
+| 💻 **Coworking** | [Find Coworking in Istanbul](https://www.google.com/maps/search/Coworking+Spaces+in+Istanbul) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Istanbul](https://www.google.com/maps/search/laptop+friendly+cafes+in+Istanbul) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Istanbul](https://www.google.com/maps/search/supermarket+in+Istanbul) |

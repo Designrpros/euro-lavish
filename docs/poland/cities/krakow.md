@@ -18,13 +18,21 @@ description: Cost of Living in Krakow
 | Transport | 1€ | ~4.30 zł |
 | Cinema | 6€ | ~26 zł |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Krakow](https://www.google.com/maps/search/Gym+and+Workout+in+Krakow) |
+| 🧖 **Spas & Wellness** | [Find Spas in Krakow](https://www.google.com/maps/search/Spa+and+Wellness+in+Krakow) |
+| 💻 **Coworking** | [Find Coworking in Krakow](https://www.google.com/maps/search/Coworking+Spaces+in+Krakow) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Krakow](https://www.google.com/maps/search/laptop+friendly+cafes+in+Krakow) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Krakow](https://www.google.com/maps/search/supermarket+in+Krakow) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Krakow) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Krakow--Poland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

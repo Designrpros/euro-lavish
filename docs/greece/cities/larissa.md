@@ -18,13 +18,21 @@ description: Cost of Living in Larissa
 | Transport | 1.10€ | ~1.1 EUR |
 | Cinema | 7.5€ | ~7.5 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Larissa](https://www.google.com/maps/search/Gym+and+Workout+in+Larissa) |
+| 🧖 **Spas & Wellness** | [Find Spas in Larissa](https://www.google.com/maps/search/Spa+and+Wellness+in+Larissa) |
+| 💻 **Coworking** | [Find Coworking in Larissa](https://www.google.com/maps/search/Coworking+Spaces+in+Larissa) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Larissa](https://www.google.com/maps/search/laptop+friendly+cafes+in+Larissa) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Larissa](https://www.google.com/maps/search/supermarket+in+Larissa) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Larissa) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Larissa--Greece) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

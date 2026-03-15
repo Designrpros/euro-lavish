@@ -18,13 +18,21 @@ description: Cost of Living in Helsinki
 | Transport | 3.50€ | ~3.50€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Helsinki](https://www.google.com/maps/search/Gym+and+Workout+in+Helsinki) |
+| 🧖 **Spas & Wellness** | [Find Spas in Helsinki](https://www.google.com/maps/search/Spa+and+Wellness+in+Helsinki) |
+| 💻 **Coworking** | [Find Coworking in Helsinki](https://www.google.com/maps/search/Coworking+Spaces+in+Helsinki) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Helsinki](https://www.google.com/maps/search/laptop+friendly+cafes+in+Helsinki) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Helsinki](https://www.google.com/maps/search/supermarket+in+Helsinki) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Helsinki) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

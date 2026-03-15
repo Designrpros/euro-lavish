@@ -15,3 +15,13 @@ description: Cost of Living in Ganja
 | Coffee | 2€ |
 
 [Back to Azerbaijan](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Ganja](https://www.google.com/maps/search/Gym+and+Workout+in+Ganja) |
+| 🧖 **Spas & Wellness** | [Find Spas in Ganja](https://www.google.com/maps/search/Spa+and+Wellness+in+Ganja) |
+| 💻 **Coworking** | [Find Coworking in Ganja](https://www.google.com/maps/search/Coworking+Spaces+in+Ganja) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Ganja](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ganja) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Ganja](https://www.google.com/maps/search/supermarket+in+Ganja) |

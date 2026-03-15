@@ -18,13 +18,21 @@ description: Cost of Living in Turin
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Turin](https://www.google.com/maps/search/Gym+and+Workout+in+Turin) |
+| 🧖 **Spas & Wellness** | [Find Spas in Turin](https://www.google.com/maps/search/Spa+and+Wellness+in+Turin) |
+| 💻 **Coworking** | [Find Coworking in Turin](https://www.google.com/maps/search/Coworking+Spaces+in+Turin) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Turin](https://www.google.com/maps/search/laptop+friendly+cafes+in+Turin) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Turin](https://www.google.com/maps/search/supermarket+in+Turin) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Turin) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Turin--Italy) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

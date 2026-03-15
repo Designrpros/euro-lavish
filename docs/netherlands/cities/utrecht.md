@@ -18,13 +18,21 @@ description: Cost of Living in Utrecht
 | Transport | 3€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Utrecht](https://www.google.com/maps/search/Gym+and+Workout+in+Utrecht) |
+| 🧖 **Spas & Wellness** | [Find Spas in Utrecht](https://www.google.com/maps/search/Spa+and+Wellness+in+Utrecht) |
+| 💻 **Coworking** | [Find Coworking in Utrecht](https://www.google.com/maps/search/Coworking+Spaces+in+Utrecht) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Utrecht](https://www.google.com/maps/search/laptop+friendly+cafes+in+Utrecht) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Utrecht](https://www.google.com/maps/search/supermarket+in+Utrecht) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Utrecht) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Utrecht--Netherlands) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

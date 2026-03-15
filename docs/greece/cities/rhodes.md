@@ -18,13 +18,21 @@ description: Cost of Living in Rhodes
 | Transport | 1.50€ | ~1.5 EUR |
 | Cinema | 9€ | ~9 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Rhodes](https://www.google.com/maps/search/Gym+and+Workout+in+Rhodes) |
+| 🧖 **Spas & Wellness** | [Find Spas in Rhodes](https://www.google.com/maps/search/Spa+and+Wellness+in+Rhodes) |
+| 💻 **Coworking** | [Find Coworking in Rhodes](https://www.google.com/maps/search/Coworking+Spaces+in+Rhodes) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Rhodes](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rhodes) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Rhodes](https://www.google.com/maps/search/supermarket+in+Rhodes) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rhodes) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rhodes--Greece) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

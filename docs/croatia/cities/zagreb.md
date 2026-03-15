@@ -18,13 +18,21 @@ description: Cost of Living in Zagreb
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Zagreb](https://www.google.com/maps/search/Gym+and+Workout+in+Zagreb) |
+| 🧖 **Spas & Wellness** | [Find Spas in Zagreb](https://www.google.com/maps/search/Spa+and+Wellness+in+Zagreb) |
+| 💻 **Coworking** | [Find Coworking in Zagreb](https://www.google.com/maps/search/Coworking+Spaces+in+Zagreb) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Zagreb](https://www.google.com/maps/search/laptop+friendly+cafes+in+Zagreb) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Zagreb](https://www.google.com/maps/search/supermarket+in+Zagreb) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Zagreb) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Zagreb--Croatia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

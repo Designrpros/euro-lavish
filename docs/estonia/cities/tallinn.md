@@ -18,13 +18,21 @@ description: Cost of Living in Tallinn
 | Transport | 2€ | ~2€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Tallinn](https://www.google.com/maps/search/Gym+and+Workout+in+Tallinn) |
+| 🧖 **Spas & Wellness** | [Find Spas in Tallinn](https://www.google.com/maps/search/Spa+and+Wellness+in+Tallinn) |
+| 💻 **Coworking** | [Find Coworking in Tallinn](https://www.google.com/maps/search/Coworking+Spaces+in+Tallinn) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Tallinn](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tallinn) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Tallinn](https://www.google.com/maps/search/supermarket+in+Tallinn) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Tallinn) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tallinn--Estonia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -16,6 +16,23 @@ description: Complete cost of living guide for North Macedonia
 | Beer (0.5L) | 2€ | ~2 MKD |
 | Cappuccino | 1.50€ | ~1.50 MKD |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Skopje](cities/skopje.md) | 300€ |
+| [Bitola](cities/bitola.md) | 300€ |
+| [Kumanovo](cities/kumanovo.md) | 300€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇲🇰 North Macedonia](https://www.google.com/maps/search/Gym+and+Workout+in+🇲🇰+North+Macedonia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇲🇰 North Macedonia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇲🇰+North+Macedonia) |
+| 💻 **Coworking** | [Find Coworking in 🇲🇰 North Macedonia](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇰+North+Macedonia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇰 North Macedonia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇰+North+Macedonia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇰 North Macedonia](https://www.google.com/maps/search/supermarket+in+🇲🇰+North+Macedonia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for North Macedonia
 | **Excuse me** | Izvinete |
 | **Check, please!** | Smetkata, molam! |
 | **Do you speak English?** | Zboruvate li angliski? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Skopje](cities/skopje.md) | 300€ |
-| [Bitola](cities/bitola.md) | 300€ |
-| [Kumanovo](cities/kumanovo.md) | 300€ |
 
 ## 🔗 Useful Links
 

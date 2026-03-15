@@ -18,13 +18,21 @@ description: Cost of Living in Frankfurt
 | Transport | 3€ | ~3€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Frankfurt](https://www.google.com/maps/search/Gym+and+Workout+in+Frankfurt) |
+| 🧖 **Spas & Wellness** | [Find Spas in Frankfurt](https://www.google.com/maps/search/Spa+and+Wellness+in+Frankfurt) |
+| 💻 **Coworking** | [Find Coworking in Frankfurt](https://www.google.com/maps/search/Coworking+Spaces+in+Frankfurt) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Frankfurt](https://www.google.com/maps/search/laptop+friendly+cafes+in+Frankfurt) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Frankfurt](https://www.google.com/maps/search/supermarket+in+Frankfurt) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Frankfurt) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Frankfurt--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

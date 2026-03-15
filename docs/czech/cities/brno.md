@@ -18,13 +18,21 @@ description: Cost of Living in Brno
 | Transport | 1€ | ~24 Kč |
 | Cinema | 6€ | ~147 Kč |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Brno](https://www.google.com/maps/search/Gym+and+Workout+in+Brno) |
+| 🧖 **Spas & Wellness** | [Find Spas in Brno](https://www.google.com/maps/search/Spa+and+Wellness+in+Brno) |
+| 💻 **Coworking** | [Find Coworking in Brno](https://www.google.com/maps/search/Coworking+Spaces+in+Brno) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Brno](https://www.google.com/maps/search/laptop+friendly+cafes+in+Brno) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Brno](https://www.google.com/maps/search/supermarket+in+Brno) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Brno) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Brno--Czechia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

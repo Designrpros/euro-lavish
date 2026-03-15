@@ -18,7 +18,26 @@ description: Complete cost of living guide for Estonia
 | Transport | 2€ | ~2€ |
 | Cinema | 8€ | ~8€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Kohtla-Järve](cities/kohtla-jarve.md) | 320€ |  |
+| 2 | [Kohtla-Järve](cities/kohtla.md) | 350€ |  |
+| 3 | [Narva](cities/narva.md) | 350€ |  |
+| 4 | [Pärnu](cities/parnu.md) | 450€ |  |
+| 5 | [Tallinn](cities/tallinn.md) | 698€ |  |
+| 6 | [Tartu](cities/tartu.md) | 500€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇪🇪 Estonia](https://www.google.com/maps/search/Gym+and+Workout+in+🇪🇪+Estonia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇪🇪 Estonia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇪🇪+Estonia) |
+| 💻 **Coworking** | [Find Coworking in 🇪🇪 Estonia](https://www.google.com/maps/search/Coworking+Spaces+in+🇪🇪+Estonia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇪🇪 Estonia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇪🇪+Estonia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇪🇪 Estonia](https://www.google.com/maps/search/supermarket+in+🇪🇪+Estonia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Estonia
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [Bolt](https://bolt.eu/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Kohtla-Järve](cities/kohtla-jarve.md) | 320€ |  |
-| 2 | [Kohtla-Järve](cities/kohtla.md) | 350€ |  |
-| 3 | [Narva](cities/narva.md) | 350€ |  |
-| 4 | [Pärnu](cities/parnu.md) | 450€ |  |
-| 5 | [Tallinn](cities/tallinn.md) | 698€ |  |
-| 6 | [Tartu](cities/tartu.md) | 500€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Estonia
 | **Check, please!** | Arve, palun! |
 | **Do you speak English?** | Kas te räägite inglise keelt? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -81,10 +92,3 @@ description: Complete cost of living guide for Estonia
 |------|-------------|
 | [CV.ee](https://www.cv.ee) | Jobs |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

@@ -18,13 +18,21 @@ description: Cost of Living in Málaga
 | Transport | 1.40€ | ~1.40€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Málaga](https://www.google.com/maps/search/Gym+and+Workout+in+Málaga) |
+| 🧖 **Spas & Wellness** | [Find Spas in Málaga](https://www.google.com/maps/search/Spa+and+Wellness+in+Málaga) |
+| 💻 **Coworking** | [Find Coworking in Málaga](https://www.google.com/maps/search/Coworking+Spaces+in+Málaga) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Málaga](https://www.google.com/maps/search/laptop+friendly+cafes+in+Málaga) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Málaga](https://www.google.com/maps/search/supermarket+in+Málaga) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Malaga) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Malaga--Spain) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

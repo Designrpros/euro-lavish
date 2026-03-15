@@ -18,7 +18,27 @@ description: Complete cost of living guide for Germany
 | Transport | 2.90€ | ~2.90€ |
 | Cinema | 10€ | ~10€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Berlin](cities/berlin.md) | 1,270€ |  |
+| 2 | [Cologne](cities/cologne.md) | 1,100€ |  |
+| 3 | [Frankfurt](cities/frankfurt.md) | 1,400€ |  |
+| 4 | [Hamburg](cities/hamburg.md) | 1,300€ |  |
+| 5 | [Leipzig](cities/leipzig.md) | 750€ |  |
+| 6 | [Munich](cities/munich.md) | 1,800€ |  |
+| 7 | [Stuttgart](cities/stuttgart.md) | 1,050€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇩🇪 Germany](https://www.google.com/maps/search/Gym+and+Workout+in+🇩🇪+Germany) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇩🇪 Germany](https://www.google.com/maps/search/Spa+and+Wellness+in+🇩🇪+Germany) |
+| 💻 **Coworking** | [Find Coworking in 🇩🇪 Germany](https://www.google.com/maps/search/Coworking+Spaces+in+🇩🇪+Germany) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇩🇪 Germany](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇩🇪+Germany) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇩🇪 Germany](https://www.google.com/maps/search/supermarket+in+🇩🇪+Germany) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,22 +62,6 @@ description: Complete cost of living guide for Germany
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [DB Navigator](https://www.bahn.de/service/mobile/db-navigator) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Berlin](cities/berlin.md) | 1,270€ |  |
-| 2 | [Cologne](cities/cologne.md) | 1,100€ |  |
-| 3 | [Frankfurt](cities/frankfurt.md) | 1,400€ |  |
-| 4 | [Hamburg](cities/hamburg.md) | 1,300€ |  |
-| 5 | [Leipzig](cities/leipzig.md) | 750€ |  |
-| 6 | [Munich](cities/munich.md) | 1,800€ |  |
-| 7 | [Stuttgart](cities/stuttgart.md) | 1,050€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -70,6 +74,13 @@ description: Complete cost of living guide for Germany
 | **Check, please!** | Die Rechnung, bitte! |
 | **Do you speak English?** | Sprechen Sie Englisch? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -84,10 +95,3 @@ description: Complete cost of living guide for Germany
 | [Indeed Germany](https://www.indeed.de) | Job search |
 | [XING](https://www.xing.com) | German LinkedIn |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

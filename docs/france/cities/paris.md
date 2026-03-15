@@ -18,13 +18,21 @@ description: Cost of Living in Paris
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Paris](https://www.google.com/maps/search/Gym+and+Workout+in+Paris) |
+| 🧖 **Spas & Wellness** | [Find Spas in Paris](https://www.google.com/maps/search/Spa+and+Wellness+in+Paris) |
+| 💻 **Coworking** | [Find Coworking in Paris](https://www.google.com/maps/search/Coworking+Spaces+in+Paris) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Paris](https://www.google.com/maps/search/laptop+friendly+cafes+in+Paris) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Paris](https://www.google.com/maps/search/supermarket+in+Paris) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Paris) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Paris--France) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

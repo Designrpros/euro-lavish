@@ -16,13 +16,21 @@ description: Cost of Living in Geneva
 | Transport | 4.50€ | ~4.50 CHF |
 | Cinema | 20€ | ~20 CHF |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Geneva](https://www.google.com/maps/search/Gym+and+Workout+in+Geneva) |
+| 🧖 **Spas & Wellness** | [Find Spas in Geneva](https://www.google.com/maps/search/Spa+and+Wellness+in+Geneva) |
+| 💻 **Coworking** | [Find Coworking in Geneva](https://www.google.com/maps/search/Coworking+Spaces+in+Geneva) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Geneva](https://www.google.com/maps/search/laptop+friendly+cafes+in+Geneva) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Geneva](https://www.google.com/maps/search/supermarket+in+Geneva) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Geneva) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Geneva--Switzerland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

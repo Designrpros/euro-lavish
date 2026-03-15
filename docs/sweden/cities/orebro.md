@@ -18,13 +18,21 @@ description: Cost of Living in Örebro
 | Transport | 3€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Örebro](https://www.google.com/maps/search/Gym+and+Workout+in+Örebro) |
+| 🧖 **Spas & Wellness** | [Find Spas in Örebro](https://www.google.com/maps/search/Spa+and+Wellness+in+Örebro) |
+| 💻 **Coworking** | [Find Coworking in Örebro](https://www.google.com/maps/search/Coworking+Spaces+in+Örebro) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Örebro](https://www.google.com/maps/search/laptop+friendly+cafes+in+Örebro) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Örebro](https://www.google.com/maps/search/supermarket+in+Örebro) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Orebro) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Orebro--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

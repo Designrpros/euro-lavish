@@ -15,3 +15,13 @@ description: Cost of Living in Odesa
 | Coffee | 1.50€ |
 
 [Back to Ukraine](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Odesa](https://www.google.com/maps/search/Gym+and+Workout+in+Odesa) |
+| 🧖 **Spas & Wellness** | [Find Spas in Odesa](https://www.google.com/maps/search/Spa+and+Wellness+in+Odesa) |
+| 💻 **Coworking** | [Find Coworking in Odesa](https://www.google.com/maps/search/Coworking+Spaces+in+Odesa) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Odesa](https://www.google.com/maps/search/laptop+friendly+cafes+in+Odesa) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Odesa](https://www.google.com/maps/search/supermarket+in+Odesa) |

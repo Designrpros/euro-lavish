@@ -18,7 +18,30 @@ description: Complete cost of living guide for Norway
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 14€ | ~161 kr |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Bergen](cities/bergen.md) | 1,200€ |  |
+| 2 | [Drammen](cities/drammen.md) | --- |  |
+| 3 | [Fredrikstad](cities/fredrikstad.md) | --- |  |
+| 4 | [Kristiansund](cities/kristiansund.md) | --- |  |
+| 5 | [Molde](cities/molde.md) | --- |  |
+| 6 | [Moss](cities/moss.md) | --- |  |
+| 7 | [Oslo](cities/oslo.md) | 1,603€ |  |
+| 8 | [Porsgrunn](cities/porsgrunn.md) | --- |  |
+| 9 | [Stavanger](cities/stavanger.md) | 1,300€ |  |
+| 10 | [Trondheim](cities/trondheim.md) | 1,100€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇳🇴 Norway](https://www.google.com/maps/search/Gym+and+Workout+in+🇳🇴+Norway) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇳🇴 Norway](https://www.google.com/maps/search/Spa+and+Wellness+in+🇳🇴+Norway) |
+| 💻 **Coworking** | [Find Coworking in 🇳🇴 Norway](https://www.google.com/maps/search/Coworking+Spaces+in+🇳🇴+Norway) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇳🇴 Norway](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇳🇴+Norway) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇳🇴 Norway](https://www.google.com/maps/search/supermarket+in+🇳🇴+Norway) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,25 +65,6 @@ description: Complete cost of living guide for Norway
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [Ruter](https://ruter.no/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Bergen](cities/bergen.md) | 1,200€ |  |
-| 2 | [Drammen](cities/drammen.md) | --- |  |
-| 3 | [Fredrikstad](cities/fredrikstad.md) | --- |  |
-| 4 | [Kristiansund](cities/kristiansund.md) | --- |  |
-| 5 | [Molde](cities/molde.md) | --- |  |
-| 6 | [Moss](cities/moss.md) | --- |  |
-| 7 | [Oslo](cities/oslo.md) | 1,603€ |  |
-| 8 | [Porsgrunn](cities/porsgrunn.md) | --- |  |
-| 9 | [Stavanger](cities/stavanger.md) | 1,300€ |  |
-| 10 | [Trondheim](cities/trondheim.md) | 1,100€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -73,6 +77,13 @@ description: Complete cost of living guide for Norway
 | **Check, please!** | Regningen, takk! |
 | **Do you speak English?** | Snakker du engelsk? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -94,10 +105,3 @@ description: Complete cost of living guide for Norway
 | [Entur](https://www.entur.no) | Public transport |
 | [Vy](https://www.vy.no) | Trains & buses |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

@@ -16,6 +16,23 @@ description: Complete cost of living guide for Ukraine
 | Beer (0.5L) | 1.20€ | ~1.20 UAH |
 | Cappuccino | 1.50€ | ~1.50 UAH |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Kyiv](cities/kyiv.md) | 400€ |
+| [Lviv](cities/lviv.md) | 400€ |
+| [Odesa](cities/odesa.md) | 400€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇺🇦 Ukraine](https://www.google.com/maps/search/Gym+and+Workout+in+🇺🇦+Ukraine) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇺🇦 Ukraine](https://www.google.com/maps/search/Spa+and+Wellness+in+🇺🇦+Ukraine) |
+| 💻 **Coworking** | [Find Coworking in 🇺🇦 Ukraine](https://www.google.com/maps/search/Coworking+Spaces+in+🇺🇦+Ukraine) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇺🇦 Ukraine](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇺🇦+Ukraine) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇺🇦 Ukraine](https://www.google.com/maps/search/supermarket+in+🇺🇦+Ukraine) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Ukraine
 | **Excuse me** | Vybachte |
 | **Check, please!** | Rakhunok, bud' laska! |
 | **Do you speak English?** | Vy hovoryte anhliys'koyu? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Kyiv](cities/kyiv.md) | 400€ |
-| [Lviv](cities/lviv.md) | 400€ |
-| [Odesa](cities/odesa.md) | 400€ |
 
 ## 🔗 Useful Links
 

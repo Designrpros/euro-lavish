@@ -18,13 +18,21 @@ description: Cost of Living in Gozo
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Gozo](https://www.google.com/maps/search/Gym+and+Workout+in+Gozo) |
+| 🧖 **Spas & Wellness** | [Find Spas in Gozo](https://www.google.com/maps/search/Spa+and+Wellness+in+Gozo) |
+| 💻 **Coworking** | [Find Coworking in Gozo](https://www.google.com/maps/search/Coworking+Spaces+in+Gozo) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Gozo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gozo) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Gozo](https://www.google.com/maps/search/supermarket+in+Gozo) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gozo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gozo--Malta) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

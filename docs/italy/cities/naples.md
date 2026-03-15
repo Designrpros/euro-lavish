@@ -18,13 +18,21 @@ description: Cost of Living in Naples
 | Transport | 1.40€ | ~1.40€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Naples](https://www.google.com/maps/search/Gym+and+Workout+in+Naples) |
+| 🧖 **Spas & Wellness** | [Find Spas in Naples](https://www.google.com/maps/search/Spa+and+Wellness+in+Naples) |
+| 💻 **Coworking** | [Find Coworking in Naples](https://www.google.com/maps/search/Coworking+Spaces+in+Naples) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Naples](https://www.google.com/maps/search/laptop+friendly+cafes+in+Naples) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Naples](https://www.google.com/maps/search/supermarket+in+Naples) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Naples) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Naples--Italy) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

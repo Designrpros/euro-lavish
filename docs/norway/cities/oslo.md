@@ -18,13 +18,21 @@ description: Cost of Living in Oslo
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 14€ | ~161 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Oslo](https://www.google.com/maps/search/Gym+and+Workout+in+Oslo) |
+| 🧖 **Spas & Wellness** | [Find Spas in Oslo](https://www.google.com/maps/search/Spa+and+Wellness+in+Oslo) |
+| 💻 **Coworking** | [Find Coworking in Oslo](https://www.google.com/maps/search/Coworking+Spaces+in+Oslo) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Oslo](https://www.google.com/maps/search/laptop+friendly+cafes+in+Oslo) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Oslo](https://www.google.com/maps/search/supermarket+in+Oslo) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Oslo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Oslo--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Glasgow
 | Transport | 2.80€ | ~2.40£ |
 | Cinema | 10€ | ~8.70£ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Glasgow](https://www.google.com/maps/search/Gym+and+Workout+in+Glasgow) |
+| 🧖 **Spas & Wellness** | [Find Spas in Glasgow](https://www.google.com/maps/search/Spa+and+Wellness+in+Glasgow) |
+| 💻 **Coworking** | [Find Coworking in Glasgow](https://www.google.com/maps/search/Coworking+Spaces+in+Glasgow) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Glasgow](https://www.google.com/maps/search/laptop+friendly+cafes+in+Glasgow) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Glasgow](https://www.google.com/maps/search/supermarket+in+Glasgow) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Glasgow) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Glasgow--UK) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

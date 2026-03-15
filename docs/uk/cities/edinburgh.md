@@ -18,13 +18,21 @@ description: Cost of Living in Edinburgh
 | Transport | 3€ | ~2.60£ |
 | Cinema | 12€ | ~10£ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Edinburgh](https://www.google.com/maps/search/Gym+and+Workout+in+Edinburgh) |
+| 🧖 **Spas & Wellness** | [Find Spas in Edinburgh](https://www.google.com/maps/search/Spa+and+Wellness+in+Edinburgh) |
+| 💻 **Coworking** | [Find Coworking in Edinburgh](https://www.google.com/maps/search/Coworking+Spaces+in+Edinburgh) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Edinburgh](https://www.google.com/maps/search/laptop+friendly+cafes+in+Edinburgh) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Edinburgh](https://www.google.com/maps/search/supermarket+in+Edinburgh) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Edinburgh) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Edinburgh--UK) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

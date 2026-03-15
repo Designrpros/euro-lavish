@@ -18,13 +18,21 @@ description: Cost of Living in Porto
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Porto](https://www.google.com/maps/search/Gym+and+Workout+in+Porto) |
+| 🧖 **Spas & Wellness** | [Find Spas in Porto](https://www.google.com/maps/search/Spa+and+Wellness+in+Porto) |
+| 💻 **Coworking** | [Find Coworking in Porto](https://www.google.com/maps/search/Coworking+Spaces+in+Porto) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Porto](https://www.google.com/maps/search/laptop+friendly+cafes+in+Porto) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Porto](https://www.google.com/maps/search/supermarket+in+Porto) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Porto) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Porto--Portugal) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

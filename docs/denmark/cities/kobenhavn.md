@@ -18,13 +18,21 @@ description: Cost of Living in Copenhagen
 | Transport | 3.40€ | ~25 kr |
 | Cinema | 13€ | ~97 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Copenhagen](https://www.google.com/maps/search/Gym+and+Workout+in+Copenhagen) |
+| 🧖 **Spas & Wellness** | [Find Spas in Copenhagen](https://www.google.com/maps/search/Spa+and+Wellness+in+Copenhagen) |
+| 💻 **Coworking** | [Find Coworking in Copenhagen](https://www.google.com/maps/search/Coworking+Spaces+in+Copenhagen) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Copenhagen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Copenhagen) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Copenhagen](https://www.google.com/maps/search/supermarket+in+Copenhagen) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Copenhagen--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

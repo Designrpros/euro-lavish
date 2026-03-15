@@ -18,13 +18,21 @@ description: Cost of Living in Esbjerg
 | Transport | 2.80€ | ~21 kr |
 | Cinema | 10€ | ~75 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Esbjerg](https://www.google.com/maps/search/Gym+and+Workout+in+Esbjerg) |
+| 🧖 **Spas & Wellness** | [Find Spas in Esbjerg](https://www.google.com/maps/search/Spa+and+Wellness+in+Esbjerg) |
+| 💻 **Coworking** | [Find Coworking in Esbjerg](https://www.google.com/maps/search/Coworking+Spaces+in+Esbjerg) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Esbjerg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Esbjerg) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Esbjerg](https://www.google.com/maps/search/supermarket+in+Esbjerg) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Esbjerg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Esbjerg--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

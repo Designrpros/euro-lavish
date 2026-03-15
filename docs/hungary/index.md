@@ -18,7 +18,26 @@ description: Complete cost of living guide for Hungary
 | Transport | 1.10€ | ~430 Ft |
 | Cinema | 7€ | ~2,700 Ft |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Budapest](cities/budapest.md) | 800€ |  |
+| 2 | [Debrecen](cities/debrecen.md) | 500€ |  |
+| 3 | [Gyor](cities/gyor.md) | 550€ |  |
+| 4 | [Miskolc](cities/miskolc.md) | 450€ |  |
+| 5 | [Pécs](cities/pecs.md) | 400€ |  |
+| 6 | [Szeged](cities/szeged.md) | 450€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇭🇺 Hungary](https://www.google.com/maps/search/Gym+and+Workout+in+🇭🇺+Hungary) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇭🇺 Hungary](https://www.google.com/maps/search/Spa+and+Wellness+in+🇭🇺+Hungary) |
+| 💻 **Coworking** | [Find Coworking in 🇭🇺 Hungary](https://www.google.com/maps/search/Coworking+Spaces+in+🇭🇺+Hungary) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇭🇺 Hungary](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇭🇺+Hungary) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇭🇺 Hungary](https://www.google.com/maps/search/supermarket+in+🇭🇺+Hungary) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Hungary
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [BudapestGO](https://bkk.hu/en/budapestgo/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Budapest](cities/budapest.md) | 800€ |  |
-| 2 | [Debrecen](cities/debrecen.md) | 500€ |  |
-| 3 | [Gyor](cities/gyor.md) | 550€ |  |
-| 4 | [Miskolc](cities/miskolc.md) | 450€ |  |
-| 5 | [Pécs](cities/pecs.md) | 400€ |  |
-| 6 | [Szeged](cities/szeged.md) | 450€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Hungary
 | **Check, please!** | A számlát, kérem! |
 | **Do you speak English?** | Beszél angolul? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -81,10 +92,3 @@ description: Complete cost of living guide for Hungary
 |------|-------------|
 | [Indeed Hungary](https://www.indeed.hu) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

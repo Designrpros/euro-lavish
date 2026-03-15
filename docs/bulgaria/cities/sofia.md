@@ -18,13 +18,21 @@ description: Cost of Living in Sofia
 | Transport | 0.80€ | ~0.80€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Sofia](https://www.google.com/maps/search/Gym+and+Workout+in+Sofia) |
+| 🧖 **Spas & Wellness** | [Find Spas in Sofia](https://www.google.com/maps/search/Spa+and+Wellness+in+Sofia) |
+| 💻 **Coworking** | [Find Coworking in Sofia](https://www.google.com/maps/search/Coworking+Spaces+in+Sofia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Sofia](https://www.google.com/maps/search/laptop+friendly+cafes+in+Sofia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Sofia](https://www.google.com/maps/search/supermarket+in+Sofia) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Sofia) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Sofia--Bulgaria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Brussels
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Brussels](https://www.google.com/maps/search/Gym+and+Workout+in+Brussels) |
+| 🧖 **Spas & Wellness** | [Find Spas in Brussels](https://www.google.com/maps/search/Spa+and+Wellness+in+Brussels) |
+| 💻 **Coworking** | [Find Coworking in Brussels](https://www.google.com/maps/search/Coworking+Spaces+in+Brussels) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Brussels](https://www.google.com/maps/search/laptop+friendly+cafes+in+Brussels) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Brussels](https://www.google.com/maps/search/supermarket+in+Brussels) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Brussels) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Brussels--Belgium) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Osijek
 | Transport | 1.20€ | ~1.20€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Osijek](https://www.google.com/maps/search/Gym+and+Workout+in+Osijek) |
+| 🧖 **Spas & Wellness** | [Find Spas in Osijek](https://www.google.com/maps/search/Spa+and+Wellness+in+Osijek) |
+| 💻 **Coworking** | [Find Coworking in Osijek](https://www.google.com/maps/search/Coworking+Spaces+in+Osijek) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Osijek](https://www.google.com/maps/search/laptop+friendly+cafes+in+Osijek) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Osijek](https://www.google.com/maps/search/supermarket+in+Osijek) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Osijek) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Osijek--Croatia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Graz
 | Transport | 2.50€ | ~2.5 EUR |
 | Cinema | 12€ | ~12 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Graz](https://www.google.com/maps/search/Gym+and+Workout+in+Graz) |
+| 🧖 **Spas & Wellness** | [Find Spas in Graz](https://www.google.com/maps/search/Spa+and+Wellness+in+Graz) |
+| 💻 **Coworking** | [Find Coworking in Graz](https://www.google.com/maps/search/Coworking+Spaces+in+Graz) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Graz](https://www.google.com/maps/search/laptop+friendly+cafes+in+Graz) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Graz](https://www.google.com/maps/search/supermarket+in+Graz) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Graz) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Graz--Austria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

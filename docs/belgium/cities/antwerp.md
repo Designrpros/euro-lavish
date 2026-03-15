@@ -18,13 +18,21 @@ description: Cost of Living in Antwerp
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Antwerp](https://www.google.com/maps/search/Gym+and+Workout+in+Antwerp) |
+| 🧖 **Spas & Wellness** | [Find Spas in Antwerp](https://www.google.com/maps/search/Spa+and+Wellness+in+Antwerp) |
+| 💻 **Coworking** | [Find Coworking in Antwerp](https://www.google.com/maps/search/Coworking+Spaces+in+Antwerp) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Antwerp](https://www.google.com/maps/search/laptop+friendly+cafes+in+Antwerp) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Antwerp](https://www.google.com/maps/search/supermarket+in+Antwerp) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Antwerp) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Antwerp--Belgium) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

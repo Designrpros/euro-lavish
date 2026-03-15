@@ -18,7 +18,26 @@ description: Complete cost of living guide for Italy
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Bologna](cities/bologna.md) | 950€ |  |
+| 2 | [Florence](cities/florence.md) | 1,200€ |  |
+| 3 | [Milan](cities/milan.md) | 1,600€ |  |
+| 4 | [Naples](cities/naples.md) | 750€ |  |
+| 5 | [Rome](cities/rome.md) | 1,500€ |  |
+| 6 | [Turin](cities/turin.md) | 850€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇮🇹 Italy](https://www.google.com/maps/search/Gym+and+Workout+in+🇮🇹+Italy) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇮🇹 Italy](https://www.google.com/maps/search/Spa+and+Wellness+in+🇮🇹+Italy) |
+| 💻 **Coworking** | [Find Coworking in 🇮🇹 Italy](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇹+Italy) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇹 Italy](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇹+Italy) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇹 Italy](https://www.google.com/maps/search/supermarket+in+🇮🇹+Italy) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Italy
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [Moovit / FreeNow](https://moovitapp.com/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Bologna](cities/bologna.md) | 950€ |  |
-| 2 | [Florence](cities/florence.md) | 1,200€ |  |
-| 3 | [Milan](cities/milan.md) | 1,600€ |  |
-| 4 | [Naples](cities/naples.md) | 750€ |  |
-| 5 | [Rome](cities/rome.md) | 1,500€ |  |
-| 6 | [Turin](cities/turin.md) | 850€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Italy
 | **Check, please!** | Il conto, per favore! |
 | **Do you speak English?** | Parla inglese? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -81,10 +92,3 @@ description: Complete cost of living guide for Italy
 |------|-------------|
 | [Indeed Italy](https://www.indeed.it) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

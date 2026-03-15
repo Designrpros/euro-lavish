@@ -18,13 +18,21 @@ description: Cost of Living in Kuopio
 | Transport | 2.80€ | ~2.80€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kuopio](https://www.google.com/maps/search/Gym+and+Workout+in+Kuopio) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kuopio](https://www.google.com/maps/search/Spa+and+Wellness+in+Kuopio) |
+| 💻 **Coworking** | [Find Coworking in Kuopio](https://www.google.com/maps/search/Coworking+Spaces+in+Kuopio) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kuopio](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kuopio) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kuopio](https://www.google.com/maps/search/supermarket+in+Kuopio) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kuopio) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kuopio--Finland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

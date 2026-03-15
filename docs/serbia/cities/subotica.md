@@ -18,13 +18,21 @@ description: Cost of Living in Subotica
 | Transport | 0.60€ | ~70 RSD |
 | Cinema | 4€ | ~468 RSD |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Subotica](https://www.google.com/maps/search/Gym+and+Workout+in+Subotica) |
+| 🧖 **Spas & Wellness** | [Find Spas in Subotica](https://www.google.com/maps/search/Spa+and+Wellness+in+Subotica) |
+| 💻 **Coworking** | [Find Coworking in Subotica](https://www.google.com/maps/search/Coworking+Spaces+in+Subotica) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Subotica](https://www.google.com/maps/search/laptop+friendly+cafes+in+Subotica) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Subotica](https://www.google.com/maps/search/supermarket+in+Subotica) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Subotica) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Subotica--Serbia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

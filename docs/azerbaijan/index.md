@@ -16,6 +16,23 @@ description: Complete cost of living guide for Azerbaijan
 | Beer (0.5L) | 1.50€ | ~1.50 AZN |
 | Cappuccino | 2€ | ~2 AZN |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Baku](cities/baku.md) | 450€ |
+| [Ganja](cities/ganja.md) | 450€ |
+| [Sumqayit](cities/sumqayit.md) | 450€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/Gym+and+Workout+in+🇦🇿+Azerbaijan) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/Spa+and+Wellness+in+🇦🇿+Azerbaijan) |
+| 💻 **Coworking** | [Find Coworking in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇿+Azerbaijan) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇿+Azerbaijan) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇿 Azerbaijan](https://www.google.com/maps/search/supermarket+in+🇦🇿+Azerbaijan) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Azerbaijan
 | **Excuse me** | Bağışlayın |
 | **Check, please!** | Hesabı, zəhmət olmasa! |
 | **Do you speak English?** | İngiliscə danışırsınız? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Baku](cities/baku.md) | 450€ |
-| [Ganja](cities/ganja.md) | 450€ |
-| [Sumqayit](cities/sumqayit.md) | 450€ |
 
 ## 🔗 Useful Links
 

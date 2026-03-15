@@ -18,13 +18,21 @@ description: Cost of Living in Burgas
 | Transport | 0.70€ | ~0.70€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Burgas](https://www.google.com/maps/search/Gym+and+Workout+in+Burgas) |
+| 🧖 **Spas & Wellness** | [Find Spas in Burgas](https://www.google.com/maps/search/Spa+and+Wellness+in+Burgas) |
+| 💻 **Coworking** | [Find Coworking in Burgas](https://www.google.com/maps/search/Coworking+Spaces+in+Burgas) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Burgas](https://www.google.com/maps/search/laptop+friendly+cafes+in+Burgas) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Burgas](https://www.google.com/maps/search/supermarket+in+Burgas) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Burgas) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Burgas--Bulgaria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

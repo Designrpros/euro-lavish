@@ -16,6 +16,21 @@ description: Complete cost of living guide for Vatican City
 | Beer (0.5L) | 5€ | ~5 EUR |
 | Cappuccino | 2€ | ~2 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Vatican City](cities/vatican-city.md) | N/A€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇻🇦 Vatican City](https://www.google.com/maps/search/Gym+and+Workout+in+🇻🇦+Vatican+City) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇻🇦 Vatican City](https://www.google.com/maps/search/Spa+and+Wellness+in+🇻🇦+Vatican+City) |
+| 💻 **Coworking** | [Find Coworking in 🇻🇦 Vatican City](https://www.google.com/maps/search/Coworking+Spaces+in+🇻🇦+Vatican+City) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇻🇦 Vatican City](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇻🇦+Vatican+City) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇻🇦 Vatican City](https://www.google.com/maps/search/supermarket+in+🇻🇦+Vatican+City) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,12 +50,6 @@ description: Complete cost of living guide for Vatican City
 | **Excuse me** | Scusi |
 | **Check, please!** | Il conto, per favore! |
 | **Do you speak English?** | Parla inglese? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Vatican City](cities/vatican-city.md) | N/A€ |
 
 ## 🔗 Useful Links
 

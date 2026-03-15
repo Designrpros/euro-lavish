@@ -18,13 +18,21 @@ description: Cost of Living in Qawra
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Qawra](https://www.google.com/maps/search/Gym+and+Workout+in+Qawra) |
+| 🧖 **Spas & Wellness** | [Find Spas in Qawra](https://www.google.com/maps/search/Spa+and+Wellness+in+Qawra) |
+| 💻 **Coworking** | [Find Coworking in Qawra](https://www.google.com/maps/search/Coworking+Spaces+in+Qawra) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Qawra](https://www.google.com/maps/search/laptop+friendly+cafes+in+Qawra) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Qawra](https://www.google.com/maps/search/supermarket+in+Qawra) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Qawra) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Qawra--Malta) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

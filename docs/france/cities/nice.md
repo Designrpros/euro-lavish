@@ -18,13 +18,21 @@ description: Cost of Living in Nice
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Nice](https://www.google.com/maps/search/Gym+and+Workout+in+Nice) |
+| 🧖 **Spas & Wellness** | [Find Spas in Nice](https://www.google.com/maps/search/Spa+and+Wellness+in+Nice) |
+| 💻 **Coworking** | [Find Coworking in Nice](https://www.google.com/maps/search/Coworking+Spaces+in+Nice) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Nice](https://www.google.com/maps/search/laptop+friendly+cafes+in+Nice) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Nice](https://www.google.com/maps/search/supermarket+in+Nice) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Nice) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Nice--France) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

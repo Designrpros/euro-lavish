@@ -18,7 +18,25 @@ description: Complete cost of living guide for Croatia
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Dubrovnik](cities/dubrovnik.md) | 800€ |  |
+| 2 | [Osijek](cities/osijek.md) | 400€ |  |
+| 3 | [Rijeka](cities/rijeka.md) | 550€ |  |
+| 4 | [Split](cities/split.md) | 650€ |  |
+| 5 | [Zagreb](cities/zagreb.md) | 700€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇭🇷 Croatia](https://www.google.com/maps/search/Gym+and+Workout+in+🇭🇷+Croatia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇭🇷 Croatia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇭🇷+Croatia) |
+| 💻 **Coworking** | [Find Coworking in 🇭🇷 Croatia](https://www.google.com/maps/search/Coworking+Spaces+in+🇭🇷+Croatia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇭🇷 Croatia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇭🇷+Croatia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇭🇷 Croatia](https://www.google.com/maps/search/supermarket+in+🇭🇷+Croatia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Croatia
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [Uber / Bolt](https://bolt.eu/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Dubrovnik](cities/dubrovnik.md) | 800€ |  |
-| 2 | [Osijek](cities/osijek.md) | 400€ |  |
-| 3 | [Rijeka](cities/rijeka.md) | 550€ |  |
-| 4 | [Split](cities/split.md) | 650€ |  |
-| 5 | [Zagreb](cities/zagreb.md) | 700€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Croatia
 | **Check, please!** | Račun, molim! |
 | **Do you speak English?** | Govorite li engleski? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Medical OK |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Croatia
 |------|-------------|
 | [Indeed Croatia](https://www.indeed.hr) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Medical OK |
-
-*Data: Numbeo.com, March 2026*

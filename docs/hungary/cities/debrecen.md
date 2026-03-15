@@ -18,13 +18,21 @@ description: Cost of Living in Debrecen
 | Transport | 1€ | ~390 Ft |
 | Cinema | 5€ | ~2,000 Ft |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Debrecen](https://www.google.com/maps/search/Gym+and+Workout+in+Debrecen) |
+| 🧖 **Spas & Wellness** | [Find Spas in Debrecen](https://www.google.com/maps/search/Spa+and+Wellness+in+Debrecen) |
+| 💻 **Coworking** | [Find Coworking in Debrecen](https://www.google.com/maps/search/Coworking+Spaces+in+Debrecen) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Debrecen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Debrecen) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Debrecen](https://www.google.com/maps/search/supermarket+in+Debrecen) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Debrecen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Debrecen--Hungary) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

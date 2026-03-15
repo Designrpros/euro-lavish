@@ -15,3 +15,13 @@ description: Cost of Living in Vatican City
 | Coffee | 2€ |
 
 [Back to Vatican City](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Vatican City](https://www.google.com/maps/search/Gym+and+Workout+in+Vatican+City) |
+| 🧖 **Spas & Wellness** | [Find Spas in Vatican City](https://www.google.com/maps/search/Spa+and+Wellness+in+Vatican+City) |
+| 💻 **Coworking** | [Find Coworking in Vatican City](https://www.google.com/maps/search/Coworking+Spaces+in+Vatican+City) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Vatican City](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vatican+City) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Vatican City](https://www.google.com/maps/search/supermarket+in+Vatican+City) |

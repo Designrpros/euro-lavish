@@ -18,13 +18,21 @@ description: Cost of Living in Limerick
 | Transport | 2.20€ | ~2.2 EUR |
 | Cinema | 12€ | ~12 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Limerick](https://www.google.com/maps/search/Gym+and+Workout+in+Limerick) |
+| 🧖 **Spas & Wellness** | [Find Spas in Limerick](https://www.google.com/maps/search/Spa+and+Wellness+in+Limerick) |
+| 💻 **Coworking** | [Find Coworking in Limerick](https://www.google.com/maps/search/Coworking+Spaces+in+Limerick) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Limerick](https://www.google.com/maps/search/laptop+friendly+cafes+in+Limerick) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Limerick](https://www.google.com/maps/search/supermarket+in+Limerick) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Limerick) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Limerick--Ireland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

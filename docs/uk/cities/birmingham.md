@@ -18,13 +18,21 @@ description: Cost of Living in Birmingham
 | Transport | 2.80€ | ~2.40£ |
 | Cinema | 11€ | ~9.50£ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Birmingham](https://www.google.com/maps/search/Gym+and+Workout+in+Birmingham) |
+| 🧖 **Spas & Wellness** | [Find Spas in Birmingham](https://www.google.com/maps/search/Spa+and+Wellness+in+Birmingham) |
+| 💻 **Coworking** | [Find Coworking in Birmingham](https://www.google.com/maps/search/Coworking+Spaces+in+Birmingham) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Birmingham](https://www.google.com/maps/search/laptop+friendly+cafes+in+Birmingham) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Birmingham](https://www.google.com/maps/search/supermarket+in+Birmingham) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Birmingham) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Birmingham--UK) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Oulu
 | Transport | 3€ | ~3€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Oulu](https://www.google.com/maps/search/Gym+and+Workout+in+Oulu) |
+| 🧖 **Spas & Wellness** | [Find Spas in Oulu](https://www.google.com/maps/search/Spa+and+Wellness+in+Oulu) |
+| 💻 **Coworking** | [Find Coworking in Oulu](https://www.google.com/maps/search/Coworking+Spaces+in+Oulu) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Oulu](https://www.google.com/maps/search/laptop+friendly+cafes+in+Oulu) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Oulu](https://www.google.com/maps/search/supermarket+in+Oulu) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Oulu) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Oulu--Finland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

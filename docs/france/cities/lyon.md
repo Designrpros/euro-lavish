@@ -18,13 +18,21 @@ description: Cost of Living in Lyon
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Lyon](https://www.google.com/maps/search/Gym+and+Workout+in+Lyon) |
+| 🧖 **Spas & Wellness** | [Find Spas in Lyon](https://www.google.com/maps/search/Spa+and+Wellness+in+Lyon) |
+| 💻 **Coworking** | [Find Coworking in Lyon](https://www.google.com/maps/search/Coworking+Spaces+in+Lyon) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Lyon](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lyon) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Lyon](https://www.google.com/maps/search/supermarket+in+Lyon) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lyon) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lyon--France) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

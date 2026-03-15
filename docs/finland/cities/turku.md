@@ -18,13 +18,21 @@ description: Cost of Living in Turku
 | Transport | 3€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Turku](https://www.google.com/maps/search/Gym+and+Workout+in+Turku) |
+| 🧖 **Spas & Wellness** | [Find Spas in Turku](https://www.google.com/maps/search/Spa+and+Wellness+in+Turku) |
+| 💻 **Coworking** | [Find Coworking in Turku](https://www.google.com/maps/search/Coworking+Spaces+in+Turku) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Turku](https://www.google.com/maps/search/laptop+friendly+cafes+in+Turku) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Turku](https://www.google.com/maps/search/supermarket+in+Turku) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Turku) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Turku--Finland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

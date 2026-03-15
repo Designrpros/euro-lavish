@@ -16,6 +16,23 @@ description: Complete cost of living guide for Georgia
 | Beer (0.5L) | 2€ | ~2 GEL |
 | Cappuccino | 2€ | ~2 GEL |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Tbilisi](cities/tbilisi.md) | 600€ |
+| [Batumi](cities/batumi.md) | 600€ |
+| [Kutaisi](cities/kutaisi.md) | 600€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇬🇪 Georgia](https://www.google.com/maps/search/Gym+and+Workout+in+🇬🇪+Georgia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇬🇪 Georgia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇬🇪+Georgia) |
+| 💻 **Coworking** | [Find Coworking in 🇬🇪 Georgia](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇪+Georgia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇪 Georgia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇪+Georgia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇪 Georgia](https://www.google.com/maps/search/supermarket+in+🇬🇪+Georgia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Georgia
 | **Excuse me** | Ukatsravad |
 | **Check, please!** | Angarishi, tu sheidzleba! |
 | **Do you speak English?** | Inglisuri itsit? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Tbilisi](cities/tbilisi.md) | 600€ |
-| [Batumi](cities/batumi.md) | 600€ |
-| [Kutaisi](cities/kutaisi.md) | 600€ |
 
 ## 🔗 Useful Links
 

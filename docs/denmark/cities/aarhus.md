@@ -18,13 +18,21 @@ description: Cost of Living in Aarhus
 | Transport | 3€ | ~22 kr |
 | Cinema | 11€ | ~82 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Aarhus](https://www.google.com/maps/search/Gym+and+Workout+in+Aarhus) |
+| 🧖 **Spas & Wellness** | [Find Spas in Aarhus](https://www.google.com/maps/search/Spa+and+Wellness+in+Aarhus) |
+| 💻 **Coworking** | [Find Coworking in Aarhus](https://www.google.com/maps/search/Coworking+Spaces+in+Aarhus) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Aarhus](https://www.google.com/maps/search/laptop+friendly+cafes+in+Aarhus) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Aarhus](https://www.google.com/maps/search/supermarket+in+Aarhus) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Aarhus) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Aarhus--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

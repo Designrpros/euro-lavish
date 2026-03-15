@@ -18,13 +18,21 @@ description: Cost of Living in Amsterdam
 | Transport | 3.50€ | ~3.50€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Amsterdam](https://www.google.com/maps/search/Gym+and+Workout+in+Amsterdam) |
+| 🧖 **Spas & Wellness** | [Find Spas in Amsterdam](https://www.google.com/maps/search/Spa+and+Wellness+in+Amsterdam) |
+| 💻 **Coworking** | [Find Coworking in Amsterdam](https://www.google.com/maps/search/Coworking+Spaces+in+Amsterdam) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Amsterdam](https://www.google.com/maps/search/laptop+friendly+cafes+in+Amsterdam) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Amsterdam](https://www.google.com/maps/search/supermarket+in+Amsterdam) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Amsterdam--Netherlands) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

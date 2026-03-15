@@ -18,13 +18,21 @@ description: Cost of Living in Västerås
 | Transport | 3€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Västerås](https://www.google.com/maps/search/Gym+and+Workout+in+Västerås) |
+| 🧖 **Spas & Wellness** | [Find Spas in Västerås](https://www.google.com/maps/search/Spa+and+Wellness+in+Västerås) |
+| 💻 **Coworking** | [Find Coworking in Västerås](https://www.google.com/maps/search/Coworking+Spaces+in+Västerås) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Västerås](https://www.google.com/maps/search/laptop+friendly+cafes+in+Västerås) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Västerås](https://www.google.com/maps/search/supermarket+in+Västerås) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Vasteras) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Vasteras--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

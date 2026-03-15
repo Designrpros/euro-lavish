@@ -16,6 +16,23 @@ description: Complete cost of living guide for Russia (European)
 | Beer (0.5L) | 2€ | ~2 RUB |
 | Cappuccino | 2.50€ | ~2.50 RUB |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Moscow](cities/moscow.md) | 600€ |
+| [Saint Petersburg](cities/saint-petersburg.md) | 600€ |
+| [Kazan](cities/kazan.md) | 600€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇷🇺 Russia (European)](https://www.google.com/maps/search/Gym+and+Workout+in+🇷🇺+Russia+(European)) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇷🇺 Russia (European)](https://www.google.com/maps/search/Spa+and+Wellness+in+🇷🇺+Russia+(European)) |
+| 💻 **Coworking** | [Find Coworking in 🇷🇺 Russia (European)](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇺+Russia+(European)) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇺 Russia (European)](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇺+Russia+(European)) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇺 Russia (European)](https://www.google.com/maps/search/supermarket+in+🇷🇺+Russia+(European)) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Russia (European)
 | **Excuse me** | Izvinite |
 | **Check, please!** | Schot, pozhaluysta! |
 | **Do you speak English?** | Vy govorite po-angliyski? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Moscow](cities/moscow.md) | 600€ |
-| [Saint Petersburg](cities/saint-petersburg.md) | 600€ |
-| [Kazan](cities/kazan.md) | 600€ |
 
 ## 🔗 Useful Links
 

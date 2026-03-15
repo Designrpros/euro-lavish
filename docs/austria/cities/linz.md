@@ -18,13 +18,21 @@ description: Cost of Living in Linz
 | Transport | 2.40€ | ~2.4 EUR |
 | Cinema | 11€ | ~11 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Linz](https://www.google.com/maps/search/Gym+and+Workout+in+Linz) |
+| 🧖 **Spas & Wellness** | [Find Spas in Linz](https://www.google.com/maps/search/Spa+and+Wellness+in+Linz) |
+| 💻 **Coworking** | [Find Coworking in Linz](https://www.google.com/maps/search/Coworking+Spaces+in+Linz) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Linz](https://www.google.com/maps/search/laptop+friendly+cafes+in+Linz) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Linz](https://www.google.com/maps/search/supermarket+in+Linz) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Linz) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Linz--Austria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Wroclaw
 | Transport | 1€ | ~4.30 zł |
 | Cinema | 5€ | ~22 zł |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Wroclaw](https://www.google.com/maps/search/Gym+and+Workout+in+Wroclaw) |
+| 🧖 **Spas & Wellness** | [Find Spas in Wroclaw](https://www.google.com/maps/search/Spa+and+Wellness+in+Wroclaw) |
+| 💻 **Coworking** | [Find Coworking in Wroclaw](https://www.google.com/maps/search/Coworking+Spaces+in+Wroclaw) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Wroclaw](https://www.google.com/maps/search/laptop+friendly+cafes+in+Wroclaw) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Wroclaw](https://www.google.com/maps/search/supermarket+in+Wroclaw) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Wroclaw) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Wroclaw--Poland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -16,6 +16,22 @@ description: Complete cost of living guide for Kazakhstan (European)
 | Beer (0.5L) | 1.20€ | ~1.20 KZT |
 | Cappuccino | 1.50€ | ~1.50 KZT |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Oral](cities/oral.md) | 300€ |
+| [Atyrau](cities/atyrau.md) | 300€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/Gym+and+Workout+in+🇰🇿+Kazakhstan+(European)) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/Spa+and+Wellness+in+🇰🇿+Kazakhstan+(European)) |
+| 💻 **Coworking** | [Find Coworking in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/Coworking+Spaces+in+🇰🇿+Kazakhstan+(European)) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇰🇿+Kazakhstan+(European)) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇰🇿 Kazakhstan (European)](https://www.google.com/maps/search/supermarket+in+🇰🇿+Kazakhstan+(European)) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,13 +51,6 @@ description: Complete cost of living guide for Kazakhstan (European)
 | **Excuse me** | Keshirińiz |
 | **Check, please!** | Shot, suraıman! |
 | **Do you speak English?** | Siz aǵylshynsha sóıleısiiz be? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Oral](cities/oral.md) | 300€ |
-| [Atyrau](cities/atyrau.md) | 300€ |
 
 ## 🔗 Useful Links
 

@@ -18,13 +18,21 @@ description: Cost of Living in Odense
 | Transport | 2.80€ | ~21 kr |
 | Cinema | 10€ | ~74 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Odense](https://www.google.com/maps/search/Gym+and+Workout+in+Odense) |
+| 🧖 **Spas & Wellness** | [Find Spas in Odense](https://www.google.com/maps/search/Spa+and+Wellness+in+Odense) |
+| 💻 **Coworking** | [Find Coworking in Odense](https://www.google.com/maps/search/Coworking+Spaces+in+Odense) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Odense](https://www.google.com/maps/search/laptop+friendly+cafes+in+Odense) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Odense](https://www.google.com/maps/search/supermarket+in+Odense) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Odense) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Odense--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

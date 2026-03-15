@@ -18,13 +18,21 @@ description: Cost of Living in Barcelona
 | Transport | 2.20€ | ~2.20€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Barcelona](https://www.google.com/maps/search/Gym+and+Workout+in+Barcelona) |
+| 🧖 **Spas & Wellness** | [Find Spas in Barcelona](https://www.google.com/maps/search/Spa+and+Wellness+in+Barcelona) |
+| 💻 **Coworking** | [Find Coworking in Barcelona](https://www.google.com/maps/search/Coworking+Spaces+in+Barcelona) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Barcelona](https://www.google.com/maps/search/laptop+friendly+cafes+in+Barcelona) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Barcelona](https://www.google.com/maps/search/supermarket+in+Barcelona) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Barcelona) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Barcelona--Spain) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

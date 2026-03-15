@@ -7,6 +7,15 @@ description: Komplett levekostnad-guide for {LAND}
 
 ![{LAND}]({BILDE_URL})
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in {FLAGG} {LAND}](https://www.google.com/maps/search/Gym+and+Workout+in+{FLAGG}+{LAND}) |
+| 🧖 **Spas & Wellness** | [Find Spas in {FLAGG} {LAND}](https://www.google.com/maps/search/Spa+and+Wellness+in+{FLAGG}+{LAND}) |
+| 💻 **Coworking** | [Find Coworking in {FLAGG} {LAND}](https://www.google.com/maps/search/Coworking+Spaces+in+{FLAGG}+{LAND}) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in {FLAGG} {LAND}](https://www.google.com/maps/search/laptop+friendly+cafes+in+{FLAGG}+{LAND}) |
+| 🛒 **Supermarkets** | [Find Supermarkets in {FLAGG} {LAND}](https://www.google.com/maps/search/supermarket+in+{FLAGG}+{LAND}) |
 ## 📊 Levekostnader
 
 | Kategori | Pris | 

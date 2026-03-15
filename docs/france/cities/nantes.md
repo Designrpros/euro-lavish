@@ -18,13 +18,21 @@ description: Cost of Living in Nantes
 | Transport | 1.60€ | ~1.60€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Nantes](https://www.google.com/maps/search/Gym+and+Workout+in+Nantes) |
+| 🧖 **Spas & Wellness** | [Find Spas in Nantes](https://www.google.com/maps/search/Spa+and+Wellness+in+Nantes) |
+| 💻 **Coworking** | [Find Coworking in Nantes](https://www.google.com/maps/search/Coworking+Spaces+in+Nantes) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Nantes](https://www.google.com/maps/search/laptop+friendly+cafes+in+Nantes) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Nantes](https://www.google.com/maps/search/supermarket+in+Nantes) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Nantes) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Nantes--France) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

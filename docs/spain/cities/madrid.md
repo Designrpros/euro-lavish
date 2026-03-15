@@ -18,13 +18,21 @@ description: Cost of Living in Madrid
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Madrid](https://www.google.com/maps/search/Gym+and+Workout+in+Madrid) |
+| 🧖 **Spas & Wellness** | [Find Spas in Madrid](https://www.google.com/maps/search/Spa+and+Wellness+in+Madrid) |
+| 💻 **Coworking** | [Find Coworking in Madrid](https://www.google.com/maps/search/Coworking+Spaces+in+Madrid) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Madrid](https://www.google.com/maps/search/laptop+friendly+cafes+in+Madrid) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Madrid](https://www.google.com/maps/search/supermarket+in+Madrid) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Madrid) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Madrid--Spain) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

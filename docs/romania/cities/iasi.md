@@ -18,13 +18,21 @@ description: Cost of Living in Iași
 | Transport | 0.60€ | ~3 RON |
 | Cinema | 5€ | ~25 RON |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Iași](https://www.google.com/maps/search/Gym+and+Workout+in+Iași) |
+| 🧖 **Spas & Wellness** | [Find Spas in Iași](https://www.google.com/maps/search/Spa+and+Wellness+in+Iași) |
+| 💻 **Coworking** | [Find Coworking in Iași](https://www.google.com/maps/search/Coworking+Spaces+in+Iași) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Iași](https://www.google.com/maps/search/laptop+friendly+cafes+in+Iași) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Iași](https://www.google.com/maps/search/supermarket+in+Iași) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Iasi) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Iasi--Romania) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

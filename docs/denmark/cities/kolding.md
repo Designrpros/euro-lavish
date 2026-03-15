@@ -18,13 +18,21 @@ description: Cost of Living in Kolding
 | Transport | 2.80€ | ~21 kr |
 | Cinema | 10€ | ~75 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kolding](https://www.google.com/maps/search/Gym+and+Workout+in+Kolding) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kolding](https://www.google.com/maps/search/Spa+and+Wellness+in+Kolding) |
+| 💻 **Coworking** | [Find Coworking in Kolding](https://www.google.com/maps/search/Coworking+Spaces+in+Kolding) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kolding](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kolding) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kolding](https://www.google.com/maps/search/supermarket+in+Kolding) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kolding) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kolding--Denmark) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

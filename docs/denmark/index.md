@@ -18,7 +18,29 @@ description: Complete cost of living guide for Denmark
 | Transport | 3.40€ | ~25 kr |
 | Cinema | 13€ | ~97 kr |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Aarhus](cities/aarhus.md) | 1,200€ |  |
+| 2 | [Copenhagen](cities/copenhagen.md) | 1,775€ |  |
+| 3 | [Esbjerg](cities/esbjerg.md) | 850€ |  |
+| 4 | [Herning](cities/herning.md) | 800€ |  |
+| 5 | [Copenhagen](cities/kobenhavn.md) | 1,775€ |  |
+| 6 | [Kolding](cities/kolding.md) | 900€ |  |
+| 7 | [Odense](cities/odense.md) | 950€ |  |
+| 8 | [Randers](cities/randers.md) | --- |  |
+| 9 | [Roskilde](cities/roskilde.md) | --- |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇩🇰 Denmark](https://www.google.com/maps/search/Gym+and+Workout+in+🇩🇰+Denmark) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇩🇰 Denmark](https://www.google.com/maps/search/Spa+and+Wellness+in+🇩🇰+Denmark) |
+| 💻 **Coworking** | [Find Coworking in 🇩🇰 Denmark](https://www.google.com/maps/search/Coworking+Spaces+in+🇩🇰+Denmark) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇩🇰 Denmark](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇩🇰+Denmark) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇩🇰 Denmark](https://www.google.com/maps/search/supermarket+in+🇩🇰+Denmark) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,24 +64,6 @@ description: Complete cost of living guide for Denmark
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [Rejseplanen](https://www.rejseplanen.dk/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Aarhus](cities/aarhus.md) | 1,200€ |  |
-| 2 | [Copenhagen](cities/copenhagen.md) | 1,775€ |  |
-| 3 | [Esbjerg](cities/esbjerg.md) | 850€ |  |
-| 4 | [Herning](cities/herning.md) | 800€ |  |
-| 5 | [Copenhagen](cities/kobenhavn.md) | 1,775€ |  |
-| 6 | [Kolding](cities/kolding.md) | 900€ |  |
-| 7 | [Odense](cities/odense.md) | 950€ |  |
-| 8 | [Randers](cities/randers.md) | --- |  |
-| 9 | [Roskilde](cities/roskilde.md) | --- |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -72,6 +76,13 @@ description: Complete cost of living guide for Denmark
 | **Check, please!** | Regningen, tak! |
 | **Do you speak English?** | Taler du engelsk? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -91,10 +102,3 @@ description: Complete cost of living guide for Denmark
 | [Rejseplanen](https://www.rejseplanen.dk) | 🔵 Public transport |
 | [DSB](https://www.dsb.dk) | Trains |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

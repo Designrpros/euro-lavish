@@ -18,13 +18,21 @@ description: Cost of Living in Hafnarfjordur
 | Transport | 3.50€ | ~3.5 EUR |
 | Cinema | 15€ | ~15 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Hafnarfjordur](https://www.google.com/maps/search/Gym+and+Workout+in+Hafnarfjordur) |
+| 🧖 **Spas & Wellness** | [Find Spas in Hafnarfjordur](https://www.google.com/maps/search/Spa+and+Wellness+in+Hafnarfjordur) |
+| 💻 **Coworking** | [Find Coworking in Hafnarfjordur](https://www.google.com/maps/search/Coworking+Spaces+in+Hafnarfjordur) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Hafnarfjordur](https://www.google.com/maps/search/laptop+friendly+cafes+in+Hafnarfjordur) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Hafnarfjordur](https://www.google.com/maps/search/supermarket+in+Hafnarfjordur) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Hafnarfjordur) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Hafnarfjordur--Iceland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Plzeň
 | Transport | 1€ | ~24 Kč |
 | Cinema | 6€ | ~147 Kč |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Plzeň](https://www.google.com/maps/search/Gym+and+Workout+in+Plzeň) |
+| 🧖 **Spas & Wellness** | [Find Spas in Plzeň](https://www.google.com/maps/search/Spa+and+Wellness+in+Plzeň) |
+| 💻 **Coworking** | [Find Coworking in Plzeň](https://www.google.com/maps/search/Coworking+Spaces+in+Plzeň) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Plzeň](https://www.google.com/maps/search/laptop+friendly+cafes+in+Plzeň) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Plzeň](https://www.google.com/maps/search/supermarket+in+Plzeň) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Plzen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Plzen--Czechia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Malmö
 | Transport | 3.20€ | ~35 kr |
 | Cinema | 11€ | ~121 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Malmö](https://www.google.com/maps/search/Gym+and+Workout+in+Malmö) |
+| 🧖 **Spas & Wellness** | [Find Spas in Malmö](https://www.google.com/maps/search/Spa+and+Wellness+in+Malmö) |
+| 💻 **Coworking** | [Find Coworking in Malmö](https://www.google.com/maps/search/Coworking+Spaces+in+Malmö) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Malmö](https://www.google.com/maps/search/laptop+friendly+cafes+in+Malmö) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Malmö](https://www.google.com/maps/search/supermarket+in+Malmö) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Malmo) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Malmo--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

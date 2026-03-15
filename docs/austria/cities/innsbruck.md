@@ -18,13 +18,21 @@ description: Cost of Living in Innsbruck
 | Transport | 2.40€ | ~2.40€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Innsbruck](https://www.google.com/maps/search/Gym+and+Workout+in+Innsbruck) |
+| 🧖 **Spas & Wellness** | [Find Spas in Innsbruck](https://www.google.com/maps/search/Spa+and+Wellness+in+Innsbruck) |
+| 💻 **Coworking** | [Find Coworking in Innsbruck](https://www.google.com/maps/search/Coworking+Spaces+in+Innsbruck) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Innsbruck](https://www.google.com/maps/search/laptop+friendly+cafes+in+Innsbruck) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Innsbruck](https://www.google.com/maps/search/supermarket+in+Innsbruck) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Innsbruck) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Innsbruck--Austria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

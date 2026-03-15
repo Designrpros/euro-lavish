@@ -18,13 +18,21 @@ description: Cost of Living in Lausanne
 | Transport | 4.50€ | ~4 CHF |
 | Cinema | 20€ | ~19 CHF |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Lausanne](https://www.google.com/maps/search/Gym+and+Workout+in+Lausanne) |
+| 🧖 **Spas & Wellness** | [Find Spas in Lausanne](https://www.google.com/maps/search/Spa+and+Wellness+in+Lausanne) |
+| 💻 **Coworking** | [Find Coworking in Lausanne](https://www.google.com/maps/search/Coworking+Spaces+in+Lausanne) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Lausanne](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lausanne) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Lausanne](https://www.google.com/maps/search/supermarket+in+Lausanne) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lausanne) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lausanne--Switzerland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

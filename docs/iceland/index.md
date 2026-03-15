@@ -18,7 +18,26 @@ description: Complete cost of living guide for Iceland
 | Transport | 4€ | ~580 kr |
 | Cinema | 14€ | ~2,000 kr |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Akureyri](cities/akureyri.md) | 1,200€ |  |
+| 2 | [Hafnarfjordur](cities/hafnarfjordur.md) | 1,600€ |  |
+| 3 | [Hafnarfjörður](cities/hoskuldseyri.md) | 1,400€ |  |
+| 4 | [Keflavik](cities/keflavik.md) | 1,400€ |  |
+| 5 | [Kópavogur](cities/kopavogur.md) | 1,500€ |  |
+| 6 | [Reykjavik](cities/reykjavik.md) | 1,800€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇮🇸 Iceland](https://www.google.com/maps/search/Gym+and+Workout+in+🇮🇸+Iceland) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇮🇸 Iceland](https://www.google.com/maps/search/Spa+and+Wellness+in+🇮🇸+Iceland) |
+| 💻 **Coworking** | [Find Coworking in 🇮🇸 Iceland](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇸+Iceland) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇸 Iceland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇸+Iceland) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇸 Iceland](https://www.google.com/maps/search/supermarket+in+🇮🇸+Iceland) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Iceland
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [Strætó](https://www.straeto.is/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Akureyri](cities/akureyri.md) | 1,200€ |  |
-| 2 | [Hafnarfjordur](cities/hafnarfjordur.md) | 1,600€ |  |
-| 3 | [Hafnarfjörður](cities/hoskuldseyri.md) | 1,400€ |  |
-| 4 | [Keflavik](cities/keflavik.md) | 1,400€ |  |
-| 5 | [Kópavogur](cities/kopavogur.md) | 1,500€ |  |
-| 6 | [Reykjavik](cities/reykjavik.md) | 1,800€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,13 +73,6 @@ description: Complete cost of living guide for Iceland
 | **Check, please!** | Reikninginn, takk! |
 | **Do you speak English?** | Talarðu ensku? |
 
-## 🔗 Useful Links
-
-### 🏠 Housing & Rent
-| Link | Description |
-|------|-------------|
-| [Fasteignasolur](https://www.fasteignasolur.is) | Housing |
-
 ## 🛸 Drug Policy
 
 | Substance | Status | Penalty |
@@ -83,3 +80,10 @@ description: Complete cost of living guide for Iceland
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+## 🔗 Useful Links
+
+### 🏠 Housing & Rent
+| Link | Description |
+|------|-------------|
+| [Fasteignasolur](https://www.fasteignasolur.is) | Housing |
+

@@ -18,13 +18,21 @@ description: Cost of Living in Rijeka
 | Transport | 1.30€ | ~1.30€ |
 | Cinema | 6€ | ~6€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Rijeka](https://www.google.com/maps/search/Gym+and+Workout+in+Rijeka) |
+| 🧖 **Spas & Wellness** | [Find Spas in Rijeka](https://www.google.com/maps/search/Spa+and+Wellness+in+Rijeka) |
+| 💻 **Coworking** | [Find Coworking in Rijeka](https://www.google.com/maps/search/Coworking+Spaces+in+Rijeka) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Rijeka](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rijeka) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Rijeka](https://www.google.com/maps/search/supermarket+in+Rijeka) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rijeka) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rijeka--Croatia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

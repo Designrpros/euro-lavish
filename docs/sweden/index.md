@@ -18,7 +18,29 @@ description: Complete cost of living guide for Sweden
 | Transport | 4€ | ~44 kr |
 | Cinema | 14€ | ~154 kr |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Gothenburg](cities/goteborg.md) | 1,100€ |  |
+| 2 | [Jönköping](cities/jonkoping.md) | --- |  |
+| 3 | [Linköping](cities/linkoping.md) | 800€ |  |
+| 4 | [Lund](cities/lund.md) | --- |  |
+| 5 | [Malmö](cities/malmo.md) | 900€ |  |
+| 6 | [Örebro](cities/orebro.md) | 750€ |  |
+| 7 | [Stockholm](cities/stockholm.md) | 1,404€ |  |
+| 8 | [Uppsala](cities/uppsala.md) | 850€ |  |
+| 9 | [Västerås](cities/vasteras.md) | 750€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇸🇪 Sweden](https://www.google.com/maps/search/Gym+and+Workout+in+🇸🇪+Sweden) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇸🇪 Sweden](https://www.google.com/maps/search/Spa+and+Wellness+in+🇸🇪+Sweden) |
+| 💻 **Coworking** | [Find Coworking in 🇸🇪 Sweden](https://www.google.com/maps/search/Coworking+Spaces+in+🇸🇪+Sweden) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇸🇪 Sweden](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇸🇪+Sweden) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇸🇪 Sweden](https://www.google.com/maps/search/supermarket+in+🇸🇪+Sweden) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,24 +64,6 @@ description: Complete cost of living guide for Sweden
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [SL](https://sl.se/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Gothenburg](cities/goteborg.md) | 1,100€ |  |
-| 2 | [Jönköping](cities/jonkoping.md) | --- |  |
-| 3 | [Linköping](cities/linkoping.md) | 800€ |  |
-| 4 | [Lund](cities/lund.md) | --- |  |
-| 5 | [Malmö](cities/malmo.md) | 900€ |  |
-| 6 | [Örebro](cities/orebro.md) | 750€ |  |
-| 7 | [Stockholm](cities/stockholm.md) | 1,404€ |  |
-| 8 | [Uppsala](cities/uppsala.md) | 850€ |  |
-| 9 | [Västerås](cities/vasteras.md) | 750€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -72,6 +76,13 @@ description: Complete cost of living guide for Sweden
 | **Check, please!** | Notan, tack! |
 | **Do you speak English?** | Pratar du engelska? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -86,10 +97,3 @@ description: Complete cost of living guide for Sweden
 | [Arbetsförmedlingen](https://www.arbetsformedlingen.se) | Public job search |
 | [LinkedIn](https://www.linkedin.com) | Professional network |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

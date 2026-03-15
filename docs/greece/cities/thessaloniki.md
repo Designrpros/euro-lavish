@@ -18,13 +18,21 @@ description: Cost of Living in Thessaloniki
 | Transport | 1.30€ | ~1.30€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Thessaloniki](https://www.google.com/maps/search/Gym+and+Workout+in+Thessaloniki) |
+| 🧖 **Spas & Wellness** | [Find Spas in Thessaloniki](https://www.google.com/maps/search/Spa+and+Wellness+in+Thessaloniki) |
+| 💻 **Coworking** | [Find Coworking in Thessaloniki](https://www.google.com/maps/search/Coworking+Spaces+in+Thessaloniki) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Thessaloniki](https://www.google.com/maps/search/laptop+friendly+cafes+in+Thessaloniki) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Thessaloniki](https://www.google.com/maps/search/supermarket+in+Thessaloniki) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Thessaloniki) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Thessaloniki--Greece) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

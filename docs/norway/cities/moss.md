@@ -18,13 +18,21 @@ description: Cost of Living in Moss
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 10€ | ~115 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Moss](https://www.google.com/maps/search/Gym+and+Workout+in+Moss) |
+| 🧖 **Spas & Wellness** | [Find Spas in Moss](https://www.google.com/maps/search/Spa+and+Wellness+in+Moss) |
+| 💻 **Coworking** | [Find Coworking in Moss](https://www.google.com/maps/search/Coworking+Spaces+in+Moss) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Moss](https://www.google.com/maps/search/laptop+friendly+cafes+in+Moss) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Moss](https://www.google.com/maps/search/supermarket+in+Moss) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Moss) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Moss--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

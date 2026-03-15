@@ -18,7 +18,26 @@ description: Complete cost of living guide for Belgium
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Antwerp](cities/antwerp.md) | 1,000€ |  |
+| 2 | [Bruges](cities/bruges.md) | 950€ |  |
+| 3 | [Brussels](cities/brussels.md) | 1,200€ |  |
+| 4 | [Ghent](cities/ghent.md) | 900€ |  |
+| 5 | [Leuven](cities/leuven.md) | 1,100€ |  |
+| 6 | [Liege](cities/liege.md) | 750€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇧🇪 Belgium](https://www.google.com/maps/search/Gym+and+Workout+in+🇧🇪+Belgium) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇧🇪 Belgium](https://www.google.com/maps/search/Spa+and+Wellness+in+🇧🇪+Belgium) |
+| 💻 **Coworking** | [Find Coworking in 🇧🇪 Belgium](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇪+Belgium) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇪 Belgium](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇪+Belgium) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇪 Belgium](https://www.google.com/maps/search/supermarket+in+🇧🇪+Belgium) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Belgium
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [SNCB / NMBS](https://www.belgiantrain.be/en/travel-info/prepare-for-your-journey/sncb-app) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Antwerp](cities/antwerp.md) | 1,000€ |  |
-| 2 | [Bruges](cities/bruges.md) | 950€ |  |
-| 3 | [Brussels](cities/brussels.md) | 1,200€ |  |
-| 4 | [Ghent](cities/ghent.md) | 900€ |  |
-| 5 | [Leuven](cities/leuven.md) | 1,100€ |  |
-| 6 | [Liege](cities/liege.md) | 750€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Belgium
 | **Check, please!** | De rekening, aub / L'addition, svp |
 | **Do you speak English?** | Spreekt u Engels? / Anglais? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Legalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -81,10 +92,3 @@ description: Complete cost of living guide for Belgium
 |------|-------------|
 | [Indeed Belgium](https://www.indeed.be) | 🔴 Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟢 | Legalized |
-
-*Data: Numbeo.com, March 2026*

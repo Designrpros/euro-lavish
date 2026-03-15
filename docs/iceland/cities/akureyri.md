@@ -18,13 +18,21 @@ description: Cost of Living in Akureyri
 | Transport | 4€ | ~580 kr |
 | Cinema | 12€ | ~1,700 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Akureyri](https://www.google.com/maps/search/Gym+and+Workout+in+Akureyri) |
+| 🧖 **Spas & Wellness** | [Find Spas in Akureyri](https://www.google.com/maps/search/Spa+and+Wellness+in+Akureyri) |
+| 💻 **Coworking** | [Find Coworking in Akureyri](https://www.google.com/maps/search/Coworking+Spaces+in+Akureyri) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Akureyri](https://www.google.com/maps/search/laptop+friendly+cafes+in+Akureyri) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Akureyri](https://www.google.com/maps/search/supermarket+in+Akureyri) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Akureyri) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Akureyri--Iceland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

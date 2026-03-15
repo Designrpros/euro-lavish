@@ -18,13 +18,21 @@ description: Cost of Living in Vienna
 | Transport | 2.40€ | ~2.40€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Vienna](https://www.google.com/maps/search/Gym+and+Workout+in+Vienna) |
+| 🧖 **Spas & Wellness** | [Find Spas in Vienna](https://www.google.com/maps/search/Spa+and+Wellness+in+Vienna) |
+| 💻 **Coworking** | [Find Coworking in Vienna](https://www.google.com/maps/search/Coworking+Spaces+in+Vienna) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Vienna](https://www.google.com/maps/search/laptop+friendly+cafes+in+Vienna) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Vienna](https://www.google.com/maps/search/supermarket+in+Vienna) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Vienna) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Vienna--Austria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

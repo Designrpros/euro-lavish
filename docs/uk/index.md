@@ -18,7 +18,27 @@ description: Complete cost of living guide for UK
 | Transport | 3.50€ | ~3£ |
 | Cinema | 15€ | ~13£ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Birmingham](cities/birmingham.md) | 1,100€ |  |
+| 2 | [Edinburgh](cities/edinburgh.md) | 1,300€ |  |
+| 3 | [Glasgow](cities/glasgow.md) | 950€ |  |
+| 4 | [Leeds](cities/leeds.md) | --- |  |
+| 5 | [Liverpool](cities/liverpool.md) | --- |  |
+| 6 | [London](cities/london.md) | 2,530€ |  |
+| 7 | [Manchester](cities/manchester.md) | 1,400€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇬🇧 United Kingdom](https://www.google.com/maps/search/Gym+and+Workout+in+🇬🇧+United+Kingdom) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇬🇧 United Kingdom](https://www.google.com/maps/search/Spa+and+Wellness+in+🇬🇧+United+Kingdom) |
+| 💻 **Coworking** | [Find Coworking in 🇬🇧 United Kingdom](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇧+United+Kingdom) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇧 United Kingdom](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇧+United+Kingdom) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇧 United Kingdom](https://www.google.com/maps/search/supermarket+in+🇬🇧+United+Kingdom) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,22 +62,6 @@ description: Complete cost of living guide for UK
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [Citymapper](https://citymapper.com/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Birmingham](cities/birmingham.md) | 1,100€ |  |
-| 2 | [Edinburgh](cities/edinburgh.md) | 1,300€ |  |
-| 3 | [Glasgow](cities/glasgow.md) | 950€ |  |
-| 4 | [Leeds](cities/leeds.md) | --- |  |
-| 5 | [Liverpool](cities/liverpool.md) | --- |  |
-| 6 | [London](cities/london.md) | 2,530€ |  |
-| 7 | [Manchester](cities/manchester.md) | 1,400€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -70,6 +74,13 @@ description: Complete cost of living guide for UK
 | **Check, please!** | The check, please! |
 | **Do you speak English?** | Do you speak English? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -83,10 +94,3 @@ description: Complete cost of living guide for UK
 |------|-------------|
 | [Indeed UK](https://www.indeed.co.uk) | 🔴 Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

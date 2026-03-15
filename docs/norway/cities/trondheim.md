@@ -18,13 +18,21 @@ description: Cost of Living in Trondheim
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 12€ | ~138 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Trondheim](https://www.google.com/maps/search/Gym+and+Workout+in+Trondheim) |
+| 🧖 **Spas & Wellness** | [Find Spas in Trondheim](https://www.google.com/maps/search/Spa+and+Wellness+in+Trondheim) |
+| 💻 **Coworking** | [Find Coworking in Trondheim](https://www.google.com/maps/search/Coworking+Spaces+in+Trondheim) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Trondheim](https://www.google.com/maps/search/laptop+friendly+cafes+in+Trondheim) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Trondheim](https://www.google.com/maps/search/supermarket+in+Trondheim) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Trondheim) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Trondheim--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

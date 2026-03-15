@@ -18,7 +18,26 @@ description: Complete cost of living guide for France
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Lyon](cities/lyon.md) | 950€ |  |
+| 2 | [Marseille](cities/marseille.md) | 850€ |  |
+| 3 | [Nantes](cities/nantes.md) | 750€ |  |
+| 4 | [Nice](cities/nice.md) | 1,100€ |  |
+| 5 | [Paris](cities/paris.md) | 2,000€ |  |
+| 6 | [Toulouse](cities/toulouse.md) | 800€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇫🇷 France](https://www.google.com/maps/search/Gym+and+Workout+in+🇫🇷+France) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇫🇷 France](https://www.google.com/maps/search/Spa+and+Wellness+in+🇫🇷+France) |
+| 💻 **Coworking** | [Find Coworking in 🇫🇷 France](https://www.google.com/maps/search/Coworking+Spaces+in+🇫🇷+France) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇫🇷 France](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇫🇷+France) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇫🇷 France](https://www.google.com/maps/search/supermarket+in+🇫🇷+France) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for France
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [Citymapper / SNCF](https://www.sncf.com/en/passenger-offer/sncf-app) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Lyon](cities/lyon.md) | 950€ |  |
-| 2 | [Marseille](cities/marseille.md) | 850€ |  |
-| 3 | [Nantes](cities/nantes.md) | 750€ |  |
-| 4 | [Nice](cities/nice.md) | 1,100€ |  |
-| 5 | [Paris](cities/paris.md) | 2,000€ |  |
-| 6 | [Toulouse](cities/toulouse.md) | 800€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for France
 | **Check, please!** | L'addition, s'il vous plaît ! |
 | **Do you speak English?** | Parlez-vous anglais ? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -82,10 +93,3 @@ description: Complete cost of living guide for France
 |------|-------------|
 | [Pôle Emploi](https://www.pole-emploi.fr) | 🔴 Public job service |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

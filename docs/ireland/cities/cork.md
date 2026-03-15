@@ -18,13 +18,21 @@ description: Cost of Living in Cork
 | Transport | 2.80€ | ~2.80€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Cork](https://www.google.com/maps/search/Gym+and+Workout+in+Cork) |
+| 🧖 **Spas & Wellness** | [Find Spas in Cork](https://www.google.com/maps/search/Spa+and+Wellness+in+Cork) |
+| 💻 **Coworking** | [Find Coworking in Cork](https://www.google.com/maps/search/Coworking+Spaces+in+Cork) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Cork](https://www.google.com/maps/search/laptop+friendly+cafes+in+Cork) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Cork](https://www.google.com/maps/search/supermarket+in+Cork) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Cork) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Cork--Ireland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

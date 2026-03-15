@@ -18,13 +18,21 @@ description: Cost of Living in Split
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Split](https://www.google.com/maps/search/Gym+and+Workout+in+Split) |
+| 🧖 **Spas & Wellness** | [Find Spas in Split](https://www.google.com/maps/search/Spa+and+Wellness+in+Split) |
+| 💻 **Coworking** | [Find Coworking in Split](https://www.google.com/maps/search/Coworking+Spaces+in+Split) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Split](https://www.google.com/maps/search/laptop+friendly+cafes+in+Split) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Split](https://www.google.com/maps/search/supermarket+in+Split) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Split) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Split--Croatia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

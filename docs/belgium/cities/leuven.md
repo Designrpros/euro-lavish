@@ -18,13 +18,21 @@ description: Cost of Living in Leuven
 | Transport | 2.50€ | ~2.5 EUR |
 | Cinema | 12€ | ~12 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Leuven](https://www.google.com/maps/search/Gym+and+Workout+in+Leuven) |
+| 🧖 **Spas & Wellness** | [Find Spas in Leuven](https://www.google.com/maps/search/Spa+and+Wellness+in+Leuven) |
+| 💻 **Coworking** | [Find Coworking in Leuven](https://www.google.com/maps/search/Coworking+Spaces+in+Leuven) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Leuven](https://www.google.com/maps/search/laptop+friendly+cafes+in+Leuven) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Leuven](https://www.google.com/maps/search/supermarket+in+Leuven) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Leuven) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Leuven--Belgium) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Berlin
 | Transport | 2.90€ | ~2.90€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Berlin](https://www.google.com/maps/search/Gym+and+Workout+in+Berlin) |
+| 🧖 **Spas & Wellness** | [Find Spas in Berlin](https://www.google.com/maps/search/Spa+and+Wellness+in+Berlin) |
+| 💻 **Coworking** | [Find Coworking in Berlin](https://www.google.com/maps/search/Coworking+Spaces+in+Berlin) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Berlin](https://www.google.com/maps/search/laptop+friendly+cafes+in+Berlin) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Berlin](https://www.google.com/maps/search/supermarket+in+Berlin) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Berlin) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Berlin--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

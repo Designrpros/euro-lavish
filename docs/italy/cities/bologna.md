@@ -16,13 +16,21 @@ description: Cost of Living in Bologna
 | Transport | 1.40€ | ~1.40€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Bologna](https://www.google.com/maps/search/Gym+and+Workout+in+Bologna) |
+| 🧖 **Spas & Wellness** | [Find Spas in Bologna](https://www.google.com/maps/search/Spa+and+Wellness+in+Bologna) |
+| 💻 **Coworking** | [Find Coworking in Bologna](https://www.google.com/maps/search/Coworking+Spaces+in+Bologna) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Bologna](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bologna) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Bologna](https://www.google.com/maps/search/supermarket+in+Bologna) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bologna) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bologna--Italy) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

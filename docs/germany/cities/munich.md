@@ -18,13 +18,21 @@ description: Cost of Living in Munich
 | Transport | 3€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Munich](https://www.google.com/maps/search/Gym+and+Workout+in+Munich) |
+| 🧖 **Spas & Wellness** | [Find Spas in Munich](https://www.google.com/maps/search/Spa+and+Wellness+in+Munich) |
+| 💻 **Coworking** | [Find Coworking in Munich](https://www.google.com/maps/search/Coworking+Spaces+in+Munich) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Munich](https://www.google.com/maps/search/laptop+friendly+cafes+in+Munich) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Munich](https://www.google.com/maps/search/supermarket+in+Munich) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Munich) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Munich--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

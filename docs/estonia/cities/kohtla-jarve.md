@@ -18,13 +18,21 @@ description: Cost of Living in Kohtla-Järve
 | Transport | 1€ | ~1€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kohtla-Järve](https://www.google.com/maps/search/Gym+and+Workout+in+Kohtla-Järve) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kohtla-Järve](https://www.google.com/maps/search/Spa+and+Wellness+in+Kohtla-Järve) |
+| 💻 **Coworking** | [Find Coworking in Kohtla-Järve](https://www.google.com/maps/search/Coworking+Spaces+in+Kohtla-Järve) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kohtla-Järve](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kohtla-Järve) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kohtla-Järve](https://www.google.com/maps/search/supermarket+in+Kohtla-Järve) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kohtla-Jarve) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kohtla-Jarve--Estonia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

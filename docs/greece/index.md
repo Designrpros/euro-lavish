@@ -18,7 +18,28 @@ description: Complete cost of living guide for Greece
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Athens](cities/athens.md) | 650€ |  |
+| 2 | [Chania](cities/chania.md) | 500€ |  |
+| 3 | [Heraklion](cities/heraklion.md) | 450€ |  |
+| 4 | [Larissa](cities/larissa.md) | 400€ |  |
+| 5 | [Patras](cities/patras.md) | 450€ |  |
+| 6 | [Rhodes](cities/rhodes.md) | 550€ |  |
+| 7 | [Thessaloniki](cities/thessaloniki.md) | 550€ |  |
+| 8 | [Volos](cities/volos.md) | 420€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇬🇷 Greece](https://www.google.com/maps/search/Gym+and+Workout+in+🇬🇷+Greece) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇬🇷 Greece](https://www.google.com/maps/search/Spa+and+Wellness+in+🇬🇷+Greece) |
+| 💻 **Coworking** | [Find Coworking in 🇬🇷 Greece](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇷+Greece) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇷 Greece](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇷+Greece) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇷 Greece](https://www.google.com/maps/search/supermarket+in+🇬🇷+Greece) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,23 +63,6 @@ description: Complete cost of living guide for Greece
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [Beat / Uber](https://thebeat.co/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Athens](cities/athens.md) | 650€ |  |
-| 2 | [Chania](cities/chania.md) | 500€ |  |
-| 3 | [Heraklion](cities/heraklion.md) | 450€ |  |
-| 4 | [Larissa](cities/larissa.md) | 400€ |  |
-| 5 | [Patras](cities/patras.md) | 450€ |  |
-| 6 | [Rhodes](cities/rhodes.md) | 550€ |  |
-| 7 | [Thessaloniki](cities/thessaloniki.md) | 550€ |  |
-| 8 | [Volos](cities/volos.md) | 420€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -71,6 +75,13 @@ description: Complete cost of living guide for Greece
 | **Check, please!** | Ton logariasmo, parakalo! |
 | **Do you speak English?** | Milate Anglika? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -83,10 +94,3 @@ description: Complete cost of living guide for Greece
 |------|-------------|
 | [Indeed Greece](https://www.indeed.gr) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

@@ -16,6 +16,23 @@ description: Complete cost of living guide for Armenia
 | Beer (0.5L) | 2€ | ~2 AMD |
 | Cappuccino | 2.50€ | ~2.50 AMD |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Yerevan](cities/yerevan.md) | 500€ |
+| [Gyumri](cities/gyumri.md) | 500€ |
+| [Vanadzor](cities/vanadzor.md) | 500€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇦🇲 Armenia](https://www.google.com/maps/search/Gym+and+Workout+in+🇦🇲+Armenia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇦🇲 Armenia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇦🇲+Armenia) |
+| 💻 **Coworking** | [Find Coworking in 🇦🇲 Armenia](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇲+Armenia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇲 Armenia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇲+Armenia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇲 Armenia](https://www.google.com/maps/search/supermarket+in+🇦🇲+Armenia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Armenia
 | **Excuse me** | Nereghutyun |
 | **Check, please!** | Hashive, khndrum em! |
 | **Do you speak English?** | Angleren khosum ek? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Yerevan](cities/yerevan.md) | 500€ |
-| [Gyumri](cities/gyumri.md) | 500€ |
-| [Vanadzor](cities/vanadzor.md) | 500€ |
 
 ## 🔗 Useful Links
 

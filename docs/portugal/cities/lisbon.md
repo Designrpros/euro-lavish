@@ -18,13 +18,21 @@ description: Cost of Living in Lisbon
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Lisbon](https://www.google.com/maps/search/Gym+and+Workout+in+Lisbon) |
+| 🧖 **Spas & Wellness** | [Find Spas in Lisbon](https://www.google.com/maps/search/Spa+and+Wellness+in+Lisbon) |
+| 💻 **Coworking** | [Find Coworking in Lisbon](https://www.google.com/maps/search/Coworking+Spaces+in+Lisbon) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Lisbon](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lisbon) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Lisbon](https://www.google.com/maps/search/supermarket+in+Lisbon) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lisbon) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lisbon--Portugal) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

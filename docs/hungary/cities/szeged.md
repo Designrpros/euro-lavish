@@ -18,13 +18,21 @@ description: Cost of Living in Szeged
 | Transport | 1€ | ~390 Ft |
 | Cinema | 5€ | ~2,000 Ft |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Szeged](https://www.google.com/maps/search/Gym+and+Workout+in+Szeged) |
+| 🧖 **Spas & Wellness** | [Find Spas in Szeged](https://www.google.com/maps/search/Spa+and+Wellness+in+Szeged) |
+| 💻 **Coworking** | [Find Coworking in Szeged](https://www.google.com/maps/search/Coworking+Spaces+in+Szeged) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Szeged](https://www.google.com/maps/search/laptop+friendly+cafes+in+Szeged) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Szeged](https://www.google.com/maps/search/supermarket+in+Szeged) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Szeged) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Szeged--Hungary) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

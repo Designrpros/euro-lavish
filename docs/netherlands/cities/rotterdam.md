@@ -18,13 +18,21 @@ description: Cost of Living in Rotterdam
 | Transport | 3€ | ~3€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Rotterdam](https://www.google.com/maps/search/Gym+and+Workout+in+Rotterdam) |
+| 🧖 **Spas & Wellness** | [Find Spas in Rotterdam](https://www.google.com/maps/search/Spa+and+Wellness+in+Rotterdam) |
+| 💻 **Coworking** | [Find Coworking in Rotterdam](https://www.google.com/maps/search/Coworking+Spaces+in+Rotterdam) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Rotterdam](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rotterdam) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Rotterdam](https://www.google.com/maps/search/supermarket+in+Rotterdam) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rotterdam) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rotterdam--Netherlands) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Leipzig
 | Transport | 2.50€ | ~2.50€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Leipzig](https://www.google.com/maps/search/Gym+and+Workout+in+Leipzig) |
+| 🧖 **Spas & Wellness** | [Find Spas in Leipzig](https://www.google.com/maps/search/Spa+and+Wellness+in+Leipzig) |
+| 💻 **Coworking** | [Find Coworking in Leipzig](https://www.google.com/maps/search/Coworking+Spaces+in+Leipzig) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Leipzig](https://www.google.com/maps/search/laptop+friendly+cafes+in+Leipzig) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Leipzig](https://www.google.com/maps/search/supermarket+in+Leipzig) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Leipzig) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Leipzig--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

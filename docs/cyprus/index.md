@@ -16,6 +16,23 @@ description: Complete cost of living guide for Cyprus
 | Beer (0.5L) | 4€ | ~4 EUR |
 | Cappuccino | 3.50€ | ~3.50 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Nicosia](cities/nicosia.md) | 900€ |
+| [Limassol](cities/limassol.md) | 900€ |
+| [Larnaca](cities/larnaca.md) | 900€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇨🇾 Cyprus](https://www.google.com/maps/search/Gym+and+Workout+in+🇨🇾+Cyprus) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇨🇾 Cyprus](https://www.google.com/maps/search/Spa+and+Wellness+in+🇨🇾+Cyprus) |
+| 💻 **Coworking** | [Find Coworking in 🇨🇾 Cyprus](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇾+Cyprus) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇾 Cyprus](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇾+Cyprus) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇾 Cyprus](https://www.google.com/maps/search/supermarket+in+🇨🇾+Cyprus) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Cyprus
 | **Excuse me** | Signomi |
 | **Check, please!** | Ton logariasmo, parakalo! |
 | **Do you speak English?** | Milate Anglika? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Nicosia](cities/nicosia.md) | 900€ |
-| [Limassol](cities/limassol.md) | 900€ |
-| [Larnaca](cities/larnaca.md) | 900€ |
 
 ## 🔗 Useful Links
 

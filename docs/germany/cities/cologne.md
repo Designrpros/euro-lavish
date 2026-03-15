@@ -18,13 +18,21 @@ description: Cost of Living in Cologne
 | Transport | 2.80€ | ~2.80€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Cologne](https://www.google.com/maps/search/Gym+and+Workout+in+Cologne) |
+| 🧖 **Spas & Wellness** | [Find Spas in Cologne](https://www.google.com/maps/search/Spa+and+Wellness+in+Cologne) |
+| 💻 **Coworking** | [Find Coworking in Cologne](https://www.google.com/maps/search/Coworking+Spaces+in+Cologne) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Cologne](https://www.google.com/maps/search/laptop+friendly+cafes+in+Cologne) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Cologne](https://www.google.com/maps/search/supermarket+in+Cologne) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Cologne) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Cologne--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

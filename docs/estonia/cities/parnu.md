@@ -18,13 +18,21 @@ description: Cost of Living in Pärnu
 | Transport | 1.20€ | ~1.20€ |
 | Cinema | 6€ | ~6€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Pärnu](https://www.google.com/maps/search/Gym+and+Workout+in+Pärnu) |
+| 🧖 **Spas & Wellness** | [Find Spas in Pärnu](https://www.google.com/maps/search/Spa+and+Wellness+in+Pärnu) |
+| 💻 **Coworking** | [Find Coworking in Pärnu](https://www.google.com/maps/search/Coworking+Spaces+in+Pärnu) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Pärnu](https://www.google.com/maps/search/laptop+friendly+cafes+in+Pärnu) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Pärnu](https://www.google.com/maps/search/supermarket+in+Pärnu) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Parnu) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Parnu--Estonia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

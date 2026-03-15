@@ -18,7 +18,25 @@ description: Complete cost of living guide for Poland
 | Transport | 1.10€ | ~4.70 zł |
 | Cinema | 7€ | ~30 zł |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Gdańsk](cities/gdansk.md) | 900€ |  |
+| 2 | [Krakow](cities/krakow.md) | 800€ |  |
+| 3 | [Poznań](cities/poznan.md) | 850€ |  |
+| 4 | [Warsaw](cities/warsaw.md) | 1,000€ |  |
+| 5 | [Wroclaw](cities/wroclaw.md) | 750€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇵🇱 Poland](https://www.google.com/maps/search/Gym+and+Workout+in+🇵🇱+Poland) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇵🇱 Poland](https://www.google.com/maps/search/Spa+and+Wellness+in+🇵🇱+Poland) |
+| 💻 **Coworking** | [Find Coworking in 🇵🇱 Poland](https://www.google.com/maps/search/Coworking+Spaces+in+🇵🇱+Poland) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇵🇱 Poland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇵🇱+Poland) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇵🇱 Poland](https://www.google.com/maps/search/supermarket+in+🇵🇱+Poland) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Poland
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [Jakdojade](https://jakdojade.pl/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Gdańsk](cities/gdansk.md) | 900€ |  |
-| 2 | [Krakow](cities/krakow.md) | 800€ |  |
-| 3 | [Poznań](cities/poznan.md) | 850€ |  |
-| 4 | [Warsaw](cities/warsaw.md) | 1,000€ |  |
-| 5 | [Wroclaw](cities/wroclaw.md) | 750€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Poland
 | **Check, please!** | Poproszę rachunek! |
 | **Do you speak English?** | Czy mówisz po angielsku? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -81,10 +92,3 @@ description: Complete cost of living guide for Poland
 |------|-------------|
 | [Indeed Poland](https://www.indeed.pl) | 🔴 Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

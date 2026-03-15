@@ -16,13 +16,21 @@ description: Cost of Living in Jönköping
 | Transport | 3€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Jönköping](https://www.google.com/maps/search/Gym+and+Workout+in+Jönköping) |
+| 🧖 **Spas & Wellness** | [Find Spas in Jönköping](https://www.google.com/maps/search/Spa+and+Wellness+in+Jönköping) |
+| 💻 **Coworking** | [Find Coworking in Jönköping](https://www.google.com/maps/search/Coworking+Spaces+in+Jönköping) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Jönköping](https://www.google.com/maps/search/laptop+friendly+cafes+in+Jönköping) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Jönköping](https://www.google.com/maps/search/supermarket+in+Jönköping) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Jonkoping) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Jonkoping--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

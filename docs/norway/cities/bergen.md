@@ -18,13 +18,21 @@ description: Cost of Living in Bergen
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 12€ | ~138 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Bergen](https://www.google.com/maps/search/Gym+and+Workout+in+Bergen) |
+| 🧖 **Spas & Wellness** | [Find Spas in Bergen](https://www.google.com/maps/search/Spa+and+Wellness+in+Bergen) |
+| 💻 **Coworking** | [Find Coworking in Bergen](https://www.google.com/maps/search/Coworking+Spaces+in+Bergen) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Bergen](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bergen) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Bergen](https://www.google.com/maps/search/supermarket+in+Bergen) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bergen) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bergen--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

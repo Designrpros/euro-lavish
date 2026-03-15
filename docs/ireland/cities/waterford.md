@@ -18,13 +18,21 @@ description: Cost of Living in Waterford
 | Transport | 2.00€ | ~2.0 EUR |
 | Cinema | 11€ | ~11 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Waterford](https://www.google.com/maps/search/Gym+and+Workout+in+Waterford) |
+| 🧖 **Spas & Wellness** | [Find Spas in Waterford](https://www.google.com/maps/search/Spa+and+Wellness+in+Waterford) |
+| 💻 **Coworking** | [Find Coworking in Waterford](https://www.google.com/maps/search/Coworking+Spaces+in+Waterford) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Waterford](https://www.google.com/maps/search/laptop+friendly+cafes+in+Waterford) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Waterford](https://www.google.com/maps/search/supermarket+in+Waterford) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Waterford) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Waterford--Ireland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

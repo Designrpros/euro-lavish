@@ -18,13 +18,21 @@ description: Cost of Living in Belgrade
 | Transport | 0.80€ | ~94 RSD |
 | Cinema | 5€ | ~585 RSD |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Belgrade](https://www.google.com/maps/search/Gym+and+Workout+in+Belgrade) |
+| 🧖 **Spas & Wellness** | [Find Spas in Belgrade](https://www.google.com/maps/search/Spa+and+Wellness+in+Belgrade) |
+| 💻 **Coworking** | [Find Coworking in Belgrade](https://www.google.com/maps/search/Coworking+Spaces+in+Belgrade) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Belgrade](https://www.google.com/maps/search/laptop+friendly+cafes+in+Belgrade) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Belgrade](https://www.google.com/maps/search/supermarket+in+Belgrade) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Belgrade) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Belgrade--Serbia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

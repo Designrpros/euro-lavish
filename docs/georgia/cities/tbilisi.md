@@ -15,3 +15,13 @@ description: Cost of Living in Tbilisi
 | Coffee | 2€ |
 
 [Back to Georgia](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Tbilisi](https://www.google.com/maps/search/Gym+and+Workout+in+Tbilisi) |
+| 🧖 **Spas & Wellness** | [Find Spas in Tbilisi](https://www.google.com/maps/search/Spa+and+Wellness+in+Tbilisi) |
+| 💻 **Coworking** | [Find Coworking in Tbilisi](https://www.google.com/maps/search/Coworking+Spaces+in+Tbilisi) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Tbilisi](https://www.google.com/maps/search/laptop+friendly+cafes+in+Tbilisi) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Tbilisi](https://www.google.com/maps/search/supermarket+in+Tbilisi) |

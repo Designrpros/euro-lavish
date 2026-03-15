@@ -18,13 +18,21 @@ description: Cost of Living in Lahti
 | Transport | 3€ | ~3€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Lahti](https://www.google.com/maps/search/Gym+and+Workout+in+Lahti) |
+| 🧖 **Spas & Wellness** | [Find Spas in Lahti](https://www.google.com/maps/search/Spa+and+Wellness+in+Lahti) |
+| 💻 **Coworking** | [Find Coworking in Lahti](https://www.google.com/maps/search/Coworking+Spaces+in+Lahti) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Lahti](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lahti) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Lahti](https://www.google.com/maps/search/supermarket+in+Lahti) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lahti) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lahti--Finland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

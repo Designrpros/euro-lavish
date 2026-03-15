@@ -15,3 +15,13 @@ description: Cost of Living in Daugavpils
 | Coffee | 3€ |
 
 [Back to Latvia](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Daugavpils](https://www.google.com/maps/search/Gym+and+Workout+in+Daugavpils) |
+| 🧖 **Spas & Wellness** | [Find Spas in Daugavpils](https://www.google.com/maps/search/Spa+and+Wellness+in+Daugavpils) |
+| 💻 **Coworking** | [Find Coworking in Daugavpils](https://www.google.com/maps/search/Coworking+Spaces+in+Daugavpils) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Daugavpils](https://www.google.com/maps/search/laptop+friendly+cafes+in+Daugavpils) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Daugavpils](https://www.google.com/maps/search/supermarket+in+Daugavpils) |

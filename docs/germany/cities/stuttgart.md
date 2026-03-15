@@ -18,13 +18,21 @@ description: Cost of Living in Stuttgart
 | Transport | 2.80€ | ~2.80€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Stuttgart](https://www.google.com/maps/search/Gym+and+Workout+in+Stuttgart) |
+| 🧖 **Spas & Wellness** | [Find Spas in Stuttgart](https://www.google.com/maps/search/Spa+and+Wellness+in+Stuttgart) |
+| 💻 **Coworking** | [Find Coworking in Stuttgart](https://www.google.com/maps/search/Coworking+Spaces+in+Stuttgart) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Stuttgart](https://www.google.com/maps/search/laptop+friendly+cafes+in+Stuttgart) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Stuttgart](https://www.google.com/maps/search/supermarket+in+Stuttgart) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Stuttgart) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Stuttgart--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

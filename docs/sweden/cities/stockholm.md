@@ -18,13 +18,21 @@ description: Cost of Living in Stockholm
 | Transport | 4€ | ~44 kr |
 | Cinema | 14€ | ~154 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Stockholm](https://www.google.com/maps/search/Gym+and+Workout+in+Stockholm) |
+| 🧖 **Spas & Wellness** | [Find Spas in Stockholm](https://www.google.com/maps/search/Spa+and+Wellness+in+Stockholm) |
+| 💻 **Coworking** | [Find Coworking in Stockholm](https://www.google.com/maps/search/Coworking+Spaces+in+Stockholm) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Stockholm](https://www.google.com/maps/search/laptop+friendly+cafes+in+Stockholm) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Stockholm](https://www.google.com/maps/search/supermarket+in+Stockholm) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Stockholm) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Stockholm--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

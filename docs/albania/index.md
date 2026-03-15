@@ -16,6 +16,23 @@ description: Complete cost of living guide for Albania
 | Beer (0.5L) | 2€ | ~2 ALL |
 | Cappuccino | 1.50€ | ~1.50 ALL |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Tirana](cities/tirana.md) | 400€ |
+| [Durrës](cities/durrës.md) | 400€ |
+| [Vlorë](cities/vlorë.md) | 400€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇦🇱 Albania](https://www.google.com/maps/search/Gym+and+Workout+in+🇦🇱+Albania) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇦🇱 Albania](https://www.google.com/maps/search/Spa+and+Wellness+in+🇦🇱+Albania) |
+| 💻 **Coworking** | [Find Coworking in 🇦🇱 Albania](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇱+Albania) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇱 Albania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇱+Albania) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇱 Albania](https://www.google.com/maps/search/supermarket+in+🇦🇱+Albania) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Albania
 | **Excuse me** | Më falni |
 | **Check, please!** | Faturën, ju lutem! |
 | **Do you speak English?** | A flisni anglisht? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Tirana](cities/tirana.md) | 400€ |
-| [Durrës](cities/durrës.md) | 400€ |
-| [Vlorë](cities/vlorë.md) | 400€ |
 
 ## 🔗 Useful Links
 

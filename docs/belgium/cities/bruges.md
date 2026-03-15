@@ -18,13 +18,21 @@ description: Cost of Living in Bruges
 | Transport | 2.50€ | ~2.5 EUR |
 | Cinema | 13€ | ~13 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Bruges](https://www.google.com/maps/search/Gym+and+Workout+in+Bruges) |
+| 🧖 **Spas & Wellness** | [Find Spas in Bruges](https://www.google.com/maps/search/Spa+and+Wellness+in+Bruges) |
+| 💻 **Coworking** | [Find Coworking in Bruges](https://www.google.com/maps/search/Coworking+Spaces+in+Bruges) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Bruges](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bruges) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Bruges](https://www.google.com/maps/search/supermarket+in+Bruges) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bruges) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bruges--Belgium) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Poznań
 | Transport | 1€ | ~4.30 zł |
 | Cinema | 6€ | ~26 zł |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Poznań](https://www.google.com/maps/search/Gym+and+Workout+in+Poznań) |
+| 🧖 **Spas & Wellness** | [Find Spas in Poznań](https://www.google.com/maps/search/Spa+and+Wellness+in+Poznań) |
+| 💻 **Coworking** | [Find Coworking in Poznań](https://www.google.com/maps/search/Coworking+Spaces+in+Poznań) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Poznań](https://www.google.com/maps/search/laptop+friendly+cafes+in+Poznań) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Poznań](https://www.google.com/maps/search/supermarket+in+Poznań) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Poznan) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Poznan--Poland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

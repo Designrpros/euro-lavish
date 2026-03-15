@@ -18,13 +18,21 @@ description: Cost of Living in Gdańsk
 | Transport | 1.10€ | ~4.70 zł |
 | Cinema | 7€ | ~30 zł |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Gdańsk](https://www.google.com/maps/search/Gym+and+Workout+in+Gdańsk) |
+| 🧖 **Spas & Wellness** | [Find Spas in Gdańsk](https://www.google.com/maps/search/Spa+and+Wellness+in+Gdańsk) |
+| 💻 **Coworking** | [Find Coworking in Gdańsk](https://www.google.com/maps/search/Coworking+Spaces+in+Gdańsk) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Gdańsk](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gdańsk) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Gdańsk](https://www.google.com/maps/search/supermarket+in+Gdańsk) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gdansk) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gdansk--Poland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

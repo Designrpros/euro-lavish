@@ -16,6 +16,23 @@ description: Complete cost of living guide for Lithuania
 | Beer (0.5L) | 4€ | ~4 EUR |
 | Cappuccino | 3€ | ~3 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Vilnius](cities/vilnius.md) | 650€ |
+| [Kaunas](cities/kaunas.md) | 650€ |
+| [Klaipėda](cities/klaipėda.md) | 650€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇱🇹 Lithuania](https://www.google.com/maps/search/Gym+and+Workout+in+🇱🇹+Lithuania) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇱🇹 Lithuania](https://www.google.com/maps/search/Spa+and+Wellness+in+🇱🇹+Lithuania) |
+| 💻 **Coworking** | [Find Coworking in 🇱🇹 Lithuania](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇹+Lithuania) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇹 Lithuania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇹+Lithuania) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇹 Lithuania](https://www.google.com/maps/search/supermarket+in+🇱🇹+Lithuania) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Lithuania
 | **Excuse me** | Atsiprašau |
 | **Check, please!** | Sąskaitą, prašau! |
 | **Do you speak English?** | Ar kalbate angliškai? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Vilnius](cities/vilnius.md) | 650€ |
-| [Kaunas](cities/kaunas.md) | 650€ |
-| [Klaipėda](cities/klaipėda.md) | 650€ |
 
 ## 🔗 Useful Links
 

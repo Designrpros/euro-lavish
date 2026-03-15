@@ -16,6 +16,21 @@ description: Complete cost of living guide for Liechtenstein
 | Beer (0.5L) | 7€ | ~7 CHF |
 | Cappuccino | 5€ | ~5 CHF |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Vaduz](cities/vaduz.md) | 2200€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/Gym+and+Workout+in+🇱🇮+Liechtenstein) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/Spa+and+Wellness+in+🇱🇮+Liechtenstein) |
+| 💻 **Coworking** | [Find Coworking in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇮+Liechtenstein) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇮+Liechtenstein) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇮 Liechtenstein](https://www.google.com/maps/search/supermarket+in+🇱🇮+Liechtenstein) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,12 +50,6 @@ description: Complete cost of living guide for Liechtenstein
 | **Excuse me** | Entschuldigung |
 | **Check, please!** | Zahlen bitte! |
 | **Do you speak English?** | Sprechen Sie Englisch? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Vaduz](cities/vaduz.md) | 2200€ |
 
 ## 🔗 Useful Links
 

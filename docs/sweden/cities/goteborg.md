@@ -18,13 +18,21 @@ description: Cost of Living in Gothenburg
 | Transport | 3.50€ | ~39 kr |
 | Cinema | 12€ | ~132 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Gothenburg](https://www.google.com/maps/search/Gym+and+Workout+in+Gothenburg) |
+| 🧖 **Spas & Wellness** | [Find Spas in Gothenburg](https://www.google.com/maps/search/Spa+and+Wellness+in+Gothenburg) |
+| 💻 **Coworking** | [Find Coworking in Gothenburg](https://www.google.com/maps/search/Coworking+Spaces+in+Gothenburg) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Gothenburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gothenburg) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Gothenburg](https://www.google.com/maps/search/supermarket+in+Gothenburg) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gothenburg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gothenburg--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

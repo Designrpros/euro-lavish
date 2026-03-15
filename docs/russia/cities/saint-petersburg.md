@@ -15,3 +15,13 @@ description: Cost of Living in Saint Petersburg
 | Coffee | 2.50€ |
 
 [Back to Russia (European)](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Saint Petersburg](https://www.google.com/maps/search/Gym+and+Workout+in+Saint+Petersburg) |
+| 🧖 **Spas & Wellness** | [Find Spas in Saint Petersburg](https://www.google.com/maps/search/Spa+and+Wellness+in+Saint+Petersburg) |
+| 💻 **Coworking** | [Find Coworking in Saint Petersburg](https://www.google.com/maps/search/Coworking+Spaces+in+Saint+Petersburg) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Saint Petersburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Saint+Petersburg) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Saint Petersburg](https://www.google.com/maps/search/supermarket+in+Saint+Petersburg) |

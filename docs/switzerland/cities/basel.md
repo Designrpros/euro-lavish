@@ -18,13 +18,21 @@ description: Cost of Living in Basel
 | Transport | 4.20€ | ~3 CHF |
 | Cinema | 19€ | ~18 CHF |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Basel](https://www.google.com/maps/search/Gym+and+Workout+in+Basel) |
+| 🧖 **Spas & Wellness** | [Find Spas in Basel](https://www.google.com/maps/search/Spa+and+Wellness+in+Basel) |
+| 💻 **Coworking** | [Find Coworking in Basel](https://www.google.com/maps/search/Coworking+Spaces+in+Basel) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Basel](https://www.google.com/maps/search/laptop+friendly+cafes+in+Basel) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Basel](https://www.google.com/maps/search/supermarket+in+Basel) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Basel) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Basel--Switzerland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

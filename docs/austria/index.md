@@ -18,7 +18,25 @@ description: Complete cost of living guide for Austria
 | Transport | 2.40€ | ~2.40€ |
 | Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Graz](cities/graz.md) | 850€ |  |
+| 2 | [Innsbruck](cities/innsbruck.md) | 900€ |  |
+| 3 | [Linz](cities/linz.md) | 900€ |  |
+| 4 | [Salzburg](cities/salzburg.md) | 950€ |  |
+| 5 | [Vienna](cities/vienna.md) | 1,100€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇦🇹 Austria](https://www.google.com/maps/search/Gym+and+Workout+in+🇦🇹+Austria) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇦🇹 Austria](https://www.google.com/maps/search/Spa+and+Wellness+in+🇦🇹+Austria) |
+| 💻 **Coworking** | [Find Coworking in 🇦🇹 Austria](https://www.google.com/maps/search/Coworking+Spaces+in+🇦🇹+Austria) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇦🇹 Austria](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇦🇹+Austria) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇦🇹 Austria](https://www.google.com/maps/search/supermarket+in+🇦🇹+Austria) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Austria
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [WienMobil](https://www.wienerlinien.at/wienmobil-app) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Graz](cities/graz.md) | 850€ |  |
-| 2 | [Innsbruck](cities/innsbruck.md) | 900€ |  |
-| 3 | [Linz](cities/linz.md) | 900€ |  |
-| 4 | [Salzburg](cities/salzburg.md) | 950€ |  |
-| 5 | [Vienna](cities/vienna.md) | 1,100€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Austria
 | **Check, please!** | Zahlen bitte! |
 | **Do you speak English?** | Sprechen Sie Englisch? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Austria
 |------|-------------|
 | [Indeed Austria](https://www.indeed.at) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

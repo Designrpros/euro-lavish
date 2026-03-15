@@ -18,7 +18,25 @@ description: Complete cost of living guide for Switzerland
 | Transport | 4.50€ | ~4.50 CHF |
 | Cinema | 20€ | ~20 CHF |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Basel](cities/basel.md) | 1,800€ |  |
+| 2 | [Bern](cities/bern.md) | --- |  |
+| 3 | [Geneva](cities/geneva.md) | --- |  |
+| 4 | [Lausanne](cities/lausanne.md) | 2,100€ |  |
+| 5 | [Zurich](cities/zurich.md) | 2,800€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇨🇭 Switzerland](https://www.google.com/maps/search/Gym+and+Workout+in+🇨🇭+Switzerland) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇨🇭 Switzerland](https://www.google.com/maps/search/Spa+and+Wellness+in+🇨🇭+Switzerland) |
+| 💻 **Coworking** | [Find Coworking in 🇨🇭 Switzerland](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇭+Switzerland) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇭 Switzerland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇭+Switzerland) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇭 Switzerland](https://www.google.com/maps/search/supermarket+in+🇨🇭+Switzerland) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Switzerland
 | **English Level** | ⭐⭐⭐⭐ (4/5) |
 | **Essential App** | [SBB Mobile](https://www.sbb.ch/en/travel-information/apps/sbb-mobile.html) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Basel](cities/basel.md) | 1,800€ |  |
-| 2 | [Bern](cities/bern.md) | --- |  |
-| 3 | [Geneva](cities/geneva.md) | --- |  |
-| 4 | [Lausanne](cities/lausanne.md) | 2,100€ |  |
-| 5 | [Zurich](cities/zurich.md) | 2,800€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Switzerland
 | **Check, please!** | Zahlen bitte! |
 | **Do you speak English?** | Sprechen Sie Englisch? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Switzerland
 |------|-------------|
 | [Indeed Switzerland](https://www.indeed.ch) | 🔴 Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

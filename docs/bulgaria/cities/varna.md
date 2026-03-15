@@ -18,13 +18,21 @@ description: Cost of Living in Varna
 | Transport | 0.80€ | ~0.80€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Varna](https://www.google.com/maps/search/Gym+and+Workout+in+Varna) |
+| 🧖 **Spas & Wellness** | [Find Spas in Varna](https://www.google.com/maps/search/Spa+and+Wellness+in+Varna) |
+| 💻 **Coworking** | [Find Coworking in Varna](https://www.google.com/maps/search/Coworking+Spaces+in+Varna) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Varna](https://www.google.com/maps/search/laptop+friendly+cafes+in+Varna) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Varna](https://www.google.com/maps/search/supermarket+in+Varna) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Varna) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Varna--Bulgaria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

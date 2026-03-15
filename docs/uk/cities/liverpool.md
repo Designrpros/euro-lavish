@@ -16,13 +16,21 @@ description: Cost of Living in Liverpool
 | Transport | 2.60€ | ~2.30£ |
 | Cinema | 9€ | ~8£ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Liverpool](https://www.google.com/maps/search/Gym+and+Workout+in+Liverpool) |
+| 🧖 **Spas & Wellness** | [Find Spas in Liverpool](https://www.google.com/maps/search/Spa+and+Wellness+in+Liverpool) |
+| 💻 **Coworking** | [Find Coworking in Liverpool](https://www.google.com/maps/search/Coworking+Spaces+in+Liverpool) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Liverpool](https://www.google.com/maps/search/laptop+friendly+cafes+in+Liverpool) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Liverpool](https://www.google.com/maps/search/supermarket+in+Liverpool) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Liverpool) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Liverpool--UK) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,7 +18,25 @@ description: Complete cost of living guide for Malta
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Gozo](cities/gozo.md) | 700€ |  |
+| 2 | [Qawra](cities/qawra.md) | 800€ |  |
+| 3 | [Sliema](cities/sliema.md) | 1,000€ |  |
+| 4 | [St. Julian's](cities/stjulians.md) | 950€ |  |
+| 5 | [Valletta](cities/valletta.md) | 1,100€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇲🇹 Malta](https://www.google.com/maps/search/Gym+and+Workout+in+🇲🇹+Malta) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇲🇹 Malta](https://www.google.com/maps/search/Spa+and+Wellness+in+🇲🇹+Malta) |
+| 💻 **Coworking** | [Find Coworking in 🇲🇹 Malta](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇹+Malta) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇹 Malta](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇹+Malta) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇹 Malta](https://www.google.com/maps/search/supermarket+in+🇲🇹+Malta) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Malta
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [Tallinja](https://www.publictransport.com.mt/en/tallinja-smartphone-app) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Gozo](cities/gozo.md) | 700€ |  |
-| 2 | [Qawra](cities/qawra.md) | 800€ |  |
-| 3 | [Sliema](cities/sliema.md) | 1,000€ |  |
-| 4 | [St. Julian's](cities/stjulians.md) | 950€ |  |
-| 5 | [Valletta](cities/valletta.md) | 1,100€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Malta
 | **Check, please!** | Il-kont, jekk jogħġbok! |
 | **Do you speak English?** | Titkellem bl-Ingliż? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Legalized 2021 |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Malta
 |------|-------------|
 | [Indeed Malta](https://www.indeed.mt) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟢 | Legalized 2021 |
-
-*Data: Numbeo.com, March 2026*

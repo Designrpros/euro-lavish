@@ -16,6 +16,23 @@ description: Complete cost of living guide for Latvia
 | Beer (0.5L) | 4€ | ~4 EUR |
 | Cappuccino | 3€ | ~3 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Riga](cities/riga.md) | 550€ |
+| [Daugavpils](cities/daugavpils.md) | 550€ |
+| [Liepāja](cities/liepāja.md) | 550€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇱🇻 Latvia](https://www.google.com/maps/search/Gym+and+Workout+in+🇱🇻+Latvia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇱🇻 Latvia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇱🇻+Latvia) |
+| 💻 **Coworking** | [Find Coworking in 🇱🇻 Latvia](https://www.google.com/maps/search/Coworking+Spaces+in+🇱🇻+Latvia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇱🇻 Latvia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇱🇻+Latvia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇱🇻 Latvia](https://www.google.com/maps/search/supermarket+in+🇱🇻+Latvia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Latvia
 | **Excuse me** | Atvainojiet |
 | **Check, please!** | Rēķinu, lūdzu! |
 | **Do you speak English?** | Vai jūs runājat angliski? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Riga](cities/riga.md) | 550€ |
-| [Daugavpils](cities/daugavpils.md) | 550€ |
-| [Liepāja](cities/liepāja.md) | 550€ |
 
 ## 🔗 Useful Links
 

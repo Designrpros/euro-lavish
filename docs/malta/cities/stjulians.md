@@ -18,13 +18,21 @@ description: Cost of Living in St. Julian's
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in St. Julian's](https://www.google.com/maps/search/Gym+and+Workout+in+St.+Julian's) |
+| 🧖 **Spas & Wellness** | [Find Spas in St. Julian's](https://www.google.com/maps/search/Spa+and+Wellness+in+St.+Julian's) |
+| 💻 **Coworking** | [Find Coworking in St. Julian's](https://www.google.com/maps/search/Coworking+Spaces+in+St.+Julian's) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in St. Julian's](https://www.google.com/maps/search/laptop+friendly+cafes+in+St.+Julian's) |
+| 🛒 **Supermarkets** | [Find Supermarkets in St. Julian's](https://www.google.com/maps/search/supermarket+in+St.+Julian's) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=St+Julian%27s+Malta) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/St-Julian-s--Malta) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Olomouc
 | Transport | 0.90€ | ~22 Kč |
 | Cinema | 5€ | ~122 Kč |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Olomouc](https://www.google.com/maps/search/Gym+and+Workout+in+Olomouc) |
+| 🧖 **Spas & Wellness** | [Find Spas in Olomouc](https://www.google.com/maps/search/Spa+and+Wellness+in+Olomouc) |
+| 💻 **Coworking** | [Find Coworking in Olomouc](https://www.google.com/maps/search/Coworking+Spaces+in+Olomouc) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Olomouc](https://www.google.com/maps/search/laptop+friendly+cafes+in+Olomouc) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Olomouc](https://www.google.com/maps/search/supermarket+in+Olomouc) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Olomouc) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Olomouc--Czechia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

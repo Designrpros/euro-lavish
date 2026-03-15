@@ -18,13 +18,21 @@ description: Cost of Living in Dubrovnik
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Dubrovnik](https://www.google.com/maps/search/Gym+and+Workout+in+Dubrovnik) |
+| 🧖 **Spas & Wellness** | [Find Spas in Dubrovnik](https://www.google.com/maps/search/Spa+and+Wellness+in+Dubrovnik) |
+| 💻 **Coworking** | [Find Coworking in Dubrovnik](https://www.google.com/maps/search/Coworking+Spaces+in+Dubrovnik) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Dubrovnik](https://www.google.com/maps/search/laptop+friendly+cafes+in+Dubrovnik) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Dubrovnik](https://www.google.com/maps/search/supermarket+in+Dubrovnik) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Dubrovnik) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Dubrovnik--Croatia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

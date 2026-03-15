@@ -18,13 +18,21 @@ description: Cost of Living in Cluj-Napoca
 | Transport | 0.70€ | ~3.50 RON |
 | Cinema | 5€ | ~25 RON |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Cluj-Napoca](https://www.google.com/maps/search/Gym+and+Workout+in+Cluj-Napoca) |
+| 🧖 **Spas & Wellness** | [Find Spas in Cluj-Napoca](https://www.google.com/maps/search/Spa+and+Wellness+in+Cluj-Napoca) |
+| 💻 **Coworking** | [Find Coworking in Cluj-Napoca](https://www.google.com/maps/search/Coworking+Spaces+in+Cluj-Napoca) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Cluj-Napoca](https://www.google.com/maps/search/laptop+friendly+cafes+in+Cluj-Napoca) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Cluj-Napoca](https://www.google.com/maps/search/supermarket+in+Cluj-Napoca) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Cluj-Napoca) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Cluj-Napoca--Romania) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

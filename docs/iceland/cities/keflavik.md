@@ -18,13 +18,21 @@ description: Cost of Living in Keflavik
 | Transport | 3.50€ | ~3.5 EUR |
 | Cinema | 14€ | ~14 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Keflavik](https://www.google.com/maps/search/Gym+and+Workout+in+Keflavik) |
+| 🧖 **Spas & Wellness** | [Find Spas in Keflavik](https://www.google.com/maps/search/Spa+and+Wellness+in+Keflavik) |
+| 💻 **Coworking** | [Find Coworking in Keflavik](https://www.google.com/maps/search/Coworking+Spaces+in+Keflavik) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Keflavik](https://www.google.com/maps/search/laptop+friendly+cafes+in+Keflavik) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Keflavik](https://www.google.com/maps/search/supermarket+in+Keflavik) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Keflavik) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Keflavik--Iceland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

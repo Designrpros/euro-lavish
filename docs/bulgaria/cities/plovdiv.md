@@ -18,13 +18,21 @@ description: Cost of Living in Plovdiv
 | Transport | 0.70€ | ~0.70€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Plovdiv](https://www.google.com/maps/search/Gym+and+Workout+in+Plovdiv) |
+| 🧖 **Spas & Wellness** | [Find Spas in Plovdiv](https://www.google.com/maps/search/Spa+and+Wellness+in+Plovdiv) |
+| 💻 **Coworking** | [Find Coworking in Plovdiv](https://www.google.com/maps/search/Coworking+Spaces+in+Plovdiv) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Plovdiv](https://www.google.com/maps/search/laptop+friendly+cafes+in+Plovdiv) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Plovdiv](https://www.google.com/maps/search/supermarket+in+Plovdiv) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Plovdiv) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Plovdiv--Bulgaria) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

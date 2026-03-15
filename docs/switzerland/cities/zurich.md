@@ -18,13 +18,21 @@ description: Cost of Living in Zurich
 | Transport | 4.50€ | ~4.50 CHF |
 | Cinema | 20€ | ~20 CHF |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Zurich](https://www.google.com/maps/search/Gym+and+Workout+in+Zurich) |
+| 🧖 **Spas & Wellness** | [Find Spas in Zurich](https://www.google.com/maps/search/Spa+and+Wellness+in+Zurich) |
+| 💻 **Coworking** | [Find Coworking in Zurich](https://www.google.com/maps/search/Coworking+Spaces+in+Zurich) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Zurich](https://www.google.com/maps/search/laptop+friendly+cafes+in+Zurich) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Zurich](https://www.google.com/maps/search/supermarket+in+Zurich) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Zurich) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Zurich--Switzerland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

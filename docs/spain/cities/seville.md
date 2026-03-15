@@ -18,13 +18,21 @@ description: Cost of Living in Seville
 | Transport | 1.40€ | ~1.40€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Seville](https://www.google.com/maps/search/Gym+and+Workout+in+Seville) |
+| 🧖 **Spas & Wellness** | [Find Spas in Seville](https://www.google.com/maps/search/Spa+and+Wellness+in+Seville) |
+| 💻 **Coworking** | [Find Coworking in Seville](https://www.google.com/maps/search/Coworking+Spaces+in+Seville) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Seville](https://www.google.com/maps/search/laptop+friendly+cafes+in+Seville) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Seville](https://www.google.com/maps/search/supermarket+in+Seville) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Seville) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Seville--Spain) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Timișoara
 | Transport | 0.60€ | ~3 RON |
 | Cinema | 5€ | ~25 RON |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Timișoara](https://www.google.com/maps/search/Gym+and+Workout+in+Timișoara) |
+| 🧖 **Spas & Wellness** | [Find Spas in Timișoara](https://www.google.com/maps/search/Spa+and+Wellness+in+Timișoara) |
+| 💻 **Coworking** | [Find Coworking in Timișoara](https://www.google.com/maps/search/Coworking+Spaces+in+Timișoara) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Timișoara](https://www.google.com/maps/search/laptop+friendly+cafes+in+Timișoara) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Timișoara](https://www.google.com/maps/search/supermarket+in+Timișoara) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Timisoara) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Timisoara--Romania) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

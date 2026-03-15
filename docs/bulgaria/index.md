@@ -18,7 +18,25 @@ description: Complete cost of living guide for Bulgaria
 | Transport | 0.80€ | ~0.80€ |
 | Cinema | 5€ | ~5€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Burgas](cities/burgas.md) | 400€ |  |
+| 2 | [Plovdiv](cities/plovdiv.md) | 450€ |  |
+| 3 | [Sofia](cities/sofia.md) | 669€ |  |
+| 4 | [Varna](cities/varna.md) | 500€ |  |
+| 5 | [Veliko Tarnovo](cities/velikoturnovo.md) | 380€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇧🇬 Bulgaria](https://www.google.com/maps/search/Gym+and+Workout+in+🇧🇬+Bulgaria) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇧🇬 Bulgaria](https://www.google.com/maps/search/Spa+and+Wellness+in+🇧🇬+Bulgaria) |
+| 💻 **Coworking** | [Find Coworking in 🇧🇬 Bulgaria](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇬+Bulgaria) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇬 Bulgaria](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇬+Bulgaria) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇬 Bulgaria](https://www.google.com/maps/search/supermarket+in+🇧🇬+Bulgaria) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Bulgaria
 | **English Level** | ⭐⭐ (2/5) |
 | **Essential App** | [Moovit](https://moovitapp.com/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Burgas](cities/burgas.md) | 400€ |  |
-| 2 | [Plovdiv](cities/plovdiv.md) | 450€ |  |
-| 3 | [Sofia](cities/sofia.md) | 669€ |  |
-| 4 | [Varna](cities/varna.md) | 500€ |  |
-| 5 | [Veliko Tarnovo](cities/velikoturnovo.md) | 380€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Bulgaria
 | **Check, please!** | Smetkata, molya! |
 | **Do you speak English?** | Govorite li angliiski? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Bulgaria
 |------|-------------|
 | [Indeed Bulgaria](https://www.indeed.bg) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

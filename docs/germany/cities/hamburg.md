@@ -18,13 +18,21 @@ description: Cost of Living in Hamburg
 | Transport | 3€ | ~3€ |
 | Cinema | 11€ | ~11€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Hamburg](https://www.google.com/maps/search/Gym+and+Workout+in+Hamburg) |
+| 🧖 **Spas & Wellness** | [Find Spas in Hamburg](https://www.google.com/maps/search/Spa+and+Wellness+in+Hamburg) |
+| 💻 **Coworking** | [Find Coworking in Hamburg](https://www.google.com/maps/search/Coworking+Spaces+in+Hamburg) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Hamburg](https://www.google.com/maps/search/laptop+friendly+cafes+in+Hamburg) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Hamburg](https://www.google.com/maps/search/supermarket+in+Hamburg) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Hamburg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Hamburg--Germany) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Milan
 | Transport | 2€ | ~2€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Milan](https://www.google.com/maps/search/Gym+and+Workout+in+Milan) |
+| 🧖 **Spas & Wellness** | [Find Spas in Milan](https://www.google.com/maps/search/Spa+and+Wellness+in+Milan) |
+| 💻 **Coworking** | [Find Coworking in Milan](https://www.google.com/maps/search/Coworking+Spaces+in+Milan) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Milan](https://www.google.com/maps/search/laptop+friendly+cafes+in+Milan) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Milan](https://www.google.com/maps/search/supermarket+in+Milan) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Milan) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Milan--Italy) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

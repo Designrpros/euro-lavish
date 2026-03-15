@@ -18,13 +18,21 @@ description: Cost of Living in Volos
 | Transport | 1.20€ | ~1.2 EUR |
 | Cinema | 8€ | ~8 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Volos](https://www.google.com/maps/search/Gym+and+Workout+in+Volos) |
+| 🧖 **Spas & Wellness** | [Find Spas in Volos](https://www.google.com/maps/search/Spa+and+Wellness+in+Volos) |
+| 💻 **Coworking** | [Find Coworking in Volos](https://www.google.com/maps/search/Coworking+Spaces+in+Volos) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Volos](https://www.google.com/maps/search/laptop+friendly+cafes+in+Volos) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Volos](https://www.google.com/maps/search/supermarket+in+Volos) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Volos) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Volos--Greece) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,13 +18,21 @@ description: Cost of Living in Warsaw
 | Transport | 1.10€ | ~4.70 zł |
 | Cinema | 7€ | ~30 zł |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Warsaw](https://www.google.com/maps/search/Gym+and+Workout+in+Warsaw) |
+| 🧖 **Spas & Wellness** | [Find Spas in Warsaw](https://www.google.com/maps/search/Spa+and+Wellness+in+Warsaw) |
+| 💻 **Coworking** | [Find Coworking in Warsaw](https://www.google.com/maps/search/Coworking+Spaces+in+Warsaw) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Warsaw](https://www.google.com/maps/search/laptop+friendly+cafes+in+Warsaw) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Warsaw](https://www.google.com/maps/search/supermarket+in+Warsaw) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Warsaw) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Warsaw--Poland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

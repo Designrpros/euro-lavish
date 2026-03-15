@@ -18,13 +18,21 @@ description: Cost of Living in Dublin
 | Transport | 3€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Dublin](https://www.google.com/maps/search/Gym+and+Workout+in+Dublin) |
+| 🧖 **Spas & Wellness** | [Find Spas in Dublin](https://www.google.com/maps/search/Spa+and+Wellness+in+Dublin) |
+| 💻 **Coworking** | [Find Coworking in Dublin](https://www.google.com/maps/search/Coworking+Spaces+in+Dublin) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Dublin](https://www.google.com/maps/search/laptop+friendly+cafes+in+Dublin) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Dublin](https://www.google.com/maps/search/supermarket+in+Dublin) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Dublin--Ireland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

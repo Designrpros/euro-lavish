@@ -18,13 +18,21 @@ description: Cost of Living in Târgu Mureș
 | Transport | 0.50€ | ~2.50 RON |
 | Cinema | 4€ | ~20 RON |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Târgu Mureș](https://www.google.com/maps/search/Gym+and+Workout+in+Târgu+Mureș) |
+| 🧖 **Spas & Wellness** | [Find Spas in Târgu Mureș](https://www.google.com/maps/search/Spa+and+Wellness+in+Târgu+Mureș) |
+| 💻 **Coworking** | [Find Coworking in Târgu Mureș](https://www.google.com/maps/search/Coworking+Spaces+in+Târgu+Mureș) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Târgu Mureș](https://www.google.com/maps/search/laptop+friendly+cafes+in+Târgu+Mureș) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Târgu Mureș](https://www.google.com/maps/search/supermarket+in+Târgu+Mureș) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Targu+Mures) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Targu-Mures--Romania) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

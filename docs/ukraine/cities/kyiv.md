@@ -15,3 +15,13 @@ description: Cost of Living in Kyiv
 | Coffee | 1.50€ |
 
 [Back to Ukraine](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kyiv](https://www.google.com/maps/search/Gym+and+Workout+in+Kyiv) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kyiv](https://www.google.com/maps/search/Spa+and+Wellness+in+Kyiv) |
+| 💻 **Coworking** | [Find Coworking in Kyiv](https://www.google.com/maps/search/Coworking+Spaces+in+Kyiv) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kyiv](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kyiv) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kyiv](https://www.google.com/maps/search/supermarket+in+Kyiv) |

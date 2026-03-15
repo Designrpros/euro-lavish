@@ -18,13 +18,21 @@ description: Cost of Living in Kragujevac
 | Transport | 0.60€ | ~70 RSD |
 | Cinema | 4€ | ~468 RSD |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kragujevac](https://www.google.com/maps/search/Gym+and+Workout+in+Kragujevac) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kragujevac](https://www.google.com/maps/search/Spa+and+Wellness+in+Kragujevac) |
+| 💻 **Coworking** | [Find Coworking in Kragujevac](https://www.google.com/maps/search/Coworking+Spaces+in+Kragujevac) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kragujevac](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kragujevac) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kragujevac](https://www.google.com/maps/search/supermarket+in+Kragujevac) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Kragujevac) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Kragujevac--Serbia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

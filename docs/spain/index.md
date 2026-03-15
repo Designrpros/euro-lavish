@@ -18,7 +18,25 @@ description: Complete cost of living guide for Spain
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 9€ | ~9€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Barcelona](cities/barcelona.md) | 1,400€ |  |
+| 2 | [Madrid](cities/madrid.md) | 1,350€ |  |
+| 3 | [Málaga](cities/malaga.md) | 850€ |  |
+| 4 | [Seville](cities/seville.md) | 800€ |  |
+| 5 | [Valencia](cities/valencia.md) | 950€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇪🇸 Spain](https://www.google.com/maps/search/Gym+and+Workout+in+🇪🇸+Spain) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇪🇸 Spain](https://www.google.com/maps/search/Spa+and+Wellness+in+🇪🇸+Spain) |
+| 💻 **Coworking** | [Find Coworking in 🇪🇸 Spain](https://www.google.com/maps/search/Coworking+Spaces+in+🇪🇸+Spain) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇪🇸 Spain](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇪🇸+Spain) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇪🇸 Spain](https://www.google.com/maps/search/supermarket+in+🇪🇸+Spain) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Spain
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [Cabify / Bolt](https://cabify.com/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Barcelona](cities/barcelona.md) | 1,400€ |  |
-| 2 | [Madrid](cities/madrid.md) | 1,350€ |  |
-| 3 | [Málaga](cities/malaga.md) | 850€ |  |
-| 4 | [Seville](cities/seville.md) | 800€ |  |
-| 5 | [Valencia](cities/valencia.md) | 950€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Spain
 | **Check, please!** | ¡La cuenta, por favor! |
 | **Do you speak English?** | ¿Habla inglés? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Spain
 |------|-------------|
 | [Indeed Spain](https://www.indeed.es) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

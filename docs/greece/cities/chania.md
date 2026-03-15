@@ -16,13 +16,21 @@ description: Cost of Living in Chania
 | Transport | 1.30€ | ~1.30€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Chania](https://www.google.com/maps/search/Gym+and+Workout+in+Chania) |
+| 🧖 **Spas & Wellness** | [Find Spas in Chania](https://www.google.com/maps/search/Spa+and+Wellness+in+Chania) |
+| 💻 **Coworking** | [Find Coworking in Chania](https://www.google.com/maps/search/Coworking+Spaces+in+Chania) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Chania](https://www.google.com/maps/search/laptop+friendly+cafes+in+Chania) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Chania](https://www.google.com/maps/search/supermarket+in+Chania) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Chania) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Chania--Greece) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

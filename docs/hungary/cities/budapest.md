@@ -18,13 +18,21 @@ description: Cost of Living in Budapest
 | Transport | 1.10€ | ~430 Ft |
 | Cinema | 7€ | ~2,700 Ft |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Budapest](https://www.google.com/maps/search/Gym+and+Workout+in+Budapest) |
+| 🧖 **Spas & Wellness** | [Find Spas in Budapest](https://www.google.com/maps/search/Spa+and+Wellness+in+Budapest) |
+| 💻 **Coworking** | [Find Coworking in Budapest](https://www.google.com/maps/search/Coworking+Spaces+in+Budapest) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Budapest](https://www.google.com/maps/search/laptop+friendly+cafes+in+Budapest) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Budapest](https://www.google.com/maps/search/supermarket+in+Budapest) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Budapest) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Budapest--Hungary) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

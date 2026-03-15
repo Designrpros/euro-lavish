@@ -18,13 +18,21 @@ description: Cost of Living in Valletta
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Valletta](https://www.google.com/maps/search/Gym+and+Workout+in+Valletta) |
+| 🧖 **Spas & Wellness** | [Find Spas in Valletta](https://www.google.com/maps/search/Spa+and+Wellness+in+Valletta) |
+| 💻 **Coworking** | [Find Coworking in Valletta](https://www.google.com/maps/search/Coworking+Spaces+in+Valletta) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Valletta](https://www.google.com/maps/search/laptop+friendly+cafes+in+Valletta) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Valletta](https://www.google.com/maps/search/supermarket+in+Valletta) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Valletta) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Valletta--Malta) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

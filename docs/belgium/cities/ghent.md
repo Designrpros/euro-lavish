@@ -18,13 +18,21 @@ description: Cost of Living in Ghent
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Ghent](https://www.google.com/maps/search/Gym+and+Workout+in+Ghent) |
+| 🧖 **Spas & Wellness** | [Find Spas in Ghent](https://www.google.com/maps/search/Spa+and+Wellness+in+Ghent) |
+| 💻 **Coworking** | [Find Coworking in Ghent](https://www.google.com/maps/search/Coworking+Spaces+in+Ghent) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Ghent](https://www.google.com/maps/search/laptop+friendly+cafes+in+Ghent) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Ghent](https://www.google.com/maps/search/supermarket+in+Ghent) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Ghent) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Ghent--Belgium) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

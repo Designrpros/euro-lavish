@@ -16,6 +16,23 @@ description: Complete cost of living guide for Belarus
 | Beer (0.5L) | 1.20€ | ~1.20 BYN |
 | Cappuccino | 1.50€ | ~1.50 BYN |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Minsk](cities/minsk.md) | 350€ |
+| [Gomel](cities/gomel.md) | 350€ |
+| [Mogilev](cities/mogilev.md) | 350€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇧🇾 Belarus](https://www.google.com/maps/search/Gym+and+Workout+in+🇧🇾+Belarus) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇧🇾 Belarus](https://www.google.com/maps/search/Spa+and+Wellness+in+🇧🇾+Belarus) |
+| 💻 **Coworking** | [Find Coworking in 🇧🇾 Belarus](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇾+Belarus) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇾 Belarus](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇾+Belarus) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇾 Belarus](https://www.google.com/maps/search/supermarket+in+🇧🇾+Belarus) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Belarus
 | **Excuse me** | Prabačcie |
 | **Check, please!** | Računak, kali laska! |
 | **Do you speak English?** | Ci razmaulajecie pa-anhlijsku? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Minsk](cities/minsk.md) | 350€ |
-| [Gomel](cities/gomel.md) | 350€ |
-| [Mogilev](cities/mogilev.md) | 350€ |
 
 ## 🔗 Useful Links
 

@@ -16,13 +16,21 @@ description: Cost of Living in Bern
 | Transport | 4€ | ~4 CHF |
 | Cinema | 18€ | ~18 CHF |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Bern](https://www.google.com/maps/search/Gym+and+Workout+in+Bern) |
+| 🧖 **Spas & Wellness** | [Find Spas in Bern](https://www.google.com/maps/search/Spa+and+Wellness+in+Bern) |
+| 💻 **Coworking** | [Find Coworking in Bern](https://www.google.com/maps/search/Coworking+Spaces+in+Bern) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Bern](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bern) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Bern](https://www.google.com/maps/search/supermarket+in+Bern) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Bern) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Bern--Switzerland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

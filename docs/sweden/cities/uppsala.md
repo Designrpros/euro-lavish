@@ -18,13 +18,21 @@ description: Cost of Living in Uppsala
 | Transport | 3€ | ~33 kr |
 | Cinema | 10€ | ~110 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Uppsala](https://www.google.com/maps/search/Gym+and+Workout+in+Uppsala) |
+| 🧖 **Spas & Wellness** | [Find Spas in Uppsala](https://www.google.com/maps/search/Spa+and+Wellness+in+Uppsala) |
+| 💻 **Coworking** | [Find Coworking in Uppsala](https://www.google.com/maps/search/Coworking+Spaces+in+Uppsala) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Uppsala](https://www.google.com/maps/search/laptop+friendly+cafes+in+Uppsala) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Uppsala](https://www.google.com/maps/search/supermarket+in+Uppsala) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Uppsala) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Uppsala--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -15,3 +15,13 @@ description: Cost of Living in Kaunas
 | Coffee | 3€ |
 
 [Back to Lithuania](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Kaunas](https://www.google.com/maps/search/Gym+and+Workout+in+Kaunas) |
+| 🧖 **Spas & Wellness** | [Find Spas in Kaunas](https://www.google.com/maps/search/Spa+and+Wellness+in+Kaunas) |
+| 💻 **Coworking** | [Find Coworking in Kaunas](https://www.google.com/maps/search/Coworking+Spaces+in+Kaunas) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Kaunas](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kaunas) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Kaunas](https://www.google.com/maps/search/supermarket+in+Kaunas) |

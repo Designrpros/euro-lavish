@@ -18,13 +18,21 @@ description: Cost of Living in Faro
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Faro](https://www.google.com/maps/search/Gym+and+Workout+in+Faro) |
+| 🧖 **Spas & Wellness** | [Find Spas in Faro](https://www.google.com/maps/search/Spa+and+Wellness+in+Faro) |
+| 💻 **Coworking** | [Find Coworking in Faro](https://www.google.com/maps/search/Coworking+Spaces+in+Faro) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Faro](https://www.google.com/maps/search/laptop+friendly+cafes+in+Faro) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Faro](https://www.google.com/maps/search/supermarket+in+Faro) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Faro) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Faro--Portugal) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

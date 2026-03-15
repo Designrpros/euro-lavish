@@ -16,6 +16,22 @@ description: Complete cost of living guide for Turkey (European)
 | Beer (0.5L) | 3€ | ~3 TRY |
 | Cappuccino | 2.50€ | ~2.50 TRY |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Istanbul](cities/istanbul.md) | 500€ |
+| [Edirne](cities/edirne.md) | 500€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/Gym+and+Workout+in+🇹🇷+Turkey+(European)) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/Spa+and+Wellness+in+🇹🇷+Turkey+(European)) |
+| 💻 **Coworking** | [Find Coworking in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/Coworking+Spaces+in+🇹🇷+Turkey+(European)) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇹🇷+Turkey+(European)) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇹🇷 Turkey (European)](https://www.google.com/maps/search/supermarket+in+🇹🇷+Turkey+(European)) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,13 +51,6 @@ description: Complete cost of living guide for Turkey (European)
 | **Excuse me** | Affedersiniz |
 | **Check, please!** | Hesap, lütfen! |
 | **Do you speak English?** | İngilizce biliyor musunuz? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Istanbul](cities/istanbul.md) | 500€ |
-| [Edirne](cities/edirne.md) | 500€ |
 
 ## 🔗 Useful Links
 

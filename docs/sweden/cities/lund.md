@@ -16,13 +16,21 @@ description: Cost of Living in Lund
 | Transport | 3€ | ~33 kr |
 | Cinema | 11€ | ~121 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Lund](https://www.google.com/maps/search/Gym+and+Workout+in+Lund) |
+| 🧖 **Spas & Wellness** | [Find Spas in Lund](https://www.google.com/maps/search/Spa+and+Wellness+in+Lund) |
+| 💻 **Coworking** | [Find Coworking in Lund](https://www.google.com/maps/search/Coworking+Spaces+in+Lund) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Lund](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lund) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Lund](https://www.google.com/maps/search/supermarket+in+Lund) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Lund) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Lund--Sweden) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

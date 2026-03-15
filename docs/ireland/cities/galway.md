@@ -18,13 +18,21 @@ description: Cost of Living in Galway
 | Transport | 2.80€ | ~2.80€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Galway](https://www.google.com/maps/search/Gym+and+Workout+in+Galway) |
+| 🧖 **Spas & Wellness** | [Find Spas in Galway](https://www.google.com/maps/search/Spa+and+Wellness+in+Galway) |
+| 💻 **Coworking** | [Find Coworking in Galway](https://www.google.com/maps/search/Coworking+Spaces+in+Galway) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Galway](https://www.google.com/maps/search/laptop+friendly+cafes+in+Galway) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Galway](https://www.google.com/maps/search/supermarket+in+Galway) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Galway) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Galway--Ireland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

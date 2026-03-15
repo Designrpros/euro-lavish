@@ -18,13 +18,21 @@ description: Cost of Living in Rome
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Rome](https://www.google.com/maps/search/Gym+and+Workout+in+Rome) |
+| 🧖 **Spas & Wellness** | [Find Spas in Rome](https://www.google.com/maps/search/Spa+and+Wellness+in+Rome) |
+| 💻 **Coworking** | [Find Coworking in Rome](https://www.google.com/maps/search/Coworking+Spaces+in+Rome) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Rome](https://www.google.com/maps/search/laptop+friendly+cafes+in+Rome) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Rome](https://www.google.com/maps/search/supermarket+in+Rome) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Rome) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Rome--Italy) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

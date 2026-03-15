@@ -18,13 +18,21 @@ description: Cost of Living in Liege
 | Transport | 2.50€ | ~2.5 EUR |
 | Cinema | 12€ | ~12 EUR |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Liege](https://www.google.com/maps/search/Gym+and+Workout+in+Liege) |
+| 🧖 **Spas & Wellness** | [Find Spas in Liege](https://www.google.com/maps/search/Spa+and+Wellness+in+Liege) |
+| 💻 **Coworking** | [Find Coworking in Liege](https://www.google.com/maps/search/Coworking+Spaces+in+Liege) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Liege](https://www.google.com/maps/search/laptop+friendly+cafes+in+Liege) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Liege](https://www.google.com/maps/search/supermarket+in+Liege) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Liege) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Liege--Belgium) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

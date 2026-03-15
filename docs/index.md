@@ -7,6 +7,15 @@ description: Compare cost of living across 50 European countries
 
 *Your complete guide to cost of living in Europe*
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🪙 Cost of Living in Europe](https://www.google.com/maps/search/Gym+and+Workout+in+🪙+Cost+of+Living+in+Europe) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🪙 Cost of Living in Europe](https://www.google.com/maps/search/Spa+and+Wellness+in+🪙+Cost+of+Living+in+Europe) |
+| 💻 **Coworking** | [Find Coworking in 🪙 Cost of Living in Europe](https://www.google.com/maps/search/Coworking+Spaces+in+🪙+Cost+of+Living+in+Europe) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🪙 Cost of Living in Europe](https://www.google.com/maps/search/laptop+friendly+cafes+in+🪙+Cost+of+Living+in+Europe) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🪙 Cost of Living in Europe](https://www.google.com/maps/search/supermarket+in+🪙+Cost+of+Living+in+Europe) |
 ## 🏆 Top 10 Cheapest
 
 | # | Country | Rent | Meal | Beer |

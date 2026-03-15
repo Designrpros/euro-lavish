@@ -18,13 +18,21 @@ description: Cost of Living in Coimbra
 | Transport | 1.40€ | ~1.40€ |
 | Cinema | 6€ | ~6€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Coimbra](https://www.google.com/maps/search/Gym+and+Workout+in+Coimbra) |
+| 🧖 **Spas & Wellness** | [Find Spas in Coimbra](https://www.google.com/maps/search/Spa+and+Wellness+in+Coimbra) |
+| 💻 **Coworking** | [Find Coworking in Coimbra](https://www.google.com/maps/search/Coworking+Spaces+in+Coimbra) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Coimbra](https://www.google.com/maps/search/laptop+friendly+cafes+in+Coimbra) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Coimbra](https://www.google.com/maps/search/supermarket+in+Coimbra) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Coimbra) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Coimbra--Portugal) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

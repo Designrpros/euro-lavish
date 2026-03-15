@@ -18,7 +18,26 @@ description: Complete cost of living guide for Netherlands
 | Transport | 3.50€ | ~3.50€ |
 | Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Amsterdam](cities/amsterdam.md) | 2,260€ |  |
+| 2 | [The Hague](cities/denhaag.md) | 1,400€ |  |
+| 3 | [Eindhoven](cities/eindhoven.md) | 1,200€ |  |
+| 4 | [Groningen](cities/groningen.md) | 1,000€ |  |
+| 5 | [Rotterdam](cities/rotterdam.md) | 1,500€ |  |
+| 6 | [Utrecht](cities/utrecht.md) | 1,350€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇳🇱 Netherlands](https://www.google.com/maps/search/Gym+and+Workout+in+🇳🇱+Netherlands) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇳🇱 Netherlands](https://www.google.com/maps/search/Spa+and+Wellness+in+🇳🇱+Netherlands) |
+| 💻 **Coworking** | [Find Coworking in 🇳🇱 Netherlands](https://www.google.com/maps/search/Coworking+Spaces+in+🇳🇱+Netherlands) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇳🇱 Netherlands](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇳🇱+Netherlands) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇳🇱 Netherlands](https://www.google.com/maps/search/supermarket+in+🇳🇱+Netherlands) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,21 +61,6 @@ description: Complete cost of living guide for Netherlands
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [9292](https://9292.nl/en) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Amsterdam](cities/amsterdam.md) | 2,260€ |  |
-| 2 | [The Hague](cities/denhaag.md) | 1,400€ |  |
-| 3 | [Eindhoven](cities/eindhoven.md) | 1,200€ |  |
-| 4 | [Groningen](cities/groningen.md) | 1,000€ |  |
-| 5 | [Rotterdam](cities/rotterdam.md) | 1,500€ |  |
-| 6 | [Utrecht](cities/utrecht.md) | 1,350€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -69,6 +73,13 @@ description: Complete cost of living guide for Netherlands
 | **Check, please!** | De rekening, alstublieft! |
 | **Do you speak English?** | Spreekt u Engels? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟢 | Legalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -82,10 +93,3 @@ description: Complete cost of living guide for Netherlands
 |------|-------------|
 | [Indeed Netherlands](https://www.indeed.nl) | 🔴 Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟢 | Legalized |
-
-*Data: Numbeo.com, March 2026*

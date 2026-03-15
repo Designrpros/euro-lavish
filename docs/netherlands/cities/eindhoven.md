@@ -18,13 +18,21 @@ description: Cost of Living in Eindhoven
 | Transport | 3€ | ~3€ |
 | Cinema | 10€ | ~10€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Eindhoven](https://www.google.com/maps/search/Gym+and+Workout+in+Eindhoven) |
+| 🧖 **Spas & Wellness** | [Find Spas in Eindhoven](https://www.google.com/maps/search/Spa+and+Wellness+in+Eindhoven) |
+| 💻 **Coworking** | [Find Coworking in Eindhoven](https://www.google.com/maps/search/Coworking+Spaces+in+Eindhoven) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Eindhoven](https://www.google.com/maps/search/laptop+friendly+cafes+in+Eindhoven) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Eindhoven](https://www.google.com/maps/search/supermarket+in+Eindhoven) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Eindhoven) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Eindhoven--Netherlands) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

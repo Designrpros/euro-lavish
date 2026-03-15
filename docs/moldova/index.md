@@ -16,6 +16,23 @@ description: Complete cost of living guide for Moldova
 | Beer (0.5L) | 1.50€ | ~1.50 MDL |
 | Cappuccino | 1.80€ | ~1.80 MDL |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Chișinău](cities/chișinău.md) | 400€ |
+| [Tiraspol](cities/tiraspol.md) | 400€ |
+| [Bălți](cities/bălți.md) | 400€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇲🇩 Moldova](https://www.google.com/maps/search/Gym+and+Workout+in+🇲🇩+Moldova) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇲🇩 Moldova](https://www.google.com/maps/search/Spa+and+Wellness+in+🇲🇩+Moldova) |
+| 💻 **Coworking** | [Find Coworking in 🇲🇩 Moldova](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇩+Moldova) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇩 Moldova](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇩+Moldova) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇩 Moldova](https://www.google.com/maps/search/supermarket+in+🇲🇩+Moldova) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Moldova
 | **Excuse me** | Scuzați-mă |
 | **Check, please!** | Nota, vă rog! |
 | **Do you speak English?** | Vorbiți engleză? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Chișinău](cities/chișinău.md) | 400€ |
-| [Tiraspol](cities/tiraspol.md) | 400€ |
-| [Bălți](cities/bălți.md) | 400€ |
 
 ## 🔗 Useful Links
 

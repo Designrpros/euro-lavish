@@ -18,13 +18,21 @@ description: Cost of Living in London
 | Transport | 3.50€ | ~3£ |
 | Cinema | 15€ | ~13£ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in London](https://www.google.com/maps/search/Gym+and+Workout+in+London) |
+| 🧖 **Spas & Wellness** | [Find Spas in London](https://www.google.com/maps/search/Spa+and+Wellness+in+London) |
+| 💻 **Coworking** | [Find Coworking in London](https://www.google.com/maps/search/Coworking+Spaces+in+London) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in London](https://www.google.com/maps/search/laptop+friendly+cafes+in+London) |
+| 🛒 **Supermarkets** | [Find Supermarkets in London](https://www.google.com/maps/search/supermarket+in+London) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=London) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/London--UK) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

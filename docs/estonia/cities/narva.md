@@ -18,13 +18,21 @@ description: Cost of Living in Narva
 | Transport | 1€ | ~1€ |
 | Cinema | 5€ | ~5€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Narva](https://www.google.com/maps/search/Gym+and+Workout+in+Narva) |
+| 🧖 **Spas & Wellness** | [Find Spas in Narva](https://www.google.com/maps/search/Spa+and+Wellness+in+Narva) |
+| 💻 **Coworking** | [Find Coworking in Narva](https://www.google.com/maps/search/Coworking+Spaces+in+Narva) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Narva](https://www.google.com/maps/search/laptop+friendly+cafes+in+Narva) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Narva](https://www.google.com/maps/search/supermarket+in+Narva) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Narva) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Narva--Estonia) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

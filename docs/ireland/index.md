@@ -18,7 +18,25 @@ description: Complete cost of living guide for Ireland
 | Transport | 3€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Cork](cities/cork.md) | 1,400€ |  |
+| 2 | [Dublin](cities/dublin.md) | 2,300€ |  |
+| 3 | [Galway](cities/galway.md) | 1,200€ |  |
+| 4 | [Limerick](cities/limerick.md) | 1,400€ |  |
+| 5 | [Waterford](cities/waterford.md) | 1,200€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇮🇪 Ireland](https://www.google.com/maps/search/Gym+and+Workout+in+🇮🇪+Ireland) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇮🇪 Ireland](https://www.google.com/maps/search/Spa+and+Wellness+in+🇮🇪+Ireland) |
+| 💻 **Coworking** | [Find Coworking in 🇮🇪 Ireland](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇪+Ireland) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇪 Ireland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇪+Ireland) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇪 Ireland](https://www.google.com/maps/search/supermarket+in+🇮🇪+Ireland) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Ireland
 | **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
 | **Essential App** | [TFI Live](https://www.transportforireland.ie/tfi-live-app/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Cork](cities/cork.md) | 1,400€ |  |
-| 2 | [Dublin](cities/dublin.md) | 2,300€ |  |
-| 3 | [Galway](cities/galway.md) | 1,200€ |  |
-| 4 | [Limerick](cities/limerick.md) | 1,400€ |  |
-| 5 | [Waterford](cities/waterford.md) | 1,200€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Ireland
 | **Check, please!** | An bille, le do thoil! |
 | **Do you speak English?** | An labhraíonn tú Béarla? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Decriminalized |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Ireland
 |------|-------------|
 | [Indeed Ireland](https://www.indeed.ie) | 🔴 Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Decriminalized |
-
-*Data: Numbeo.com, March 2026*

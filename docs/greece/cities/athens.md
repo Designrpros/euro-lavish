@@ -18,13 +18,21 @@ description: Cost of Living in Athens
 | Transport | 1.30€ | ~1.30€ |
 | Cinema | 8€ | ~8€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Athens](https://www.google.com/maps/search/Gym+and+Workout+in+Athens) |
+| 🧖 **Spas & Wellness** | [Find Spas in Athens](https://www.google.com/maps/search/Spa+and+Wellness+in+Athens) |
+| 💻 **Coworking** | [Find Coworking in Athens](https://www.google.com/maps/search/Coworking+Spaces+in+Athens) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Athens](https://www.google.com/maps/search/laptop+friendly+cafes+in+Athens) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Athens](https://www.google.com/maps/search/supermarket+in+Athens) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Athens) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Athens--Greece) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

@@ -18,7 +18,25 @@ description: Complete cost of living guide for Romania
 | Transport | 0.70€ | ~3.50 RON |
 | Cinema | 6€ | ~30 RON |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Bucharest](cities/bucharest.md) | 700€ |  |
+| 2 | [Cluj-Napoca](cities/cluj.md) | 600€ |  |
+| 3 | [Iași](cities/iasi.md) | 450€ |  |
+| 4 | [Târgu Mureș](cities/targumures.md) | 380€ |  |
+| 5 | [Timișoara](cities/timisoara.md) | 500€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇷🇴 Romania](https://www.google.com/maps/search/Gym+and+Workout+in+🇷🇴+Romania) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇷🇴 Romania](https://www.google.com/maps/search/Spa+and+Wellness+in+🇷🇴+Romania) |
+| 💻 **Coworking** | [Find Coworking in 🇷🇴 Romania](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇴+Romania) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇴 Romania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇴+Romania) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇴 Romania](https://www.google.com/maps/search/supermarket+in+🇷🇴+Romania) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Romania
 | **English Level** | ⭐⭐⭐ (3/5) |
 | **Essential App** | [Bolt / Uber](https://bolt.eu/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Bucharest](cities/bucharest.md) | 700€ |  |
-| 2 | [Cluj-Napoca](cities/cluj.md) | 600€ |  |
-| 3 | [Iași](cities/iasi.md) | 450€ |  |
-| 4 | [Târgu Mureș](cities/targumures.md) | 380€ |  |
-| 5 | [Timișoara](cities/timisoara.md) | 500€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Romania
 | **Check, please!** | Nota, vă rog! |
 | **Do you speak English?** | Vorbiți engleză? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🔴 | Strict |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Romania
 |------|-------------|
 | [Indeed Romania](https://www.indeed.ro) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🔴 | Strict |
-
-*Data: Numbeo.com, March 2026*

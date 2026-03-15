@@ -18,13 +18,21 @@ description: Cost of Living in Pécs
 | Transport | 1€ | ~390 Ft |
 | Cinema | 5€ | ~2,000 Ft |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Pécs](https://www.google.com/maps/search/Gym+and+Workout+in+Pécs) |
+| 🧖 **Spas & Wellness** | [Find Spas in Pécs](https://www.google.com/maps/search/Spa+and+Wellness+in+Pécs) |
+| 💻 **Coworking** | [Find Coworking in Pécs](https://www.google.com/maps/search/Coworking+Spaces+in+Pécs) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Pécs](https://www.google.com/maps/search/laptop+friendly+cafes+in+Pécs) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Pécs](https://www.google.com/maps/search/supermarket+in+Pécs) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Pecs) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Pecs--Hungary) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

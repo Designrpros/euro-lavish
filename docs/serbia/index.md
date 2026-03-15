@@ -18,7 +18,25 @@ description: Complete cost of living guide for Serbia
 | Transport | 0.80€ | ~94 RSD |
 | Cinema | 5€ | ~585 RSD |
 
+## 🏙️ Cities (Cheapest → Expensive)
 
+| # | City | Rent/month | Note |
+|---|------|------------|------|
+| 1 | [Belgrade](cities/belgrade.md) | 500€ |  |
+| 2 | [Kragujevac](cities/kragujevac.md) | 270€ |  |
+| 3 | [Niš](cities/nis.md) | 250€ |  |
+| 4 | [Novi Sad](cities/novisad.md) | 350€ |  |
+| 5 | [Subotica](cities/subotica.md) | 280€ |  |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇷🇸 Serbia](https://www.google.com/maps/search/Gym+and+Workout+in+🇷🇸+Serbia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇷🇸 Serbia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇷🇸+Serbia) |
+| 💻 **Coworking** | [Find Coworking in 🇷🇸 Serbia](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇸+Serbia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇸 Serbia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇸+Serbia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇸 Serbia](https://www.google.com/maps/search/supermarket+in+🇷🇸+Serbia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -42,20 +60,6 @@ description: Complete cost of living guide for Serbia
 | **English Level** | ⭐⭐ (2/5) |
 | **Essential App** | [Moovit](https://moovitapp.com/) |
 
-
-## 🏙️ Cities (Cheapest → Expensive)
-
-| # | City | Rent/month | Note |
-|---|------|------------|------|
-| 1 | [Belgrade](cities/belgrade.md) | 500€ |  |
-| 2 | [Kragujevac](cities/kragujevac.md) | 270€ |  |
-| 3 | [Niš](cities/nis.md) | 250€ |  |
-| 4 | [Novi Sad](cities/novisad.md) | 350€ |  |
-| 5 | [Subotica](cities/subotica.md) | 280€ |  |
-
-
-
-
 ## 🗣️ Essential Phrases
 
 | English | Local Language |
@@ -68,6 +72,13 @@ description: Complete cost of living guide for Serbia
 | **Check, please!** | Račun, molim! |
 | **Do you speak English?** | Govorite li engleski? |
 
+## 🛸 Drug Policy
+
+| Substance | Status | Penalty |
+|-----------|--------|---------|
+| Cannabis | 🟡 | Mild |
+
+*Data: Numbeo.com, March 2026*
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
@@ -80,10 +91,3 @@ description: Complete cost of living guide for Serbia
 |------|-------------|
 | [Indeed Serbia](https://www.indeed.rs) | Job search |
 
-## 🛸 Drug Policy
-
-| Substance | Status | Penalty |
-|-----------|--------|---------|
-| Cannabis | 🟡 | Mild |
-
-*Data: Numbeo.com, March 2026*

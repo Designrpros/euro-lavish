@@ -18,13 +18,21 @@ description: Cost of Living in Gyor
 | Transport | 1.10€ | ~429 HUF |
 | Cinema | 6€ | ~2 340 HUF |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Gyor](https://www.google.com/maps/search/Gym+and+Workout+in+Gyor) |
+| 🧖 **Spas & Wellness** | [Find Spas in Gyor](https://www.google.com/maps/search/Spa+and+Wellness+in+Gyor) |
+| 💻 **Coworking** | [Find Coworking in Gyor](https://www.google.com/maps/search/Coworking+Spaces+in+Gyor) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Gyor](https://www.google.com/maps/search/laptop+friendly+cafes+in+Gyor) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Gyor](https://www.google.com/maps/search/supermarket+in+Gyor) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Gyor) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gyor--Hungary) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

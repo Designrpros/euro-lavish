@@ -15,3 +15,13 @@ description: Cost of Living in Durrës
 | Coffee | 1.50€ |
 
 [Back to Albania](../index.md)
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Durrës](https://www.google.com/maps/search/Gym+and+Workout+in+Durrës) |
+| 🧖 **Spas & Wellness** | [Find Spas in Durrës](https://www.google.com/maps/search/Spa+and+Wellness+in+Durrës) |
+| 💻 **Coworking** | [Find Coworking in Durrës](https://www.google.com/maps/search/Coworking+Spaces+in+Durrës) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Durrës](https://www.google.com/maps/search/laptop+friendly+cafes+in+Durrës) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Durrës](https://www.google.com/maps/search/supermarket+in+Durrës) |

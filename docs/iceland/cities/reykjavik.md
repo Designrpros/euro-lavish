@@ -18,13 +18,21 @@ description: Cost of Living in Reykjavik
 | Transport | 4€ | ~580 kr |
 | Cinema | 14€ | ~2,000 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Reykjavik](https://www.google.com/maps/search/Gym+and+Workout+in+Reykjavik) |
+| 🧖 **Spas & Wellness** | [Find Spas in Reykjavik](https://www.google.com/maps/search/Spa+and+Wellness+in+Reykjavik) |
+| 💻 **Coworking** | [Find Coworking in Reykjavik](https://www.google.com/maps/search/Coworking+Spaces+in+Reykjavik) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Reykjavik](https://www.google.com/maps/search/laptop+friendly+cafes+in+Reykjavik) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Reykjavik](https://www.google.com/maps/search/supermarket+in+Reykjavik) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Reykjavik--Iceland) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

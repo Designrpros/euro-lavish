@@ -18,13 +18,21 @@ description: Cost of Living in Porsgrunn
 | Transport | 3.50€ | ~40 kr |
 | Cinema | 10€ | ~115 kr |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Porsgrunn](https://www.google.com/maps/search/Gym+and+Workout+in+Porsgrunn) |
+| 🧖 **Spas & Wellness** | [Find Spas in Porsgrunn](https://www.google.com/maps/search/Spa+and+Wellness+in+Porsgrunn) |
+| 💻 **Coworking** | [Find Coworking in Porsgrunn](https://www.google.com/maps/search/Coworking+Spaces+in+Porsgrunn) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Porsgrunn](https://www.google.com/maps/search/laptop+friendly+cafes+in+Porsgrunn) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Porsgrunn](https://www.google.com/maps/search/supermarket+in+Porsgrunn) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Porsgrunn) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Porsgrunn--Norway) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 

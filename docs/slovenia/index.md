@@ -16,6 +16,23 @@ description: Complete cost of living guide for Slovenia
 | Beer (0.5L) | 3.50€ | ~3.50 EUR |
 | Cappuccino | 2.50€ | ~2.50 EUR |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Ljubljana](cities/ljubljana.md) | 750€ |
+| [Maribor](cities/maribor.md) | 750€ |
+| [Celje](cities/celje.md) | 750€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇸🇮 Slovenia](https://www.google.com/maps/search/Gym+and+Workout+in+🇸🇮+Slovenia) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇸🇮 Slovenia](https://www.google.com/maps/search/Spa+and+Wellness+in+🇸🇮+Slovenia) |
+| 💻 **Coworking** | [Find Coworking in 🇸🇮 Slovenia](https://www.google.com/maps/search/Coworking+Spaces+in+🇸🇮+Slovenia) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇸🇮 Slovenia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇸🇮+Slovenia) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇸🇮 Slovenia](https://www.google.com/maps/search/supermarket+in+🇸🇮+Slovenia) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Slovenia
 | **Excuse me** | Oprostite |
 | **Check, please!** | Račun, prosim! |
 | **Do you speak English?** | Govorite angleško? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Ljubljana](cities/ljubljana.md) | 750€ |
-| [Maribor](cities/maribor.md) | 750€ |
-| [Celje](cities/celje.md) | 750€ |
 
 ## 🔗 Useful Links
 

@@ -16,6 +16,23 @@ description: Complete cost of living guide for Bosnia and Herzegovina
 | Beer (0.5L) | 1.50€ | ~1.50 BAM |
 | Cappuccino | 1.20€ | ~1.20 BAM |
 
+## 🏙️ Cities
+
+| City | Rent/month |
+|------|------------|
+| [Sarajevo](cities/sarajevo.md) | 300€ |
+| [Banja Luka](cities/banja-luka.md) | 300€ |
+| [Tuzla](cities/tuzla.md) | 300€ |
+
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/Gym+and+Workout+in+🇧🇦+Bosnia+and+Herzegovina) |
+| 🧖 **Spas & Wellness** | [Find Spas in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/Spa+and+Wellness+in+🇧🇦+Bosnia+and+Herzegovina) |
+| 💻 **Coworking** | [Find Coworking in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇦+Bosnia+and+Herzegovina) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇦+Bosnia+and+Herzegovina) |
+| 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇦 Bosnia and Herzegovina](https://www.google.com/maps/search/supermarket+in+🇧🇦+Bosnia+and+Herzegovina) |
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -35,14 +52,6 @@ description: Complete cost of living guide for Bosnia and Herzegovina
 | **Excuse me** | Oprostite |
 | **Check, please!** | Račun, molim! |
 | **Do you speak English?** | Govorite li engleski? |
-
-## 🏙️ Cities
-
-| City | Rent/month |
-|------|------------|
-| [Sarajevo](cities/sarajevo.md) | 300€ |
-| [Banja Luka](cities/banja-luka.md) | 300€ |
-| [Tuzla](cities/tuzla.md) | 300€ |
 
 ## 🔗 Useful Links
 

@@ -18,13 +18,21 @@ description: Cost of Living in Toulouse
 | Transport | 1.70€ | ~1.70€ |
 | Cinema | 9€ | ~9€ |
 
+## 📍 Google Maps Search Hub
+
+| Category | Search Link |
+|----------|-------------|
+| 🏋️ **Gyms & Fitness** | [Find Gyms in Toulouse](https://www.google.com/maps/search/Gym+and+Workout+in+Toulouse) |
+| 🧖 **Spas & Wellness** | [Find Spas in Toulouse](https://www.google.com/maps/search/Spa+and+Wellness+in+Toulouse) |
+| 💻 **Coworking** | [Find Coworking in Toulouse](https://www.google.com/maps/search/Coworking+Spaces+in+Toulouse) |
+| ☕ **Work-friendly Cafes** | [Find Cafes in Toulouse](https://www.google.com/maps/search/laptop+friendly+cafes+in+Toulouse) |
+| 🛒 **Supermarkets** | [Find Supermarkets in Toulouse](https://www.google.com/maps/search/supermarket+in+Toulouse) |
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |
 |---------|------|
 | [Booking.com](https://www.booking.com/searchresults.html?ss=Toulouse) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Toulouse--France) | Vacation Rentals |
-
 
 ## 🧭 Explore & Community
 
