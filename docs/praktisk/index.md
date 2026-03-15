@@ -33,6 +33,15 @@ Her er de viktigste ressursene for deg som flytter fra Norge til et annet europe
 | [NAV: Medlemskap i folketrygden](https://www.nav.no/medlemskap-i-folketrygden) | Regler for medlemskap når du bor i utlandet. |
 | [NAV: Arbeid i utlandet](https://www.nav.no/arbeid-i-utlandet) | Informasjon om trygderettigheter ved jobb i EU/EØS. |
 
+### 🚑 Helsetrygdkort vs. S1-skjema: Hva trenger du?
+
+| Type | Varighet | Hva dekkes? | Passer for |
+|------|----------|-------------|------------|
+| **Helsetrygdkort (EHIC)** | Inntil 3-6 mnd | Nødvendig helsehjelp (haster) | Turister og korte opphold. |
+| **S1-skjema** | Over 6 mnd | Full rett til helsetjenester (som lokal) | Uføretrygdede som bor fast/lenge ute. |
+
+*Tips: Skal du være borte i nøyaktig 6 måneder, bør du kontakte Helsenorge i god tid for å avklare om du trenger S1 eller om helsetrygdkortet holder.*
+
 ### 🛂 Registrering
 - **Meld flytting**: Husk å [melde flytting til Folkeregisteret](https://www.skatteetaten.no/person/folkeregister/flytte/til-utlandet/) hvis du skal være borte over 6 måneder.
 - **D-nummer/ID**: Sjekk om du trenger å beholde norsk bankID og mobilnumre for tilgang til offentlige tjenester.
