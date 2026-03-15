@@ -5,7 +5,10 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 
-BASE_DIR = '/home/vegar/.openclaw/workspace/costofliving/europa/docs'
+# Dynamically find the docs directory relative to the script location
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+BASE_DIR = os.path.join(PROJECT_ROOT, 'docs')
 
 # Target metrics we want to extract from Numbeo
 METRICS = {
@@ -106,12 +109,11 @@ def run_sync():
     total_files = 0
     
     for root, dirs, files in os.walk(BASE_DIR):
-        if 'cities' in root or 'cities' in dirs:
-            target_dir = os.path.join(root, 'cities') if 'cities' in dirs else root
-            for f in os.listdir(target_dir):
+        if os.path.basename(root) == 'cities':
+            for f in files:
                 if f.endswith('.md'):
                     total_files += 1
-                    filepath = os.path.join(target_dir, f)
+                    filepath = os.path.join(root, f)
                     
                     # Extract city name from filename
                     city_base = f.replace('.md', '')
