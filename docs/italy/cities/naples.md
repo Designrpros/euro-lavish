@@ -27,6 +27,7 @@ description: Cost of Living in Naples
 | 💻 **Coworking** | [Find Coworking in Naples](https://www.google.com/maps/search/Coworking+Spaces+in+Naples) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Naples](https://www.google.com/maps/search/laptop+friendly+cafes+in+Naples) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Naples](https://www.google.com/maps/search/supermarket+in+Naples) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

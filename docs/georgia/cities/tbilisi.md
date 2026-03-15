@@ -5,6 +5,8 @@ description: Cost of Living in Tbilisi
 
 # 🏙️ Tbilisi
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=39.9%2C41.0%2C46.8%2C43.6&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living in Tbilisi
 
 | Category | Price |

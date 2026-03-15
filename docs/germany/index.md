@@ -39,6 +39,7 @@ description: Complete cost of living guide for Germany
 | 💻 **Coworking** | [Find Coworking in 🇩🇪 Germany](https://www.google.com/maps/search/Coworking+Spaces+in+🇩🇪+Germany) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇩🇪 Germany](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇩🇪+Germany) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇩🇪 Germany](https://www.google.com/maps/search/supermarket+in+🇩🇪+Germany) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -81,6 +82,7 @@ description: Complete cost of living guide for Germany
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

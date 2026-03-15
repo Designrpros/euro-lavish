@@ -38,6 +38,7 @@ description: Complete cost of living guide for France
 | 💻 **Coworking** | [Find Coworking in 🇫🇷 France](https://www.google.com/maps/search/Coworking+Spaces+in+🇫🇷+France) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇫🇷 France](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇫🇷+France) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇫🇷 France](https://www.google.com/maps/search/supermarket+in+🇫🇷+France) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for France
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

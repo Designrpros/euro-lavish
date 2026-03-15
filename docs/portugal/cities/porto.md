@@ -27,6 +27,7 @@ description: Cost of Living in Porto
 | 💻 **Coworking** | [Find Coworking in Porto](https://www.google.com/maps/search/Coworking+Spaces+in+Porto) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Porto](https://www.google.com/maps/search/laptop+friendly+cafes+in+Porto) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Porto](https://www.google.com/maps/search/supermarket+in+Porto) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

@@ -37,6 +37,7 @@ description: Complete cost of living guide for Serbia
 | 💻 **Coworking** | [Find Coworking in 🇷🇸 Serbia](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇸+Serbia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇸 Serbia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇸+Serbia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇸 Serbia](https://www.google.com/maps/search/supermarket+in+🇷🇸+Serbia) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Serbia
 | Cannabis | 🟡 | Mild |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

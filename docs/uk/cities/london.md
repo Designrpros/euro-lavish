@@ -27,6 +27,7 @@ description: Cost of Living in London
 | 💻 **Coworking** | [Find Coworking in London](https://www.google.com/maps/search/Coworking+Spaces+in+London) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in London](https://www.google.com/maps/search/laptop+friendly+cafes+in+London) |
 | 🛒 **Supermarkets** | [Find Supermarkets in London](https://www.google.com/maps/search/supermarket+in+London) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

@@ -27,6 +27,7 @@ description: Cost of Living in Wroclaw
 | 💻 **Coworking** | [Find Coworking in Wroclaw](https://www.google.com/maps/search/Coworking+Spaces+in+Wroclaw) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Wroclaw](https://www.google.com/maps/search/laptop+friendly+cafes+in+Wroclaw) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Wroclaw](https://www.google.com/maps/search/supermarket+in+Wroclaw) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

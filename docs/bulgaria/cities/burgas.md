@@ -27,6 +27,7 @@ description: Cost of Living in Burgas
 | 💻 **Coworking** | [Find Coworking in Burgas](https://www.google.com/maps/search/Coworking+Spaces+in+Burgas) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Burgas](https://www.google.com/maps/search/laptop+friendly+cafes+in+Burgas) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Burgas](https://www.google.com/maps/search/supermarket+in+Burgas) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

@@ -27,6 +27,7 @@ description: Cost of Living in Cork
 | 💻 **Coworking** | [Find Coworking in Cork](https://www.google.com/maps/search/Coworking+Spaces+in+Cork) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Cork](https://www.google.com/maps/search/laptop+friendly+cafes+in+Cork) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Cork](https://www.google.com/maps/search/supermarket+in+Cork) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

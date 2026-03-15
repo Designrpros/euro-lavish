@@ -38,6 +38,7 @@ description: Complete cost of living guide for Netherlands
 | 💻 **Coworking** | [Find Coworking in 🇳🇱 Netherlands](https://www.google.com/maps/search/Coworking+Spaces+in+🇳🇱+Netherlands) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇳🇱 Netherlands](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇳🇱+Netherlands) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇳🇱 Netherlands](https://www.google.com/maps/search/supermarket+in+🇳🇱+Netherlands) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for Netherlands
 | Cannabis | 🟢 | Legalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

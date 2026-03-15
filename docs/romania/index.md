@@ -37,6 +37,7 @@ description: Complete cost of living guide for Romania
 | 💻 **Coworking** | [Find Coworking in 🇷🇴 Romania](https://www.google.com/maps/search/Coworking+Spaces+in+🇷🇴+Romania) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇷🇴 Romania](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇷🇴+Romania) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇷🇴 Romania](https://www.google.com/maps/search/supermarket+in+🇷🇴+Romania) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Romania
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

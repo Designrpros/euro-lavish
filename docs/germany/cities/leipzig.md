@@ -27,6 +27,7 @@ description: Cost of Living in Leipzig
 | 💻 **Coworking** | [Find Coworking in Leipzig](https://www.google.com/maps/search/Coworking+Spaces+in+Leipzig) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Leipzig](https://www.google.com/maps/search/laptop+friendly+cafes+in+Leipzig) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Leipzig](https://www.google.com/maps/search/supermarket+in+Leipzig) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

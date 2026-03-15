@@ -38,6 +38,7 @@ description: Complete cost of living guide for Portugal
 | 💻 **Coworking** | [Find Coworking in 🇵🇹 Portugal](https://www.google.com/maps/search/Coworking+Spaces+in+🇵🇹+Portugal) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇵🇹 Portugal](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇵🇹+Portugal) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇵🇹 Portugal](https://www.google.com/maps/search/supermarket+in+🇵🇹+Portugal) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for Portugal
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

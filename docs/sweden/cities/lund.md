@@ -5,6 +5,8 @@ description: Cost of Living in Lund
 
 # 🏙️ Lund
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.0%2C55.3%2C24.2%2C69.1&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | SEK |
@@ -25,6 +27,7 @@ description: Cost of Living in Lund
 | 💻 **Coworking** | [Find Coworking in Lund](https://www.google.com/maps/search/Coworking+Spaces+in+Lund) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Lund](https://www.google.com/maps/search/laptop+friendly+cafes+in+Lund) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Lund](https://www.google.com/maps/search/supermarket+in+Lund) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

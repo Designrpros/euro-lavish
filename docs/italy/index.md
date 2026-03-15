@@ -38,6 +38,7 @@ description: Complete cost of living guide for Italy
 | 💻 **Coworking** | [Find Coworking in 🇮🇹 Italy](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇹+Italy) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇹 Italy](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇹+Italy) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇹 Italy](https://www.google.com/maps/search/supermarket+in+🇮🇹+Italy) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for Italy
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

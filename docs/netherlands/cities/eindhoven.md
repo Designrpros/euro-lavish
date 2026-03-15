@@ -27,6 +27,7 @@ description: Cost of Living in Eindhoven
 | 💻 **Coworking** | [Find Coworking in Eindhoven](https://www.google.com/maps/search/Coworking+Spaces+in+Eindhoven) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Eindhoven](https://www.google.com/maps/search/laptop+friendly+cafes+in+Eindhoven) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Eindhoven](https://www.google.com/maps/search/supermarket+in+Eindhoven) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

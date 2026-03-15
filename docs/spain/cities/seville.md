@@ -27,6 +27,7 @@ description: Cost of Living in Seville
 | 💻 **Coworking** | [Find Coworking in Seville](https://www.google.com/maps/search/Coworking+Spaces+in+Seville) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Seville](https://www.google.com/maps/search/laptop+friendly+cafes+in+Seville) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Seville](https://www.google.com/maps/search/supermarket+in+Seville) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

@@ -5,6 +5,8 @@ description: Cost of Living in Randers
 
 # 🏙️ Randers
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.0%2C54.5%2C15.2%2C57.9&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | DKK |
@@ -25,6 +27,7 @@ description: Cost of Living in Randers
 | 💻 **Coworking** | [Find Coworking in Randers](https://www.google.com/maps/search/Coworking+Spaces+in+Randers) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Randers](https://www.google.com/maps/search/laptop+friendly+cafes+in+Randers) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Randers](https://www.google.com/maps/search/supermarket+in+Randers) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

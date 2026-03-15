@@ -5,6 +5,8 @@ description: Cost of Living in Andorra la Vella
 
 # 🏙️ Andorra la Vella
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4%2C42.4%2C1.8%2C42.7&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living in Andorra la Vella
 
 | Category | Price |

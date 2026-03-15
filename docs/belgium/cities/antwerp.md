@@ -27,6 +27,7 @@ description: Cost of Living in Antwerp
 | 💻 **Coworking** | [Find Coworking in Antwerp](https://www.google.com/maps/search/Coworking+Spaces+in+Antwerp) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Antwerp](https://www.google.com/maps/search/laptop+friendly+cafes+in+Antwerp) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Antwerp](https://www.google.com/maps/search/supermarket+in+Antwerp) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

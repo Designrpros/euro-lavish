@@ -27,6 +27,7 @@ description: Cost of Living in Barcelona
 | 💻 **Coworking** | [Find Coworking in Barcelona](https://www.google.com/maps/search/Coworking+Spaces+in+Barcelona) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Barcelona](https://www.google.com/maps/search/laptop+friendly+cafes+in+Barcelona) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Barcelona](https://www.google.com/maps/search/supermarket+in+Barcelona) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

@@ -40,6 +40,7 @@ description: Complete cost of living guide for Greece
 | 💻 **Coworking** | [Find Coworking in 🇬🇷 Greece](https://www.google.com/maps/search/Coworking+Spaces+in+🇬🇷+Greece) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇬🇷 Greece](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇬🇷+Greece) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇬🇷 Greece](https://www.google.com/maps/search/supermarket+in+🇬🇷+Greece) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -82,6 +83,7 @@ description: Complete cost of living guide for Greece
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

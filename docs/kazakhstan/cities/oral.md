@@ -5,6 +5,8 @@ description: Cost of Living in Oral
 
 # 🏙️ Oral
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=50.0%2C45.0%2C55.0%2C50.0&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living in Oral
 
 | Category | Price |

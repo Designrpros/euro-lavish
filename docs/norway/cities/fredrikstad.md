@@ -27,6 +27,7 @@ description: Cost of Living in Fredrikstad
 | 💻 **Coworking** | [Find Coworking in Fredrikstad](https://www.google.com/maps/search/Coworking+Spaces+in+Fredrikstad) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Fredrikstad](https://www.google.com/maps/search/laptop+friendly+cafes+in+Fredrikstad) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Fredrikstad](https://www.google.com/maps/search/supermarket+in+Fredrikstad) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

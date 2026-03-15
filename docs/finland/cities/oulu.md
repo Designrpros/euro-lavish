@@ -27,6 +27,7 @@ description: Cost of Living in Oulu
 | 💻 **Coworking** | [Find Coworking in Oulu](https://www.google.com/maps/search/Coworking+Spaces+in+Oulu) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Oulu](https://www.google.com/maps/search/laptop+friendly+cafes+in+Oulu) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Oulu](https://www.google.com/maps/search/supermarket+in+Oulu) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

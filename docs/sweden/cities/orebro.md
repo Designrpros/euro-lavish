@@ -27,6 +27,7 @@ description: Cost of Living in Örebro
 | 💻 **Coworking** | [Find Coworking in Örebro](https://www.google.com/maps/search/Coworking+Spaces+in+Örebro) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Örebro](https://www.google.com/maps/search/laptop+friendly+cafes+in+Örebro) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Örebro](https://www.google.com/maps/search/supermarket+in+Örebro) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

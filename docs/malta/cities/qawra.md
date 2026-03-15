@@ -27,6 +27,7 @@ description: Cost of Living in Qawra
 | 💻 **Coworking** | [Find Coworking in Qawra](https://www.google.com/maps/search/Coworking+Spaces+in+Qawra) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Qawra](https://www.google.com/maps/search/laptop+friendly+cafes+in+Qawra) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Qawra](https://www.google.com/maps/search/supermarket+in+Qawra) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

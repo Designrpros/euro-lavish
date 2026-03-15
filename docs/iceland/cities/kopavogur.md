@@ -27,6 +27,7 @@ description: Cost of Living in Kópavogur
 | 💻 **Coworking** | [Find Coworking in Kópavogur](https://www.google.com/maps/search/Coworking+Spaces+in+Kópavogur) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kópavogur](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kópavogur) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kópavogur](https://www.google.com/maps/search/supermarket+in+Kópavogur) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

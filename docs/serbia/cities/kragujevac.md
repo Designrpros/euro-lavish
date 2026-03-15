@@ -27,6 +27,7 @@ description: Cost of Living in Kragujevac
 | 💻 **Coworking** | [Find Coworking in Kragujevac](https://www.google.com/maps/search/Coworking+Spaces+in+Kragujevac) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Kragujevac](https://www.google.com/maps/search/laptop+friendly+cafes+in+Kragujevac) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Kragujevac](https://www.google.com/maps/search/supermarket+in+Kragujevac) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

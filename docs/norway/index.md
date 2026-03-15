@@ -42,6 +42,7 @@ description: Complete cost of living guide for Norway
 | 💻 **Coworking** | [Find Coworking in 🇳🇴 Norway](https://www.google.com/maps/search/Coworking+Spaces+in+🇳🇴+Norway) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇳🇴 Norway](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇳🇴+Norway) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇳🇴 Norway](https://www.google.com/maps/search/supermarket+in+🇳🇴+Norway) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -84,6 +85,7 @@ description: Complete cost of living guide for Norway
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

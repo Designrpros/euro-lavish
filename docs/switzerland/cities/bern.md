@@ -5,6 +5,8 @@ description: Cost of Living in Bern
 
 # 🏙️ Bern
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.9%2C45.8%2C10.5%2C47.9&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | CHF |
@@ -25,6 +27,7 @@ description: Cost of Living in Bern
 | 💻 **Coworking** | [Find Coworking in Bern](https://www.google.com/maps/search/Coworking+Spaces+in+Bern) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bern](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bern) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bern](https://www.google.com/maps/search/supermarket+in+Bern) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

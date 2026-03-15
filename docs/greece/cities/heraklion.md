@@ -5,6 +5,8 @@ description: Cost of Living in Heraklion
 
 # 🏙️ Heraklion
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.3%2C34.7%2C28.3%2C41.8&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | EUR |
@@ -25,6 +27,7 @@ description: Cost of Living in Heraklion
 | 💻 **Coworking** | [Find Coworking in Heraklion](https://www.google.com/maps/search/Coworking+Spaces+in+Heraklion) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Heraklion](https://www.google.com/maps/search/laptop+friendly+cafes+in+Heraklion) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Heraklion](https://www.google.com/maps/search/supermarket+in+Heraklion) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

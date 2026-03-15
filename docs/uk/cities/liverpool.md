@@ -5,6 +5,8 @@ description: Cost of Living in Liverpool
 
 # 🏙️ Liverpool
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.2%2C49.9%2C1.8%2C58.7&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | GBP |
@@ -25,6 +27,7 @@ description: Cost of Living in Liverpool
 | 💻 **Coworking** | [Find Coworking in Liverpool](https://www.google.com/maps/search/Coworking+Spaces+in+Liverpool) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Liverpool](https://www.google.com/maps/search/laptop+friendly+cafes+in+Liverpool) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Liverpool](https://www.google.com/maps/search/supermarket+in+Liverpool) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

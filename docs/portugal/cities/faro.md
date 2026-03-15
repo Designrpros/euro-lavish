@@ -27,6 +27,7 @@ description: Cost of Living in Faro
 | 💻 **Coworking** | [Find Coworking in Faro](https://www.google.com/maps/search/Coworking+Spaces+in+Faro) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Faro](https://www.google.com/maps/search/laptop+friendly+cafes+in+Faro) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Faro](https://www.google.com/maps/search/supermarket+in+Faro) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

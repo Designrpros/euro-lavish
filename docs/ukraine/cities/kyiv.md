@@ -5,6 +5,8 @@ description: Cost of Living in Kyiv
 
 # 🏙️ Kyiv
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=22.1%2C44.3%2C40.3%2C52.4&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living in Kyiv
 
 | Category | Price |

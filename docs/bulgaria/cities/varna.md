@@ -27,6 +27,7 @@ description: Cost of Living in Varna
 | 💻 **Coworking** | [Find Coworking in Varna](https://www.google.com/maps/search/Coworking+Spaces+in+Varna) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Varna](https://www.google.com/maps/search/laptop+friendly+cafes+in+Varna) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Varna](https://www.google.com/maps/search/supermarket+in+Varna) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

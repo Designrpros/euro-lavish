@@ -27,6 +27,7 @@ description: Cost of Living in Bucharest
 | 💻 **Coworking** | [Find Coworking in Bucharest](https://www.google.com/maps/search/Coworking+Spaces+in+Bucharest) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bucharest](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bucharest) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bucharest](https://www.google.com/maps/search/supermarket+in+Bucharest) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

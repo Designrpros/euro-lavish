@@ -27,6 +27,7 @@ description: Cost of Living in Amsterdam
 | 💻 **Coworking** | [Find Coworking in Amsterdam](https://www.google.com/maps/search/Coworking+Spaces+in+Amsterdam) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Amsterdam](https://www.google.com/maps/search/laptop+friendly+cafes+in+Amsterdam) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Amsterdam](https://www.google.com/maps/search/supermarket+in+Amsterdam) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

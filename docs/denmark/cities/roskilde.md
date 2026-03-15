@@ -5,6 +5,8 @@ description: Cost of Living in Roskilde
 
 # 🏙️ Roskilde
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.0%2C54.5%2C15.2%2C57.9&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | DKK |
@@ -25,6 +27,7 @@ description: Cost of Living in Roskilde
 | 💻 **Coworking** | [Find Coworking in Roskilde](https://www.google.com/maps/search/Coworking+Spaces+in+Roskilde) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Roskilde](https://www.google.com/maps/search/laptop+friendly+cafes+in+Roskilde) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Roskilde](https://www.google.com/maps/search/supermarket+in+Roskilde) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

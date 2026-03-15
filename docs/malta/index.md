@@ -37,6 +37,7 @@ description: Complete cost of living guide for Malta
 | 💻 **Coworking** | [Find Coworking in 🇲🇹 Malta](https://www.google.com/maps/search/Coworking+Spaces+in+🇲🇹+Malta) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇲🇹 Malta](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇲🇹+Malta) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇲🇹 Malta](https://www.google.com/maps/search/supermarket+in+🇲🇹+Malta) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Malta
 | Cannabis | 🟢 | Legalized 2021 |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

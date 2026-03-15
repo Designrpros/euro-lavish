@@ -37,6 +37,7 @@ description: Complete cost of living guide for Bulgaria
 | 💻 **Coworking** | [Find Coworking in 🇧🇬 Bulgaria](https://www.google.com/maps/search/Coworking+Spaces+in+🇧🇬+Bulgaria) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇧🇬 Bulgaria](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇧🇬+Bulgaria) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇧🇬 Bulgaria](https://www.google.com/maps/search/supermarket+in+🇧🇬+Bulgaria) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Bulgaria
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

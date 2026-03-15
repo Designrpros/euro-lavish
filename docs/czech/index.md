@@ -37,6 +37,7 @@ description: Complete cost of living guide for Czechia
 | 💻 **Coworking** | [Find Coworking in 🇨🇿 Czechia](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇿+Czechia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇿 Czechia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇿+Czechia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇿 Czechia](https://www.google.com/maps/search/supermarket+in+🇨🇿+Czechia) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Czechia
 | Cannabis | 🟢 | Legalized 2024 |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -38,6 +38,7 @@ description: Complete cost of living guide for Finland
 | 💻 **Coworking** | [Find Coworking in 🇫🇮 Finland](https://www.google.com/maps/search/Coworking+Spaces+in+🇫🇮+Finland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇫🇮 Finland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇫🇮+Finland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇫🇮 Finland](https://www.google.com/maps/search/supermarket+in+🇫🇮+Finland) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for Finland
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -27,6 +27,7 @@ description: Cost of Living in Subotica
 | 💻 **Coworking** | [Find Coworking in Subotica](https://www.google.com/maps/search/Coworking+Spaces+in+Subotica) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Subotica](https://www.google.com/maps/search/laptop+friendly+cafes+in+Subotica) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Subotica](https://www.google.com/maps/search/supermarket+in+Subotica) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

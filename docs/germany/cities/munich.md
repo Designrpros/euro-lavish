@@ -27,6 +27,7 @@ description: Cost of Living in Munich
 | 💻 **Coworking** | [Find Coworking in Munich](https://www.google.com/maps/search/Coworking+Spaces+in+Munich) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Munich](https://www.google.com/maps/search/laptop+friendly+cafes+in+Munich) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Munich](https://www.google.com/maps/search/supermarket+in+Munich) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

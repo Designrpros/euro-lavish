@@ -27,6 +27,7 @@ description: Cost of Living in Budapest
 | 💻 **Coworking** | [Find Coworking in Budapest](https://www.google.com/maps/search/Coworking+Spaces+in+Budapest) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Budapest](https://www.google.com/maps/search/laptop+friendly+cafes+in+Budapest) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Budapest](https://www.google.com/maps/search/supermarket+in+Budapest) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

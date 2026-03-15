@@ -41,6 +41,7 @@ description: Complete cost of living guide for Denmark
 | 💻 **Coworking** | [Find Coworking in 🇩🇰 Denmark](https://www.google.com/maps/search/Coworking+Spaces+in+🇩🇰+Denmark) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇩🇰 Denmark](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇩🇰+Denmark) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇩🇰 Denmark](https://www.google.com/maps/search/supermarket+in+🇩🇰+Denmark) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -83,6 +84,7 @@ description: Complete cost of living guide for Denmark
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -37,6 +37,7 @@ description: Complete cost of living guide for Switzerland
 | 💻 **Coworking** | [Find Coworking in 🇨🇭 Switzerland](https://www.google.com/maps/search/Coworking+Spaces+in+🇨🇭+Switzerland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇨🇭 Switzerland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇨🇭+Switzerland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇨🇭 Switzerland](https://www.google.com/maps/search/supermarket+in+🇨🇭+Switzerland) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Switzerland
 | Cannabis | 🟡 | Decriminalized |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

@@ -27,6 +27,7 @@ description: Cost of Living in Liege
 | 💻 **Coworking** | [Find Coworking in Liege](https://www.google.com/maps/search/Coworking+Spaces+in+Liege) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Liege](https://www.google.com/maps/search/laptop+friendly+cafes+in+Liege) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Liege](https://www.google.com/maps/search/supermarket+in+Liege) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

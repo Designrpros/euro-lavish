@@ -38,6 +38,7 @@ description: Complete cost of living guide for Iceland
 | 💻 **Coworking** | [Find Coworking in 🇮🇸 Iceland](https://www.google.com/maps/search/Coworking+Spaces+in+🇮🇸+Iceland) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇮🇸 Iceland](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇮🇸+Iceland) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇮🇸 Iceland](https://www.google.com/maps/search/supermarket+in+🇮🇸+Iceland) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for Iceland
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

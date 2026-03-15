@@ -27,6 +27,7 @@ description: Cost of Living in Valletta
 | 💻 **Coworking** | [Find Coworking in Valletta](https://www.google.com/maps/search/Coworking+Spaces+in+Valletta) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Valletta](https://www.google.com/maps/search/laptop+friendly+cafes+in+Valletta) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Valletta](https://www.google.com/maps/search/supermarket+in+Valletta) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

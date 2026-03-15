@@ -5,6 +5,8 @@ description: Cost of Living in Bologna
 
 # 🏙️ Bologna
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.6%2C35.4%2C18.6%2C47.1&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living
 
 | Category | Price | EUR |
@@ -25,6 +27,7 @@ description: Cost of Living in Bologna
 | 💻 **Coworking** | [Find Coworking in Bologna](https://www.google.com/maps/search/Coworking+Spaces+in+Bologna) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Bologna](https://www.google.com/maps/search/laptop+friendly+cafes+in+Bologna) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Bologna](https://www.google.com/maps/search/supermarket+in+Bologna) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

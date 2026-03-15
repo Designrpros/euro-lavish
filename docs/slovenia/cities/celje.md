@@ -5,6 +5,8 @@ description: Cost of Living in Celje
 
 # 🏙️ Celje
 
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.3%2C45.4%2C16.6%2C47.0&layer=mapnik"></iframe>
+
 ## 📊 Cost of Living in Celje
 
 | Category | Price |

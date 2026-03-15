@@ -27,6 +27,7 @@ description: Cost of Living in Osijek
 | 💻 **Coworking** | [Find Coworking in Osijek](https://www.google.com/maps/search/Coworking+Spaces+in+Osijek) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Osijek](https://www.google.com/maps/search/laptop+friendly+cafes+in+Osijek) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Osijek](https://www.google.com/maps/search/supermarket+in+Osijek) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

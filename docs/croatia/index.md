@@ -37,6 +37,7 @@ description: Complete cost of living guide for Croatia
 | 💻 **Coworking** | [Find Coworking in 🇭🇷 Croatia](https://www.google.com/maps/search/Coworking+Spaces+in+🇭🇷+Croatia) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇭🇷 Croatia](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇭🇷+Croatia) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇭🇷 Croatia](https://www.google.com/maps/search/supermarket+in+🇭🇷+Croatia) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -79,6 +80,7 @@ description: Complete cost of living guide for Croatia
 | Cannabis | 🟡 | Medical OK |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent

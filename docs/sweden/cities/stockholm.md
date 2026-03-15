@@ -27,6 +27,7 @@ description: Cost of Living in Stockholm
 | 💻 **Coworking** | [Find Coworking in Stockholm](https://www.google.com/maps/search/Coworking+Spaces+in+Stockholm) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Stockholm](https://www.google.com/maps/search/laptop+friendly+cafes+in+Stockholm) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Stockholm](https://www.google.com/maps/search/supermarket+in+Stockholm) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

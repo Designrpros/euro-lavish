@@ -27,6 +27,7 @@ description: Cost of Living in Hafnarfjörður
 | 💻 **Coworking** | [Find Coworking in Hafnarfjörður](https://www.google.com/maps/search/Coworking+Spaces+in+Hafnarfjörður) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in Hafnarfjörður](https://www.google.com/maps/search/laptop+friendly+cafes+in+Hafnarfjörður) |
 | 🛒 **Supermarkets** | [Find Supermarkets in Hafnarfjörður](https://www.google.com/maps/search/supermarket+in+Hafnarfjörður) |
+
 ## 🏨 Hotels & Airbnb
 
 | Service | Link |

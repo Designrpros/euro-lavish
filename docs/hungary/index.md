@@ -38,6 +38,7 @@ description: Complete cost of living guide for Hungary
 | 💻 **Coworking** | [Find Coworking in 🇭🇺 Hungary](https://www.google.com/maps/search/Coworking+Spaces+in+🇭🇺+Hungary) |
 | ☕ **Work-friendly Cafes** | [Find Cafes in 🇭🇺 Hungary](https://www.google.com/maps/search/laptop+friendly+cafes+in+🇭🇺+Hungary) |
 | 🛒 **Supermarkets** | [Find Supermarkets in 🇭🇺 Hungary](https://www.google.com/maps/search/supermarket+in+🇭🇺+Hungary) |
+
 ## 🇪🇺 European Resident Info
 
 | Category | Details |
@@ -80,6 +81,7 @@ description: Complete cost of living guide for Hungary
 | Cannabis | 🔴 | Strict |
 
 *Data: Numbeo.com, March 2026*
+
 ## 🔗 Useful Links
 
 ### 🏠 Housing & Rent
