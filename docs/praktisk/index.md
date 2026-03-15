@@ -37,6 +37,24 @@ Her er de viktigste ressursene for deg som flytter fra Norge til et annet europe
 - **Meld flytting**: Husk å [melde flytting til Folkeregisteret](https://www.skatteetaten.no/person/folkeregister/flytte/til-utlandet/) hvis du skal være borte over 6 måneder.
 - **D-nummer/ID**: Sjekk om du trenger å beholde norsk bankID og mobilnumre for tilgang til offentlige tjenester.
 
+## ⏳ Oppholdets lengde: Viktige grenser
+
+Når du planlegger å være i utlandet over lengre tid, er det tre viktige tidsfrister du må kjenne til:
+
+### 1. **90 dager (3 måneder)** — *Residens-grensen*
+*   **Regel:** Innefor EU/EØS kan du fritt oppholde deg i et annet land i inntil 90 dager.
+*   **Handling:** Skal du være lenger, må du som regel registrere deg hos lokalt politi eller utlendingsmyndighet (f.eks. NIE i Spania eller "Anmeldung" i Tyskland).
+
+### 2. **183 dager (6 måneder)** — *Skatte-grensen*
+*   **Regel:** Oppholder du deg i et land i mer enn 183 dager i løpet av et år, blir du vanligvis ansett som skattemessig bosatt der.
+*   **Konsekvens:** Du kan bli skattepliktig til vertslandet for din globale inntekt/trygd (sjekk skatteavtalen mellom Norge og landet).
+
+### 3. **6 måneder i året** — *Folketrygd-grensen*
+*   **Regel:** For å beholde medlemskapet i den norske folketrygden, må du som hovedregel ikke oppholde deg i utlandet i mer enn 6 måneder totalt i et kalenderår.
+*   **S1-skjema:** Hvis du flytter permanent (over 6 mnd) og mottar uføretrygd, kan S1-skjemaet sikre deg helserettigheter i det nye landet mens Norge fortsatt betaler.
+
+---
+
 ## 📱 Telekom & SIM
 
 | Tjeneste | Beskrivelse |
