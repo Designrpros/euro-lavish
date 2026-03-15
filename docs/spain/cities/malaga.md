@@ -33,7 +33,7 @@ description: Cost of Living in Málaga
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Malaga) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DM%C3%A1laga) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Malaga--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community

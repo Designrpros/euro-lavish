@@ -33,7 +33,7 @@ description: Cost of Living in Odense
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Odense) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOdense) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Odense--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community

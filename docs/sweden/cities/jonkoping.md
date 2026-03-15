@@ -33,7 +33,7 @@ description: Cost of Living in Jönköping
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Jonkoping) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJ%C3%B6nk%C3%B6ping) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Jonkoping--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community

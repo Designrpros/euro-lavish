@@ -33,7 +33,7 @@ description: Cost of Living in Munich
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Munich) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMunich) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Munich--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community

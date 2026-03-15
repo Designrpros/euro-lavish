@@ -33,7 +33,7 @@ description: Cost of Living in Burgas
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Burgas) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBurgas) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Burgas--Bulgaria) | Vacation Rentals |
 
 ## 🧭 Explore & Community

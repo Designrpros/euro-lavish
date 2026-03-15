@@ -33,7 +33,7 @@ description: Cost of Living in Porsgrunn
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Porsgrunn) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPorsgrunn) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Porsgrunn--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community

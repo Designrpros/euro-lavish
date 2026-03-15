@@ -33,7 +33,7 @@ description: Cost of Living in Porto
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Porto) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPorto) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Porto--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community

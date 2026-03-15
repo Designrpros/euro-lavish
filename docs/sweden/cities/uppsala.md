@@ -33,7 +33,7 @@ description: Cost of Living in Uppsala
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Uppsala) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUppsala) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Uppsala--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community

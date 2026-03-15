@@ -33,7 +33,7 @@ description: Cost of Living in Oulu
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Oulu) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOulu) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Oulu--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community

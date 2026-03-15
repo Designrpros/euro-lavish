@@ -33,7 +33,7 @@ description: Cost of Living in Târgu Mureș
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Targu+Mures) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DT%C3%A2rgu%20Mure%C8%99) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Targu-Mures--Romania) | Vacation Rentals |
 
 ## 🧭 Explore & Community

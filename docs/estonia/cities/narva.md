@@ -33,7 +33,7 @@ description: Cost of Living in Narva
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Narva) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarva) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Narva--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community

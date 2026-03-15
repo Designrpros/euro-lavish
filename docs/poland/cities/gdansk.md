@@ -33,7 +33,7 @@ description: Cost of Living in Gdańsk
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Gdansk) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGda%C5%84sk) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Gdansk--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community

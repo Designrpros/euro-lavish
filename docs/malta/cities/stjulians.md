@@ -33,7 +33,7 @@ description: Cost of Living in St. Julian's
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=St+Julian%27s+Malta) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSt.%20Julian%27s) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/St-Julian-s--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community

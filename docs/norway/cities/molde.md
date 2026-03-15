@@ -33,7 +33,7 @@ description: Cost of Living in Molde
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Molde) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMolde) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Molde--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community

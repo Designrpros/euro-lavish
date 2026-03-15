@@ -33,7 +33,7 @@ description: Cost of Living in Salzburg
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Salzburg) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSalzburg) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Salzburg--Austria) | Vacation Rentals |
 
 ## 🧭 Explore & Community

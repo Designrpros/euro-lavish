@@ -33,7 +33,7 @@ description: Cost of Living in Tallinn
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Tallinn) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTallinn) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Tallinn--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community

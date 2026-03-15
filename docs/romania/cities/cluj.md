@@ -33,7 +33,7 @@ description: Cost of Living in Cluj-Napoca
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Cluj-Napoca) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCluj-Napoca) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Cluj-Napoca--Romania) | Vacation Rentals |
 
 ## 🧭 Explore & Community

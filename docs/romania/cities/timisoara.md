@@ -33,7 +33,7 @@ description: Cost of Living in Timișoara
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Timisoara) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTimi%C8%99oara) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Timisoara--Romania) | Vacation Rentals |
 
 ## 🧭 Explore & Community

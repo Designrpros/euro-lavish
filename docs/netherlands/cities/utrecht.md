@@ -33,7 +33,7 @@ description: Cost of Living in Utrecht
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Utrecht) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUtrecht) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Utrecht--Netherlands) | Vacation Rentals |
 
 ## 🧭 Explore & Community

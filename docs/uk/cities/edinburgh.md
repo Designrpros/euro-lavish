@@ -33,7 +33,7 @@ description: Cost of Living in Edinburgh
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Edinburgh) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEdinburgh) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Edinburgh--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community

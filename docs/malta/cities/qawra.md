@@ -33,7 +33,7 @@ description: Cost of Living in Qawra
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Qawra) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DQawra) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Qawra--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community

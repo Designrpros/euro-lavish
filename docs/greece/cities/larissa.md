@@ -33,7 +33,7 @@ description: Cost of Living in Larissa
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://www.booking.com/searchresults.html?ss=Larissa) | Hotels |
+| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLarissa) | Hotels |
 | [Airbnb](https://www.airbnb.com/s/Larissa--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
