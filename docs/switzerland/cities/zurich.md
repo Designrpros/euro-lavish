@@ -29,7 +29,10 @@ description: Cost of Living in Zurich
 | 🛒 **Supermarkets** | [Find Supermarkets in Zurich](https://www.google.com/maps/search/supermarket+in+Zurich) |
 | 🥾 **Hiking Trails** | [Find Trails in Zurich](https://www.google.com/maps/search/Hiking+Trails+in+Zurich) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Dolder Grand](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Dolder%20Grand%20Zurich) — Fairytale castle luxury overlooking the lake.
+- **Budget**: [Oldtown Hostel Otter](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOldtown%20Hostel%20Otter%20Zurich) — Charming stay in the heart of the historic center.
+- **Hostel**: [Zurich Youth Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZurich%20Youth%20Hostel%20Zurich) — Modern, sleek, and highly efficient Swiss design.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Zurich
 | [Airbnb](https://www.airbnb.com/s/Zurich--Switzerland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Lake Zurich](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLake%20Zurich%20Zurich) — Take a boat cruise for stunning Alpine views.
+- **Social**: [Find Zurich on Reddit](https://www.reddit.com/r/Zurich/)
+- **Guide**: [Lonely Planet Zurich](https://www.lonelyplanet.com/search?q=Zurich)
 
 | Platform | Link |
 |----------|------|

@@ -29,7 +29,10 @@ description: Cost of Living in Glasgow
 | 🛒 **Supermarkets** | [Find Supermarkets in Glasgow](https://www.google.com/maps/search/supermarket+in+Glasgow) |
 | 🥾 **Hiking Trails** | [Find Trails in Glasgow](https://www.google.com/maps/search/Hiking+Trails+in+Glasgow) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Kimpton Blythswood Square](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKimpton%20Blythswood%20Square%20Glasgow) — Five-star luxury with an incredible spa in a historic square.
+- **Budget**: [Moxy Glasgow Merchant City](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMoxy%20Glasgow%20Merchant%20City%20Glasgow) — Trendy, industrial design at a very friendly price.
+- **Hostel**: [Glasgow Youth Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow%20Youth%20Hostel%20Glasgow) — Consistently rated the best overall hostel in Scotland.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Glasgow
 | [Airbnb](https://www.airbnb.com/s/Glasgow--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Kelvingrove Art Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKelvingrove%20Art%20Gallery%20Glasgow) — One of Scotland's most popular free attractions.
+- **Social**: [Find Glasgow on Reddit](https://www.reddit.com/r/Glasgow/)
+- **Guide**: [Lonely Planet Glasgow](https://www.lonelyplanet.com/search?q=Glasgow)
 
 | Platform | Link |
 |----------|------|

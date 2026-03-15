@@ -29,20 +29,15 @@ description: Cost of Living in Oslo
 | 🛒 **Supermarkets** | [Find Supermarkets in Oslo](https://www.google.com/maps/search/supermarket+in+Oslo) |
 | 🥾 **Hiking Trails** | [Find Trails in Oslo](https://www.google.com/maps/search/Hiking+Trails+in+Oslo) |
 
-## 🏨 Hotels & Airbnb
-
-| Service | Link |
-|---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOslo) | Hotels |
-| [Airbnb](https://www.airbnb.com/s/Oslo--Norway) | Vacation Rentals |
+## 🏨 Recommended Accommodation
+- **Luxury**: [Sommerro](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSommerro+Oslo) — Stunning Art Deco hotel in an iconic building.
+- **Budget**: [Citybox Oslo](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCitybox+Oslo) — Modern, self-service hotel in the city heart.
+- **Hostel**: [Bunks at Rode](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBunks+at+Rode+Oslo) — Boutique hostel with a great social vibe.
 
 ## 🧭 Explore & Community
-
-| Platform | Link |
-|----------|------|
-| 💬 **Reddit** | [r/Oslo](https://www.reddit.com/r/Oslo/) |
-| 📍 **TripAdvisor** | [Things to do in Oslo](https://www.tripadvisor.com/Search?q=Oslo) |
-| 📖 **Lonely Planet** | [Oslo Guide](https://www.lonelyplanet.com/search?q=Oslo) |
+- **Top Activity**: [Munch Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMunch%20Museum%20Oslo) — Explore the world-famous 'The Scream' and more.
+- **Social**: [Find Oslo on Reddit](https://www.reddit.com/r/Oslo/)
+- **Guide**: [Lonely Planet Oslo](https://www.lonelyplanet.com/search?q=Oslo)
 
 ## 🚀 Digital Nomad Hub
 

@@ -29,7 +29,10 @@ description: Cost of Living in Munich
 | 🛒 **Supermarkets** | [Find Supermarkets in Munich](https://www.google.com/maps/search/supermarket+in+Munich) |
 | 🥾 **Hiking Trails** | [Find Trails in Munich](https://www.google.com/maps/search/Hiking+Trails+in+Munich) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Charles Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Charles%20Hotel%20Munich) — Contemporary luxury near the Old Botanical Garden.
+- **Budget**: [Euro Youth Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEuro%20Youth%20Hostel%20Munich) — Perfectly located budget stay near Central Station.
+- **Hostel**: [Wombat's City Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWombat%27s%20City%20Hostel%20Munich) — Stylish, social, and famous for its 'glass house' bar.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Munich
 | [Airbnb](https://www.airbnb.com/s/Munich--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Marienplatz](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMarienplatz%20Munich) — The heart of Munich with the famous Glockenspiel.
+- **Social**: [Find Munich on Reddit](https://www.reddit.com/r/Munich/)
+- **Guide**: [Lonely Planet Munich](https://www.lonelyplanet.com/search?q=Munich)
 
 | Platform | Link |
 |----------|------|

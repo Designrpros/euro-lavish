@@ -1,0 +1,416 @@
+{
+    "Warsaw": {
+        "luxury": {
+            "name": "Westin Warsaw",
+            "desc": "Contemporary luxury with a stunning glass elevator."
+        },
+        "budget": {
+            "name": "Hostel Wawa Star",
+            "desc": "Clean, reliable, and very budget-friendly."
+        },
+        "hostel": {
+            "name": "Oki Doki Old Town",
+            "desc": "Historic building with unique, artist-designed rooms."
+        },
+        "activity": {
+            "name": "Royal Castle",
+            "desc": "Meticulously rebuilt symbol of Polish history."
+        }
+    },
+    "Krakow": {
+        "luxury": {
+            "name": "Hotel Stary",
+            "desc": "Award-winning design in a historic medieval building."
+        },
+        "budget": {
+            "name": "Ginger Hostel",
+            "desc": "Cozy, colorful, and right next to the Wawel Castle."
+        },
+        "hostel": {
+            "name": "Greg & Tom Beer House",
+            "desc": "Famous for its pub crawls and social atmosphere."
+        },
+        "activity": {
+            "name": "Main Market Square",
+            "desc": "One of the largest and most beautiful medieval squares in Europe."
+        }
+    },
+    "Gdansk": {
+        "luxury": {
+            "name": "Puro Hotel Gdansk",
+            "desc": "Modern smart-hotel in the heart of the Old Town."
+        },
+        "budget": {
+            "name": "Hostel Filip",
+            "desc": "Simple, clean, and incredible value for money."
+        },
+        "hostel": {
+            "name": "Hostel 22",
+            "desc": "Quiet and stylish stay in a historic townhouse."
+        },
+        "activity": {
+            "name": "The Crane",
+            "desc": "The iconic medieval port crane and landmark."
+        }
+    },
+    "Wroclaw": {
+        "luxury": {
+            "name": "The Bridge Wroclaw",
+            "desc": "Luxury stay on the historic Cathedral Island."
+        },
+        "budget": {
+            "name": "Hostel Bemma",
+            "desc": "Charming and eco-friendly stay in the center."
+        },
+        "hostel": {
+            "name": "Corner Hostel",
+            "desc": "Vibrant and social, perfect for meeting travelers."
+        },
+        "activity": {
+            "name": "Wroclaw Dwarves",
+            "desc": "Find the hundreds of bronze gnomes hidden across the city."
+        }
+    },
+    "Prague": {
+        "luxury": {
+            "name": "Four Seasons Prague",
+            "desc": "Unrivaled luxury with views of the Charles Bridge."
+        },
+        "budget": {
+            "name": "Miss Sophie's Downtown",
+            "desc": "Boutique apartments with a cozy, homey feel."
+        },
+        "hostel": {
+            "name": "Onefam Old Town",
+            "desc": "The ultimate social hostel with free nightly dinners."
+        },
+        "activity": {
+            "name": "Prague Castle",
+            "desc": "The largest ancient castle complex in the world."
+        }
+    },
+    "Brno": {
+        "luxury": {
+            "name": "Barceló Brno Palace",
+            "desc": "Historic prestige in a stunning neo-Renaissance palace."
+        },
+        "budget": {
+            "name": "Hostel Jacob",
+            "desc": "Friendly atmosphere right on the main square."
+        },
+        "hostel": {
+            "name": "Hostel 10-Z",
+            "desc": "Sleep in a former nuclear fallout shelter."
+        },
+        "activity": {
+            "name": "Spilberk Castle",
+            "desc": "Former fortress and prison with panoramic views."
+        }
+    },
+    "Budapest": {
+        "luxury": {
+            "name": "Four Seasons Gresham Palace",
+            "desc": "Art Nouveau masterpiece on the Danube."
+        },
+        "budget": {
+            "name": "Maverick City Lodge",
+            "desc": "Modern boutique hostel in the vibrant Jewish Quarter."
+        },
+        "hostel": {
+            "name": "Onefam Budapest",
+            "desc": "Consistently rated the best social hostel in Hungary."
+        },
+        "activity": {
+            "name": "Parliament Building",
+            "desc": "Stunning neo-gothic icon of the Hungarian capital."
+        }
+    },
+    "Bucharest": {
+        "luxury": {
+            "name": "JW Marriott Bucharest",
+            "desc": "Palatial luxury near the Palace of the Parliament."
+        },
+        "budget": {
+            "name": "First Hostel",
+            "desc": "Clean and modern with a friendly local vibe."
+        },
+        "hostel": {
+            "name": "Podstel Umbrella",
+            "desc": "Charming hostel in a restored 1920s mansion."
+        },
+        "activity": {
+            "name": "Palace of the Parliament",
+            "desc": "The heaviest building in the world and a communist relic."
+        }
+    },
+    "Sofia": {
+        "luxury": {
+            "name": "Grand Hotel Sofia",
+            "desc": "Timeless elegance and the finest service in town."
+        },
+        "budget": {
+            "name": "Ivory Tower",
+            "desc": "Simple comfort in the heart of the historic center."
+        },
+        "hostel": {
+            "name": "Hostel Mostel",
+            "desc": "A legendary hiker and backpacker hub with free dinner."
+        },
+        "activity": {
+            "name": "Alexander Nevsky Cathedral",
+            "desc": "One of the world's largest Orthodox cathedrals."
+        }
+    },
+    "Belgrade": {
+        "luxury": {
+            "name": "Square Nine Hotel",
+            "desc": "Meticulously designed modern luxury in the center."
+        },
+        "budget": {
+            "name": "Hostelche",
+            "desc": "Cozy and friendly, feels like staying with friends."
+        },
+        "hostel": {
+            "name": "El Diablo Hostel",
+            "desc": "Legendary social atmosphere and frequent family dinners."
+        },
+        "activity": {
+            "name": "Kalemegdan Fortress",
+            "desc": "Historic fortress where the Sava and Danube rivers meet."
+        }
+    },
+    "Tbilisi": {
+        "luxury": {
+            "name": "Stamba Hotel",
+            "desc": "Incredible design-led hotel in a former Soviet printing house."
+        },
+        "budget": {
+            "name": "Fabrika",
+            "desc": "A repurposed factory that is now the city's coolest social hub."
+        },
+        "hostel": {
+            "name": "Envoy Hostel",
+            "desc": "Perfectly located with an amazing rooftop terrace views."
+        },
+        "activity": {
+            "name": "Narikala Fortress",
+            "desc": "Ancient fortress with the best panoramas of Old Tbilisi."
+        }
+    },
+    "Batumi": {
+        "luxury": {
+            "name": "Le Méridien Batumi",
+            "desc": "Modern luxury in the iconic Batumi Tower."
+        },
+        "budget": {
+            "name": "Backpacker Hostel",
+            "desc": "Simple, clean, and steps away from the Black Sea."
+        },
+        "hostel": {
+            "name": "Batumi Surf Hostel",
+            "desc": "Laid-back vibes close to the beach and boulevard."
+        },
+        "activity": {
+            "name": "Ali and Nino Statue",
+            "desc": "Moving steel sculpture representing eternal love."
+        }
+    },
+    "Yerevan": {
+        "luxury": {
+            "name": "The Alexander",
+            "desc": "The most prestigious and luxurious stay in Armenia."
+        },
+        "budget": {
+            "name": "Kantar Hostel",
+            "desc": "Modern, sleek, and exceptionally clean city stay."
+        },
+        "hostel": {
+            "name": "Envoy Hostel Yerevan",
+            "desc": "Reliable hub with great community tours across Armenia."
+        },
+        "activity": {
+            "name": "The Cascade",
+            "desc": "Giant limestone stairway with art and city views."
+        }
+    },
+    "Baku": {
+        "luxury": {
+            "name": "Four Seasons Baku",
+            "desc": "Beaux-Arts elegance overlooking the Caspian Sea."
+        },
+        "budget": {
+            "name": "Sahil Hostel",
+            "desc": "Efficient and well-located for urban explorers."
+        },
+        "hostel": {
+            "name": "Sahil Hostel & Hotel",
+            "desc": "Premium hostel experience with private pod-style beds."
+        },
+        "activity": {
+            "name": "Flame Towers",
+            "desc": "The iconic LED-covered symbols of modern Azerbaijan."
+        }
+    },
+    "Kyiv": {
+        "luxury": {
+            "name": "InterContinental Kyiv",
+            "desc": "Luxury steps away from St. Michael's Cathedral."
+        },
+        "budget": {
+            "name": "Dream House",
+            "desc": "Spacious and social hub on the historic Andriyivskyy Descent."
+        },
+        "hostel": {
+            "name": "ZigZag Hostel",
+            "desc": "Vibrant and colorful, perfect for young travelers."
+        },
+        "activity": {
+            "name": "Pechersk Lavra",
+            "desc": "UNESCO-listed ancient cave monastery complex."
+        }
+    },
+    "Lviv": {
+        "luxury": {
+            "name": "Bank Hotel",
+            "desc": "Grand luxury in a beautifully restored former bank."
+        },
+        "budget": {
+            "name": "Ghostel",
+            "desc": "Themed medieval hostel with incredible character."
+        },
+        "hostel": {
+            "name": "Post House Hostel",
+            "desc": "Unique design inspired by postal history."
+        },
+        "activity": {
+            "name": "Lviv Market Square",
+            "desc": "The heart of the UNESCO Old Town with 44 historic buildings."
+        }
+    },
+    "Bratislava": {
+        "luxury": {
+            "name": "Grand Hotel River Park",
+            "desc": "Sleek luxury with panoramic views of the Danube."
+        },
+        "budget": {
+            "name": "Hostel Folks",
+            "desc": "Modern and comfortable stay right on the edge of Old Town."
+        },
+        "hostel": {
+            "name": "Wild Elephants",
+            "desc": "The most social and lively hostel in the city."
+        },
+        "activity": {
+            "name": "Bratislava Castle",
+            "desc": "White fortress overlooking the city into Austria and Hungary."
+        }
+    },
+    "Ljubljana": {
+        "luxury": {
+            "name": "InterContinental Ljubljana",
+            "desc": "Modern 5-star luxury with a rooftop wellness center."
+        },
+        "budget": {
+            "name": "Fluxus Hostel",
+            "desc": "Small, artistic, and friendly stay in the center."
+        },
+        "hostel": {
+            "name": "Hostel Celica",
+            "desc": "Award-winning design hostel in a former military prison."
+        },
+        "activity": {
+            "name": "Ljubljana Castle",
+            "desc": "Medieval hilltop castle accessible by funicular."
+        }
+    },
+    "Tirana": {
+        "luxury": {
+            "name": "The Plaza Tirana",
+            "desc": "Contemporary design and luxury in the city center."
+        },
+        "budget": {
+            "name": "Trip'n'Hostel",
+            "desc": "Old Italian-style villa with a quirky, fun vibe."
+        },
+        "hostel": {
+            "name": "Tirana Backpacker",
+            "desc": "Albania's first hostel, set in a beautiful old villa."
+        },
+        "activity": {
+            "name": "Skanderbeg Square",
+            "desc": "The massive and grand heart of the Albanian capital."
+        }
+    },
+    "Sarajevo": {
+        "luxury": {
+            "name": "Hotel President Sarajevo",
+            "desc": "Historic charm right at the entrance of Old Town."
+        },
+        "budget": {
+            "name": "Balkan Han",
+            "desc": "Friendly atmosphere with a small garden bar."
+        },
+        "hostel": {
+            "name": "Hostel Kucha",
+            "desc": "Winner of best hostel in Bosnia multiple times."
+        },
+        "activity": {
+            "name": "Baščaršija",
+            "desc": "The city's ancient Ottoman bazaar and cultural heart."
+        }
+    },
+    "Skopje": {
+        "luxury": {
+            "name": "Marriott Skopje",
+            "desc": "Modern luxury right on the main Macedonia Square."
+        },
+        "budget": {
+            "name": "Get Inn",
+            "desc": "Reliable and cozy stay in a quiet central area."
+        },
+        "hostel": {
+            "name": "Shanti Hostel",
+            "desc": "Renowned for its incredible hospitality and local tips."
+        },
+        "activity": {
+            "name": "The Stone Bridge",
+            "desc": "The 15th-century link between the square and Old Bazaar."
+        }
+    },
+    "Chisinau": {
+        "luxury": {
+            "name": "Berds Design Hotel",
+            "desc": "The first design hotel in Moldova, very stylish."
+        },
+        "budget": {
+            "name": "Hostel City Center",
+            "desc": "Conveniently located with all the essentials."
+        },
+        "hostel": {
+            "name": "Funky Mammal",
+            "desc": "Small, artsy, and very welcoming and social."
+        },
+        "activity": {
+            "name": "Triumphal Arch",
+            "desc": "The symbolic white arch in the center of the capital."
+        }
+    },
+    "Podgorica": {
+        "luxury": {
+            "name": "Hilton Podgorica",
+            "desc": "Classic luxury and the best rooftop bar in the city."
+        },
+        "budget": {
+            "name": "Hostel Q",
+            "desc": "Quaint and cozy hostel with a nice outdoor terrace."
+        },
+        "hostel": {
+            "name": "Hostel Montenegro",
+            "desc": "Central and reliable for exploring the capital."
+        },
+        "activity": {
+            "name": "Millennium Bridge",
+            "desc": "The modern architectural symbol of Montenegro."
+        }
+    }
+}

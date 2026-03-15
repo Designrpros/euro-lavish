@@ -29,7 +29,10 @@ description: Cost of Living in Berlin
 | 🛒 **Supermarkets** | [Find Supermarkets in Berlin](https://www.google.com/maps/search/supermarket+in+Berlin) |
 | 🥾 **Hiking Trails** | [Find Trails in Berlin](https://www.google.com/maps/search/Hiking+Trails+in+Berlin) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Adlon Kempinski](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Adlon%20Kempinski%20Berlin) — Berlin's historic and most prestigious hotel.
+- **Budget**: [Heart of Gold Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeart%20of%20Gold%20Hostel%20Berlin) — Inspired by 'Hitchhiker’s Guide to the Galaxy'.
+- **Hostel**: [Circus Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCircus%20Hostel%20Berlin) — Social hub with its own microbrewery and museum.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Berlin
 | [Airbnb](https://www.airbnb.com/s/Berlin--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Brandenburg Gate](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrandenburg%20Gate%20Berlin) — The monumental symbol of German unity.
+- **Social**: [Find Berlin on Reddit](https://www.reddit.com/r/Berlin/)
+- **Guide**: [Lonely Planet Berlin](https://www.lonelyplanet.com/search?q=Berlin)
 
 | Platform | Link |
 |----------|------|

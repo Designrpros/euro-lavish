@@ -29,7 +29,10 @@ description: Cost of Living in Rhodes
 | 🛒 **Supermarkets** | [Find Supermarkets in Rhodes](https://www.google.com/maps/search/supermarket+in+Rhodes) |
 | 🥾 **Hiking Trails** | [Find Trails in Rhodes](https://www.google.com/maps/search/Hiking+Trails+in+Rhodes) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Elysium Resort & Spa](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DElysium%20Resort%20%26%20Spa%20Rhodes) — Ultra-modern luxury with incredible Aegean views.
+- **Budget**: [Pegasos Deluxe Beach](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPegasos%20Deluxe%20Beach%20Rhodes) — Excellent value for a full beach resort experience.
+- **Hostel**: [STAY Hostel Rhodes](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSTAY%20Hostel%20Rhodes%20Rhodes) — Boutique design hostel with a focus on digital nomads.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Rhodes
 | [Airbnb](https://www.airbnb.com/s/Rhodes--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Old Town Rhodes](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Town%20Rhodes%20Rhodes) — Europe's oldest inhabited medieval city.
+- **Social**: [Find Rhodes on Reddit](https://www.reddit.com/r/Rhodes/)
+- **Guide**: [Lonely Planet Rhodes](https://www.lonelyplanet.com/search?q=Rhodes)
 
 | Platform | Link |
 |----------|------|

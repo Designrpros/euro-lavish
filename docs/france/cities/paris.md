@@ -29,7 +29,10 @@ description: Cost of Living in Paris
 | 🛒 **Supermarkets** | [Find Supermarkets in Paris](https://www.google.com/maps/search/supermarket+in+Paris) |
 | 🥾 **Hiking Trails** | [Find Trails in Paris](https://www.google.com/maps/search/Hiking+Trails+in+Paris) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Plaza Athénée](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Plaza%20Ath%C3%A9n%C3%A9e%20Paris) — The ultimate in Parisian haute couture luxury.
+- **Budget**: [Hotel Paradis](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Paradis%20Paris) — Chic and trendy boutique stay in the 10th district.
+- **Hostel**: [Les Piaules](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLes%20Piaules%20Paris) — Modern hostel with a rooftop bar and Belleville views.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Paris
 | [Airbnb](https://www.airbnb.com/s/Paris--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [The Louvre](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Louvre%20Paris) — The world's largest and most visited art museum.
+- **Social**: [Find Paris on Reddit](https://www.reddit.com/r/Paris/)
+- **Guide**: [Lonely Planet Paris](https://www.lonelyplanet.com/search?q=Paris)
 
 | Platform | Link |
 |----------|------|

@@ -29,7 +29,10 @@ description: Cost of Living in Malmö
 | 🛒 **Supermarkets** | [Find Supermarkets in Malmö](https://www.google.com/maps/search/supermarket+in+Malmö) |
 | 🥾 **Hiking Trails** | [Find Trails in Malmö](https://www.google.com/maps/search/Hiking+Trails+in+Malmö) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Clarion Hotel Congress Live](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DClarion%20Hotel%20Congress%20Live%20Malmo) — Sleek skyscraper hotel with a world-class skybar.
+- **Budget**: [Comfort Hotel Malmö](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DComfort%20Hotel%20Malm%C3%B6%20Malmo) — Modern industrial style right by the central station.
+- **Hostel**: [STF Malmö City](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSTF%20Malm%C3%B6%20City%20Malmo) — Spacious and reliable stay in the city center.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Malmö
 | [Airbnb](https://www.airbnb.com/s/Malmo--Sweden) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Turning Torso](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTurning%20Torso%20Malmo) — Visit Scandinavia's tallest and most twisted skyscraper.
+- **Social**: [Find Malmo on Reddit](https://www.reddit.com/r/Malmo/)
+- **Guide**: [Lonely Planet Malmo](https://www.lonelyplanet.com/search?q=Malmo)
 
 | Platform | Link |
 |----------|------|

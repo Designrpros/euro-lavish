@@ -29,7 +29,10 @@ description: Cost of Living in Bucharest
 | 🛒 **Supermarkets** | [Find Supermarkets in Bucharest](https://www.google.com/maps/search/supermarket+in+Bucharest) |
 | 🥾 **Hiking Trails** | [Find Trails in Bucharest](https://www.google.com/maps/search/Hiking+Trails+in+Bucharest) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [JW Marriott Bucharest](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJW%20Marriott%20Bucharest%20Bucharest) — Palatial luxury near the Palace of the Parliament.
+- **Budget**: [First Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFirst%20Hostel%20Bucharest) — Clean and modern with a friendly local vibe.
+- **Hostel**: [Podstel Umbrella](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPodstel%20Umbrella%20Bucharest) — Charming hostel in a restored 1920s mansion.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Bucharest
 | [Airbnb](https://www.airbnb.com/s/Bucharest--Romania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Palace of the Parliament](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPalace%20of%20the%20Parliament%20Bucharest) — The heaviest building in the world and a communist relic.
+- **Social**: [Find Bucharest on Reddit](https://www.reddit.com/r/Bucharest/)
+- **Guide**: [Lonely Planet Bucharest](https://www.lonelyplanet.com/search?q=Bucharest)
 
 | Platform | Link |
 |----------|------|

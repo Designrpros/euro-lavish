@@ -29,7 +29,10 @@ description: Cost of Living in Liverpool
 | 🛒 **Supermarkets** | [Find Supermarkets in Liverpool](https://www.google.com/maps/search/supermarket+in+Liverpool) |
 | 🥾 **Hiking Trails** | [Find Trails in Liverpool](https://www.google.com/maps/search/Hiking+Trails+in+Liverpool) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Titanic Hotel Liverpool](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTitanic%20Hotel%20Liverpool%20Liverpool) — Industrial luxury in a massive, restored warehouse.
+- **Budget**: [easyHotel Liverpool](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DeasyHotel%20Liverpool%20Liverpool) — Clean, simple, and perfectly located for nightlife.
+- **Hostel**: [YHA Liverpool Central](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYHA%20Liverpool%20Central%20Liverpool) — Large, modern hostel right in the heart of the action.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Liverpool
 | [Airbnb](https://www.airbnb.com/s/Liverpool--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [The Beatles Story](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Beatles%20Story%20Liverpool) — Follow the journey of the world's most famous band.
+- **Social**: [Find Liverpool on Reddit](https://www.reddit.com/r/Liverpool/)
+- **Guide**: [Lonely Planet Liverpool](https://www.lonelyplanet.com/search?q=Liverpool)
 
 | Platform | Link |
 |----------|------|

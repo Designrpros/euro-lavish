@@ -29,7 +29,10 @@ description: Cost of Living in Stavanger
 | 🛒 **Supermarkets** | [Find Supermarkets in Stavanger](https://www.google.com/maps/search/supermarket+in+Stavanger) |
 | 🥾 **Hiking Trails** | [Find Trails in Stavanger](https://www.google.com/maps/search/Hiking+Trails+in+Stavanger) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Victoria](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Victoria%20Stavanger) — Historic harbor-front luxury in a stunning 1900 building.
+- **Budget**: [Stavanger Bed & Breakfast](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger%20Bed%20%26%20Breakfast%20Stavanger) — Cozy and friendly stay with a homey local feel.
+- **Hostel**: [Stavanger Hostel St Svithun](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger%20Hostel%20St%20Svithun%20Stavanger) — Convenient and well-equipped stay with a social kitchen.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Stavanger
 | [Airbnb](https://www.airbnb.com/s/Stavanger--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Preikestolen Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPreikestolen%20Day%20Trip%20Stavanger) — Hike to the world-famous Pulpit Rock viewpoint.
+- **Social**: [Find Stavanger on Reddit](https://www.reddit.com/r/Stavanger/)
+- **Guide**: [Lonely Planet Stavanger](https://www.lonelyplanet.com/search?q=Stavanger)
 
 | Platform | Link |
 |----------|------|

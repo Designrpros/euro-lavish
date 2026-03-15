@@ -29,7 +29,10 @@ description: Cost of Living in Birmingham
 | 🛒 **Supermarkets** | [Find Supermarkets in Birmingham](https://www.google.com/maps/search/supermarket+in+Birmingham) |
 | 🥾 **Hiking Trails** | [Find Trails in Birmingham](https://www.google.com/maps/search/Hiking+Trails+in+Birmingham) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Grand Hotel Birmingham](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Grand%20Hotel%20Birmingham%20Birmingham) — Historic and opulent landmark in the heart of the city.
+- **Budget**: [ibis budget Birmingham](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3Dibis%20budget%20Birmingham%20Birmingham) — Reliable and efficient stay near the Bullring.
+- **Hostel**: [Birmingham Central Backpackers](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBirmingham%20Central%20Backpackers%20Birmingham) — Known for its quirky, friendly atmosphere and central location.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Birmingham
 | [Airbnb](https://www.airbnb.com/s/Birmingham--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Cadbury World](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCadbury%20World%20Birmingham) — Discover the delicious history of chocolate.
+- **Social**: [Find Birmingham on Reddit](https://www.reddit.com/r/Birmingham/)
+- **Guide**: [Lonely Planet Birmingham](https://www.lonelyplanet.com/search?q=Birmingham)
 
 | Platform | Link |
 |----------|------|

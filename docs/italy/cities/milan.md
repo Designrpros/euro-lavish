@@ -29,7 +29,10 @@ description: Cost of Living in Milan
 | 🛒 **Supermarkets** | [Find Supermarkets in Milan](https://www.google.com/maps/search/supermarket+in+Milan) |
 | 🥾 **Hiking Trails** | [Find Trails in Milan](https://www.google.com/maps/search/Hiking+Trails+in+Milan) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Principe di Savoia](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPrincipe%20di%20Savoia%20Milan) — Classic Milanese luxury and timeless prestige.
+- **Budget**: [Hotel Helvetia](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Helvetia%20Milan) — Efficient and well-located for fashion explorers.
+- **Hostel**: [Ostello Bello](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOstello%20Bello%20Milan) — Consistently rated the best hostel experience in Italy.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Milan
 | [Airbnb](https://www.airbnb.com/s/Milan--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Duomo di Milano](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDuomo%20di%20Milano%20Milan) — Take the lift to the roof for stunning gothic spires.
+- **Social**: [Find Milan on Reddit](https://www.reddit.com/r/Milan/)
+- **Guide**: [Lonely Planet Milan](https://www.lonelyplanet.com/search?q=Milan)
 
 | Platform | Link |
 |----------|------|

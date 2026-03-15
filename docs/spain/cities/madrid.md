@@ -29,7 +29,10 @@ description: Cost of Living in Madrid
 | 🛒 **Supermarkets** | [Find Supermarkets in Madrid](https://www.google.com/maps/search/supermarket+in+Madrid) |
 | 🥾 **Hiking Trails** | [Find Trails in Madrid](https://www.google.com/maps/search/Hiking+Trails+in+Madrid) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Four Seasons Madrid](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Madrid%20Madrid) — Contemporary luxury with an incredible rooftop.
+- **Budget**: [Vincci The Mint](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVincci%20The%20Mint%20Madrid) — Modern vibes and great views on Gran Vía.
+- **Hostel**: [The Hat Madrid](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Hat%20Madrid%20Madrid) — Stylish rooftop hostel in a 19th-century palace.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Madrid
 | [Airbnb](https://www.airbnb.com/s/Madrid--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Prado Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrado%20Museum%20Madrid) — One of the finest art collections in the world.
+- **Social**: [Find Madrid on Reddit](https://www.reddit.com/r/Madrid/)
+- **Guide**: [Lonely Planet Madrid](https://www.lonelyplanet.com/search?q=Madrid)
 
 | Platform | Link |
 |----------|------|

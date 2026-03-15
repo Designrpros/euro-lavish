@@ -29,7 +29,10 @@ description: Cost of Living in Brno
 | 🛒 **Supermarkets** | [Find Supermarkets in Brno](https://www.google.com/maps/search/supermarket+in+Brno) |
 | 🥾 **Hiking Trails** | [Find Trails in Brno](https://www.google.com/maps/search/Hiking+Trails+in+Brno) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Barceló Brno Palace](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBarcel%C3%B3%20Brno%20Palace%20Brno) — Historic prestige in a stunning neo-Renaissance palace.
+- **Budget**: [Hostel Jacob](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Jacob%20Brno) — Friendly atmosphere right on the main square.
+- **Hostel**: [Hostel 10-Z](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%2010-Z%20Brno) — Sleep in a former nuclear fallout shelter.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Brno
 | [Airbnb](https://www.airbnb.com/s/Brno--Czechia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Spilberk Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSpilberk%20Castle%20Brno) — Former fortress and prison with panoramic views.
+- **Social**: [Find Brno on Reddit](https://www.reddit.com/r/Brno/)
+- **Guide**: [Lonely Planet Brno](https://www.lonelyplanet.com/search?q=Brno)
 
 | Platform | Link |
 |----------|------|

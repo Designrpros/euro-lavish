@@ -29,7 +29,10 @@ description: Cost of Living in Seville
 | 🛒 **Supermarkets** | [Find Supermarkets in Seville](https://www.google.com/maps/search/supermarket+in+Seville) |
 | 🥾 **Hiking Trails** | [Find Trails in Seville](https://www.google.com/maps/search/Hiking+Trails+in+Seville) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Kivir](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Kivir%20Seville) — Refined stay overlooking the Guadalquivir river.
+- **Budget**: [Hotel Alcántara](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Alc%C3%A1ntara%20Seville) — Traditional charm in the historic Santa Cruz district.
+- **Hostel**: [La Banda Rooftop](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLa%20Banda%20Rooftop%20Seville) — Famous rooftop dinners and incredible cathedral views.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Seville
 | [Airbnb](https://www.airbnb.com/s/Seville--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Royal Alcázar](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Alc%C3%A1zar%20Seville) — Breathtaking Moorish palace and exotic gardens.
+- **Social**: [Find Seville on Reddit](https://www.reddit.com/r/Seville/)
+- **Guide**: [Lonely Planet Seville](https://www.lonelyplanet.com/search?q=Seville)
 
 | Platform | Link |
 |----------|------|

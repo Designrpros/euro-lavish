@@ -29,7 +29,10 @@ description: Cost of Living in Galway
 | 🛒 **Supermarkets** | [Find Supermarkets in Galway](https://www.google.com/maps/search/supermarket+in+Galway) |
 | 🥾 **Hiking Trails** | [Find Trails in Galway](https://www.google.com/maps/search/Hiking+Trails+in+Galway) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The G Hotel & Spa](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20G%20Hotel%20%26%20Spa%20Galway) — Avant-garde design meets luxury overlooking Lough Atalia.
+- **Budget**: [Leonardo Hotel Galway](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLeonardo%20Hotel%20Galway%20Galway) — Reliable comfort in the heart of the Latin Quarter.
+- **Hostel**: [Kinlay Hostel Galway](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKinlay%20Hostel%20Galway%20Galway) — Award-winning pod-style beds in a prime location.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Galway
 | [Airbnb](https://www.airbnb.com/s/Galway--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Eyre Square](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEyre%20Square%20Galway) — The vibrant heart and meeting place of Galway.
+- **Social**: [Find Galway on Reddit](https://www.reddit.com/r/Galway/)
+- **Guide**: [Lonely Planet Galway](https://www.lonelyplanet.com/search?q=Galway)
 
 | Platform | Link |
 |----------|------|

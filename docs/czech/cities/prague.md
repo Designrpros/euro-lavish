@@ -29,7 +29,10 @@ description: Cost of Living in Prague
 | 🛒 **Supermarkets** | [Find Supermarkets in Prague](https://www.google.com/maps/search/supermarket+in+Prague) |
 | 🥾 **Hiking Trails** | [Find Trails in Prague](https://www.google.com/maps/search/Hiking+Trails+in+Prague) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Four Seasons Prague](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Prague%20Prague) — Unrivaled luxury with views of the Charles Bridge.
+- **Budget**: [Miss Sophie's Downtown](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMiss%20Sophie%27s%20Downtown%20Prague) — Boutique apartments with a cozy, homey feel.
+- **Hostel**: [Onefam Old Town](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOnefam%20Old%20Town%20Prague) — The ultimate social hostel with free nightly dinners.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Prague
 | [Airbnb](https://www.airbnb.com/s/Prague--Czechia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Prague Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrague%20Castle%20Prague) — The largest ancient castle complex in the world.
+- **Social**: [Find Prague on Reddit](https://www.reddit.com/r/Prague/)
+- **Guide**: [Lonely Planet Prague](https://www.lonelyplanet.com/search?q=Prague)
 
 | Platform | Link |
 |----------|------|

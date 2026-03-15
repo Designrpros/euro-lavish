@@ -29,7 +29,10 @@ description: Cost of Living in London
 | 🛒 **Supermarkets** | [Find Supermarkets in London](https://www.google.com/maps/search/supermarket+in+London) |
 | 🥾 **Hiking Trails** | [Find Trails in London](https://www.google.com/maps/search/Hiking+Trails+in+London) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Ritz London](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Ritz%20London%20London) — The world-famous symbol of high-society elegance.
+- **Budget**: [The Hoxton Holborn](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Hoxton%20Holborn%20London) — Trendy, affordable luxury in a prime central location.
+- **Hostel**: [Wombat’s City Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWombat%E2%80%99s%20City%20Hostel%20London) — Massive, stylish, and very social hub in Tower Hill.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in London
 | [Airbnb](https://www.airbnb.com/s/London--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Tower of London](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTower%20of%20London%20London) — Historic castle, fortress, and home to Crown Jewels.
+- **Social**: [Find London on Reddit](https://www.reddit.com/r/London/)
+- **Guide**: [Lonely Planet London](https://www.lonelyplanet.com/search?q=London)
 
 | Platform | Link |
 |----------|------|

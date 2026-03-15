@@ -29,7 +29,10 @@ description: Cost of Living in Gdańsk
 | 🛒 **Supermarkets** | [Find Supermarkets in Gdańsk](https://www.google.com/maps/search/supermarket+in+Gdańsk) |
 | 🥾 **Hiking Trails** | [Find Trails in Gdańsk](https://www.google.com/maps/search/Hiking+Trails+in+Gdańsk) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Puro Hotel Gdansk](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPuro%20Hotel%20Gdansk%20Gdansk) — Modern smart-hotel in the heart of the Old Town.
+- **Budget**: [Hostel Filip](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Filip%20Gdansk) — Simple, clean, and incredible value for money.
+- **Hostel**: [Hostel 22](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%2022%20Gdansk) — Quiet and stylish stay in a historic townhouse.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Gdańsk
 | [Airbnb](https://www.airbnb.com/s/Gdansk--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [The Crane](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Crane%20Gdansk) — The iconic medieval port crane and landmark.
+- **Social**: [Find Gdansk on Reddit](https://www.reddit.com/r/Gdansk/)
+- **Guide**: [Lonely Planet Gdansk](https://www.lonelyplanet.com/search?q=Gdansk)
 
 | Platform | Link |
 |----------|------|

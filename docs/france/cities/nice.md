@@ -29,7 +29,10 @@ description: Cost of Living in Nice
 | 🛒 **Supermarkets** | [Find Supermarkets in Nice](https://www.google.com/maps/search/supermarket+in+Nice) |
 | 🥾 **Hiking Trails** | [Find Trails in Nice](https://www.google.com/maps/search/Hiking+Trails+in+Nice) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hôtel Negresco](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DH%C3%B4tel%20Negresco%20Nice) — The world-famous landmark of French Riviera luxury.
+- **Budget**: [Mama Shelter Nice](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMama%20Shelter%20Nice%20Nice) — Sleek, modern, and perfectly located for beach days.
+- **Hostel**: [Villa Saint Exupery](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilla%20Saint%20Exupery%20Nice) — Legendary social atmosphere steps from the beach.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Nice
 | [Airbnb](https://www.airbnb.com/s/Nice--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Promenade des Anglais](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPromenade%20des%20Anglais%20Nice) — The iconic seaside walkway of the Côte d'Azur.
+- **Social**: [Find Nice on Reddit](https://www.reddit.com/r/Nice/)
+- **Guide**: [Lonely Planet Nice](https://www.lonelyplanet.com/search?q=Nice)
 
 | Platform | Link |
 |----------|------|

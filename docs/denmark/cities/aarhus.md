@@ -29,7 +29,10 @@ description: Cost of Living in Aarhus
 | 🛒 **Supermarkets** | [Find Supermarkets in Aarhus](https://www.google.com/maps/search/supermarket+in+Aarhus) |
 | 🥾 **Hiking Trails** | [Find Trails in Aarhus](https://www.google.com/maps/search/Hiking+Trails+in+Aarhus) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Royal](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Royal%20Aarhus) — The city's oldest luxury hotel, full of art and history.
+- **Budget**: [WAKEUP Aarhus](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWAKEUP%20Aarhus%20Aarhus) — Cool, minimalist Danish design at a budget price.
+- **Hostel**: [Danhostel Aarhus City](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDanhostel%20Aarhus%20City%20Aarhus) — Stunning central location with a rooftop shared area.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Aarhus
 | [Airbnb](https://www.airbnb.com/s/Aarhus--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [ARoS Art Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DARoS%20Art%20Museum%20Aarhus) — Walk through the iconic rainbow panorama on the roof.
+- **Social**: [Find Aarhus on Reddit](https://www.reddit.com/r/Aarhus/)
+- **Guide**: [Lonely Planet Aarhus](https://www.lonelyplanet.com/search?q=Aarhus)
 
 | Platform | Link |
 |----------|------|

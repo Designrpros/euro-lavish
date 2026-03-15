@@ -29,7 +29,10 @@ description: Cost of Living in Heraklion
 | 🛒 **Supermarkets** | [Find Supermarkets in Heraklion](https://www.google.com/maps/search/supermarket+in+Heraklion) |
 | 🥾 **Hiking Trails** | [Find Trails in Heraklion](https://www.google.com/maps/search/Hiking+Trails+in+Heraklion) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [GDM Megaron](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGDM%20Megaron%20Heraklion) — Grand historic luxury overlooking the Venetian harbor.
+- **Budget**: [Kronos Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKronos%20Hotel%20Heraklion) — Reliable and clean stay right on the seafront.
+- **Hostel**: [So Young Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSo%20Young%20Hostel%20Heraklion) — Modern, social, and perfectly located in the center.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Heraklion
 | [Airbnb](https://www.airbnb.com/s/Heraklion--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Knossos Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKnossos%20Palace%20Heraklion) — Explore the mythical heart of Minoan civilization.
+- **Social**: [Find Heraklion on Reddit](https://www.reddit.com/r/Heraklion/)
+- **Guide**: [Lonely Planet Heraklion](https://www.lonelyplanet.com/search?q=Heraklion)
 
 | Platform | Link |
 |----------|------|

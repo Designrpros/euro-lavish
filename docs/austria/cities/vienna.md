@@ -29,7 +29,10 @@ description: Cost of Living in Vienna
 | 🛒 **Supermarkets** | [Find Supermarkets in Vienna](https://www.google.com/maps/search/supermarket+in+Vienna) |
 | 🥾 **Hiking Trails** | [Find Trails in Vienna](https://www.google.com/maps/search/Hiking+Trails+in+Vienna) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Sacher](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Sacher%20Vienna) — Famous for luxury and the legendary Sacher Torte.
+- **Budget**: [Zoku Vienna](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZoku%20Vienna%20Vienna) — Award-winning 'loft' style rooms for modern nomads.
+- **Hostel**: [Hostel Ruthensteiner](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Ruthensteiner%20Vienna) — Eco-friendly, musical, and incredibly friendly vibe.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Vienna
 | [Airbnb](https://www.airbnb.com/s/Vienna--Austria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Schönbrunn Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSch%C3%B6nbrunn%20Palace%20Vienna) — The magnificent former imperial summer residence.
+- **Social**: [Find Vienna on Reddit](https://www.reddit.com/r/Vienna/)
+- **Guide**: [Lonely Planet Vienna](https://www.lonelyplanet.com/search?q=Vienna)
 
 | Platform | Link |
 |----------|------|

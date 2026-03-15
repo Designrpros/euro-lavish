@@ -29,7 +29,10 @@ description: Cost of Living in Amsterdam
 | 🛒 **Supermarkets** | [Find Supermarkets in Amsterdam](https://www.google.com/maps/search/supermarket+in+Amsterdam) |
 | 🥾 **Hiking Trails** | [Find Trails in Amsterdam](https://www.google.com/maps/search/Hiking+Trails+in+Amsterdam) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Pulitzer Amsterdam](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPulitzer%20Amsterdam%20Amsterdam) — Set across 25 restored 17th-century canal houses.
+- **Budget**: [The Hoxton](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Hoxton%20Amsterdam) — Cool, industrial design in a former canal-side office.
+- **Hostel**: [Clinknoord](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DClinknoord%20Amsterdam) — Creative hub located in a former laboratory.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Amsterdam
 | [Airbnb](https://www.airbnb.com/s/Amsterdam--Netherlands) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Anne Frank House](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAnne%20Frank%20House%20Amsterdam) — A powerful and moving piece of living history.
+- **Social**: [Find Amsterdam on Reddit](https://www.reddit.com/r/Amsterdam/)
+- **Guide**: [Lonely Planet Amsterdam](https://www.lonelyplanet.com/search?q=Amsterdam)
 
 | Platform | Link |
 |----------|------|

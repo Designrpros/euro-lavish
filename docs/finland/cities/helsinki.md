@@ -29,7 +29,10 @@ description: Cost of Living in Helsinki
 | 🛒 **Supermarkets** | [Find Supermarkets in Helsinki](https://www.google.com/maps/search/supermarket+in+Helsinki) |
 | 🥾 **Hiking Trails** | [Find Trails in Helsinki](https://www.google.com/maps/search/Hiking+Trails+in+Helsinki) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Kämp](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20K%C3%A4mp%20Helsinki) — Old-world elegance and impeccable service.
+- **Budget**: [Scandic Helsinki Hub](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DScandic%20Helsinki%20Hub%20Helsinki) — Comfortable stay in a former printing house.
+- **Hostel**: [The Yard Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Yard%20Hostel%20Helsinki) — Stylish boutique hostel right in the center.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Helsinki
 | [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Suomenlinna Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSuomenlinna%20Fortress%20Helsinki) — UNESCO island sea fortress and nature.
+- **Social**: [Find Helsinki on Reddit](https://www.reddit.com/r/Helsinki/)
+- **Guide**: [Lonely Planet Helsinki](https://www.lonelyplanet.com/search?q=Helsinki)
 
 | Platform | Link |
 |----------|------|

@@ -29,7 +29,10 @@ description: Cost of Living in Sofia
 | 🛒 **Supermarkets** | [Find Supermarkets in Sofia](https://www.google.com/maps/search/supermarket+in+Sofia) |
 | 🥾 **Hiking Trails** | [Find Trails in Sofia](https://www.google.com/maps/search/Hiking+Trails+in+Sofia) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Grand Hotel Sofia](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrand%20Hotel%20Sofia%20Sofia) — Timeless elegance and the finest service in town.
+- **Budget**: [Ivory Tower](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DIvory%20Tower%20Sofia) — Simple comfort in the heart of the historic center.
+- **Hostel**: [Hostel Mostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Mostel%20Sofia) — A legendary hiker and backpacker hub with free dinner.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Sofia
 | [Airbnb](https://www.airbnb.com/s/Sofia--Bulgaria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Alexander Nevsky Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAlexander%20Nevsky%20Cathedral%20Sofia) — One of the world's largest Orthodox cathedrals.
+- **Social**: [Find Sofia on Reddit](https://www.reddit.com/r/Sofia/)
+- **Guide**: [Lonely Planet Sofia](https://www.lonelyplanet.com/search?q=Sofia)
 
 | Platform | Link |
 |----------|------|

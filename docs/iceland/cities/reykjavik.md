@@ -29,7 +29,10 @@ description: Cost of Living in Reykjavik
 | 🛒 **Supermarkets** | [Find Supermarkets in Reykjavik](https://www.google.com/maps/search/supermarket+in+Reykjavik) |
 | 🥾 **Hiking Trails** | [Find Trails in Reykjavik](https://www.google.com/maps/search/Hiking+Trails+in+Reykjavik) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Reykjavik EDITION](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Reykjavik%20EDITION%20Reykjavik) — Modern luxury on the scenic waterfront.
+- **Budget**: [Hotel Cabin](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Cabin%20Reykjavik) — Efficient and reliable budget accommodation.
+- **Hostel**: [Loft HI Eco Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLoft%20HI%20Eco%20Hostel%20Reykjavik) — Central eco-friendly hostel with a great rooftop.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Reykjavik
 | [Airbnb](https://www.airbnb.com/s/Reykjavik--Iceland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Hallgrímskirkja](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHallgr%C3%ADmskirkja%20Reykjavik) — Iceland's largest church and best city viewpoint.
+- **Social**: [Find Reykjavik on Reddit](https://www.reddit.com/r/Reykjavik/)
+- **Guide**: [Lonely Planet Reykjavik](https://www.lonelyplanet.com/search?q=Reykjavik)
 
 | Platform | Link |
 |----------|------|

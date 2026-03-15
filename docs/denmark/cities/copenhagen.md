@@ -29,7 +29,10 @@ description: Cost of Living in Copenhagen
 | 🛒 **Supermarkets** | [Find Supermarkets in Copenhagen](https://www.google.com/maps/search/supermarket+in+Copenhagen) |
 | 🥾 **Hiking Trails** | [Find Trails in Copenhagen](https://www.google.com/maps/search/Hiking+Trails+in+Copenhagen) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel d'Angleterre](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20d%27Angleterre%20Copenhagen) — Copenhagen's most prestigious luxury stay.
+- **Budget**: [Wakeup Copenhagen](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWakeup%20Copenhagen%20Copenhagen) — Sleek, minimalist, and very budget-friendly.
+- **Hostel**: [Next House Copenhagen](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNext%20House%20Copenhagen%20Copenhagen) — Upscale hostel with a bar, gym, and cinema.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Copenhagen
 | [Airbnb](https://www.airbnb.com/s/Copenhagen--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Tivoli Gardens](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTivoli%20Gardens%20Copenhagen) — The world's second-oldest amusement park.
+- **Social**: [Find Copenhagen on Reddit](https://www.reddit.com/r/Copenhagen/)
+- **Guide**: [Lonely Planet Copenhagen](https://www.lonelyplanet.com/search?q=Copenhagen)
 
 | Platform | Link |
 |----------|------|

@@ -29,7 +29,10 @@ description: Cost of Living in Dubrovnik
 | 🛒 **Supermarkets** | [Find Supermarkets in Dubrovnik](https://www.google.com/maps/search/supermarket+in+Dubrovnik) |
 | 🥾 **Hiking Trails** | [Find Trails in Dubrovnik](https://www.google.com/maps/search/Hiking+Trails+in+Dubrovnik) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Excelsior](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Excelsior%20Dubrovnik) — Iconic luxury with the best views of the Old Town.
+- **Budget**: [City Walls Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCity%20Walls%20Hostel%20Dubrovnik) — Sleep inside the UNESCO-listed medieval walls.
+- **Hostel**: [Hostel Angelina](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Angelina%20Dubrovnik) — Charming and social, located in a quiet Old Town corner.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Dubrovnik
 | [Airbnb](https://www.airbnb.com/s/Dubrovnik--Croatia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Walk the City Walls](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWalk%20the%20City%20Walls%20Dubrovnik) — The best way to see the 'Pearl of the Adriatic'.
+- **Social**: [Find Dubrovnik on Reddit](https://www.reddit.com/r/Dubrovnik/)
+- **Guide**: [Lonely Planet Dubrovnik](https://www.lonelyplanet.com/search?q=Dubrovnik)
 
 | Platform | Link |
 |----------|------|

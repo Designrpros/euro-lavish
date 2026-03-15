@@ -29,7 +29,10 @@ description: Cost of Living in Cork
 | 🛒 **Supermarkets** | [Find Supermarkets in Cork](https://www.google.com/maps/search/supermarket+in+Cork) |
 | 🥾 **Hiking Trails** | [Find Trails in Cork](https://www.google.com/maps/search/Hiking+Trails+in+Cork) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hayfield Manor](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHayfield%20Manor%20Cork) — Family-owned luxury with a stunning garden oasis.
+- **Budget**: [Kinlay House Cork](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKinlay%20House%20Cork%20Cork) — Centrally located with a cozy, friendly atmosphere.
+- **Hostel**: [Sheilas Tourist Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSheilas%20Tourist%20Hostel%20Cork) — Famous for its sauna and social communal areas.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Cork
 | [Airbnb](https://www.airbnb.com/s/Cork--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [English Market](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEnglish%20Market%20Cork) — Historic food market with incredible local produce.
+- **Social**: [Find Cork on Reddit](https://www.reddit.com/r/Cork/)
+- **Guide**: [Lonely Planet Cork](https://www.lonelyplanet.com/search?q=Cork)
 
 | Platform | Link |
 |----------|------|

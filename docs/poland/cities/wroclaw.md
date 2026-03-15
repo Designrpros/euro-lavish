@@ -29,7 +29,10 @@ description: Cost of Living in Wroclaw
 | 🛒 **Supermarkets** | [Find Supermarkets in Wroclaw](https://www.google.com/maps/search/supermarket+in+Wroclaw) |
 | 🥾 **Hiking Trails** | [Find Trails in Wroclaw](https://www.google.com/maps/search/Hiking+Trails+in+Wroclaw) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Bridge Wroclaw](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Bridge%20Wroclaw%20Wroclaw) — Luxury stay on the historic Cathedral Island.
+- **Budget**: [Hostel Bemma](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Bemma%20Wroclaw) — Charming and eco-friendly stay in the center.
+- **Hostel**: [Corner Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCorner%20Hostel%20Wroclaw) — Vibrant and social, perfect for meeting travelers.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Wroclaw
 | [Airbnb](https://www.airbnb.com/s/Wroclaw--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Wroclaw Dwarves](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWroclaw%20Dwarves%20Wroclaw) — Find the hundreds of bronze gnomes hidden across the city.
+- **Social**: [Find Wroclaw on Reddit](https://www.reddit.com/r/Wroclaw/)
+- **Guide**: [Lonely Planet Wroclaw](https://www.lonelyplanet.com/search?q=Wroclaw)
 
 | Platform | Link |
 |----------|------|

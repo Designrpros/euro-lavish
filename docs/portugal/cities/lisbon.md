@@ -29,7 +29,10 @@ description: Cost of Living in Lisbon
 | 🛒 **Supermarkets** | [Find Supermarkets in Lisbon](https://www.google.com/maps/search/supermarket+in+Lisbon) |
 | 🥾 **Hiking Trails** | [Find Trails in Lisbon](https://www.google.com/maps/search/Hiking+Trails+in+Lisbon) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Lumiares](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Lumiares%20Lisbon) — Boutique luxury in the heart of Bairro Alto.
+- **Budget**: [Memmo Príncipe Real](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMemmo%20Pr%C3%ADncipe%20Real%20Lisbon) — Minimalist design with panoramic city views.
+- **Hostel**: [Home Lisbon Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHome%20Lisbon%20Hostel%20Lisbon) — Famous for 'Mamma's Dinners' and cozy atmosphere.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Lisbon
 | [Airbnb](https://www.airbnb.com/s/Lisbon--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Belém Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBel%C3%A9m%20Tower%20Lisbon) — Historic fortress on the Tagus riverfront.
+- **Social**: [Find Lisbon on Reddit](https://www.reddit.com/r/Lisbon/)
+- **Guide**: [Lonely Planet Lisbon](https://www.lonelyplanet.com/search?q=Lisbon)
 
 | Platform | Link |
 |----------|------|

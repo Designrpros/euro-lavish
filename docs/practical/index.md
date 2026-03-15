@@ -9,9 +9,9 @@ description: Useful tools and resources for moving to and living in Europe
 
 | Service | Description |
 |----------|-------------|
-| [Wise](https://wise.com) | 💰 International transfers, low fees |
-| [Revolut](https://revolut.com) | 💳 Digital banking, free exchange abroad |
-| [N26](https://n26.com) | 🏦 German online bank |
+| [Wise](https://wise.com/referral/alcatel) | 💰 International transfers, low fees |
+| [Revolut](https://revolut.com/referral/?referral-code=alcatel) | 💳 Digital banking, free exchange abroad |
+| [N26](https://n26.com/r/alcatel) | 🏦 German online bank |
 | [CurrencyConverter](https://www.xe.com) | 💱 Real-time currency exchange |
 
 ## 🏥 Insurance & Health
@@ -72,7 +72,7 @@ When planning an extended stay abroad, there are three critical legal deadlines 
 
 | Service | Description |
 |----------|-------------|
-| [Airalo](https://www.airalo.com) | 📱 eSIM for travel |
+| [Airalo](https://tp.media.r?marker=710853&p=1890&u=https%3A%2F%2Fwww.airalo.com) | 📱 eSIM for travel |
 | [Holafly](https://www.holafly.com) | 📱 Unlimited data plans |
 | [Orange](https://www.orange.fr) | 🇫🇷 French telecom (Orange Holiday) |
 | [Telia](https://www.telia.no) | 🇸🇪🇩🇪 Nordic & Baltic coverage |
@@ -81,10 +81,10 @@ When planning an extended stay abroad, there are three critical legal deadlines 
 
 | Service | Description |
 |----------|-------------|
-| [Skyscanner](https://www.skyscanner.net) | ✈️ Flight price comparison |
+| [Skyscanner](https://tp.media.r?marker=710853&p=100&u=https%3A%2F%2Fwww.aviasales.com) | ✈️ Flight price comparison |
 | [Rome2Rio](https://www.rome2rio.com) | 🚌 Transport route planner |
-| [FlixBus](https://www.flixbus.com) | 🚌 Budget bus travel |
-| [Rail Europe](https://www.raileurope.com) | 🚂 European train tickets |
+| [FlixBus](https://tp.media.r?marker=710853&p=323&u=https%3A%2F%2Fwww.flixbus.com) | 🚌 Budget bus travel |
+| [Rail Europe](https://tp.media.r?marker=710853&p=276&u=https%3A%2F%2Fwww.raileurope.com) | 🚂 European train tickets |
 
 ## 🏠 Housing
 
@@ -117,7 +117,7 @@ When planning an extended stay abroad, there are three critical legal deadlines 
 |---------|-------------|
 | [Numbeo](https://www.numbeo.com) | 📊 Cost of living data |
 | [Expatistan](https://www.expatistan.com) | 📊 Compare cost of living |
-| [TripAdvisor](https://www.tripadvisor.com) | 🎯 Travel reviews |
+| [TripAdvisor](https://tp.media.r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com) | 🎯 Travel reviews |
 | [Wikivoyage](https://en.wikivoyage.org) | 📖 Free travel guides |
 
 ---

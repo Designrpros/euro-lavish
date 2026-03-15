@@ -29,7 +29,10 @@ description: Cost of Living in Rome
 | 🛒 **Supermarkets** | [Find Supermarkets in Rome](https://www.google.com/maps/search/supermarket+in+Rome) |
 | 🥾 **Hiking Trails** | [Find Trails in Rome](https://www.google.com/maps/search/Hiking+Trails+in+Rome) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel de la Ville](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20de%20la%20Ville%20Rome) — Rooftop glamour above the Spanish Steps.
+- **Budget**: [Hotel Lord Byron](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Lord%20Byron%20Rome) — Art Deco elegance in the quiet Parioli district.
+- **Hostel**: [YellowSquare Rome](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYellowSquare%20Rome%20Rome) — Legendary party hostel with its own club and salon.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Rome
 | [Airbnb](https://www.airbnb.com/s/Rome--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [The Colosseum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Colosseum%20Rome) — The iconic symbol of Ancient Roman power.
+- **Social**: [Find Rome on Reddit](https://www.reddit.com/r/Rome/)
+- **Guide**: [Lonely Planet Rome](https://www.lonelyplanet.com/search?q=Rome)
 
 | Platform | Link |
 |----------|------|

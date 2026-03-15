@@ -29,7 +29,10 @@ description: Cost of Living in Marseille
 | 🛒 **Supermarkets** | [Find Supermarkets in Marseille](https://www.google.com/maps/search/supermarket+in+Marseille) |
 | 🥾 **Hiking Trails** | [Find Trails in Marseille](https://www.google.com/maps/search/Hiking+Trails+in+Marseille) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Sofitel Vieux Port](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofitel%20Vieux%20Port%20Marseille) — Breathtaking views of the harbor and the Mediterranean.
+- **Budget**: [Mama Shelter Marseille](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMama%20Shelter%20Marseille%20Marseille) — Playful, trendy design at an unbeatable price point.
+- **Hostel**: [The People Marseille](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20People%20Marseille%20Marseille) — Modern pod hostel with a stunning shared terrace.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Marseille
 | [Airbnb](https://www.airbnb.com/s/Marseille--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Basilique Notre-Dame](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBasilique%20Notre-Dame%20Marseille) — The golden-topped symbol of Marseille with 360 views.
+- **Social**: [Find Marseille on Reddit](https://www.reddit.com/r/Marseille/)
+- **Guide**: [Lonely Planet Marseille](https://www.lonelyplanet.com/search?q=Marseille)
 
 | Platform | Link |
 |----------|------|

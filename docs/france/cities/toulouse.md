@@ -29,7 +29,10 @@ description: Cost of Living in Toulouse
 | 🛒 **Supermarkets** | [Find Supermarkets in Toulouse](https://www.google.com/maps/search/supermarket+in+Toulouse) |
 | 🥾 **Hiking Trails** | [Find Trails in Toulouse](https://www.google.com/maps/search/Hiking+Trails+in+Toulouse) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [La Cour des Consuls](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLa%20Cour%20des%20Consuls%20Toulouse) — Restored 18th-century palace in the historic center.
+- **Budget**: [hotelF1 Toulouse](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DhotelF1%20Toulouse%20Toulouse) — The ultimate budget-friendly stay for travelers on the move.
+- **Hostel**: [La Petite Auberge](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLa%20Petite%20Auberge%20Toulouse) — Charming, low-key hostel with a great social garden area.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Toulouse
 | [Airbnb](https://www.airbnb.com/s/Toulouse--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Place du Capitole](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlace%20du%20Capitole%20Toulouse) — The grand pink-brick heart of the 'Ville Rose'.
+- **Social**: [Find Toulouse on Reddit](https://www.reddit.com/r/Toulouse/)
+- **Guide**: [Lonely Planet Toulouse](https://www.lonelyplanet.com/search?q=Toulouse)
 
 | Platform | Link |
 |----------|------|

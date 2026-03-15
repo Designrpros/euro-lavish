@@ -29,7 +29,10 @@ description: Cost of Living in Barcelona
 | 🛒 **Supermarkets** | [Find Supermarkets in Barcelona](https://www.google.com/maps/search/supermarket+in+Barcelona) |
 | 🥾 **Hiking Trails** | [Find Trails in Barcelona](https://www.google.com/maps/search/Hiking+Trails+in+Barcelona) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Arts Barcelona](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Arts%20Barcelona%20Barcelona) — Iconic oceanfront luxury with Michelin dining.
+- **Budget**: [Onefam Ramblas](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOnefam%20Ramblas%20Barcelona) — Social atmosphere with free communal dinners.
+- **Hostel**: [Yeah Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYeah%20Hostel%20Barcelona) — Modern, social, and perfectly located for exploring.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Barcelona
 | [Airbnb](https://www.airbnb.com/s/Barcelona--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Sagrada Familia](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSagrada%20Familia%20Barcelona) — Gaudí's unfinished architectural masterpiece.
+- **Social**: [Find Barcelona on Reddit](https://www.reddit.com/r/Barcelona/)
+- **Guide**: [Lonely Planet Barcelona](https://www.lonelyplanet.com/search?q=Barcelona)
 
 | Platform | Link |
 |----------|------|

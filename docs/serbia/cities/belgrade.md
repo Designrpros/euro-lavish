@@ -29,7 +29,10 @@ description: Cost of Living in Belgrade
 | 🛒 **Supermarkets** | [Find Supermarkets in Belgrade](https://www.google.com/maps/search/supermarket+in+Belgrade) |
 | 🥾 **Hiking Trails** | [Find Trails in Belgrade](https://www.google.com/maps/search/Hiking+Trails+in+Belgrade) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Square Nine Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSquare%20Nine%20Hotel%20Belgrade) — Meticulously designed modern luxury in the center.
+- **Budget**: [Hostelche](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostelche%20Belgrade) — Cozy and friendly, feels like staying with friends.
+- **Hostel**: [El Diablo Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEl%20Diablo%20Hostel%20Belgrade) — Legendary social atmosphere and frequent family dinners.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Belgrade
 | [Airbnb](https://www.airbnb.com/s/Belgrade--Serbia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Kalemegdan Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKalemegdan%20Fortress%20Belgrade) — Historic fortress where the Sava and Danube rivers meet.
+- **Social**: [Find Belgrade on Reddit](https://www.reddit.com/r/Belgrade/)
+- **Guide**: [Lonely Planet Belgrade](https://www.lonelyplanet.com/search?q=Belgrade)
 
 | Platform | Link |
 |----------|------|

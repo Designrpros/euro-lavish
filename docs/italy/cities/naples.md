@@ -29,7 +29,10 @@ description: Cost of Living in Naples
 | 🛒 **Supermarkets** | [Find Supermarkets in Naples](https://www.google.com/maps/search/supermarket+in+Naples) |
 | 🥾 **Hiking Trails** | [Find Trails in Naples](https://www.google.com/maps/search/Hiking+Trails+in+Naples) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Grand Hotel Parker's](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrand%20Hotel%20Parker%27s%20Naples) — Five-star history and refinement overlooking the bay.
+- **Budget**: [Hotel Piazza Bellini](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Piazza%20Bellini%20Naples) — Located in a 16th-century palace in the historic center.
+- **Hostel**: [Hostel of the Sun](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20of%20the%20Sun%20Naples) — Bright, colorful, and famous for its tours and hospitality.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Naples
 | [Airbnb](https://www.airbnb.com/s/Naples--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Pompeii Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPompeii%20Day%20Trip%20Naples) — Explore the perfectly preserved Roman city.
+- **Social**: [Find Naples on Reddit](https://www.reddit.com/r/Naples/)
+- **Guide**: [Lonely Planet Naples](https://www.lonelyplanet.com/search?q=Naples)
 
 | Platform | Link |
 |----------|------|

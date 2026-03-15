@@ -1,0 +1,326 @@
+{
+    "Moscow": {
+        "luxury": {
+            "name": "The Carlton Moscow",
+            "desc": "Unrivaled luxury with views directly overlooking the Red Square."
+        },
+        "budget": {
+            "name": "ibis Moscow Centre Bakhrushina",
+            "desc": "Modern and reliable stay in a great central district."
+        },
+        "hostel": {
+            "name": "Strawberry Duck Moscow",
+            "desc": "Charming boutique hostel in a 19th-century manor."
+        },
+        "activity": {
+            "name": "Red Square",
+            "desc": "Visit the heart of Russia, including St. Basil's and the Kremlin."
+        }
+    },
+    "Saint Petersburg": {
+        "luxury": {
+            "name": "Belmond Grand Hotel Europe",
+            "desc": "St. Petersburg's most iconic and historic luxury landmark."
+        },
+        "budget": {
+            "name": "ibis St Petersburg Centre",
+            "desc": "Efficiency and comfort near the Nevsky Prospekt."
+        },
+        "hostel": {
+            "name": "Soul Kitchen Hostel",
+            "desc": "Consistently rated one of the best hostels in the world."
+        },
+        "activity": {
+            "name": "The Hermitage",
+            "desc": "Explore one of the world's largest and oldest museums."
+        }
+    },
+    "Istanbul": {
+        "luxury": {
+            "name": "Raffles Istanbul",
+            "desc": "Cutting-edge luxury with incredible views above the Bosphorus."
+        },
+        "budget": {
+            "name": "Rast Hotel Sultanahmet",
+            "desc": "Traditional charm and amazing views in the historic heart."
+        },
+        "hostel": {
+            "name": "Nobel Hostel",
+            "desc": "Friendly atmosphere steps away from the Blue Mosque."
+        },
+        "activity": {
+            "name": "Hagia Sophia",
+            "desc": "Discover the breathtaking architectural wonder of two religions."
+        }
+    },
+    "Ankara": {
+        "luxury": {
+            "name": "Radisson Blu Hotel Ankara",
+            "desc": "Modern five-star comfort in the city's diplomatic heart."
+        },
+        "budget": {
+            "name": "Hotel Mithat",
+            "desc": "Clean, reliable, and very budget-friendly city stay."
+        },
+        "hostel": {
+            "name": "Deeps Hostel Ankara",
+            "desc": "The most social and well-located hub for solo travelers."
+        },
+        "activity": {
+            "name": "Anitkabir",
+            "desc": "Visit the monumental mausoleum of Ataturk."
+        }
+    },
+    "Izmir": {
+        "luxury": {
+            "name": "Hyatt Regency Izmir",
+            "desc": "Stunning seaside luxury with a focus on wellness and design."
+        },
+        "budget": {
+            "name": "Olimpiyat Hotel Izmir",
+            "desc": "Excellent value for money in a quiet central location."
+        },
+        "hostel": {
+            "name": "Lotus Garden Hostel",
+            "desc": "Colorful, artistic, and incredibly friendly community vibe."
+        },
+        "activity": {
+            "name": "Kemeralti Bazaar",
+            "desc": "One of the oldest and most vibrant markets in Turkey."
+        }
+    },
+    "Antalya": {
+        "luxury": {
+            "name": "Rixos Downtown Antalya",
+            "desc": "Urban resort luxury with incredible Mediterranean views."
+        },
+        "budget": {
+            "name": "Flaneur Hostel",
+            "desc": "Boutique hostel with the best location for exploring the old town."
+        },
+        "hostel": {
+            "name": "Gold Coast Hostel",
+            "desc": "Perfectly located social hub in the heart of Kaleici."
+        },
+        "activity": {
+            "name": "Kaleici Old Town",
+            "desc": "Wander the winding Ottoman streets and Hadrian's Gate."
+        }
+    },
+    "Nicosia": {
+        "luxury": {
+            "name": "The Landmark Nicosia",
+            "desc": "The city's premier five-star hotel with amazing gardens."
+        },
+        "budget": {
+            "name": "Asty Hotel",
+            "desc": "Family-run gem known for its incredible hospitality."
+        },
+        "hostel": {
+            "name": "Nex Hostel",
+            "desc": "Modern and clean, perfect for exploring the divided capital."
+        },
+        "activity": {
+            "name": "Ledra Street",
+            "desc": "The main shopping street and crossing point into the north."
+        }
+    },
+    "Limassol": {
+        "luxury": {
+            "name": "Four Seasons Hotel",
+            "desc": "The pinnacle of luxury beach resort living in Cyprus."
+        },
+        "budget": {
+            "name": "Alinea Primo",
+            "desc": "Stylish and modern serviced apartments in the city center."
+        },
+        "hostel": {
+            "name": "Lima Sol House",
+            "desc": "Cool and social atmosphere in the city's historic district."
+        },
+        "activity": {
+            "name": "Limassol Marina",
+            "desc": "Bustling waterfront with shops, dining, and yachts."
+        }
+    },
+    "Valletta": {
+        "luxury": {
+            "name": "The Phoenicia Malta",
+            "desc": "Classic luxury just outside the historic city walls."
+        },
+        "budget": {
+            "name": "Osborne Hotel",
+            "desc": "Modern comfort in a historic palace within Valletta."
+        },
+        "hostel": {
+            "name": "Valletta Merisi Suites",
+            "desc": "Boutique apartments with a shared historic character."
+        },
+        "activity": {
+            "name": "St. John's Co-Cathedral",
+            "desc": "Breathtaking baroque interior and Caravaggio masterpieces."
+        }
+    },
+    "Sliema": {
+        "luxury": {
+            "name": "The Palace",
+            "desc": "Five-star urban luxury with a stunning rooftop pool."
+        },
+        "budget": {
+            "name": "Two Pillows Micro Boutique",
+            "desc": "Innovative and stylish stay with spa facilities."
+        },
+        "hostel": {
+            "name": "Corner Hostel",
+            "desc": "Centrally located in a restored Maltese townhouse."
+        },
+        "activity": {
+            "name": "Sliema Promenade",
+            "desc": "Join the locals for a seaside walk with city views."
+        }
+    },
+    "Monaco": {
+        "luxury": {
+            "name": "Hotel de Paris",
+            "desc": "The world-famous icon of Monte Carlo glamour."
+        },
+        "budget": {
+            "name": "Novotel Monte-Carlo",
+            "desc": "Solid value and modern design in an expensive city."
+        },
+        "hostel": {
+            "name": "Riviera Marriott La Porte",
+            "desc": "Luxury hotel located just across the border in Cap d'Ail."
+        },
+        "activity": {
+            "name": "Prince's Palace",
+            "desc": "Watch the changing of the guard at the royal residence."
+        }
+    },
+    "Trondheim": {
+        "luxury": {
+            "name": "Britannia Hotel",
+            "desc": "Norway's most prestigious and beautifully restored hotel."
+        },
+        "budget": {
+            "name": "P-Hotels Brattøra",
+            "desc": "Simple, clean, and perfectly located near the station."
+        },
+        "hostel": {
+            "name": "Trondheim Vandrerhjem",
+            "desc": "Modern hostel with the best views over the city and fjord."
+        },
+        "activity": {
+            "name": "Nidaros Cathedral",
+            "desc": "The world's northernmost medieval cathedral."
+        }
+    },
+    "Stavanger": {
+        "luxury": {
+            "name": "Hotel Victoria",
+            "desc": "Historic harbor-front luxury in a stunning 1900 building."
+        },
+        "budget": {
+            "name": "Stavanger Bed & Breakfast",
+            "desc": "Cozy and friendly stay with a homey local feel."
+        },
+        "hostel": {
+            "name": "Stavanger Hostel St Svithun",
+            "desc": "Convenient and well-equipped stay with a social kitchen."
+        },
+        "activity": {
+            "name": "Preikestolen Day Trip",
+            "desc": "Hike to the world-famous Pulpit Rock viewpoint."
+        }
+    },
+    "Tromso": {
+        "luxury": {
+            "name": "Clarion Hotel The Edge",
+            "desc": "Modern design-led hotel on the Arctic waterfront."
+        },
+        "budget": {
+            "name": "Comfort Hotel Xpress",
+            "desc": "Efficient and minimalist stay in the heart of town."
+        },
+        "hostel": {
+            "name": "Tromso Activities Hostel",
+            "desc": "The perfect hub for northern lights and arctic tours."
+        },
+        "activity": {
+            "name": "Arctic Cathedral",
+            "desc": "The architectural icon of the Polar North."
+        }
+    },
+    "Malmo": {
+        "luxury": {
+            "name": "Clarion Hotel Congress Live",
+            "desc": "Sleek skyscraper hotel with a world-class skybar."
+        },
+        "budget": {
+            "name": "Comfort Hotel Malmö",
+            "desc": "Modern industrial style right by the central station."
+        },
+        "hostel": {
+            "name": "STF Malmö City",
+            "desc": "Spacious and reliable stay in the city center."
+        },
+        "activity": {
+            "name": "Turning Torso",
+            "desc": "Visit Scandinavia's tallest and most twisted skyscraper."
+        }
+    },
+    "Tampere": {
+        "luxury": {
+            "name": "Radisson Blu Grand Hotel Tammer",
+            "desc": "Historic neo-Renaissance luxury and elegance."
+        },
+        "budget": {
+            "name": "Dream Hostel & Hotel",
+            "desc": "Award-winning design hostel with a very cool vibe."
+        },
+        "hostel": {
+            "name": "Dream Hostel",
+            "desc": "The social soul of the city with frequent events."
+        },
+        "activity": {
+            "name": "Pyynikki Observation Tower",
+            "desc": "Eat the world-famous donuts with incredible lake views."
+        }
+    },
+    "Aarhus": {
+        "luxury": {
+            "name": "Hotel Royal",
+            "desc": "The city's oldest luxury hotel, full of art and history."
+        },
+        "budget": {
+            "name": "WAKEUP Aarhus",
+            "desc": "Cool, minimalist Danish design at a budget price."
+        },
+        "hostel": {
+            "name": "Danhostel Aarhus City",
+            "desc": "Stunning central location with a rooftop shared area."
+        },
+        "activity": {
+            "name": "ARoS Art Museum",
+            "desc": "Walk through the iconic rainbow panorama on the roof."
+        }
+    },
+    "Luxembourg": {
+        "luxury": {
+            "name": "Hotel Le Place d'Armes",
+            "desc": "Art Deco luxury in the historic heart of the city."
+        },
+        "budget": {
+            "name": "City Hotel",
+            "desc": "Reliable and well-located near the central station."
+        },
+        "hostel": {
+            "name": "Youth Hostel Luxembourg",
+            "desc": "Sleek, modern hostel at the foot of the historic cliffs."
+        },
+        "activity": {
+            "name": "Casemates du Bock",
+            "desc": "Explore the massive underground fortress tunnels."
+        }
+    }
+}

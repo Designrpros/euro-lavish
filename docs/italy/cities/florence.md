@@ -29,7 +29,10 @@ description: Cost of Living in Florence
 | 🛒 **Supermarkets** | [Find Supermarkets in Florence](https://www.google.com/maps/search/supermarket+in+Florence) |
 | 🥾 **Hiking Trails** | [Find Trails in Florence](https://www.google.com/maps/search/Hiking+Trails+in+Florence) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Four Seasons Firenze](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Firenze%20Florence) — A Renaissance palace with a private botanical garden.
+- **Budget**: [Hotel Lungarno](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Lungarno%20Florence) — Elegant rooms right on the edge of the Arno River.
+- **Hostel**: [Plus Florence](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlus%20Florence%20Florence) — Features a rooftop terrace and an outdoor pool.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Florence
 | [Airbnb](https://www.airbnb.com/s/Florence--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Uffizi Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUffizi%20Gallery%20Florence) — The world's greatest collection of Italian art.
+- **Social**: [Find Florence on Reddit](https://www.reddit.com/r/Florence/)
+- **Guide**: [Lonely Planet Florence](https://www.lonelyplanet.com/search?q=Florence)
 
 | Platform | Link |
 |----------|------|

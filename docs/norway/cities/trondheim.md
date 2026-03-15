@@ -29,7 +29,10 @@ description: Cost of Living in Trondheim
 | 🛒 **Supermarkets** | [Find Supermarkets in Trondheim](https://www.google.com/maps/search/supermarket+in+Trondheim) |
 | 🥾 **Hiking Trails** | [Find Trails in Trondheim](https://www.google.com/maps/search/Hiking+Trails+in+Trondheim) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Britannia Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBritannia%20Hotel%20Trondheim) — Norway's most prestigious and beautifully restored hotel.
+- **Budget**: [P-Hotels Brattøra](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP-Hotels%20Bratt%C3%B8ra%20Trondheim) — Simple, clean, and perfectly located near the station.
+- **Hostel**: [Trondheim Vandrerhjem](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTrondheim%20Vandrerhjem%20Trondheim) — Modern hostel with the best views over the city and fjord.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Trondheim
 | [Airbnb](https://www.airbnb.com/s/Trondheim--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Nidaros Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNidaros%20Cathedral%20Trondheim) — The world's northernmost medieval cathedral.
+- **Social**: [Find Trondheim on Reddit](https://www.reddit.com/r/Trondheim/)
+- **Guide**: [Lonely Planet Trondheim](https://www.lonelyplanet.com/search?q=Trondheim)
 
 | Platform | Link |
 |----------|------|

@@ -29,7 +29,10 @@ description: Cost of Living in Zagreb
 | 🛒 **Supermarkets** | [Find Supermarkets in Zagreb](https://www.google.com/maps/search/supermarket+in+Zagreb) |
 | 🥾 **Hiking Trails** | [Find Trails in Zagreb](https://www.google.com/maps/search/Hiking+Trails+in+Zagreb) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Esplanade Zagreb](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEsplanade%20Zagreb%20Zagreb) — Classic Art Nouveau elegance near the station.
+- **Budget**: [Swanky Mint](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSwanky%20Mint%20Zagreb) — Former dry-cleaner factory turned into a cool hub.
+- **Hostel**: [Dormero Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDormero%20Hotel%20Zagreb) — Modern and quirky stay with great city access.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Zagreb
 | [Airbnb](https://www.airbnb.com/s/Zagreb--Croatia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Museum of Broken Relationships](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMuseum%20of%20Broken%20Relationships%20Zagreb) — A unique and emotionally touching experience.
+- **Social**: [Find Zagreb on Reddit](https://www.reddit.com/r/Zagreb/)
+- **Guide**: [Lonely Planet Zagreb](https://www.lonelyplanet.com/search?q=Zagreb)
 
 | Platform | Link |
 |----------|------|

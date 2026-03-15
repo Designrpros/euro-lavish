@@ -29,7 +29,10 @@ description: Cost of Living in Tampere
 | 🛒 **Supermarkets** | [Find Supermarkets in Tampere](https://www.google.com/maps/search/supermarket+in+Tampere) |
 | 🥾 **Hiking Trails** | [Find Trails in Tampere](https://www.google.com/maps/search/Hiking+Trails+in+Tampere) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Radisson Blu Grand Hotel Tammer](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRadisson%20Blu%20Grand%20Hotel%20Tammer%20Tampere) — Historic neo-Renaissance luxury and elegance.
+- **Budget**: [Dream Hostel & Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDream%20Hostel%20%26%20Hotel%20Tampere) — Award-winning design hostel with a very cool vibe.
+- **Hostel**: [Dream Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDream%20Hostel%20Tampere) — The social soul of the city with frequent events.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Tampere
 | [Airbnb](https://www.airbnb.com/s/Tampere--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Pyynikki Observation Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPyynikki%20Observation%20Tower%20Tampere) — Eat the world-famous donuts with incredible lake views.
+- **Social**: [Find Tampere on Reddit](https://www.reddit.com/r/Tampere/)
+- **Guide**: [Lonely Planet Tampere](https://www.lonelyplanet.com/search?q=Tampere)
 
 | Platform | Link |
 |----------|------|

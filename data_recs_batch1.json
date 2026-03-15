@@ -1,0 +1,182 @@
+{
+    "Oslo": {
+        "luxury": {
+            "name": "Sommerro",
+            "desc": "Stunning Art Deco hotel in an iconic building."
+        },
+        "budget": {
+            "name": "Citybox Oslo",
+            "desc": "Modern, self-service hotel in the city heart."
+        },
+        "hostel": {
+            "name": "Bunks at Rode",
+            "desc": "Boutique hostel with a great social vibe."
+        },
+        "activity": {
+            "name": "Munch Museum",
+            "desc": "Explore the world-famous 'The Scream' and more."
+        }
+    },
+    "Bergen": {
+        "luxury": {
+            "name": "Opus XVI",
+            "desc": "Historic luxury inspired by Edvard Grieg."
+        },
+        "budget": {
+            "name": "Klosterhagen Hotel",
+            "desc": "Charming and quiet, close to the center."
+        },
+        "hostel": {
+            "name": "HI Bergen Hostel Montana",
+            "desc": "Legendary views and great hiking access."
+        },
+        "activity": {
+            "name": "Fløibanen Funicular",
+            "desc": "Panoramic views of the city and fjords."
+        }
+    },
+    "Stockholm": {
+        "luxury": {
+            "name": "Grand Hôtel",
+            "desc": "The ultimate classic five-star experience."
+        },
+        "budget": {
+            "name": "Comfort Hotel Xpress",
+            "desc": "Affordable and efficient central stay."
+        },
+        "hostel": {
+            "name": "City Backpackers",
+            "desc": "Consistently rated one of the best in Europe."
+        },
+        "activity": {
+            "name": "Vasa Museum",
+            "desc": "A perfectly preserved 17th-century warship."
+        }
+    },
+    "Gothenburg": {
+        "luxury": {
+            "name": "Upper House",
+            "desc": "Infinity pool with incredible city views."
+        },
+        "budget": {
+            "name": "Comfort Hotel City",
+            "desc": "Perfect central location for urban explorers."
+        },
+        "hostel": {
+            "name": "Slottsskogen Hostel",
+            "desc": "Located in the heart of the cool Linné district."
+        },
+        "activity": {
+            "name": "Liseberg",
+            "desc": "The biggest and best amusement park in Scandinavia."
+        }
+    },
+    "Copenhagen": {
+        "luxury": {
+            "name": "Hotel d'Angleterre",
+            "desc": "Copenhagen's most prestigious luxury stay."
+        },
+        "budget": {
+            "name": "Wakeup Copenhagen",
+            "desc": "Sleek, minimalist, and very budget-friendly."
+        },
+        "hostel": {
+            "name": "Next House Copenhagen",
+            "desc": "Upscale hostel with a bar, gym, and cinema."
+        },
+        "activity": {
+            "name": "Tivoli Gardens",
+            "desc": "The world's second-oldest amusement park."
+        }
+    },
+    "Helsinki": {
+        "luxury": {
+            "name": "Hotel Kämp",
+            "desc": "Old-world elegance and impeccable service."
+        },
+        "budget": {
+            "name": "Scandic Helsinki Hub",
+            "desc": "Comfortable stay in a former printing house."
+        },
+        "hostel": {
+            "name": "The Yard Hostel",
+            "desc": "Stylish boutique hostel right in the center."
+        },
+        "activity": {
+            "name": "Suomenlinna Fortress",
+            "desc": "UNESCO island sea fortress and nature."
+        }
+    },
+    "Tallinn": {
+        "luxury": {
+            "name": "Hotel Telegraaf",
+            "desc": "Historic charm meets modern luxury in Old Town."
+        },
+        "budget": {
+            "name": "City Hotel Tallinn",
+            "desc": "Simple, clean, and incredible value."
+        },
+        "hostel": {
+            "name": "Fat Margaret's",
+            "desc": "Perfectly located with a Finnish sauna."
+        },
+        "activity": {
+            "name": "Old Town Medieval Walk",
+            "desc": "One of the best-preserved medieval towns in Europe."
+        }
+    },
+    "Reykjavik": {
+        "luxury": {
+            "name": "The Reykjavik EDITION",
+            "desc": "Modern luxury on the scenic waterfront."
+        },
+        "budget": {
+            "name": "Hotel Cabin",
+            "desc": "Efficient and reliable budget accommodation."
+        },
+        "hostel": {
+            "name": "Loft HI Eco Hostel",
+            "desc": "Central eco-friendly hostel with a great rooftop."
+        },
+        "activity": {
+            "name": "Hallgrímskirkja",
+            "desc": "Iceland's largest church and best city viewpoint."
+        }
+    },
+    "Riga": {
+        "luxury": {
+            "name": "Grand Poet Hotel",
+            "desc": "Artistic and elegant with a fantastic spa."
+        },
+        "budget": {
+            "name": "Wellton Centrum",
+            "desc": "Modern comfort with a historic Old Town touch."
+        },
+        "hostel": {
+            "name": "The Naughty Squirrel",
+            "desc": "Famous for its atmosphere and local tours."
+        },
+        "activity": {
+            "name": "House of the Blackheads",
+            "desc": "Stunning architecture in the heart of Riga."
+        }
+    },
+    "Vilnius": {
+        "luxury": {
+            "name": "Hotel Pacai",
+            "desc": "Luxury in a restored 17th-century palace."
+        },
+        "budget": {
+            "name": "City Hotels Algirdas",
+            "desc": "Cozy and friendly stay in a great neighborhood."
+        },
+        "hostel": {
+            "name": "Jimmy Jumps",
+            "desc": "Authentic hostel vibe with legendary waffles."
+        },
+        "activity": {
+            "name": "Užupis District",
+            "desc": "Bohemian self-declared 'independent' republic."
+        }
+    }
+}

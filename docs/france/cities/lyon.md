@@ -29,7 +29,10 @@ description: Cost of Living in Lyon
 | 🛒 **Supermarkets** | [Find Supermarkets in Lyon](https://www.google.com/maps/search/supermarket+in+Lyon) |
 | 🥾 **Hiking Trails** | [Find Trails in Lyon](https://www.google.com/maps/search/Hiking+Trails+in+Lyon) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Villa Maïa](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilla%20Ma%C3%AFa%20Lyon) — Stunning contemporary design on Fourvière Hill.
+- **Budget**: [Hotel Silky by HappyCulture](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Silky%20by%20HappyCulture%20Lyon) — Charming boutique stay in the city's historic center.
+- **Hostel**: [ho36 Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3Dho36%20Hostel%20Lyon) — Unique hybrid hostel with a very cool communal vibe.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Lyon
 | [Airbnb](https://www.airbnb.com/s/Lyon--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Vieux Lyon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVieux%20Lyon%20Lyon) — Explore the secret 'traboules' of the historic old town.
+- **Social**: [Find Lyon on Reddit](https://www.reddit.com/r/Lyon/)
+- **Guide**: [Lonely Planet Lyon](https://www.lonelyplanet.com/search?q=Lyon)
 
 | Platform | Link |
 |----------|------|

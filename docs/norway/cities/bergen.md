@@ -29,7 +29,10 @@ description: Cost of Living in Bergen
 | 🛒 **Supermarkets** | [Find Supermarkets in Bergen](https://www.google.com/maps/search/supermarket+in+Bergen) |
 | 🥾 **Hiking Trails** | [Find Trails in Bergen](https://www.google.com/maps/search/Hiking+Trails+in+Bergen) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Opus XVI](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOpus%20XVI%20Bergen) — Historic luxury inspired by Edvard Grieg.
+- **Budget**: [Klosterhagen Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKlosterhagen%20Hotel%20Bergen) — Charming and quiet, close to the center.
+- **Hostel**: [HI Bergen Hostel Montana](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHI%20Bergen%20Hostel%20Montana%20Bergen) — Legendary views and great hiking access.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Bergen
 | [Airbnb](https://www.airbnb.com/s/Bergen--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Fløibanen Funicular](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFl%C3%B8ibanen%20Funicular%20Bergen) — Panoramic views of the city and fjords.
+- **Social**: [Find Bergen on Reddit](https://www.reddit.com/r/Bergen/)
+- **Guide**: [Lonely Planet Bergen](https://www.lonelyplanet.com/search?q=Bergen)
 
 | Platform | Link |
 |----------|------|

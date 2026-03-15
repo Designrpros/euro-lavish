@@ -29,7 +29,10 @@ description: Cost of Living in Sliema
 | 🛒 **Supermarkets** | [Find Supermarkets in Sliema](https://www.google.com/maps/search/supermarket+in+Sliema) |
 | 🥾 **Hiking Trails** | [Find Trails in Sliema](https://www.google.com/maps/search/Hiking+Trails+in+Sliema) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Palace](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Palace%20Sliema) — Five-star urban luxury with a stunning rooftop pool.
+- **Budget**: [Two Pillows Micro Boutique](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwo%20Pillows%20Micro%20Boutique%20Sliema) — Innovative and stylish stay with spa facilities.
+- **Hostel**: [Corner Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCorner%20Hostel%20Sliema) — Centrally located in a restored Maltese townhouse.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Sliema
 | [Airbnb](https://www.airbnb.com/s/Sliema--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Sliema Promenade](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSliema%20Promenade%20Sliema) — Join the locals for a seaside walk with city views.
+- **Social**: [Find Sliema on Reddit](https://www.reddit.com/r/Sliema/)
+- **Guide**: [Lonely Planet Sliema](https://www.lonelyplanet.com/search?q=Sliema)
 
 | Platform | Link |
 |----------|------|

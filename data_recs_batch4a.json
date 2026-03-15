@@ -1,0 +1,506 @@
+{
+    "Manchester": {
+        "luxury": {
+            "name": "Hyatt Regency Manchester",
+            "desc": "Contemporary luxury with an incredible skyline view."
+        },
+        "budget": {
+            "name": "easyHotel Manchester",
+            "desc": "Perfect central location for budget explorers."
+        },
+        "hostel": {
+            "name": "YHA Manchester",
+            "desc": "Award-winning hostel with a great bar and canal views."
+        },
+        "activity": {
+            "name": "Old Trafford Tour",
+            "desc": "Walking through the history of the world-famous stadium."
+        }
+    },
+    "Birmingham": {
+        "luxury": {
+            "name": "The Grand Hotel Birmingham",
+            "desc": "Historic and opulent landmark in the heart of the city."
+        },
+        "budget": {
+            "name": "ibis budget Birmingham",
+            "desc": "Reliable and efficient stay near the Bullring."
+        },
+        "hostel": {
+            "name": "Birmingham Central Backpackers",
+            "desc": "Known for its quirky, friendly atmosphere and central location."
+        },
+        "activity": {
+            "name": "Cadbury World",
+            "desc": "Discover the delicious history of chocolate."
+        }
+    },
+    "Glasgow": {
+        "luxury": {
+            "name": "Kimpton Blythswood Square",
+            "desc": "Five-star luxury with an incredible spa in a historic square."
+        },
+        "budget": {
+            "name": "Moxy Glasgow Merchant City",
+            "desc": "Trendy, industrial design at a very friendly price."
+        },
+        "hostel": {
+            "name": "Glasgow Youth Hostel",
+            "desc": "Consistently rated the best overall hostel in Scotland."
+        },
+        "activity": {
+            "name": "Kelvingrove Art Gallery",
+            "desc": "One of Scotland's most popular free attractions."
+        }
+    },
+    "Edinburgh": {
+        "luxury": {
+            "name": "The Balmoral Hotel",
+            "desc": "The ultimate Edinburgh icon with Clock Tower views."
+        },
+        "budget": {
+            "name": "Motel One Princes Street",
+            "desc": "Chic, modern design in a prestigious location."
+        },
+        "hostel": {
+            "name": "Castle Rock Hostel",
+            "desc": "Stunning views directly of Edinburgh Castle."
+        },
+        "activity": {
+            "name": "Edinburgh Castle",
+            "desc": "The historic fortress and crown jewels of Scotland."
+        }
+    },
+    "Liverpool": {
+        "luxury": {
+            "name": "Titanic Hotel Liverpool",
+            "desc": "Industrial luxury in a massive, restored warehouse."
+        },
+        "budget": {
+            "name": "easyHotel Liverpool",
+            "desc": "Clean, simple, and perfectly located for nightlife."
+        },
+        "hostel": {
+            "name": "YHA Liverpool Central",
+            "desc": "Large, modern hostel right in the heart of the action."
+        },
+        "activity": {
+            "name": "The Beatles Story",
+            "desc": "Follow the journey of the world's most famous band."
+        }
+    },
+    "Cork": {
+        "luxury": {
+            "name": "Hayfield Manor",
+            "desc": "Family-owned luxury with a stunning garden oasis."
+        },
+        "budget": {
+            "name": "Kinlay House Cork",
+            "desc": "Centrally located with a cozy, friendly atmosphere."
+        },
+        "hostel": {
+            "name": "Sheilas Tourist Hostel",
+            "desc": "Famous for its sauna and social communal areas."
+        },
+        "activity": {
+            "name": "English Market",
+            "desc": "Historic food market with incredible local produce."
+        }
+    },
+    "Galway": {
+        "luxury": {
+            "name": "The G Hotel & Spa",
+            "desc": "Avant-garde design meets luxury overlooking Lough Atalia."
+        },
+        "budget": {
+            "name": "Leonardo Hotel Galway",
+            "desc": "Reliable comfort in the heart of the Latin Quarter."
+        },
+        "hostel": {
+            "name": "Kinlay Hostel Galway",
+            "desc": "Award-winning pod-style beds in a prime location."
+        },
+        "activity": {
+            "name": "Eyre Square",
+            "desc": "The vibrant heart and meeting place of Galway."
+        }
+    },
+    "Lyon": {
+        "luxury": {
+            "name": "Villa Maïa",
+            "desc": "Stunning contemporary design on Fourvière Hill."
+        },
+        "budget": {
+            "name": "Hotel Silky by HappyCulture",
+            "desc": "Charming boutique stay in the city's historic center."
+        },
+        "hostel": {
+            "name": "ho36 Hostel",
+            "desc": "Unique hybrid hostel with a very cool communal vibe."
+        },
+        "activity": {
+            "name": "Vieux Lyon",
+            "desc": "Explore the secret 'traboules' of the historic old town."
+        }
+    },
+    "Marseille": {
+        "luxury": {
+            "name": "Sofitel Vieux Port",
+            "desc": "Breathtaking views of the harbor and the Mediterranean."
+        },
+        "budget": {
+            "name": "Mama Shelter Marseille",
+            "desc": "Playful, trendy design at an unbeatable price point."
+        },
+        "hostel": {
+            "name": "The People Marseille",
+            "desc": "Modern pod hostel with a stunning shared terrace."
+        },
+        "activity": {
+            "name": "Basilique Notre-Dame",
+            "desc": "The golden-topped symbol of Marseille with 360 views."
+        }
+    },
+    "Nice": {
+        "luxury": {
+            "name": "Hôtel Negresco",
+            "desc": "The world-famous landmark of French Riviera luxury."
+        },
+        "budget": {
+            "name": "Mama Shelter Nice",
+            "desc": "Sleek, modern, and perfectly located for beach days."
+        },
+        "hostel": {
+            "name": "Villa Saint Exupery",
+            "desc": "Legendary social atmosphere steps from the beach."
+        },
+        "activity": {
+            "name": "Promenade des Anglais",
+            "desc": "The iconic seaside walkway of the Côte d'Azur."
+        }
+    },
+    "Bordeaux": {
+        "luxury": {
+            "name": "Le Palais Gallien",
+            "desc": "Refined 5-star luxury in a historic 19th-century townhouse."
+        },
+        "budget": {
+            "name": "ibis budget Centre",
+            "desc": "Clean, efficient, and great value near the station."
+        },
+        "hostel": {
+            "name": "CENTRAL Hostel",
+            "desc": "Boutique hostel vibe in the heart of the shopping district."
+        },
+        "activity": {
+            "name": "Place de la Bourse",
+            "desc": "See the world's largest reflective 'water mirror' pool."
+        }
+    },
+    "Toulouse": {
+        "luxury": {
+            "name": "La Cour des Consuls",
+            "desc": "Restored 18th-century palace in the historic center."
+        },
+        "budget": {
+            "name": "hotelF1 Toulouse",
+            "desc": "The ultimate budget-friendly stay for travelers on the move."
+        },
+        "hostel": {
+            "name": "La Petite Auberge",
+            "desc": "Charming, low-key hostel with a great social garden area."
+        },
+        "activity": {
+            "name": "Place du Capitole",
+            "desc": "The grand pink-brick heart of the 'Ville Rose'."
+        }
+    },
+    "Hamburg": {
+        "luxury": {
+            "name": "Fairmont Vier Jahreszeiten",
+            "desc": "The gold standard of classic European luxury."
+        },
+        "budget": {
+            "name": "Holiday Inn Berliner Tor",
+            "desc": "Reliable and modern stay with great transit links."
+        },
+        "hostel": {
+            "name": "Pauli Hostel",
+            "desc": "Located in the heart of the iconic St. Pauli district."
+        },
+        "activity": {
+            "name": "Elbphilharmonie",
+            "desc": "Modern architectural masterpiece overlooking the harbor."
+        }
+    },
+    "Cologne": {
+        "luxury": {
+            "name": "Hilton Cologne",
+            "desc": "Steps away from the cathedral in a grand building."
+        },
+        "budget": {
+            "name": "ibis Koeln am Dom",
+            "desc": "You cannot get closer to the cathedral for this price."
+        },
+        "hostel": {
+            "name": "Die Wohngemeinschaft",
+            "desc": "Each room is creatively themed and absolutely unique."
+        },
+        "activity": {
+            "name": "Cologne Cathedral",
+            "desc": "The tallest twin-spired church in the world."
+        }
+    },
+    "Frankfurt": {
+        "luxury": {
+            "name": "Jumeirah Frankfurt",
+            "desc": "Sleek skyscraper luxury with skyline views."
+        },
+        "budget": {
+            "name": "Hotel Europa Life",
+            "desc": "Efficient and clean, perfect for business or leisure."
+        },
+        "hostel": {
+            "name": "Five Elements Hostel",
+            "desc": "Famous for its pub crawls and social atmosphere."
+        },
+        "activity": {
+            "name": "Römerberg",
+            "desc": "Frankfurt's historic heart with timber-framed houses."
+        }
+    },
+    "Stuttgart": {
+        "luxury": {
+            "name": "Maritim Hotel Stuttgart",
+            "desc": "Classic luxury with an incredible wellness center."
+        },
+        "budget": {
+            "name": "a&o Stuttgart City",
+            "desc": "Vast, reliable, and very affordable central stay."
+        },
+        "hostel": {
+            "name": "Jugendherberge Stuttgart",
+            "desc": "Hilltop hostel with the best city panoramas."
+        },
+        "activity": {
+            "name": "Mercedes-Benz Museum",
+            "desc": "A futuristic journey through automotive history."
+        }
+    },
+    "Venice": {
+        "luxury": {
+            "name": "Sina Centurion Palace",
+            "desc": "Contemporary luxury in a stunning 19th-century palais."
+        },
+        "budget": {
+            "name": "Hotel Antiche Figure",
+            "desc": "Charming, traditional Venetian stay across from the station."
+        },
+        "hostel": {
+            "name": "Generator Venice",
+            "desc": "Located on Giudecca island with incredible city views."
+        },
+        "activity": {
+            "name": "St. Mark's Square",
+            "desc": "The 'drawing room of Europe' and historic heart."
+        }
+    },
+    "Verona": {
+        "luxury": {
+            "name": "Hotel Due Torri",
+            "desc": "The city's most prestigious historic luxury stay."
+        },
+        "budget": {
+            "name": "Hotel Milano & SPA",
+            "desc": "Modern comfort with a rooftop pool overlooking the Arena."
+        },
+        "hostel": {
+            "name": "The Hostello",
+            "desc": "Social, friendly, and located in the trendy Veronetta district."
+        },
+        "activity": {
+            "name": "Verona Arena",
+            "desc": "Ancient Roman amphitheater still used for world-class opera."
+        }
+    },
+    "Bologna": {
+        "luxury": {
+            "name": "Grand Hotel Majestic",
+            "desc": "Regal luxury in the city's oldest and most prestigious hotel."
+        },
+        "budget": {
+            "name": "I Portici Hotel",
+            "desc": "Modern elegance under the city's iconic porticoes."
+        },
+        "hostel": {
+            "name": "Dopa Hostel",
+            "desc": "Stylish, creative, and right in the heart of the university district."
+        },
+        "activity": {
+            "name": "Piazza Maggiore",
+            "desc": "The grand soul of Italy's culinary capital."
+        }
+    },
+    "Naples": {
+        "luxury": {
+            "name": "Grand Hotel Parker's",
+            "desc": "Five-star history and refinement overlooking the bay."
+        },
+        "budget": {
+            "name": "Hotel Piazza Bellini",
+            "desc": "Located in a 16th-century palace in the historic center."
+        },
+        "hostel": {
+            "name": "Hostel of the Sun",
+            "desc": "Bright, colorful, and famous for its tours and hospitality."
+        },
+        "activity": {
+            "name": "Pompeii Day Trip",
+            "desc": "Explore the perfectly preserved Roman city."
+        }
+    },
+    "Palermo": {
+        "luxury": {
+            "name": "Villa Igiea",
+            "desc": "A Rocco Forte hotel, the crown jewel of Sicilian luxury."
+        },
+        "budget": {
+            "name": "B&B Hotel Quattro Canti",
+            "desc": "Right in the middle of historic Palermo."
+        },
+        "hostel": {
+            "name": "Hostelo",
+            "desc": "Modern design meet social vibes in a restored city building."
+        },
+        "activity": {
+            "name": "Palermo Cathedral",
+            "desc": "A masterpiece of Arab-Norman architecture."
+        }
+    },
+    "Catania": {
+        "luxury": {
+            "name": "Romano Palace",
+            "desc": "Luxury beach resort with a stunning pool area."
+        },
+        "budget": {
+            "name": "Santuzza Hotel",
+            "desc": "Friendly, reliable, and perfectly located for exploring Etna."
+        },
+        "hostel": {
+            "name": "Eco Hostel",
+            "desc": "Unique and creative space in a former industrial building."
+        },
+        "activity": {
+            "name": "Piazza del Duomo",
+            "desc": "See the iconic Elephant Fountain and lava-stone buildings."
+        }
+    },
+    "Bilbao": {
+        "luxury": {
+            "name": "Gran Hotel Domine",
+            "desc": "Directly facing the Guggenheim, incredible terrace views."
+        },
+        "budget": {
+            "name": "Bilder Boutique Hotel",
+            "desc": "Elegant and refined stay in the historic center."
+        },
+        "hostel": {
+            "name": "Latroupe La Granja",
+            "desc": "Modern hybrid stay in a stunning historic building."
+        },
+        "activity": {
+            "name": "Guggenheim Museum",
+            "desc": "The world-famous titanium symbol of modern Bilbao."
+        }
+    },
+    "San Sebastian": {
+        "luxury": {
+            "name": "Hotel Maria Cristina",
+            "desc": "The ultimate in Belle Époque luxury on the coast."
+        },
+        "budget": {
+            "name": "Legazpi Doce Rooms",
+            "desc": "Boutique apartments right next to the beach and Old Town."
+        },
+        "hostel": {
+            "name": "A Room in the City",
+            "desc": "Large, modern social hub with a great courtyard."
+        },
+        "activity": {
+            "name": "La Concha Beach",
+            "desc": "One of the most beautiful urban beaches in the world."
+        }
+    },
+    "Palma": {
+        "luxury": {
+            "name": "Nobis Hotel Palma",
+            "desc": "Sleek Scandinavian luxury in a historic mallorcan building."
+        },
+        "budget": {
+            "name": "Hotel Feliz",
+            "desc": "Laid-back, trendy hotel with a great pool and bar."
+        },
+        "hostel": {
+            "name": "We Hostel Palma",
+            "desc": "Modern and stylish with a focus on young professionals."
+        },
+        "activity": {
+            "name": "Palma Cathedral",
+            "desc": "Dominating the seafront with stunning gothic architecture."
+        }
+    },
+    "Granada": {
+        "luxury": {
+            "name": "Alhambra Palace Hotel",
+            "desc": "Historic luxury inspired by the Alhambra itself."
+        },
+        "budget": {
+            "name": "Palacio de los Navas",
+            "desc": "Charming stay in a restored 16th-century palace."
+        },
+        "hostel": {
+            "name": "Oasis Backpackers",
+            "desc": "Legendary rooftop terrace and Albaicín tours."
+        },
+        "activity": {
+            "name": "The Alhambra",
+            "desc": "The breathtaking Moorish palace and fortress complex."
+        }
+    },
+    "Heraklion": {
+        "luxury": {
+            "name": "GDM Megaron",
+            "desc": "Grand historic luxury overlooking the Venetian harbor."
+        },
+        "budget": {
+            "name": "Kronos Hotel",
+            "desc": "Reliable and clean stay right on the seafront."
+        },
+        "hostel": {
+            "name": "So Young Hostel",
+            "desc": "Modern, social, and perfectly located in the center."
+        },
+        "activity": {
+            "name": "Knossos Palace",
+            "desc": "Explore the mythical heart of Minoan civilization."
+        }
+    },
+    "Rhodes": {
+        "luxury": {
+            "name": "Elysium Resort & Spa",
+            "desc": "Ultra-modern luxury with incredible Aegean views."
+        },
+        "budget": {
+            "name": "Pegasos Deluxe Beach",
+            "desc": "Excellent value for a full beach resort experience."
+        },
+        "hostel": {
+            "name": "STAY Hostel Rhodes",
+            "desc": "Boutique design hostel with a focus on digital nomads."
+        },
+        "activity": {
+            "name": "Old Town Rhodes",
+            "desc": "Europe's oldest inhabited medieval city."
+        }
+    }
+}

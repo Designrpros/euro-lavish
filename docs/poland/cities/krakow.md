@@ -29,7 +29,10 @@ description: Cost of Living in Krakow
 | 🛒 **Supermarkets** | [Find Supermarkets in Krakow](https://www.google.com/maps/search/supermarket+in+Krakow) |
 | 🥾 **Hiking Trails** | [Find Trails in Krakow](https://www.google.com/maps/search/Hiking+Trails+in+Krakow) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Stary](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Stary%20Krakow) — Award-winning design in a historic medieval building.
+- **Budget**: [Ginger Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGinger%20Hostel%20Krakow) — Cozy, colorful, and right next to the Wawel Castle.
+- **Hostel**: [Greg & Tom Beer House](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGreg%20%26%20Tom%20Beer%20House%20Krakow) — Famous for its pub crawls and social atmosphere.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Krakow
 | [Airbnb](https://www.airbnb.com/s/Krakow--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Main Market Square](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMain%20Market%20Square%20Krakow) — One of the largest and most beautiful medieval squares in Europe.
+- **Social**: [Find Krakow on Reddit](https://www.reddit.com/r/Krakow/)
+- **Guide**: [Lonely Planet Krakow](https://www.lonelyplanet.com/search?q=Krakow)
 
 | Platform | Link |
 |----------|------|

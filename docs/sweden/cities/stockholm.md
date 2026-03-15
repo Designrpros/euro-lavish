@@ -29,20 +29,15 @@ description: Cost of Living in Stockholm
 | 🛒 **Supermarkets** | [Find Supermarkets in Stockholm](https://www.google.com/maps/search/supermarket+in+Stockholm) |
 | 🥾 **Hiking Trails** | [Find Trails in Stockholm](https://www.google.com/maps/search/Hiking+Trails+in+Stockholm) |
 
-## 🏨 Hotels & Airbnb
-
-| Service | Link |
-|---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStockholm) | Hotels |
-| [Airbnb](https://www.airbnb.com/s/Stockholm--Sweden) | Vacation Rentals |
+## 🏨 Recommended Accommodation
+- **Luxury**: [Grand Hôtel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrand+H%25C3%25B4tel+Stockholm) — The ultimate classic five-star experience.
+- **Budget**: [Comfort Hotel Xpress](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DComfort+Hotel+Xpress+Stockholm) — Affordable and efficient central stay.
+- **Hostel**: [City Backpackers](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCity+Backpackers+Stockholm) — Consistently rated one of the best in Europe.
 
 ## 🧭 Explore & Community
-
-| Platform | Link |
-|----------|------|
-| 💬 **Reddit** | [r/Stockholm](https://www.reddit.com/r/Stockholm/) |
-| 📍 **TripAdvisor** | [Things to do in Stockholm](https://www.tripadvisor.com/Search?q=Stockholm) |
-| 📖 **Lonely Planet** | [Stockholm Guide](https://www.lonelyplanet.com/search?q=Stockholm) |
+- **Top Activity**: [Vasa Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVasa%20Museum%20Stockholm) — A perfectly preserved 17th-century warship.
+- **Social**: [Find Stockholm on Reddit](https://www.reddit.com/r/Stockholm/)
+- **Guide**: [Lonely Planet Stockholm](https://www.lonelyplanet.com/search?q=Stockholm)
 
 ## 🚀 Digital Nomad Hub
 

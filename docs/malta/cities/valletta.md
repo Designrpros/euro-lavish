@@ -29,7 +29,10 @@ description: Cost of Living in Valletta
 | 🛒 **Supermarkets** | [Find Supermarkets in Valletta](https://www.google.com/maps/search/supermarket+in+Valletta) |
 | 🥾 **Hiking Trails** | [Find Trails in Valletta](https://www.google.com/maps/search/Hiking+Trails+in+Valletta) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Phoenicia Malta](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Phoenicia%20Malta%20Valletta) — Classic luxury just outside the historic city walls.
+- **Budget**: [Osborne Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOsborne%20Hotel%20Valletta) — Modern comfort in a historic palace within Valletta.
+- **Hostel**: [Valletta Merisi Suites](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta%20Merisi%20Suites%20Valletta) — Boutique apartments with a shared historic character.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Valletta
 | [Airbnb](https://www.airbnb.com/s/Valletta--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [St. John's Co-Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSt.%20John%27s%20Co-Cathedral%20Valletta) — Breathtaking baroque interior and Caravaggio masterpieces.
+- **Social**: [Find Valletta on Reddit](https://www.reddit.com/r/Valletta/)
+- **Guide**: [Lonely Planet Valletta](https://www.lonelyplanet.com/search?q=Valletta)
 
 | Platform | Link |
 |----------|------|

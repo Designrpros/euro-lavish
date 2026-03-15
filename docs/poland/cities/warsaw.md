@@ -29,7 +29,10 @@ description: Cost of Living in Warsaw
 | 🛒 **Supermarkets** | [Find Supermarkets in Warsaw](https://www.google.com/maps/search/supermarket+in+Warsaw) |
 | 🥾 **Hiking Trails** | [Find Trails in Warsaw](https://www.google.com/maps/search/Hiking+Trails+in+Warsaw) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Westin Warsaw](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWestin%20Warsaw%20Warsaw) — Contemporary luxury with a stunning glass elevator.
+- **Budget**: [Hostel Wawa Star](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Wawa%20Star%20Warsaw) — Clean, reliable, and very budget-friendly.
+- **Hostel**: [Oki Doki Old Town](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOki%20Doki%20Old%20Town%20Warsaw) — Historic building with unique, artist-designed rooms.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Warsaw
 | [Airbnb](https://www.airbnb.com/s/Warsaw--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Royal Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Castle%20Warsaw) — Meticulously rebuilt symbol of Polish history.
+- **Social**: [Find Warsaw on Reddit](https://www.reddit.com/r/Warsaw/)
+- **Guide**: [Lonely Planet Warsaw](https://www.lonelyplanet.com/search?q=Warsaw)
 
 | Platform | Link |
 |----------|------|

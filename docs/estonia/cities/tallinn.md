@@ -29,7 +29,10 @@ description: Cost of Living in Tallinn
 | 🛒 **Supermarkets** | [Find Supermarkets in Tallinn](https://www.google.com/maps/search/supermarket+in+Tallinn) |
 | 🥾 **Hiking Trails** | [Find Trails in Tallinn](https://www.google.com/maps/search/Hiking+Trails+in+Tallinn) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [Hotel Telegraaf](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Telegraaf%20Tallinn) — Historic charm meets modern luxury in Old Town.
+- **Budget**: [City Hotel Tallinn](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCity%20Hotel%20Tallinn%20Tallinn) — Simple, clean, and incredible value.
+- **Hostel**: [Fat Margaret's](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFat%20Margaret%27s%20Tallinn) — Perfectly located with a Finnish sauna.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Tallinn
 | [Airbnb](https://www.airbnb.com/s/Tallinn--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Old Town Medieval Walk](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Town%20Medieval%20Walk%20Tallinn) — One of the best-preserved medieval towns in Europe.
+- **Social**: [Find Tallinn on Reddit](https://www.reddit.com/r/Tallinn/)
+- **Guide**: [Lonely Planet Tallinn](https://www.lonelyplanet.com/search?q=Tallinn)
 
 | Platform | Link |
 |----------|------|

@@ -29,7 +29,10 @@ description: Cost of Living in Dublin
 | 🛒 **Supermarkets** | [Find Supermarkets in Dublin](https://www.google.com/maps/search/supermarket+in+Dublin) |
 | 🥾 **Hiking Trails** | [Find Trails in Dublin](https://www.google.com/maps/search/Hiking+Trails+in+Dublin) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Shelbourne](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Shelbourne%20Dublin) — Dublin's most distinguished and historic hotel.
+- **Budget**: [Generator Dublin](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGenerator%20Dublin%20Dublin) — Vibrant design hostel in the trendy Smithfield area.
+- **Hostel**: [Abbey Court](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAbbey%20Court%20Dublin) — Perfect central location with fun social events.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Dublin
 | [Airbnb](https://www.airbnb.com/s/Dublin--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Guinness Storehouse](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGuinness%20Storehouse%20Dublin) — Learn the history of Ireland’s most famous export.
+- **Social**: [Find Dublin on Reddit](https://www.reddit.com/r/Dublin/)
+- **Guide**: [Lonely Planet Dublin](https://www.lonelyplanet.com/search?q=Dublin)
 
 | Platform | Link |
 |----------|------|

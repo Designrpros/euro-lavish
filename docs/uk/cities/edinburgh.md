@@ -29,7 +29,10 @@ description: Cost of Living in Edinburgh
 | 🛒 **Supermarkets** | [Find Supermarkets in Edinburgh](https://www.google.com/maps/search/supermarket+in+Edinburgh) |
 | 🥾 **Hiking Trails** | [Find Trails in Edinburgh](https://www.google.com/maps/search/Hiking+Trails+in+Edinburgh) |
 
-## 🏨 Hotels & Airbnb
+## 🏨 Recommended Accommodation
+- **Luxury**: [The Balmoral Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Balmoral%20Hotel%20Edinburgh) — The ultimate Edinburgh icon with Clock Tower views.
+- **Budget**: [Motel One Princes Street](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMotel%20One%20Princes%20Street%20Edinburgh) — Chic, modern design in a prestigious location.
+- **Hostel**: [Castle Rock Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCastle%20Rock%20Hostel%20Edinburgh) — Stunning views directly of Edinburgh Castle.
 
 | Service | Link |
 |---------|------|
@@ -37,6 +40,9 @@ description: Cost of Living in Edinburgh
 | [Airbnb](https://www.airbnb.com/s/Edinburgh--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
+- **Top Activity**: [Edinburgh Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh%20Castle%20Edinburgh) — The historic fortress and crown jewels of Scotland.
+- **Social**: [Find Edinburgh on Reddit](https://www.reddit.com/r/Edinburgh/)
+- **Guide**: [Lonely Planet Edinburgh](https://www.lonelyplanet.com/search?q=Edinburgh)
 
 | Platform | Link |
 |----------|------|
