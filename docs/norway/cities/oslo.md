@@ -38,6 +38,7 @@ description: Cost of Living in Oslo
 - **Top Activity**: [Munch Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMunch%20Museum%20Oslo) — Explore the world-famous 'The Scream' and more.
 - **Social**: [Find Oslo on Reddit](https://www.reddit.com/r/Oslo/)
 - **Activities**: [Viator Tours in Oslo](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DOslo)
+- **Guide**: [Lonely Planet Oslo](https://www.lonelyplanet.com/search?q=Oslo)
 
 ## 🚀 Digital Nomad Hub
 
