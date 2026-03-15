@@ -10,21 +10,20 @@
  * can simply be removed.
  */
 
-document.addEventListener('DOMContentLoaded', () => {
-    // Listen for all clicks on the document
-    document.addEventListener('click', (e) => {
+(function () {
+    document.addEventListener('click', function (e) {
         // Find the closest anchor tag that was clicked
         const link = e.target.closest('a');
 
-        // If not a link, or not an affiliate link, do nothing normal
-        if (!link || !link.href.includes('tp.media/r')) return;
+        // If not a link, or not an affiliate link, do normal behavior
+        if (!link || !link.href || !link.href.includes('tp.media/r')) return;
 
         // Specific P_IDs that are currently unapproved
         const unapprovedPartners = [
             'p=121', // Booking.com
             'p=125', // TripAdvisor
             'p=285', // Hotels.com
-            'p=170'  // Lonely Planet (though we swapped it out, good to have)
+            'p=170'  // Lonely Planet
         ];
 
         const isUnapproved = unapprovedPartners.some(p => link.href.includes(p));
@@ -32,6 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (isUnapproved) {
             // Prevent the default Travelpayouts broken redirect
             e.preventDefault();
+            e.stopPropagation(); // Guarantee we intercept it
 
             // Extract the original destination URL from the 'u=' parameter
             try {
@@ -39,16 +39,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 const encodedDest = urlObj.searchParams.get('u');
                 if (encodedDest) {
                     const cleanUrl = decodeURIComponent(encodedDest);
-                    // Redirect directly to the clean URL
-                    window.location.href = cleanUrl;
-                } else {
-                    // Fallback to home if something goes wrong
-                    console.warn("Could not find destination in affiliate link");
-                    window.location.href = '/';
+                    // Open clean link
+                    if (link.target === '_blank') {
+                        window.open(cleanUrl, '_blank');
+                    } else {
+                        window.location.href = cleanUrl;
+                    }
                 }
             } catch (error) {
-                console.error("Error parsing affiliate link", error);
+                console.error("Router error:", error);
             }
         }
-    });
-});
+    }, true); // Use capture phase to intercept before MkDocs or other scripts
+})();
