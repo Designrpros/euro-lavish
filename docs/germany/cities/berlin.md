@@ -42,7 +42,7 @@ description: Cost of Living in Berlin
 ## 🧭 Explore & Community
 - **Top Activity**: [Brandenburg Gate](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrandenburg%20Gate%20Berlin) — The monumental symbol of German unity.
 - **Social**: [Find Berlin on Reddit](https://www.reddit.com/r/Berlin/)
-- **Guide**: [Lonely Planet Berlin](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBerlin)
+- **Activities**: [Viator Tours in Berlin](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBerlin)
 
 | Platform | Link |
 |----------|------|

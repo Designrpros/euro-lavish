@@ -42,7 +42,7 @@ description: Cost of Living in Belgrade
 ## 🧭 Explore & Community
 - **Top Activity**: [Kalemegdan Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKalemegdan%20Fortress%20Belgrade) — Historic fortress where the Sava and Danube rivers meet.
 - **Social**: [Find Belgrade on Reddit](https://www.reddit.com/r/Belgrade/)
-- **Guide**: [Lonely Planet Belgrade](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBelgrade)
+- **Activities**: [Viator Tours in Belgrade](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBelgrade)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Toulouse
 ## 🧭 Explore & Community
 - **Top Activity**: [Place du Capitole](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlace%20du%20Capitole%20Toulouse) — The grand pink-brick heart of the 'Ville Rose'.
 - **Social**: [Find Toulouse on Reddit](https://www.reddit.com/r/Toulouse/)
-- **Guide**: [Lonely Planet Toulouse](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DToulouse)
+- **Activities**: [Viator Tours in Toulouse](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DToulouse)
 
 | Platform | Link |
 |----------|------|

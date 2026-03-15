@@ -42,7 +42,7 @@ description: Cost of Living in Tampere
 ## 🧭 Explore & Community
 - **Top Activity**: [Pyynikki Observation Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPyynikki%20Observation%20Tower%20Tampere) — Eat the world-famous donuts with incredible lake views.
 - **Social**: [Find Tampere on Reddit](https://www.reddit.com/r/Tampere/)
-- **Guide**: [Lonely Planet Tampere](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTampere)
+- **Activities**: [Viator Tours in Tampere](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DTampere)
 
 | Platform | Link |
 |----------|------|

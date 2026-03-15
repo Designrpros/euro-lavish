@@ -42,7 +42,7 @@ description: Cost of Living in Dubrovnik
 ## 🧭 Explore & Community
 - **Top Activity**: [Walk the City Walls](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWalk%20the%20City%20Walls%20Dubrovnik) — The best way to see the 'Pearl of the Adriatic'.
 - **Social**: [Find Dubrovnik on Reddit](https://www.reddit.com/r/Dubrovnik/)
-- **Guide**: [Lonely Planet Dubrovnik](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDubrovnik)
+- **Activities**: [Viator Tours in Dubrovnik](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DDubrovnik)
 
 | Platform | Link |
 |----------|------|

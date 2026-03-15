@@ -42,7 +42,7 @@ description: Cost of Living in Seville
 ## 🧭 Explore & Community
 - **Top Activity**: [Royal Alcázar](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Alc%C3%A1zar%20Seville) — Breathtaking Moorish palace and exotic gardens.
 - **Social**: [Find Seville on Reddit](https://www.reddit.com/r/Seville/)
-- **Guide**: [Lonely Planet Seville](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSeville)
+- **Activities**: [Viator Tours in Seville](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSeville)
 
 | Platform | Link |
 |----------|------|

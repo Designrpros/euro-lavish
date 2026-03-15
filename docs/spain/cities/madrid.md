@@ -42,7 +42,7 @@ description: Cost of Living in Madrid
 ## 🧭 Explore & Community
 - **Top Activity**: [Prado Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrado%20Museum%20Madrid) — One of the finest art collections in the world.
 - **Social**: [Find Madrid on Reddit](https://www.reddit.com/r/Madrid/)
-- **Guide**: [Lonely Planet Madrid](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMadrid)
+- **Activities**: [Viator Tours in Madrid](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMadrid)
 
 | Platform | Link |
 |----------|------|

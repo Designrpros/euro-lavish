@@ -42,7 +42,7 @@ description: Cost of Living in Prague
 ## 🧭 Explore & Community
 - **Top Activity**: [Prague Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrague%20Castle%20Prague) — The largest ancient castle complex in the world.
 - **Social**: [Find Prague on Reddit](https://www.reddit.com/r/Prague/)
-- **Guide**: [Lonely Planet Prague](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPrague)
+- **Activities**: [Viator Tours in Prague](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DPrague)
 
 | Platform | Link |
 |----------|------|

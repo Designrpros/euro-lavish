@@ -42,7 +42,7 @@ description: Cost of Living in Wroclaw
 ## 🧭 Explore & Community
 - **Top Activity**: [Wroclaw Dwarves](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWroclaw%20Dwarves%20Wroclaw) — Find the hundreds of bronze gnomes hidden across the city.
 - **Social**: [Find Wroclaw on Reddit](https://www.reddit.com/r/Wroclaw/)
-- **Guide**: [Lonely Planet Wroclaw](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWroclaw)
+- **Activities**: [Viator Tours in Wroclaw](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DWroclaw)
 
 | Platform | Link |
 |----------|------|

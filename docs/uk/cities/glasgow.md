@@ -42,7 +42,7 @@ description: Cost of Living in Glasgow
 ## 🧭 Explore & Community
 - **Top Activity**: [Kelvingrove Art Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKelvingrove%20Art%20Gallery%20Glasgow) — One of Scotland's most popular free attractions.
 - **Social**: [Find Glasgow on Reddit](https://www.reddit.com/r/Glasgow/)
-- **Guide**: [Lonely Planet Glasgow](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGlasgow)
+- **Activities**: [Viator Tours in Glasgow](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DGlasgow)
 
 | Platform | Link |
 |----------|------|

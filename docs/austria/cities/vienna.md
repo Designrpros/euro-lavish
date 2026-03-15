@@ -42,7 +42,7 @@ description: Cost of Living in Vienna
 ## 🧭 Explore & Community
 - **Top Activity**: [Schönbrunn Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSch%C3%B6nbrunn%20Palace%20Vienna) — The magnificent former imperial summer residence.
 - **Social**: [Find Vienna on Reddit](https://www.reddit.com/r/Vienna/)
-- **Guide**: [Lonely Planet Vienna](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVienna)
+- **Activities**: [Viator Tours in Vienna](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DVienna)
 
 | Platform | Link |
 |----------|------|

@@ -42,7 +42,7 @@ description: Cost of Living in Lyon
 ## 🧭 Explore & Community
 - **Top Activity**: [Vieux Lyon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVieux%20Lyon%20Lyon) — Explore the secret 'traboules' of the historic old town.
 - **Social**: [Find Lyon on Reddit](https://www.reddit.com/r/Lyon/)
-- **Guide**: [Lonely Planet Lyon](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLyon)
+- **Activities**: [Viator Tours in Lyon](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DLyon)
 
 | Platform | Link |
 |----------|------|

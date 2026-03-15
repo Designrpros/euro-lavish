@@ -42,7 +42,7 @@ description: Cost of Living in Dublin
 ## 🧭 Explore & Community
 - **Top Activity**: [Guinness Storehouse](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGuinness%20Storehouse%20Dublin) — Learn the history of Ireland’s most famous export.
 - **Social**: [Find Dublin on Reddit](https://www.reddit.com/r/Dublin/)
-- **Guide**: [Lonely Planet Dublin](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDublin)
+- **Activities**: [Viator Tours in Dublin](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DDublin)
 
 | Platform | Link |
 |----------|------|

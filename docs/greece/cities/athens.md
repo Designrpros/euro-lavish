@@ -42,7 +42,7 @@ description: Cost of Living in Athens
 ## 🧭 Explore & Community
 - **Top Activity**: [The Parthenon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Parthenon%20Athens) — The ultimate ancient Greek sanctuary ruins.
 - **Social**: [Find Athens on Reddit](https://www.reddit.com/r/Athens/)
-- **Guide**: [Lonely Planet Athens](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAthens)
+- **Activities**: [Viator Tours in Athens](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DAthens)
 
 | Platform | Link |
 |----------|------|

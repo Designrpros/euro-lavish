@@ -42,7 +42,7 @@ description: Cost of Living in Nice
 ## 🧭 Explore & Community
 - **Top Activity**: [Promenade des Anglais](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPromenade%20des%20Anglais%20Nice) — The iconic seaside walkway of the Côte d'Azur.
 - **Social**: [Find Nice on Reddit](https://www.reddit.com/r/Nice/)
-- **Guide**: [Lonely Planet Nice](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNice)
+- **Activities**: [Viator Tours in Nice](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DNice)
 
 | Platform | Link |
 |----------|------|

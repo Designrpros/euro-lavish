@@ -42,7 +42,7 @@ description: Cost of Living in Bergen
 ## 🧭 Explore & Community
 - **Top Activity**: [Fløibanen Funicular](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFl%C3%B8ibanen%20Funicular%20Bergen) — Panoramic views of the city and fjords.
 - **Social**: [Find Bergen on Reddit](https://www.reddit.com/r/Bergen/)
-- **Guide**: [Lonely Planet Bergen](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBergen)
+- **Activities**: [Viator Tours in Bergen](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBergen)
 
 | Platform | Link |
 |----------|------|
