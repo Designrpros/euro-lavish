@@ -1,6 +1,7 @@
 import os
 import re
-import urllib.request
+import random
+import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
@@ -20,18 +21,25 @@ METRICS = {
     "Cinema": "Cinema, International Release, 1 Seat"
 }
 
-def fetch_numbeo_data(city_name, country_name=None):
+def fetch_numbeo_data(city_name):
     """Fetches and parses Numbeo data for a given city."""
-    # Format city for URL (e.g., "Novi Sad" -> "Novi-Sad")
-    city_url = city_name.replace(" ", "-")
-    url = f"https://www.numbeo.com/cost-of-living/in/{city_url}"
+    # Format city for URL (e.g., "Novi Sad" -> "Novi-Sad") 
+    # Use urllib.parse.quote for cities with special characters (e.g. Košice -> Ko%C5%A1ice)
+    city_url = requests.utils.quote(city_name.replace(" ", "-"))
+    url = f"https://www.numbeo.com/cost-of-living/in/{city_url}?displayCurrency=EUR"
     
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1'
+    }
     
     try:
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=10) as response:
-            html = response.read().decode('utf-8')
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        html = response.text
     except Exception as e:
         print(f"  [X] Could not fetch {url}: {e}")
         return None
@@ -40,7 +48,7 @@ def fetch_numbeo_data(city_name, country_name=None):
     data_table = soup.find('table', class_='data_wide_table')
     
     if not data_table:
-        print(f"  [X] Could not find data table on {url}")
+        print(f"  [X] Could not find data table on {url}. Page title: {soup.title.string if soup.title else 'Unknown'}")
         return None
 
     results = {}
@@ -53,12 +61,9 @@ def fetch_numbeo_data(city_name, country_name=None):
             
             # Map Numbeo rows to our simplified metrics
             for metric_key, numbeo_label in METRICS.items():
-                if numbeo_label in item_name:
+                if numbeo_label.lower() in item_name.lower():
                     # Clean the price string (e.g., "5.00 €" -> "5€" or "1,200 €" -> "1200€")
                     clean_price = item_price.replace('\xa0', ' ').split(' ')[0].replace(',', '')
-                    # Note: we might need to handle local currencies if requested, 
-                    # but baseline we preserve the number and add the symbol later.
-                    # Numbeo usually defaults to EUR if accessed from EUR IP, or we can force currency in URL ?displayCurrency=EUR
                     results[metric_key] = clean_price
                     
     return results if len(results) > 0 else None
@@ -130,8 +135,9 @@ def run_sync():
                         else:
                             print(f"  [-] No changes needed for {city_name}")
                     
-                    # Be polite to the server
-                    time.sleep(1)
+                    # Be polite to the server to avoid Rate Limits
+                    sleep_time = random.uniform(3.0, 5.0)
+                    time.sleep(sleep_time)
                     
     print(f"\nSync Complete! Updated {updated_files} out of {total_files} cities.")
 
