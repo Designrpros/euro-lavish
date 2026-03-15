@@ -18,14 +18,44 @@ description: Complete cost of living guide for Greece
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 8€ | ~8€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Good support (Revolut/Wise) |
+| **Payment** | Mixed |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [Beat / Uber](https://thebeat.co/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Heraklion](byer/heraklion.md) | 450€ | Crete |
-| 2 | [Chania](byer/chania.md) | 500€ | Crete |
-| 3 | [Thessaloniki](byer/thessaloniki.md) | 550€ | 2nd city |
-| 4 | [Athens](byer/athens.md) | 650€ | Capital |
+| 1 | [Athens](cities/athens.md) | 650€ |  |
+| 2 | [Chania](cities/chania.md) | 500€ |  |
+| 3 | [Heraklion](cities/heraklion.md) | 450€ |  |
+| 4 | [Larissa](cities/larissa.md) | 400€ |  |
+| 5 | [Patras](cities/patras.md) | 450€ |  |
+| 6 | [Rhodes](cities/rhodes.md) | 550€ |  |
+| 7 | [Thessaloniki](cities/thessaloniki.md) | 550€ |  |
+| 8 | [Volos](cities/volos.md) | 420€ |  |
+
 
 ## 🔗 Useful Links
 

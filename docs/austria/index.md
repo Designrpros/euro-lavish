@@ -18,13 +18,41 @@ description: Complete cost of living guide for Austria
 | Transport | 2.40€ | ~2.40€ |
 | Cinema | 12€ | ~12€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; 'Meldezettel' required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed (Cash for restaurants) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [WienMobil](https://www.wienerlinien.at/wienmobil-app) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Innsbruck](byer/innsbruck.md) | 900€ | |
-| 2 | [Salzburg](byer/salzburg.md) | 950€ | |
-| 3 | [Vienna](byer/vienna.md) | 1,100€ | Capital |
+| 1 | [Graz](cities/graz.md) | 850€ |  |
+| 2 | [Innsbruck](cities/innsbruck.md) | 900€ |  |
+| 3 | [Linz](cities/linz.md) | 900€ |  |
+| 4 | [Salzburg](cities/salzburg.md) | 950€ |  |
+| 5 | [Vienna](cities/vienna.md) | 1,100€ |  |
+
 
 ## 🔗 Useful Links
 

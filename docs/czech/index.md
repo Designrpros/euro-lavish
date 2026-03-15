@@ -18,15 +18,41 @@ description: Complete cost of living guide for Czechia
 | Transport | 1.20€ | ~29 Kč |
 | Cinema | 7€ | ~171 Kč |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | CZK (Koruna) |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [PID Lítačka](https://app.pidlitacka.cz/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Ostrava](byer/ostrava.md) | 14,700 Kč | |
-| 2 | [Olomouc](byer/olomouc.md) | 13,475 Kč | |
-| 3 | [Plzeň](byer/plzen.md) | 15,925 Kč | |
-| 4 | [Brno](byer/brno.md) | 18,375 Kč | 2nd city |
-| 5 | [Prague](byer/prague.md) | 29,400 Kč | Capital |
+| 1 | [Brno](cities/brno.md) | 750€ |  |
+| 2 | [Olomouc](cities/olomouc.md) | 550€ |  |
+| 3 | [Ostrava](cities/ostrava.md) | 600€ |  |
+| 4 | [Plzeň](cities/plzen.md) | 650€ |  |
+| 5 | [Prague](cities/prague.md) | 1,200€ |  |
+
 
 ## 🔗 Useful Links
 

@@ -18,15 +18,41 @@ description: Complete cost of living guide for Spain
 | Transport | 1.80€ | ~1.80€ |
 | Cinema | 9€ | ~9€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; NIE and registration required for 3+ months. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card widely accepted |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [Cabify / Bolt](https://cabify.com/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Sevilla](byer/seville.md) | 800€ | |
-| 2 | [Málaga](byer/malaga.md) | 850€ | |
-| 3 | [Valencia](byer/valencia.md) | 950€ | |
-| 4 | [Madrid](byer/madrid.md) | 1,350€ | Capital |
-| 5 | [Barcelona](byer/barcelona.md) | 1,400€ | 2nd city |
+| 1 | [Barcelona](cities/barcelona.md) | 1,400€ |  |
+| 2 | [Madrid](cities/madrid.md) | 1,350€ |  |
+| 3 | [Málaga](cities/malaga.md) | 850€ |  |
+| 4 | [Seville](cities/seville.md) | 800€ |  |
+| 5 | [Valencia](cities/valencia.md) | 950€ |  |
+
 
 ## 🔗 Useful Links
 

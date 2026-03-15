@@ -18,20 +18,46 @@ description: Complete cost of living guide for Norway
 | Transport | 3.80€ | ~44 kr |
 | Cinema | 14€ | ~161 kr |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EEA Member |
+| **Stay Rules** | Schengen area. 90-day free stay; registration for 3+ months. |
+| **Healthcare** | EHIC (Europeisk helsetrygdkort) valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | NOK |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card (Nearly 100%) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [Ruter](https://ruter.no/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Kristiansund](byer/kristiansund.md) | 8,500 kr | Oil + fishing |
-| 2 | [Molde](byer/molde.md) | 9,000 kr | Jazz festival |
-| 3 | [Porsgrunn](byer/porsgrunn.md) | 9,000 kr | Industry |
-| 4 | [Moss](byer/moss.md) | 9,200 kr | Center |
-| 5 | [Fredrikstad](byer/fredrikstad.md) | 9,500 kr | Østfold |
-| 6 | [Drammen](byer/drammen.md) | 10,500 kr | Near Oslo |
-| 7 | [Stavanger](byer/stavanger.md) | 13,000 kr | Oil capital |
-| 8 | [Bergen](byer/bergen.md) | 12,000 kr | Fjords |
-| 9 | [Trondheim](byer/trondheim.md) | 11,000 kr | Tech hub |
-| 10 | [Oslo](byer/oslo.md) | 18,431 kr | Capital |
+| 1 | [Bergen](cities/bergen.md) | 1,200€ |  |
+| 2 | [Drammen](cities/drammen.md) | --- |  |
+| 3 | [Fredrikstad](cities/fredrikstad.md) | --- |  |
+| 4 | [Kristiansund](cities/kristiansund.md) | --- |  |
+| 5 | [Molde](cities/molde.md) | --- |  |
+| 6 | [Moss](cities/moss.md) | --- |  |
+| 7 | [Oslo](cities/oslo.md) | 1,603€ |  |
+| 8 | [Porsgrunn](cities/porsgrunn.md) | --- |  |
+| 9 | [Stavanger](cities/stavanger.md) | 1,300€ |  |
+| 10 | [Trondheim](cities/trondheim.md) | 1,100€ |  |
+
 
 ## 🔗 Useful Links
 

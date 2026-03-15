@@ -18,15 +18,41 @@ description: Complete cost of living guide for Malta
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; e-Residence card required for 3+ months. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card widely accepted |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [Tallinja](https://www.publictransport.com.mt/en/tallinja-smartphone-app) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Gozo](byer/gozo.md) | 700€ | Island |
-| 2 | [Qawra](byer/qawra.md) | 800€ | |
-| 3 | [Sliema](byer/sliema.md) | 1,000€ | |
-| 4 | [St. Julian's](byer/stjulians.md) | 950€ | |
-| 5 | [Valletta](byer/valletta.md) | 1,100€ | Capital |
+| 1 | [Gozo](cities/gozo.md) | 700€ |  |
+| 2 | [Qawra](cities/qawra.md) | 800€ |  |
+| 3 | [Sliema](cities/sliema.md) | 1,000€ |  |
+| 4 | [St. Julian's](cities/stjulians.md) | 950€ |  |
+| 5 | [Valletta](cities/valletta.md) | 1,100€ |  |
+
 
 ## 🔗 Useful Links
 

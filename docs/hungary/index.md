@@ -18,14 +18,42 @@ description: Complete cost of living guide for Hungary
 | Transport | 1.10€ | ~430 Ft |
 | Cinema | 7€ | ~2,700 Ft |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | HUF (Forint) |
+| **Digital Banking** | Good support (Revolut/Wise) |
+| **Payment** | Mixed |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [BudapestGO](https://bkk.hu/en/budapestgo/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Debrecen](byer/debrecen.md) | 196,250 Ft | |
-| 2 | [Szeged](byer/szeged.md) | 176,625 Ft | |
-| 3 | [Pécs](byer/pecs.md) | 157,000 Ft | |
-| 4 | [Budapest](byer/budapest.md) | 314,000 Ft | Capital |
+| 1 | [Budapest](cities/budapest.md) | 800€ |  |
+| 2 | [Debrecen](cities/debrecen.md) | 500€ |  |
+| 3 | [Gyor](cities/gyor.md) | 550€ |  |
+| 4 | [Miskolc](cities/miskolc.md) | 450€ |  |
+| 5 | [Pécs](cities/pecs.md) | 400€ |  |
+| 6 | [Szeged](cities/szeged.md) | 450€ |  |
+
 
 ## 🔗 Useful Links
 

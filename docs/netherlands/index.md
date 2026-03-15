@@ -18,16 +18,42 @@ description: Complete cost of living guide for Netherlands
 | Transport | 3.50€ | ~3.50€ |
 | Cinema | 12€ | ~12€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; BSN registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant (Maestro/V-Pay) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [9292](https://9292.nl/en) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Groningen](byer/groningen.md) | 1,000€ | |
-| 2 | [Eindhoven](byer/eindhoven.md) | 1,200€ | |
-| 3 | [Utrecht](byer/utrecht.md) | 1,350€ | |
-| 4 | [Den Haag](byer/denhaag.md) | 1,400€ | |
-| 5 | [Rotterdam](byer/rotterdam.md) | 1,500€ | |
-| 6 | [Amsterdam](byer/amsterdam.md) | 2,260€ | Capital |
+| 1 | [Amsterdam](cities/amsterdam.md) | 2,260€ |  |
+| 2 | [The Hague](cities/denhaag.md) | 1,400€ |  |
+| 3 | [Eindhoven](cities/eindhoven.md) | 1,200€ |  |
+| 4 | [Groningen](cities/groningen.md) | 1,000€ |  |
+| 5 | [Rotterdam](cities/rotterdam.md) | 1,500€ |  |
+| 6 | [Utrecht](cities/utrecht.md) | 1,350€ |  |
+
 
 ## 🔗 Useful Links
 

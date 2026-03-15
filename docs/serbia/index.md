@@ -18,15 +18,41 @@ description: Complete cost of living guide for Serbia
 | Transport | 0.80€ | ~94 RSD |
 | Cinema | 5€ | ~585 RSD |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | Non-EU (Candidate) |
+| **Stay Rules** | Schengen rules for stay limits apply. Visa-free for 90 days for most. |
+| **Healthcare** | Private insurance required. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | RSD (Dinar) |
+| **Digital Banking** | Limited Wise/Revolut (Revolut/Wise) |
+| **Payment** | Cash preferred |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐ (2/5) |
+| **Essential App** | [Moovit](https://moovitapp.com/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Niš](byer/nis.md) | 29,250 RSD | |
-| 2 | [Kragujevac](byer/kragujevac.md) | 31,590 RSD | |
-| 3 | [Subotica](byer/subotica.md) | 32,760 RSD | |
-| 4 | [Novi Sad](byer/novisad.md) | 40,950 RSD | |
-| 5 | [Belgrade](byer/belgrade.md) | 58,500 RSD | Capital |
+| 1 | [Belgrade](cities/belgrade.md) | 500€ |  |
+| 2 | [Kragujevac](cities/kragujevac.md) | 270€ |  |
+| 3 | [Niš](cities/nis.md) | 250€ |  |
+| 4 | [Novi Sad](cities/novisad.md) | 350€ |  |
+| 5 | [Subotica](cities/subotica.md) | 280€ |  |
+
 
 ## 🔗 Useful Links
 

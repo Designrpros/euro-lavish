@@ -22,6 +22,21 @@ description: Nyttige verktøy og ressurser for flytting og liv i Europa
 | [IF Forsikring](https://www.if.no) | 🛡️ Reise- og flytteforsikring |
 | [Fremtind](https://www.fremtind.no) | 🛡️ Forsikring |
 
+## 🇳🇴 For Nordmenn i Utlandet
+
+Her er de viktigste ressursene for deg som flytter fra Norge til et annet europeisk land:
+
+### 🏥 Helse & Trygd
+| Tjeneste | Beskrivelse |
+|----------|-------------|
+| [Helsenorge: S1-skjema](https://www.helsenorge.no/medlemskap-i-folketrygden/s1-skjema-dokumentasjon-pa-rett-til-helsetjenester/) | **S1-skjema**: Dokumentasjon på rett til helsetjenester ved flytting. |
+| [NAV: Medlemskap i folketrygden](https://www.nav.no/medlemskap-i-folketrygden) | Regler for medlemskap når du bor i utlandet. |
+| [NAV: Arbeid i utlandet](https://www.nav.no/arbeid-i-utlandet) | Informasjon om trygderettigheter ved jobb i EU/EØS. |
+
+### 🛂 Registrering
+- **Meld flytting**: Husk å [melde flytting til Folkeregisteret](https://www.skatteetaten.no/person/folkeregister/flytte/til-utlandet/) hvis du skal være borte over 6 måneder.
+- **D-nummer/ID**: Sjekk om du trenger å beholde norsk bankID og mobilnumre for tilgang til offentlige tjenester.
+
 ## 📱 Telekom & SIM
 
 | Tjeneste | Beskrivelse |
@@ -68,7 +83,7 @@ description: Nyttige verktøy og ressurser for flytting og liv i Europa
 
 ## 🌐 Annet
 
-| Tjenste | Beskrivelse |
+| Tjeneste | Beskrivelse |
 |---------|-------------|
 | [Numbeo](https://www.numbeo.com) | 📊 Levekostnader |
 | [Expatistan](https://www.expatistan.com) | 📊 Sammenlign levekostnad |

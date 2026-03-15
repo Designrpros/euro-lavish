@@ -18,15 +18,41 @@ description: Complete cost of living guide for Croatia
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 7€ | ~7€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [Uber / Bolt](https://bolt.eu/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Osijek](byer/osijek.md) | 400€ | |
-| 2 | [Split](byer/split.md) | 650€ | Coast |
-| 3 | [Rijeka](byer/rijeka.md) | 550€ | |
-| 4 | [Zagreb](byer/zagreb.md) | 700€ | Capital |
-| 5 | [Dubrovnik](byer/dubrovnik.md) | 800€ | Tourist |
+| 1 | [Dubrovnik](cities/dubrovnik.md) | 800€ |  |
+| 2 | [Osijek](cities/osijek.md) | 400€ |  |
+| 3 | [Rijeka](cities/rijeka.md) | 550€ |  |
+| 4 | [Split](cities/split.md) | 650€ |  |
+| 5 | [Zagreb](cities/zagreb.md) | 700€ |  |
+
 
 ## 🔗 Useful Links
 

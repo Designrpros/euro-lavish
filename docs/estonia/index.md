@@ -18,15 +18,42 @@ description: Complete cost of living guide for Estonia
 | Transport | 2€ | ~2€ |
 | Cinema | 8€ | ~8€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; residence registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [Bolt](https://bolt.eu/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Narva](byer/narva.md) | 350€ | |
-| 2 | [Kohtla-Järve](byer/kohtla-jarve.md) | 320€ | |
-| 3 | [Pärnu](byer/parnu.md) | 450€ | |
-| 4 | [Tartu](byer/tartu.md) | 500€ | University |
-| 5 | [Tallinn](byer/tallinn.md) | 698€ | Capital |
+| 1 | [Kohtla-Järve](cities/kohtla-jarve.md) | 320€ |  |
+| 2 | [Kohtla-Järve](cities/kohtla.md) | 350€ |  |
+| 3 | [Narva](cities/narva.md) | 350€ |  |
+| 4 | [Pärnu](cities/parnu.md) | 450€ |  |
+| 5 | [Tallinn](cities/tallinn.md) | 698€ |  |
+| 6 | [Tartu](cities/tartu.md) | 500€ |  |
+
 
 ## 🔗 Useful Links
 

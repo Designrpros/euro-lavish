@@ -18,15 +18,41 @@ description: Complete cost of living guide for Romania
 | Transport | 0.70€ | ~3.50 RON |
 | Cinema | 6€ | ~30 RON |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | RON (Leu) |
+| **Digital Banking** | Good support (Revolut/Wise) |
+| **Payment** | Mixed (Cash preferred in small towns) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [Bolt / Uber](https://bolt.eu/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Târgu Mureș](byer/targumures.md) | 1,888 RON | |
-| 2 | [Iași](byer/iasi.md) | 2,235 RON | |
-| 3 | [Timișoara](byer/timisoara.md) | 2,483 RON | |
-| 4 | [Cluj-Napoca](byer/cluj.md) | 2,980 RON | |
-| 5 | [Bucharest](byer/bucharest.md) | 3,477 RON | Capital |
+| 1 | [Bucharest](cities/bucharest.md) | 700€ |  |
+| 2 | [Cluj-Napoca](cities/cluj.md) | 600€ |  |
+| 3 | [Iași](cities/iasi.md) | 450€ |  |
+| 4 | [Târgu Mureș](cities/targumures.md) | 380€ |  |
+| 5 | [Timișoara](cities/timisoara.md) | 500€ |  |
+
 
 ## 🔗 Useful Links
 

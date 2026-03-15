@@ -18,13 +18,41 @@ description: Complete cost of living guide for Ireland
 | Transport | 3€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required for long stays. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [TFI Live](https://www.transportforireland.ie/tfi-live-app/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Galway](byer/galway.md) | 1,200€ | |
-| 2 | [Cork](byer/cork.md) | 1,400€ | 2nd city |
-| 3 | [Dublin](byer/dublin.md) | 2,300€ | Capital |
+| 1 | [Cork](cities/cork.md) | 1,400€ |  |
+| 2 | [Dublin](cities/dublin.md) | 2,300€ |  |
+| 3 | [Galway](cities/galway.md) | 1,200€ |  |
+| 4 | [Limerick](cities/limerick.md) | 1,400€ |  |
+| 5 | [Waterford](cities/waterford.md) | 1,200€ |  |
+
 
 ## 🔗 Useful Links
 

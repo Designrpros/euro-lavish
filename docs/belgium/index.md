@@ -18,13 +18,42 @@ description: Complete cost of living guide for Belgium
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 12€ | ~12€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card widely accepted |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [SNCB / NMBS](https://www.belgiantrain.be/en/travel-info/prepare-for-your-journey/sncb-app) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Ghent](byer/ghent.md) | 900€ | |
-| 2 | [Antwerp](byer/antwerp.md) | 1,000€ | |
-| 3 | [Brussels](byer/brussels.md) | 1,200€ | Capital |
+| 1 | [Antwerp](cities/antwerp.md) | 1,000€ |  |
+| 2 | [Bruges](cities/bruges.md) | 950€ |  |
+| 3 | [Brussels](cities/brussels.md) | 1,200€ |  |
+| 4 | [Ghent](cities/ghent.md) | 900€ |  |
+| 5 | [Leuven](cities/leuven.md) | 1,100€ |  |
+| 6 | [Liege](cities/liege.md) | 750€ |  |
+
 
 ## 🔗 Useful Links
 

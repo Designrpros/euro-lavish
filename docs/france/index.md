@@ -18,16 +18,42 @@ description: Complete cost of living guide for France
 | Transport | 2.10€ | ~2.10€ |
 | Cinema | 12€ | ~12€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; long-stay visa for non-EU. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [Citymapper / SNCF](https://www.sncf.com/en/passenger-offer/sncf-app) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Nantes](byer/nantes.md) | 750€ | |
-| 2 | [Toulouse](byer/toulouse.md) | 800€ | |
-| 3 | [Marseille](byer/marseille.md) | 850€ | |
-| 4 | [Lyon](byer/lyon.md) | 950€ | 2nd city |
-| 5 | [Nice](byer/nice.md) | 1,100€ | |
-| 6 | [Paris](byer/paris.md) | 2,000€ | Capital |
+| 1 | [Lyon](cities/lyon.md) | 950€ |  |
+| 2 | [Marseille](cities/marseille.md) | 850€ |  |
+| 3 | [Nantes](cities/nantes.md) | 750€ |  |
+| 4 | [Nice](cities/nice.md) | 1,100€ |  |
+| 5 | [Paris](cities/paris.md) | 2,000€ |  |
+| 6 | [Toulouse](cities/toulouse.md) | 800€ |  |
+
 
 ## 🔗 Useful Links
 

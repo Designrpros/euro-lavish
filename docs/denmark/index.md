@@ -18,17 +18,45 @@ description: Complete cost of living guide for Denmark
 | Transport | 3.40€ | ~25 kr |
 | Cinema | 13€ | ~97 kr |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required for 3+ months. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | DKK |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [Rejseplanen](https://www.rejseplanen.dk/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Esbjerg](byer/esbjerg.md) | 5,952 kr | Port city |
-| 2 | [Randers](byer/randers.md) | 6,200 kr | |
-| 3 | [Kolding](byer/kolding.md) | 6,500 kr | |
-| 4 | [Herning](byer/herning.md) | 6,800 kr | |
-| 5 | [Odense](byer/odense.md) | 7,068 kr | 2nd city |
-| 6 | [Aarhus](byer/aarhus.md) | 8,928 kr | University |
-| 7 | [Copenhagen](byer/copenhagen.md) | 13,200 kr | Capital |
+| 1 | [Aarhus](cities/aarhus.md) | 1,200€ |  |
+| 2 | [Copenhagen](cities/copenhagen.md) | 1,775€ |  |
+| 3 | [Esbjerg](cities/esbjerg.md) | 850€ |  |
+| 4 | [Herning](cities/herning.md) | 800€ |  |
+| 5 | [Copenhagen](cities/kobenhavn.md) | 1,775€ |  |
+| 6 | [Kolding](cities/kolding.md) | 900€ |  |
+| 7 | [Odense](cities/odense.md) | 950€ |  |
+| 8 | [Randers](cities/randers.md) | --- |  |
+| 9 | [Roskilde](cities/roskilde.md) | --- |  |
+
 
 ## 🔗 Useful Links
 

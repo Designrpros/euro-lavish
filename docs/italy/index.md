@@ -18,16 +18,42 @@ description: Complete cost of living guide for Italy
 | Transport | 1.50€ | ~1.50€ |
 | Cinema | 10€ | ~10€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed (Cash for small shops) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [Moovit / FreeNow](https://moovitapp.com/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Naples](byer/naples.md) | 750€ | |
-| 2 | [Turin](byer/turin.md) | 850€ | |
-| 3 | [Bologna](byer/bologna.md) | 950€ | |
-| 4 | [Florence](byer/florence.md) | 1,200€ | |
-| 5 | [Rome](byer/rome.md) | 1,500€ | Capital |
-| 6 | [Milan](byer/milan.md) | 1,600€ | Finance |
+| 1 | [Bologna](cities/bologna.md) | 950€ |  |
+| 2 | [Florence](cities/florence.md) | 1,200€ |  |
+| 3 | [Milan](cities/milan.md) | 1,600€ |  |
+| 4 | [Naples](cities/naples.md) | 750€ |  |
+| 5 | [Rome](cities/rome.md) | 1,500€ |  |
+| 6 | [Turin](cities/turin.md) | 850€ |  |
+
 
 ## 🔗 Useful Links
 

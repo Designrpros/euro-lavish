@@ -62,7 +62,7 @@ def enhance_city_file(filepath):
 def main():
     base_path = "/home/vegar/.openclaw/workspace/costofliving/europa/docs"
     for root, dirs, files in os.walk(base_path):
-        if "/byer" in root:
+        if "/cities" in root:
             for file in files:
                 if file.endswith(".md") and file != "alle.md":
                     enhance_city_file(os.path.join(root, file))

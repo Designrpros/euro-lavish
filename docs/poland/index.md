@@ -18,15 +18,41 @@ description: Complete cost of living guide for Poland
 | Transport | 1.10€ | ~4.70 zł |
 | Cinema | 7€ | ~30 zł |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | PLN (Złoty) |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed (Card widely accepted) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐ (3/5) |
+| **Essential App** | [Jakdojade](https://jakdojade.pl/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Wroclaw](byer/wroclaw.md) | 3,225 zł | |
-| 2 | [Krakow](byer/krakow.md) | 3,440 zł | |
-| 3 | [Gdańsk](byer/gdansk.md) | 3,870 zł | |
-| 4 | [Poznań](byer/poznan.md) | 3,655 zł | |
-| 5 | [Warsaw](byer/warsaw.md) | 4,300 zł | Capital |
+| 1 | [Gdańsk](cities/gdansk.md) | 900€ |  |
+| 2 | [Krakow](cities/krakow.md) | 800€ |  |
+| 3 | [Poznań](cities/poznan.md) | 850€ |  |
+| 4 | [Warsaw](cities/warsaw.md) | 1,000€ |  |
+| 5 | [Wroclaw](cities/wroclaw.md) | 750€ |  |
+
 
 ## 🔗 Useful Links
 

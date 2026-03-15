@@ -18,13 +18,41 @@ description: Complete cost of living guide for Switzerland
 | Transport | 4.50€ | ~4.50 CHF |
 | Cinema | 20€ | ~20 CHF |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EFTA/Schengen (Non-EU) |
+| **Stay Rules** | Schengen area. 90-day stay free; permit required for work/long stay. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | CHF (Franc) |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [SBB Mobile](https://www.sbb.ch/en/travel-information/apps/sbb-mobile.html) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Bern](byer/bern.md) | 1,800 CHF | |
-| 2 | [Geneva](byer/geneva.md) | 2,500 CHF | |
-| 3 | [Zurich](byer/zurich.md) | 2,800 CHF | Capital |
+| 1 | [Basel](cities/basel.md) | 1,800€ |  |
+| 2 | [Bern](cities/bern.md) | --- |  |
+| 3 | [Geneva](cities/geneva.md) | --- |  |
+| 4 | [Lausanne](cities/lausanne.md) | 2,100€ |  |
+| 5 | [Zurich](cities/zurich.md) | 2,800€ |  |
+
 
 ## 🔗 Useful Links
 

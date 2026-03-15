@@ -18,14 +18,42 @@ description: Complete cost of living guide for Iceland
 | Transport | 4€ | ~580 kr |
 | Cinema | 14€ | ~2,000 kr |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EEA Member |
+| **Stay Rules** | Schengen area. 90-day free stay; registration required for 3+ months. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | ISK |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [Strætó](https://www.straeto.is/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Akureyri](byer/akureyri.md) | 173,400 kr | North |
-| 2 | [Kópavogur](byer/kopavogur.md) | 216,750 kr | |
-| 3 | [Hafnarfjörður](byer/hoskuldseyri.md) | 202,300 kr | |
-| 4 | [Reykjavik](byer/reykjavik.md) | 260,000 kr | Capital |
+| 1 | [Akureyri](cities/akureyri.md) | 1,200€ |  |
+| 2 | [Hafnarfjordur](cities/hafnarfjordur.md) | 1,600€ |  |
+| 3 | [Hafnarfjörður](cities/hoskuldseyri.md) | 1,400€ |  |
+| 4 | [Keflavik](cities/keflavik.md) | 1,400€ |  |
+| 5 | [Kópavogur](cities/kopavogur.md) | 1,500€ |  |
+| 6 | [Reykjavik](cities/reykjavik.md) | 1,800€ |  |
+
 
 ## 🔗 Useful Links
 

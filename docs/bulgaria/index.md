@@ -18,15 +18,41 @@ description: Complete cost of living guide for Bulgaria
 | Transport | 0.80€ | ~0.80€ |
 | Cinema | 5€ | ~5€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | BGN (Lev) |
+| **Digital Banking** | Good support (Revolut/Wise) |
+| **Payment** | Cash preferred |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐ (2/5) |
+| **Essential App** | [Moovit](https://moovitapp.com/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Veliko Tarnovo](byer/velikoturnovo.md) | 380€ | |
-| 2 | [Burgas](byer/burgas.md) | 400€ | |
-| 3 | [Plovdiv](byer/plovdiv.md) | 450€ | |
-| 4 | [Varna](byer/varna.md) | 500€ | |
-| 5 | [Sofia](byer/sofia.md) | 669€ | Capital |
+| 1 | [Burgas](cities/burgas.md) | 400€ |  |
+| 2 | [Plovdiv](cities/plovdiv.md) | 450€ |  |
+| 3 | [Sofia](cities/sofia.md) | 669€ |  |
+| 4 | [Varna](cities/varna.md) | 500€ |  |
+| 5 | [Veliko Tarnovo](cities/velikoturnovo.md) | 380€ |  |
+
 
 ## 🔗 Useful Links
 

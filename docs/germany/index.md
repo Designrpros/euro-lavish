@@ -18,17 +18,43 @@ description: Complete cost of living guide for Germany
 | Transport | 2.90€ | ~2.90€ |
 | Cinema | 10€ | ~10€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; 'Anmeldung' required. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Mixed (Cash still king in some places) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [DB Navigator](https://www.bahn.de/service/mobile/db-navigator) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Leipzig](byer/leipzig.md) | 750€ | |
-| 2 | [Stuttgart](byer/stuttgart.md) | 1,050€ | |
-| 3 | [Cologne](byer/cologne.md) | 1,100€ | |
-| 4 | [Frankfurt](byer/frankfurt.md) | 1,400€ | Finance |
-| 5 | [Hamburg](byer/hamburg.md) | 1,300€ | Port |
-| 6 | [München](byer/munich.md) | 1,800€ | Most expensive |
-| 7 | [Berlin](byer/berlin.md) | 1,270€ | Capital |
+| 1 | [Berlin](cities/berlin.md) | 1,270€ |  |
+| 2 | [Cologne](cities/cologne.md) | 1,100€ |  |
+| 3 | [Frankfurt](cities/frankfurt.md) | 1,400€ |  |
+| 4 | [Hamburg](cities/hamburg.md) | 1,300€ |  |
+| 5 | [Leipzig](cities/leipzig.md) | 750€ |  |
+| 6 | [Munich](cities/munich.md) | 1,800€ |  |
+| 7 | [Stuttgart](cities/stuttgart.md) | 1,050€ |  |
+
 
 ## 🔗 Useful Links
 

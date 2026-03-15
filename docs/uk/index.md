@@ -18,17 +18,43 @@ description: Complete cost of living guide for UK
 | Transport | 3.50€ | ~3£ |
 | Cinema | 15€ | ~13£ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | Non-EU |
+| **Stay Rules** | Visa-free for 6 months (tourism). Visa required for work/study. |
+| **Healthcare** | Private insurance recommended (GHIC for UK residents only). |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | GBP (Pound) |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [Citymapper](https://citymapper.com/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Liverpool](byer/liverpool.md) | 750£ | |
-| 2 | [Leeds](byer/leeds.md) | 800£ | |
-| 3 | [Glasgow](byer/glasgow.md) | 825£ | |
-| 4 | [Birmingham](byer/birmingham.md) | 955£ | |
-| 5 | [Manchester](byer/manchester.md) | 1,215£ | |
-| 6 | [Edinburgh](byer/edinburgh.md) | 1,129£ | |
-| 7 | [London](byer/london.md) | 2,200£ | Capital |
+| 1 | [Birmingham](cities/birmingham.md) | 1,100€ |  |
+| 2 | [Edinburgh](cities/edinburgh.md) | 1,300€ |  |
+| 3 | [Glasgow](cities/glasgow.md) | 950€ |  |
+| 4 | [Leeds](cities/leeds.md) | --- |  |
+| 5 | [Liverpool](cities/liverpool.md) | --- |  |
+| 6 | [London](cities/london.md) | 2,530€ |  |
+| 7 | [Manchester](cities/manchester.md) | 1,400€ |  |
+
 
 ## 🔗 Useful Links
 

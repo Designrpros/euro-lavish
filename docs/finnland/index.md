@@ -18,15 +18,42 @@ description: Complete cost of living guide for Finland
 | Transport | 3€ | ~3€ |
 | Cinema | 12€ | ~12€ |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required for 3+ months. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | EUR |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card dominant |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐ (4/5) |
+| **Essential App** | [HSL](https://www.hsl.fi/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Lahti](byer/lahti.md) | 700€ | |
-| 2 | [Oulu](byer/oulu.md) | 750€ | |
-| 3 | [Turku](byer/turku.md) | 800€ | |
-| 4 | [Tampere](byer/tampere.md) | 850€ | |
-| 5 | [Helsinki](byer/helsinki.md) | 1,300€ | Capital |
+| 1 | [Helsinki](cities/helsinki.md) | 1,100€ |  |
+| 2 | [Kuopio](cities/kuopio.md) | 650€ |  |
+| 3 | [Lahti](cities/lahti.md) | 700€ |  |
+| 4 | [Oulu](cities/oulu.md) | 750€ |  |
+| 5 | [Tampere](cities/tampere.md) | 850€ |  |
+| 6 | [Turku](cities/turku.md) | 800€ |  |
+
 
 ## 🔗 Useful Links
 

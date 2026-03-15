@@ -22,10 +22,10 @@ description: Komplett levekostnad-guide for {LAND}
 
 | # | By | Leie/mnd | Merknad |
 |---|-----|----------|---------|
-| 1 | [BY1](byer/by1.md) | {LEIE1} | {MERKNAD1} |
-| 2 | [BY2](byer/by2.md) | {LEIE2} | {MERKNAD2} |
+| 1 | [BY1](cities/by1.md) | {LEIE1} | {MERKNAD1} |
+| 2 | [BY2](cities/by2.md) | {LEIE2} | {MERKNAD2} |
 | ... | ... | ... | ... |
-| 10 | [BY10](byer/by10.md) | {LEIE10} | {MERKNAD10} |
+| 10 | [BY10](cities/by10.md) | {LEIE10} | {MERKNAD10} |
 
 ---
 

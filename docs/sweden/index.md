@@ -18,17 +18,45 @@ description: Complete cost of living guide for Sweden
 | Transport | 4€ | ~44 kr |
 | Cinema | 14€ | ~154 kr |
 
+
+## 🇪🇺 European Resident Info
+
+| Category | Details |
+|----------|---------|
+| **Status** | EU Member |
+| **Stay Rules** | EU rules apply. 90-day free stay; registration required for 3+ months. |
+| **Healthcare** | EHIC valid. |
+
+## 💰 Currency & Finance
+
+| Category | Details |
+|----------|---------|
+| **Currency** | SEK |
+| **Digital Banking** | Full support (Revolut/Wise) |
+| **Payment** | Card (Mostly cashless) |
+
+## 🛠️ Practical Living
+
+| Category | Details |
+|----------|---------|
+| **English Level** | ⭐⭐⭐⭐⭐ (5/5) |
+| **Essential App** | [SL](https://sl.se/) |
+
+
 ## 🏙️ Cities (Cheapest → Expensive)
 
 | # | City | Rent/month | Note |
 |---|------|------------|------|
-| 1 | [Västerås](byer/vasteras.md) | 8,250 kr | |
-| 2 | [Örebro](byer/orebro.md) | 8,250 kr | |
-| 3 | [Linköping](byer/linkoping.md) | 8,800 kr | |
-| 4 | [Uppsala](byer/uppsala.md) | 9,350 kr | University |
-| 5 | [Malmö](byer/malmo.md) | 9,900 kr | |
-| 6 | [Göteborg](byer/goteborg.md) | 12,100 kr | 2nd city |
-| 7 | [Stockholm](byer/stockholm.md) | 15,500 kr | Capital |
+| 1 | [Gothenburg](cities/goteborg.md) | 1,100€ |  |
+| 2 | [Jönköping](cities/jonkoping.md) | --- |  |
+| 3 | [Linköping](cities/linkoping.md) | 800€ |  |
+| 4 | [Lund](cities/lund.md) | --- |  |
+| 5 | [Malmö](cities/malmo.md) | 900€ |  |
+| 6 | [Örebro](cities/orebro.md) | 750€ |  |
+| 7 | [Stockholm](cities/stockholm.md) | 1,404€ |  |
+| 8 | [Uppsala](cities/uppsala.md) | 850€ |  |
+| 9 | [Västerås](cities/vasteras.md) | 750€ |  |
+
 
 ## 🔗 Useful Links
 
