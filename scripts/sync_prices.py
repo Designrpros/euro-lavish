@@ -22,26 +22,44 @@ METRICS = {
 }
 
 def fetch_numbeo_data(city_name):
-    """Fetches and parses Numbeo data for a given city."""
-    # Format city for URL (e.g., "Novi Sad" -> "Novi-Sad") 
-    # Use urllib.parse.quote for cities with special characters (e.g. Košice -> Ko%C5%A1ice)
+    """Fetches and parses Numbeo data for a given city with retry logic."""
     city_url = requests.utils.quote(city_name.replace(" ", "-"))
     url = f"https://www.numbeo.com/cost-of-living/in/{city_url}?displayCurrency=EUR"
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'User-Agent': random.choice([
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15',
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0'
+        ]),
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.5',
         'Connection': 'keep-alive',
         'Upgrade-Insecure-Requests': '1'
     }
     
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        html = response.text
-    except Exception as e:
-        print(f"  [X] Could not fetch {url}: {e}")
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            # If rate limited, raise the HTTPError to catch it below
+            response.raise_for_status()
+            html = response.text
+            break # Success, break out of retry loop
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 429:
+                wait_time = (attempt + 1) * 60 + random.uniform(5, 15)
+                print(f"  [!] HTTP 429 Rate Limit hit. Sleeping for {wait_time:.0f} seconds (Attempt {attempt+1}/{max_retries})...")
+                time.sleep(wait_time)
+                continue
+            else:
+                print(f"  [X] HTTP Error {response.status_code} for {url}: {e}")
+                return None
+        except Exception as e:
+            print(f"  [X] Could not fetch {url}: {e}")
+            return None
+    else:
+        print(f"  [X] Max retries reached for {url}.")
         return None
 
     soup = BeautifulSoup(html, 'html.parser')
@@ -136,7 +154,7 @@ def run_sync():
                             print(f"  [-] No changes needed for {city_name}")
                     
                     # Be polite to the server to avoid Rate Limits
-                    sleep_time = random.uniform(3.0, 5.0)
+                    sleep_time = random.uniform(8.0, 15.0)
                     time.sleep(sleep_time)
                     
     print(f"\nSync Complete! Updated {updated_files} out of {total_files} cities.")
