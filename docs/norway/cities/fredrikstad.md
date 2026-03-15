@@ -33,7 +33,7 @@ description: Cost of Living in Fredrikstad
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFredrikstad) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFredrikstad) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Fredrikstad) | [Hotels](https://www.booking.com/searchresults.html?ss=Fredrikstad) |
 | [Airbnb](https://www.airbnb.com/s/Fredrikstad--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Fredrikstad
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Fredrikstad](https://www.reddit.com/r/Fredrikstad/) |
-| 📍 **TripAdvisor** | [Things to do in Fredrikstad](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFredrikstad) |
-| 📖 **Lonely Planet** | [Fredrikstad Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFredrikstad) |
+| 📍 **TripAdvisor** | [Things to do in Fredrikstad](https://www.tripadvisor.com/Search?q=Fredrikstad) |
+| 📖 **Lonely Planet** | [Fredrikstad Guide](https://www.lonelyplanet.com/search?q=Fredrikstad) |
 
 ## 🚀 Digital Nomad Hub
 

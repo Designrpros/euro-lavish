@@ -30,25 +30,25 @@ description: Cost of Living in Bergen
 | 🥾 **Hiking Trails** | [Find Trails in Bergen](https://www.google.com/maps/search/Hiking+Trails+in+Bergen) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Opus XVI](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOpus%20XVI%20Bergen) — Historic luxury inspired by Edvard Grieg.
-- **Budget**: [Klosterhagen Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKlosterhagen%20Hotel%20Bergen) — Charming and quiet, close to the center.
-- **Hostel**: [HI Bergen Hostel Montana](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHI%20Bergen%20Hostel%20Montana%20Bergen) — Legendary views and great hiking access.
+- **Luxury**: [Opus XVI](https://www.booking.com/searchresults.html?ss=Opus XVI Bergen) — Historic luxury inspired by Edvard Grieg.
+- **Budget**: [Klosterhagen Hotel](https://www.booking.com/searchresults.html?ss=Klosterhagen Hotel Bergen) — Charming and quiet, close to the center.
+- **Hostel**: [HI Bergen Hostel Montana](https://www.booking.com/searchresults.html?ss=HI Bergen Hostel Montana Bergen) — Legendary views and great hiking access.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBergen) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBergen) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bergen) | [Hotels](https://www.booking.com/searchresults.html?ss=Bergen) |
 | [Airbnb](https://www.airbnb.com/s/Bergen--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Fløibanen Funicular](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFl%C3%B8ibanen%20Funicular%20Bergen) — Panoramic views of the city and fjords.
+- **Top Activity**: [Fløibanen Funicular](https://www.tripadvisor.com/Search?q=Fløibanen Funicular Bergen) — Panoramic views of the city and fjords.
 - **Social**: [Find Bergen on Reddit](https://www.reddit.com/r/Bergen/)
 - **Activities**: [Viator Tours in Bergen](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBergen)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bergen](https://www.reddit.com/r/Bergen/) |
-| 📍 **TripAdvisor** | [Things to do in Bergen](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBergen) |
-| 📖 **Lonely Planet** | [Bergen Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBergen) |
+| 📍 **TripAdvisor** | [Things to do in Bergen](https://www.tripadvisor.com/Search?q=Bergen) |
+| 📖 **Lonely Planet** | [Bergen Guide](https://www.lonelyplanet.com/search?q=Bergen) |
 
 ## 🚀 Digital Nomad Hub
 

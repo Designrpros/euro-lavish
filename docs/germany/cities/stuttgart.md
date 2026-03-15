@@ -30,25 +30,25 @@ description: Cost of Living in Stuttgart
 | 🥾 **Hiking Trails** | [Find Trails in Stuttgart](https://www.google.com/maps/search/Hiking+Trails+in+Stuttgart) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Maritim Hotel Stuttgart](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMaritim%20Hotel%20Stuttgart%20Stuttgart) — Classic luxury with an incredible wellness center.
-- **Budget**: [a&o Stuttgart City](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3Da%26o%20Stuttgart%20City%20Stuttgart) — Vast, reliable, and very affordable central stay.
-- **Hostel**: [Jugendherberge Stuttgart](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJugendherberge%20Stuttgart%20Stuttgart) — Hilltop hostel with the best city panoramas.
+- **Luxury**: [Maritim Hotel Stuttgart](https://www.booking.com/searchresults.html?ss=Maritim Hotel Stuttgart Stuttgart) — Classic luxury with an incredible wellness center.
+- **Budget**: [a&o Stuttgart City](https://www.booking.com/searchresults.html?ss=a&o Stuttgart City Stuttgart) — Vast, reliable, and very affordable central stay.
+- **Hostel**: [Jugendherberge Stuttgart](https://www.booking.com/searchresults.html?ss=Jugendherberge Stuttgart Stuttgart) — Hilltop hostel with the best city panoramas.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStuttgart) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStuttgart) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Stuttgart) | [Hotels](https://www.booking.com/searchresults.html?ss=Stuttgart) |
 | [Airbnb](https://www.airbnb.com/s/Stuttgart--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Mercedes-Benz Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMercedes-Benz%20Museum%20Stuttgart) — A futuristic journey through automotive history.
+- **Top Activity**: [Mercedes-Benz Museum](https://www.tripadvisor.com/Search?q=Mercedes-Benz Museum Stuttgart) — A futuristic journey through automotive history.
 - **Social**: [Find Stuttgart on Reddit](https://www.reddit.com/r/Stuttgart/)
 - **Activities**: [Viator Tours in Stuttgart](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DStuttgart)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Stuttgart](https://www.reddit.com/r/Stuttgart/) |
-| 📍 **TripAdvisor** | [Things to do in Stuttgart](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DStuttgart) |
-| 📖 **Lonely Planet** | [Stuttgart Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStuttgart) |
+| 📍 **TripAdvisor** | [Things to do in Stuttgart](https://www.tripadvisor.com/Search?q=Stuttgart) |
+| 📖 **Lonely Planet** | [Stuttgart Guide](https://www.lonelyplanet.com/search?q=Stuttgart) |
 
 ## 🚀 Digital Nomad Hub
 

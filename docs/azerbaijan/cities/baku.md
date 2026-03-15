@@ -31,7 +31,7 @@ description: Cost of Living in Baku
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaku) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaku) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Baku) | [Hotels](https://www.booking.com/searchresults.html?ss=Baku) |
 | [Airbnb](https://www.airbnb.com/s/Baku--Azerbaijan) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Baku
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Baku](https://www.reddit.com/r/Baku/) |
-| 📍 **TripAdvisor** | [Things to do in Baku](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBaku) |
-| 📖 **Lonely Planet** | [Baku Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBaku) |
+| 📍 **TripAdvisor** | [Things to do in Baku](https://www.tripadvisor.com/Search?q=Baku) |
+| 📖 **Lonely Planet** | [Baku Guide](https://www.lonelyplanet.com/search?q=Baku) |
 
 ## 🚀 Digital Nomad Hub
 

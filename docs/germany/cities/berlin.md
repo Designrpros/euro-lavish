@@ -30,25 +30,25 @@ description: Cost of Living in Berlin
 | 🥾 **Hiking Trails** | [Find Trails in Berlin](https://www.google.com/maps/search/Hiking+Trails+in+Berlin) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Adlon Kempinski](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Adlon%20Kempinski%20Berlin) — Berlin's historic and most prestigious hotel.
-- **Budget**: [Heart of Gold Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeart%20of%20Gold%20Hostel%20Berlin) — Inspired by 'Hitchhiker’s Guide to the Galaxy'.
-- **Hostel**: [Circus Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCircus%20Hostel%20Berlin) — Social hub with its own microbrewery and museum.
+- **Luxury**: [Hotel Adlon Kempinski](https://www.booking.com/searchresults.html?ss=Hotel Adlon Kempinski Berlin) — Berlin's historic and most prestigious hotel.
+- **Budget**: [Heart of Gold Hostel](https://www.booking.com/searchresults.html?ss=Heart of Gold Hostel Berlin) — Inspired by 'Hitchhiker’s Guide to the Galaxy'.
+- **Hostel**: [Circus Hostel](https://www.booking.com/searchresults.html?ss=Circus Hostel Berlin) — Social hub with its own microbrewery and museum.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBerlin) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBerlin) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Berlin) | [Hotels](https://www.booking.com/searchresults.html?ss=Berlin) |
 | [Airbnb](https://www.airbnb.com/s/Berlin--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Brandenburg Gate](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrandenburg%20Gate%20Berlin) — The monumental symbol of German unity.
+- **Top Activity**: [Brandenburg Gate](https://www.tripadvisor.com/Search?q=Brandenburg Gate Berlin) — The monumental symbol of German unity.
 - **Social**: [Find Berlin on Reddit](https://www.reddit.com/r/Berlin/)
 - **Activities**: [Viator Tours in Berlin](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBerlin)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Berlin](https://www.reddit.com/r/Berlin/) |
-| 📍 **TripAdvisor** | [Things to do in Berlin](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBerlin) |
-| 📖 **Lonely Planet** | [Berlin Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBerlin) |
+| 📍 **TripAdvisor** | [Things to do in Berlin](https://www.tripadvisor.com/Search?q=Berlin) |
+| 📖 **Lonely Planet** | [Berlin Guide](https://www.lonelyplanet.com/search?q=Berlin) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Budapest
 | 🥾 **Hiking Trails** | [Find Trails in Budapest](https://www.google.com/maps/search/Hiking+Trails+in+Budapest) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Four Seasons Gresham Palace](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Gresham%20Palace%20Budapest) — Art Nouveau masterpiece on the Danube.
-- **Budget**: [Maverick City Lodge](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMaverick%20City%20Lodge%20Budapest) — Modern boutique hostel in the vibrant Jewish Quarter.
-- **Hostel**: [Onefam Budapest](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOnefam%20Budapest%20Budapest) — Consistently rated the best social hostel in Hungary.
+- **Luxury**: [Four Seasons Gresham Palace](https://www.booking.com/searchresults.html?ss=Four Seasons Gresham Palace Budapest) — Art Nouveau masterpiece on the Danube.
+- **Budget**: [Maverick City Lodge](https://www.booking.com/searchresults.html?ss=Maverick City Lodge Budapest) — Modern boutique hostel in the vibrant Jewish Quarter.
+- **Hostel**: [Onefam Budapest](https://www.booking.com/searchresults.html?ss=Onefam Budapest Budapest) — Consistently rated the best social hostel in Hungary.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudapest) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudapest) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Budapest) | [Hotels](https://www.booking.com/searchresults.html?ss=Budapest) |
 | [Airbnb](https://www.airbnb.com/s/Budapest--Hungary) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Parliament Building](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DParliament%20Building%20Budapest) — Stunning neo-gothic icon of the Hungarian capital.
+- **Top Activity**: [Parliament Building](https://www.tripadvisor.com/Search?q=Parliament Building Budapest) — Stunning neo-gothic icon of the Hungarian capital.
 - **Social**: [Find Budapest on Reddit](https://www.reddit.com/r/Budapest/)
 - **Activities**: [Viator Tours in Budapest](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBudapest)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Budapest](https://www.reddit.com/r/Budapest/) |
-| 📍 **TripAdvisor** | [Things to do in Budapest](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBudapest) |
-| 📖 **Lonely Planet** | [Budapest Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBudapest) |
+| 📍 **TripAdvisor** | [Things to do in Budapest](https://www.tripadvisor.com/Search?q=Budapest) |
+| 📖 **Lonely Planet** | [Budapest Guide](https://www.lonelyplanet.com/search?q=Budapest) |
 
 ## 🚀 Digital Nomad Hub
 

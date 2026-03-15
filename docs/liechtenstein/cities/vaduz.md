@@ -31,7 +31,7 @@ description: Cost of Living in Vaduz
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVaduz) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVaduz) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Vaduz) | [Hotels](https://www.booking.com/searchresults.html?ss=Vaduz) |
 | [Airbnb](https://www.airbnb.com/s/Vaduz--Liechtenstein) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Vaduz
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Vaduz](https://www.reddit.com/r/Vaduz/) |
-| 📍 **TripAdvisor** | [Things to do in Vaduz](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVaduz) |
-| 📖 **Lonely Planet** | [Vaduz Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVaduz) |
+| 📍 **TripAdvisor** | [Things to do in Vaduz](https://www.tripadvisor.com/Search?q=Vaduz) |
+| 📖 **Lonely Planet** | [Vaduz Guide](https://www.lonelyplanet.com/search?q=Vaduz) |
 
 ## 🚀 Digital Nomad Hub
 

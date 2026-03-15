@@ -30,25 +30,25 @@ description: Cost of Living in Bologna
 | 🥾 **Hiking Trails** | [Find Trails in Bologna](https://www.google.com/maps/search/Hiking+Trails+in+Bologna) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Grand Hotel Majestic](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrand%20Hotel%20Majestic%20Bologna) — Regal luxury in the city's oldest and most prestigious hotel.
-- **Budget**: [I Portici Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DI%20Portici%20Hotel%20Bologna) — Modern elegance under the city's iconic porticoes.
-- **Hostel**: [Dopa Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDopa%20Hostel%20Bologna) — Stylish, creative, and right in the heart of the university district.
+- **Luxury**: [Grand Hotel Majestic](https://www.booking.com/searchresults.html?ss=Grand Hotel Majestic Bologna) — Regal luxury in the city's oldest and most prestigious hotel.
+- **Budget**: [I Portici Hotel](https://www.booking.com/searchresults.html?ss=I Portici Hotel Bologna) — Modern elegance under the city's iconic porticoes.
+- **Hostel**: [Dopa Hostel](https://www.booking.com/searchresults.html?ss=Dopa Hostel Bologna) — Stylish, creative, and right in the heart of the university district.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBologna) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBologna) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bologna) | [Hotels](https://www.booking.com/searchresults.html?ss=Bologna) |
 | [Airbnb](https://www.airbnb.com/s/Bologna--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Piazza Maggiore](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPiazza%20Maggiore%20Bologna) — The grand soul of Italy's culinary capital.
+- **Top Activity**: [Piazza Maggiore](https://www.tripadvisor.com/Search?q=Piazza Maggiore Bologna) — The grand soul of Italy's culinary capital.
 - **Social**: [Find Bologna on Reddit](https://www.reddit.com/r/Bologna/)
 - **Activities**: [Viator Tours in Bologna](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBologna)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bologna](https://www.reddit.com/r/Bologna/) |
-| 📍 **TripAdvisor** | [Things to do in Bologna](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBologna) |
-| 📖 **Lonely Planet** | [Bologna Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBologna) |
+| 📍 **TripAdvisor** | [Things to do in Bologna](https://www.tripadvisor.com/Search?q=Bologna) |
+| 📖 **Lonely Planet** | [Bologna Guide](https://www.lonelyplanet.com/search?q=Bologna) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Bratislava
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBratislava) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBratislava) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bratislava) | [Hotels](https://www.booking.com/searchresults.html?ss=Bratislava) |
 | [Airbnb](https://www.airbnb.com/s/Bratislava--Slovakia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Bratislava
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bratislava](https://www.reddit.com/r/Bratislava/) |
-| 📍 **TripAdvisor** | [Things to do in Bratislava](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBratislava) |
-| 📖 **Lonely Planet** | [Bratislava Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBratislava) |
+| 📍 **TripAdvisor** | [Things to do in Bratislava](https://www.tripadvisor.com/Search?q=Bratislava) |
+| 📖 **Lonely Planet** | [Bratislava Guide](https://www.lonelyplanet.com/search?q=Bratislava) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Tallinn
 | 🥾 **Hiking Trails** | [Find Trails in Tallinn](https://www.google.com/maps/search/Hiking+Trails+in+Tallinn) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Telegraaf](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Telegraaf%20Tallinn) — Historic charm meets modern luxury in Old Town.
-- **Budget**: [City Hotel Tallinn](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCity%20Hotel%20Tallinn%20Tallinn) — Simple, clean, and incredible value.
-- **Hostel**: [Fat Margaret's](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFat%20Margaret%27s%20Tallinn) — Perfectly located with a Finnish sauna.
+- **Luxury**: [Hotel Telegraaf](https://www.booking.com/searchresults.html?ss=Hotel Telegraaf Tallinn) — Historic charm meets modern luxury in Old Town.
+- **Budget**: [City Hotel Tallinn](https://www.booking.com/searchresults.html?ss=City Hotel Tallinn Tallinn) — Simple, clean, and incredible value.
+- **Hostel**: [Fat Margaret's](https://www.booking.com/searchresults.html?ss=Fat Margaret's Tallinn) — Perfectly located with a Finnish sauna.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTallinn) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTallinn) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Tallinn) | [Hotels](https://www.booking.com/searchresults.html?ss=Tallinn) |
 | [Airbnb](https://www.airbnb.com/s/Tallinn--Estonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Old Town Medieval Walk](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Town%20Medieval%20Walk%20Tallinn) — One of the best-preserved medieval towns in Europe.
+- **Top Activity**: [Old Town Medieval Walk](https://www.tripadvisor.com/Search?q=Old Town Medieval Walk Tallinn) — One of the best-preserved medieval towns in Europe.
 - **Social**: [Find Tallinn on Reddit](https://www.reddit.com/r/Tallinn/)
 - **Activities**: [Viator Tours in Tallinn](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DTallinn)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tallinn](https://www.reddit.com/r/Tallinn/) |
-| 📍 **TripAdvisor** | [Things to do in Tallinn](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTallinn) |
-| 📖 **Lonely Planet** | [Tallinn Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTallinn) |
+| 📍 **TripAdvisor** | [Things to do in Tallinn](https://www.tripadvisor.com/Search?q=Tallinn) |
+| 📖 **Lonely Planet** | [Tallinn Guide](https://www.lonelyplanet.com/search?q=Tallinn) |
 
 ## 🚀 Digital Nomad Hub
 

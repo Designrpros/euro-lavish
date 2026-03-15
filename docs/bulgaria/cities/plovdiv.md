@@ -33,7 +33,7 @@ description: Cost of Living in Plovdiv
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlovdiv) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlovdiv) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Plovdiv) | [Hotels](https://www.booking.com/searchresults.html?ss=Plovdiv) |
 | [Airbnb](https://www.airbnb.com/s/Plovdiv--Bulgaria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Plovdiv
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Plovdiv](https://www.reddit.com/r/Plovdiv/) |
-| 📍 **TripAdvisor** | [Things to do in Plovdiv](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlovdiv) |
-| 📖 **Lonely Planet** | [Plovdiv Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPlovdiv) |
+| 📍 **TripAdvisor** | [Things to do in Plovdiv](https://www.tripadvisor.com/Search?q=Plovdiv) |
+| 📖 **Lonely Planet** | [Plovdiv Guide](https://www.lonelyplanet.com/search?q=Plovdiv) |
 
 ## 🚀 Digital Nomad Hub
 

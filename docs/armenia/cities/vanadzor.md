@@ -31,7 +31,7 @@ description: Cost of Living in Vanadzor
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVanadzor) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVanadzor) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Vanadzor) | [Hotels](https://www.booking.com/searchresults.html?ss=Vanadzor) |
 | [Airbnb](https://www.airbnb.com/s/Vanadzor--Armenia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Vanadzor
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Vanadzor](https://www.reddit.com/r/Vanadzor/) |
-| 📍 **TripAdvisor** | [Things to do in Vanadzor](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVanadzor) |
-| 📖 **Lonely Planet** | [Vanadzor Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVanadzor) |
+| 📍 **TripAdvisor** | [Things to do in Vanadzor](https://www.tripadvisor.com/Search?q=Vanadzor) |
+| 📖 **Lonely Planet** | [Vanadzor Guide](https://www.lonelyplanet.com/search?q=Vanadzor) |
 
 ## 🚀 Digital Nomad Hub
 

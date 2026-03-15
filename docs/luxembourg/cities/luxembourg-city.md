@@ -31,7 +31,7 @@ description: Cost of Living in Luxembourg City
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLuxembourg) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLuxembourg) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Luxembourg) | [Hotels](https://www.booking.com/searchresults.html?ss=Luxembourg) |
 | [Airbnb](https://www.airbnb.com/s/Luxembourg--Luxembourg) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Luxembourg City
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Luxembourg](https://www.reddit.com/r/Luxembourg/) |
-| 📍 **TripAdvisor** | [Things to do in Luxembourg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLuxembourg) |
-| 📖 **Lonely Planet** | [Luxembourg Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLuxembourg) |
+| 📍 **TripAdvisor** | [Things to do in Luxembourg](https://www.tripadvisor.com/Search?q=Luxembourg) |
+| 📖 **Lonely Planet** | [Luxembourg Guide](https://www.lonelyplanet.com/search?q=Luxembourg) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Istanbul
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DIstanbul) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DIstanbul) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Istanbul) | [Hotels](https://www.booking.com/searchresults.html?ss=Istanbul) |
 | [Airbnb](https://www.airbnb.com/s/Istanbul--Turkey (European)) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Istanbul
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Istanbul](https://www.reddit.com/r/Istanbul/) |
-| 📍 **TripAdvisor** | [Things to do in Istanbul](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DIstanbul) |
-| 📖 **Lonely Planet** | [Istanbul Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DIstanbul) |
+| 📍 **TripAdvisor** | [Things to do in Istanbul](https://www.tripadvisor.com/Search?q=Istanbul) |
+| 📖 **Lonely Planet** | [Istanbul Guide](https://www.lonelyplanet.com/search?q=Istanbul) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -33,7 +33,7 @@ description: Cost of Living in Ghent
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGhent) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGhent) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Ghent) | [Hotels](https://www.booking.com/searchresults.html?ss=Ghent) |
 | [Airbnb](https://www.airbnb.com/s/Ghent--Belgium) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Ghent
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Ghent](https://www.reddit.com/r/Ghent/) |
-| 📍 **TripAdvisor** | [Things to do in Ghent](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGhent) |
-| 📖 **Lonely Planet** | [Ghent Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGhent) |
+| 📍 **TripAdvisor** | [Things to do in Ghent](https://www.tripadvisor.com/Search?q=Ghent) |
+| 📖 **Lonely Planet** | [Ghent Guide](https://www.lonelyplanet.com/search?q=Ghent) |
 
 ## 🚀 Digital Nomad Hub
 

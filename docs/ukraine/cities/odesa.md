@@ -31,7 +31,7 @@ description: Cost of Living in Odesa
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOdesa) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOdesa) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Odesa) | [Hotels](https://www.booking.com/searchresults.html?ss=Odesa) |
 | [Airbnb](https://www.airbnb.com/s/Odesa--Ukraine) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Odesa
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Odesa](https://www.reddit.com/r/Odesa/) |
-| 📍 **TripAdvisor** | [Things to do in Odesa](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOdesa) |
-| 📖 **Lonely Planet** | [Odesa Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DOdesa) |
+| 📍 **TripAdvisor** | [Things to do in Odesa](https://www.tripadvisor.com/Search?q=Odesa) |
+| 📖 **Lonely Planet** | [Odesa Guide](https://www.lonelyplanet.com/search?q=Odesa) |
 
 ## 🚀 Digital Nomad Hub
 

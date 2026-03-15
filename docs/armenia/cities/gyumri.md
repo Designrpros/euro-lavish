@@ -31,7 +31,7 @@ description: Cost of Living in Gyumri
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGyumri) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGyumri) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Gyumri) | [Hotels](https://www.booking.com/searchresults.html?ss=Gyumri) |
 | [Airbnb](https://www.airbnb.com/s/Gyumri--Armenia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Gyumri
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Gyumri](https://www.reddit.com/r/Gyumri/) |
-| 📍 **TripAdvisor** | [Things to do in Gyumri](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGyumri) |
-| 📖 **Lonely Planet** | [Gyumri Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGyumri) |
+| 📍 **TripAdvisor** | [Things to do in Gyumri](https://www.tripadvisor.com/Search?q=Gyumri) |
+| 📖 **Lonely Planet** | [Gyumri Guide](https://www.lonelyplanet.com/search?q=Gyumri) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Hamburg
 | 🥾 **Hiking Trails** | [Find Trails in Hamburg](https://www.google.com/maps/search/Hiking+Trails+in+Hamburg) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Fairmont Vier Jahreszeiten](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFairmont%20Vier%20Jahreszeiten%20Hamburg) — The gold standard of classic European luxury.
-- **Budget**: [Holiday Inn Berliner Tor](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%20Inn%20Berliner%20Tor%20Hamburg) — Reliable and modern stay with great transit links.
-- **Hostel**: [Pauli Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPauli%20Hostel%20Hamburg) — Located in the heart of the iconic St. Pauli district.
+- **Luxury**: [Fairmont Vier Jahreszeiten](https://www.booking.com/searchresults.html?ss=Fairmont Vier Jahreszeiten Hamburg) — The gold standard of classic European luxury.
+- **Budget**: [Holiday Inn Berliner Tor](https://www.booking.com/searchresults.html?ss=Holiday Inn Berliner Tor Hamburg) — Reliable and modern stay with great transit links.
+- **Hostel**: [Pauli Hostel](https://www.booking.com/searchresults.html?ss=Pauli Hostel Hamburg) — Located in the heart of the iconic St. Pauli district.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHamburg) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHamburg) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Hamburg) | [Hotels](https://www.booking.com/searchresults.html?ss=Hamburg) |
 | [Airbnb](https://www.airbnb.com/s/Hamburg--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Elbphilharmonie](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DElbphilharmonie%20Hamburg) — Modern architectural masterpiece overlooking the harbor.
+- **Top Activity**: [Elbphilharmonie](https://www.tripadvisor.com/Search?q=Elbphilharmonie Hamburg) — Modern architectural masterpiece overlooking the harbor.
 - **Social**: [Find Hamburg on Reddit](https://www.reddit.com/r/Hamburg/)
 - **Activities**: [Viator Tours in Hamburg](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DHamburg)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Hamburg](https://www.reddit.com/r/Hamburg/) |
-| 📍 **TripAdvisor** | [Things to do in Hamburg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHamburg) |
-| 📖 **Lonely Planet** | [Hamburg Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHamburg) |
+| 📍 **TripAdvisor** | [Things to do in Hamburg](https://www.tripadvisor.com/Search?q=Hamburg) |
+| 📖 **Lonely Planet** | [Hamburg Guide](https://www.lonelyplanet.com/search?q=Hamburg) |
 
 ## 🚀 Digital Nomad Hub
 

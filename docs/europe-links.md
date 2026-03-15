@@ -70,8 +70,8 @@ description: General links for the whole of Europe
 
 | Link | Description |
 |-------|-------------|
-| [Lonely Planet](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com) | Travel guides |
-| [TripAdvisor](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com) | Reviews |
+| [Lonely Planet](https://www.lonelyplanet.com) | Travel guides |
+| [TripAdvisor](https://www.tripadvisor.com) | Reviews |
 | [Wikivoyage](https://en.wikivoyage.org) | Free travel guides |
 | [Eurostat](https://ec.europa.eu/eurostat) | EU statistics |
 

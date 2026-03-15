@@ -31,7 +31,7 @@ description: Cost of Living in Riga
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiga) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiga) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Riga) | [Hotels](https://www.booking.com/searchresults.html?ss=Riga) |
 | [Airbnb](https://www.airbnb.com/s/Riga--Latvia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Riga
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Riga](https://www.reddit.com/r/Riga/) |
-| 📍 **TripAdvisor** | [Things to do in Riga](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRiga) |
-| 📖 **Lonely Planet** | [Riga Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRiga) |
+| 📍 **TripAdvisor** | [Things to do in Riga](https://www.tripadvisor.com/Search?q=Riga) |
+| 📖 **Lonely Planet** | [Riga Guide](https://www.lonelyplanet.com/search?q=Riga) |
 
 ## 🚀 Digital Nomad Hub
 

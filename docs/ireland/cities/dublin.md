@@ -30,25 +30,25 @@ description: Cost of Living in Dublin
 | 🥾 **Hiking Trails** | [Find Trails in Dublin](https://www.google.com/maps/search/Hiking+Trails+in+Dublin) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Shelbourne](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Shelbourne%20Dublin) — Dublin's most distinguished and historic hotel.
-- **Budget**: [Generator Dublin](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGenerator%20Dublin%20Dublin) — Vibrant design hostel in the trendy Smithfield area.
-- **Hostel**: [Abbey Court](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAbbey%20Court%20Dublin) — Perfect central location with fun social events.
+- **Luxury**: [The Shelbourne](https://www.booking.com/searchresults.html?ss=The Shelbourne Dublin) — Dublin's most distinguished and historic hotel.
+- **Budget**: [Generator Dublin](https://www.booking.com/searchresults.html?ss=Generator Dublin Dublin) — Vibrant design hostel in the trendy Smithfield area.
+- **Hostel**: [Abbey Court](https://www.booking.com/searchresults.html?ss=Abbey Court Dublin) — Perfect central location with fun social events.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDublin) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDublin) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) | [Hotels](https://www.booking.com/searchresults.html?ss=Dublin) |
 | [Airbnb](https://www.airbnb.com/s/Dublin--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Guinness Storehouse](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGuinness%20Storehouse%20Dublin) — Learn the history of Ireland’s most famous export.
+- **Top Activity**: [Guinness Storehouse](https://www.tripadvisor.com/Search?q=Guinness Storehouse Dublin) — Learn the history of Ireland’s most famous export.
 - **Social**: [Find Dublin on Reddit](https://www.reddit.com/r/Dublin/)
 - **Activities**: [Viator Tours in Dublin](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DDublin)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Dublin](https://www.reddit.com/r/Dublin/) |
-| 📍 **TripAdvisor** | [Things to do in Dublin](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDublin) |
-| 📖 **Lonely Planet** | [Dublin Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDublin) |
+| 📍 **TripAdvisor** | [Things to do in Dublin](https://www.tripadvisor.com/Search?q=Dublin) |
+| 📖 **Lonely Planet** | [Dublin Guide](https://www.lonelyplanet.com/search?q=Dublin) |
 
 ## 🚀 Digital Nomad Hub
 

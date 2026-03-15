@@ -30,25 +30,25 @@ description: Cost of Living in Toulouse
 | 🥾 **Hiking Trails** | [Find Trails in Toulouse](https://www.google.com/maps/search/Hiking+Trails+in+Toulouse) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [La Cour des Consuls](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLa%20Cour%20des%20Consuls%20Toulouse) — Restored 18th-century palace in the historic center.
-- **Budget**: [hotelF1 Toulouse](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DhotelF1%20Toulouse%20Toulouse) — The ultimate budget-friendly stay for travelers on the move.
-- **Hostel**: [La Petite Auberge](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLa%20Petite%20Auberge%20Toulouse) — Charming, low-key hostel with a great social garden area.
+- **Luxury**: [La Cour des Consuls](https://www.booking.com/searchresults.html?ss=La Cour des Consuls Toulouse) — Restored 18th-century palace in the historic center.
+- **Budget**: [hotelF1 Toulouse](https://www.booking.com/searchresults.html?ss=hotelF1 Toulouse Toulouse) — The ultimate budget-friendly stay for travelers on the move.
+- **Hostel**: [La Petite Auberge](https://www.booking.com/searchresults.html?ss=La Petite Auberge Toulouse) — Charming, low-key hostel with a great social garden area.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DToulouse) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DToulouse) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Toulouse) | [Hotels](https://www.booking.com/searchresults.html?ss=Toulouse) |
 | [Airbnb](https://www.airbnb.com/s/Toulouse--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Place du Capitole](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPlace%20du%20Capitole%20Toulouse) — The grand pink-brick heart of the 'Ville Rose'.
+- **Top Activity**: [Place du Capitole](https://www.tripadvisor.com/Search?q=Place du Capitole Toulouse) — The grand pink-brick heart of the 'Ville Rose'.
 - **Social**: [Find Toulouse on Reddit](https://www.reddit.com/r/Toulouse/)
 - **Activities**: [Viator Tours in Toulouse](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DToulouse)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Toulouse](https://www.reddit.com/r/Toulouse/) |
-| 📍 **TripAdvisor** | [Things to do in Toulouse](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DToulouse) |
-| 📖 **Lonely Planet** | [Toulouse Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DToulouse) |
+| 📍 **TripAdvisor** | [Things to do in Toulouse](https://www.tripadvisor.com/Search?q=Toulouse) |
+| 📖 **Lonely Planet** | [Toulouse Guide](https://www.lonelyplanet.com/search?q=Toulouse) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Lisbon
 | 🥾 **Hiking Trails** | [Find Trails in Lisbon](https://www.google.com/maps/search/Hiking+Trails+in+Lisbon) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Lumiares](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Lumiares%20Lisbon) — Boutique luxury in the heart of Bairro Alto.
-- **Budget**: [Memmo Príncipe Real](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMemmo%20Pr%C3%ADncipe%20Real%20Lisbon) — Minimalist design with panoramic city views.
-- **Hostel**: [Home Lisbon Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHome%20Lisbon%20Hostel%20Lisbon) — Famous for 'Mamma's Dinners' and cozy atmosphere.
+- **Luxury**: [The Lumiares](https://www.booking.com/searchresults.html?ss=The Lumiares Lisbon) — Boutique luxury in the heart of Bairro Alto.
+- **Budget**: [Memmo Príncipe Real](https://www.booking.com/searchresults.html?ss=Memmo Príncipe Real Lisbon) — Minimalist design with panoramic city views.
+- **Hostel**: [Home Lisbon Hostel](https://www.booking.com/searchresults.html?ss=Home Lisbon Hostel Lisbon) — Famous for 'Mamma's Dinners' and cozy atmosphere.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLisbon) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLisbon) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Lisbon) | [Hotels](https://www.booking.com/searchresults.html?ss=Lisbon) |
 | [Airbnb](https://www.airbnb.com/s/Lisbon--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Belém Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBel%C3%A9m%20Tower%20Lisbon) — Historic fortress on the Tagus riverfront.
+- **Top Activity**: [Belém Tower](https://www.tripadvisor.com/Search?q=Belém Tower Lisbon) — Historic fortress on the Tagus riverfront.
 - **Social**: [Find Lisbon on Reddit](https://www.reddit.com/r/Lisbon/)
 - **Activities**: [Viator Tours in Lisbon](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DLisbon)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lisbon](https://www.reddit.com/r/Lisbon/) |
-| 📍 **TripAdvisor** | [Things to do in Lisbon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLisbon) |
-| 📖 **Lonely Planet** | [Lisbon Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLisbon) |
+| 📍 **TripAdvisor** | [Things to do in Lisbon](https://www.tripadvisor.com/Search?q=Lisbon) |
+| 📖 **Lonely Planet** | [Lisbon Guide](https://www.lonelyplanet.com/search?q=Lisbon) |
 
 ## 🚀 Digital Nomad Hub
 

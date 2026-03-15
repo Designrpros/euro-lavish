@@ -117,7 +117,7 @@ When planning an extended stay abroad, there are three critical legal deadlines 
 |---------|-------------|
 | [Numbeo](https://www.numbeo.com) | 📊 Cost of living data |
 | [Expatistan](https://www.expatistan.com) | 📊 Compare cost of living |
-| [TripAdvisor](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com) | 🎯 Travel reviews |
+| [TripAdvisor](https://www.tripadvisor.com) | 🎯 Travel reviews |
 | [Wikivoyage](https://en.wikivoyage.org) | 📖 Free travel guides |
 
 ---

@@ -31,7 +31,7 @@ description: Cost of Living in Larnaca
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLarnaca) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLarnaca) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Larnaca) | [Hotels](https://www.booking.com/searchresults.html?ss=Larnaca) |
 | [Airbnb](https://www.airbnb.com/s/Larnaca--Cyprus) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Larnaca
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Larnaca](https://www.reddit.com/r/Larnaca/) |
-| 📍 **TripAdvisor** | [Things to do in Larnaca](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLarnaca) |
-| 📖 **Lonely Planet** | [Larnaca Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLarnaca) |
+| 📍 **TripAdvisor** | [Things to do in Larnaca](https://www.tripadvisor.com/Search?q=Larnaca) |
+| 📖 **Lonely Planet** | [Larnaca Guide](https://www.lonelyplanet.com/search?q=Larnaca) |
 
 ## 🚀 Digital Nomad Hub
 

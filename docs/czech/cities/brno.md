@@ -30,25 +30,25 @@ description: Cost of Living in Brno
 | 🥾 **Hiking Trails** | [Find Trails in Brno](https://www.google.com/maps/search/Hiking+Trails+in+Brno) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Barceló Brno Palace](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBarcel%C3%B3%20Brno%20Palace%20Brno) — Historic prestige in a stunning neo-Renaissance palace.
-- **Budget**: [Hostel Jacob](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Jacob%20Brno) — Friendly atmosphere right on the main square.
-- **Hostel**: [Hostel 10-Z](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%2010-Z%20Brno) — Sleep in a former nuclear fallout shelter.
+- **Luxury**: [Barceló Brno Palace](https://www.booking.com/searchresults.html?ss=Barceló Brno Palace Brno) — Historic prestige in a stunning neo-Renaissance palace.
+- **Budget**: [Hostel Jacob](https://www.booking.com/searchresults.html?ss=Hostel Jacob Brno) — Friendly atmosphere right on the main square.
+- **Hostel**: [Hostel 10-Z](https://www.booking.com/searchresults.html?ss=Hostel 10-Z Brno) — Sleep in a former nuclear fallout shelter.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrno) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrno) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Brno) | [Hotels](https://www.booking.com/searchresults.html?ss=Brno) |
 | [Airbnb](https://www.airbnb.com/s/Brno--Czechia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Spilberk Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSpilberk%20Castle%20Brno) — Former fortress and prison with panoramic views.
+- **Top Activity**: [Spilberk Castle](https://www.tripadvisor.com/Search?q=Spilberk Castle Brno) — Former fortress and prison with panoramic views.
 - **Social**: [Find Brno on Reddit](https://www.reddit.com/r/Brno/)
 - **Activities**: [Viator Tours in Brno](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBrno)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Brno](https://www.reddit.com/r/Brno/) |
-| 📍 **TripAdvisor** | [Things to do in Brno](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrno) |
-| 📖 **Lonely Planet** | [Brno Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrno) |
+| 📍 **TripAdvisor** | [Things to do in Brno](https://www.tripadvisor.com/Search?q=Brno) |
+| 📖 **Lonely Planet** | [Brno Guide](https://www.lonelyplanet.com/search?q=Brno) |
 
 ## 🚀 Digital Nomad Hub
 

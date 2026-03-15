@@ -30,25 +30,25 @@ description: Cost of Living in Valletta
 | 🥾 **Hiking Trails** | [Find Trails in Valletta](https://www.google.com/maps/search/Hiking+Trails+in+Valletta) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Phoenicia Malta](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Phoenicia%20Malta%20Valletta) — Classic luxury just outside the historic city walls.
-- **Budget**: [Osborne Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOsborne%20Hotel%20Valletta) — Modern comfort in a historic palace within Valletta.
-- **Hostel**: [Valletta Merisi Suites](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta%20Merisi%20Suites%20Valletta) — Boutique apartments with a shared historic character.
+- **Luxury**: [The Phoenicia Malta](https://www.booking.com/searchresults.html?ss=The Phoenicia Malta Valletta) — Classic luxury just outside the historic city walls.
+- **Budget**: [Osborne Hotel](https://www.booking.com/searchresults.html?ss=Osborne Hotel Valletta) — Modern comfort in a historic palace within Valletta.
+- **Hostel**: [Valletta Merisi Suites](https://www.booking.com/searchresults.html?ss=Valletta Merisi Suites Valletta) — Boutique apartments with a shared historic character.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DValletta) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Valletta) | [Hotels](https://www.booking.com/searchresults.html?ss=Valletta) |
 | [Airbnb](https://www.airbnb.com/s/Valletta--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [St. John's Co-Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSt.%20John%27s%20Co-Cathedral%20Valletta) — Breathtaking baroque interior and Caravaggio masterpieces.
+- **Top Activity**: [St. John's Co-Cathedral](https://www.tripadvisor.com/Search?q=St. John's Co-Cathedral Valletta) — Breathtaking baroque interior and Caravaggio masterpieces.
 - **Social**: [Find Valletta on Reddit](https://www.reddit.com/r/Valletta/)
 - **Activities**: [Viator Tours in Valletta](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DValletta)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Valletta](https://www.reddit.com/r/Valletta/) |
-| 📍 **TripAdvisor** | [Things to do in Valletta](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DValletta) |
-| 📖 **Lonely Planet** | [Valletta Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DValletta) |
+| 📍 **TripAdvisor** | [Things to do in Valletta](https://www.tripadvisor.com/Search?q=Valletta) |
+| 📖 **Lonely Planet** | [Valletta Guide](https://www.lonelyplanet.com/search?q=Valletta) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Košice
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKošice) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKošice) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Košice) | [Hotels](https://www.booking.com/searchresults.html?ss=Košice) |
 | [Airbnb](https://www.airbnb.com/s/Košice--Slovakia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Košice
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Košice](https://www.reddit.com/r/Košice/) |
-| 📍 **TripAdvisor** | [Things to do in Košice](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKošice) |
-| 📖 **Lonely Planet** | [Košice Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKošice) |
+| 📍 **TripAdvisor** | [Things to do in Košice](https://www.tripadvisor.com/Search?q=Košice) |
+| 📖 **Lonely Planet** | [Košice Guide](https://www.lonelyplanet.com/search?q=Košice) |
 
 ## 🚀 Digital Nomad Hub
 

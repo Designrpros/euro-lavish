@@ -30,25 +30,25 @@ description: Cost of Living in Florence
 | 🥾 **Hiking Trails** | [Find Trails in Florence](https://www.google.com/maps/search/Hiking+Trails+in+Florence) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Four Seasons Firenze](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Firenze%20Florence) — A Renaissance palace with a private botanical garden.
-- **Budget**: [Hotel Lungarno](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Lungarno%20Florence) — Elegant rooms right on the edge of the Arno River.
-- **Hostel**: [Plus Florence](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPlus%20Florence%20Florence) — Features a rooftop terrace and an outdoor pool.
+- **Luxury**: [Four Seasons Firenze](https://www.booking.com/searchresults.html?ss=Four Seasons Firenze Florence) — A Renaissance palace with a private botanical garden.
+- **Budget**: [Hotel Lungarno](https://www.booking.com/searchresults.html?ss=Hotel Lungarno Florence) — Elegant rooms right on the edge of the Arno River.
+- **Hostel**: [Plus Florence](https://www.booking.com/searchresults.html?ss=Plus Florence Florence) — Features a rooftop terrace and an outdoor pool.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFlorence) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFlorence) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Florence) | [Hotels](https://www.booking.com/searchresults.html?ss=Florence) |
 | [Airbnb](https://www.airbnb.com/s/Florence--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Uffizi Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DUffizi%20Gallery%20Florence) — The world's greatest collection of Italian art.
+- **Top Activity**: [Uffizi Gallery](https://www.tripadvisor.com/Search?q=Uffizi Gallery Florence) — The world's greatest collection of Italian art.
 - **Social**: [Find Florence on Reddit](https://www.reddit.com/r/Florence/)
 - **Activities**: [Viator Tours in Florence](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DFlorence)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Florence](https://www.reddit.com/r/Florence/) |
-| 📍 **TripAdvisor** | [Things to do in Florence](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFlorence) |
-| 📖 **Lonely Planet** | [Florence Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFlorence) |
+| 📍 **TripAdvisor** | [Things to do in Florence](https://www.tripadvisor.com/Search?q=Florence) |
+| 📖 **Lonely Planet** | [Florence Guide](https://www.lonelyplanet.com/search?q=Florence) |
 
 ## 🚀 Digital Nomad Hub
 

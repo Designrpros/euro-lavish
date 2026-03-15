@@ -31,7 +31,7 @@ description: Cost of Living in Klaipėda
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKlaipėda) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKlaipėda) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Klaipėda) | [Hotels](https://www.booking.com/searchresults.html?ss=Klaipėda) |
 | [Airbnb](https://www.airbnb.com/s/Klaipėda--Lithuania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Klaipėda
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Klaipėda](https://www.reddit.com/r/Klaipėda/) |
-| 📍 **TripAdvisor** | [Things to do in Klaipėda](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKlaipėda) |
-| 📖 **Lonely Planet** | [Klaipėda Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKlaipėda) |
+| 📍 **TripAdvisor** | [Things to do in Klaipėda](https://www.tripadvisor.com/Search?q=Klaipėda) |
+| 📖 **Lonely Planet** | [Klaipėda Guide](https://www.lonelyplanet.com/search?q=Klaipėda) |
 
 ## 🚀 Digital Nomad Hub
 

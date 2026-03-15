@@ -30,25 +30,25 @@ description: Cost of Living in Stavanger
 | 🥾 **Hiking Trails** | [Find Trails in Stavanger](https://www.google.com/maps/search/Hiking+Trails+in+Stavanger) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Victoria](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Victoria%20Stavanger) — Historic harbor-front luxury in a stunning 1900 building.
-- **Budget**: [Stavanger Bed & Breakfast](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger%20Bed%20%26%20Breakfast%20Stavanger) — Cozy and friendly stay with a homey local feel.
-- **Hostel**: [Stavanger Hostel St Svithun](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger%20Hostel%20St%20Svithun%20Stavanger) — Convenient and well-equipped stay with a social kitchen.
+- **Luxury**: [Hotel Victoria](https://www.booking.com/searchresults.html?ss=Hotel Victoria Stavanger) — Historic harbor-front luxury in a stunning 1900 building.
+- **Budget**: [Stavanger Bed & Breakfast](https://www.booking.com/searchresults.html?ss=Stavanger Bed & Breakfast Stavanger) — Cozy and friendly stay with a homey local feel.
+- **Hostel**: [Stavanger Hostel St Svithun](https://www.booking.com/searchresults.html?ss=Stavanger Hostel St Svithun Stavanger) — Convenient and well-equipped stay with a social kitchen.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStavanger) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Stavanger) | [Hotels](https://www.booking.com/searchresults.html?ss=Stavanger) |
 | [Airbnb](https://www.airbnb.com/s/Stavanger--Norway) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Preikestolen Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPreikestolen%20Day%20Trip%20Stavanger) — Hike to the world-famous Pulpit Rock viewpoint.
+- **Top Activity**: [Preikestolen Day Trip](https://www.tripadvisor.com/Search?q=Preikestolen Day Trip Stavanger) — Hike to the world-famous Pulpit Rock viewpoint.
 - **Social**: [Find Stavanger on Reddit](https://www.reddit.com/r/Stavanger/)
 - **Activities**: [Viator Tours in Stavanger](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DStavanger)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Stavanger](https://www.reddit.com/r/Stavanger/) |
-| 📍 **TripAdvisor** | [Things to do in Stavanger](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DStavanger) |
-| 📖 **Lonely Planet** | [Stavanger Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DStavanger) |
+| 📍 **TripAdvisor** | [Things to do in Stavanger](https://www.tripadvisor.com/Search?q=Stavanger) |
+| 📖 **Lonely Planet** | [Stavanger Guide](https://www.lonelyplanet.com/search?q=Stavanger) |
 
 ## 🚀 Digital Nomad Hub
 

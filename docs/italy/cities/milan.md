@@ -30,25 +30,25 @@ description: Cost of Living in Milan
 | 🥾 **Hiking Trails** | [Find Trails in Milan](https://www.google.com/maps/search/Hiking+Trails+in+Milan) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Principe di Savoia](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPrincipe%20di%20Savoia%20Milan) — Classic Milanese luxury and timeless prestige.
-- **Budget**: [Hotel Helvetia](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Helvetia%20Milan) — Efficient and well-located for fashion explorers.
-- **Hostel**: [Ostello Bello](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOstello%20Bello%20Milan) — Consistently rated the best hostel experience in Italy.
+- **Luxury**: [Principe di Savoia](https://www.booking.com/searchresults.html?ss=Principe di Savoia Milan) — Classic Milanese luxury and timeless prestige.
+- **Budget**: [Hotel Helvetia](https://www.booking.com/searchresults.html?ss=Hotel Helvetia Milan) — Efficient and well-located for fashion explorers.
+- **Hostel**: [Ostello Bello](https://www.booking.com/searchresults.html?ss=Ostello Bello Milan) — Consistently rated the best hostel experience in Italy.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMilan) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMilan) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Milan) | [Hotels](https://www.booking.com/searchresults.html?ss=Milan) |
 | [Airbnb](https://www.airbnb.com/s/Milan--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Duomo di Milano](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDuomo%20di%20Milano%20Milan) — Take the lift to the roof for stunning gothic spires.
+- **Top Activity**: [Duomo di Milano](https://www.tripadvisor.com/Search?q=Duomo di Milano Milan) — Take the lift to the roof for stunning gothic spires.
 - **Social**: [Find Milan on Reddit](https://www.reddit.com/r/Milan/)
 - **Activities**: [Viator Tours in Milan](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMilan)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Milan](https://www.reddit.com/r/Milan/) |
-| 📍 **TripAdvisor** | [Things to do in Milan](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMilan) |
-| 📖 **Lonely Planet** | [Milan Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMilan) |
+| 📍 **TripAdvisor** | [Things to do in Milan](https://www.tripadvisor.com/Search?q=Milan) |
+| 📖 **Lonely Planet** | [Milan Guide](https://www.lonelyplanet.com/search?q=Milan) |
 
 ## 🚀 Digital Nomad Hub
 

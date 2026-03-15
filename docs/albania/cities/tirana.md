@@ -31,7 +31,7 @@ description: Cost of Living in Tirana
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTirana) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTirana) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Tirana) | [Hotels](https://www.booking.com/searchresults.html?ss=Tirana) |
 | [Airbnb](https://www.airbnb.com/s/Tirana--Albania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Tirana
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tirana](https://www.reddit.com/r/Tirana/) |
-| 📍 **TripAdvisor** | [Things to do in Tirana](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTirana) |
-| 📖 **Lonely Planet** | [Tirana Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTirana) |
+| 📍 **TripAdvisor** | [Things to do in Tirana](https://www.tripadvisor.com/Search?q=Tirana) |
+| 📖 **Lonely Planet** | [Tirana Guide](https://www.lonelyplanet.com/search?q=Tirana) |
 
 ## 🚀 Digital Nomad Hub
 

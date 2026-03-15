@@ -30,12 +30,12 @@ description: Cost of Living in Oslo
 | 🥾 **Hiking Trails** | [Find Trails in Oslo](https://www.google.com/maps/search/Hiking+Trails+in+Oslo) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Sommerro](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSommerro+Oslo) — Stunning Art Deco hotel in an iconic building.
-- **Budget**: [Citybox Oslo](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCitybox+Oslo) — Modern, self-service hotel in the city heart.
-- **Hostel**: [Bunks at Rode](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBunks+at+Rode+Oslo) — Boutique hostel with a great social vibe.
+- **Luxury**: [Sommerro](https://www.booking.com/searchresults.html?ss=Sommerro+Oslo) — Stunning Art Deco hotel in an iconic building.
+- **Budget**: [Citybox Oslo](https://www.booking.com/searchresults.html?ss=Citybox+Oslo) — Modern, self-service hotel in the city heart.
+- **Hostel**: [Bunks at Rode](https://www.booking.com/searchresults.html?ss=Bunks+at+Rode+Oslo) — Boutique hostel with a great social vibe.
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Munch Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMunch%20Museum%20Oslo) — Explore the world-famous 'The Scream' and more.
+- **Top Activity**: [Munch Museum](https://www.tripadvisor.com/Search?q=Munch Museum Oslo) — Explore the world-famous 'The Scream' and more.
 - **Social**: [Find Oslo on Reddit](https://www.reddit.com/r/Oslo/)
 - **Activities**: [Viator Tours in Oslo](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DOslo)
 - **Guide**: [Lonely Planet Oslo](https://www.lonelyplanet.com/search?q=Oslo)

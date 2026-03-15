@@ -30,25 +30,25 @@ description: Cost of Living in Zagreb
 | 🥾 **Hiking Trails** | [Find Trails in Zagreb](https://www.google.com/maps/search/Hiking+Trails+in+Zagreb) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Esplanade Zagreb](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEsplanade%20Zagreb%20Zagreb) — Classic Art Nouveau elegance near the station.
-- **Budget**: [Swanky Mint](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSwanky%20Mint%20Zagreb) — Former dry-cleaner factory turned into a cool hub.
-- **Hostel**: [Dormero Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDormero%20Hotel%20Zagreb) — Modern and quirky stay with great city access.
+- **Luxury**: [Esplanade Zagreb](https://www.booking.com/searchresults.html?ss=Esplanade Zagreb Zagreb) — Classic Art Nouveau elegance near the station.
+- **Budget**: [Swanky Mint](https://www.booking.com/searchresults.html?ss=Swanky Mint Zagreb) — Former dry-cleaner factory turned into a cool hub.
+- **Hostel**: [Dormero Hotel](https://www.booking.com/searchresults.html?ss=Dormero Hotel Zagreb) — Modern and quirky stay with great city access.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZagreb) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZagreb) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Zagreb) | [Hotels](https://www.booking.com/searchresults.html?ss=Zagreb) |
 | [Airbnb](https://www.airbnb.com/s/Zagreb--Croatia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Museum of Broken Relationships](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMuseum%20of%20Broken%20Relationships%20Zagreb) — A unique and emotionally touching experience.
+- **Top Activity**: [Museum of Broken Relationships](https://www.tripadvisor.com/Search?q=Museum of Broken Relationships Zagreb) — A unique and emotionally touching experience.
 - **Social**: [Find Zagreb on Reddit](https://www.reddit.com/r/Zagreb/)
 - **Activities**: [Viator Tours in Zagreb](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DZagreb)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Zagreb](https://www.reddit.com/r/Zagreb/) |
-| 📍 **TripAdvisor** | [Things to do in Zagreb](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DZagreb) |
-| 📖 **Lonely Planet** | [Zagreb Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DZagreb) |
+| 📍 **TripAdvisor** | [Things to do in Zagreb](https://www.tripadvisor.com/Search?q=Zagreb) |
+| 📖 **Lonely Planet** | [Zagreb Guide](https://www.lonelyplanet.com/search?q=Zagreb) |
 
 ## 🚀 Digital Nomad Hub
 

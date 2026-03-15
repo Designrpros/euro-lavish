@@ -30,25 +30,25 @@ description: Cost of Living in Warsaw
 | 🥾 **Hiking Trails** | [Find Trails in Warsaw](https://www.google.com/maps/search/Hiking+Trails+in+Warsaw) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Westin Warsaw](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWestin%20Warsaw%20Warsaw) — Contemporary luxury with a stunning glass elevator.
-- **Budget**: [Hostel Wawa Star](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Wawa%20Star%20Warsaw) — Clean, reliable, and very budget-friendly.
-- **Hostel**: [Oki Doki Old Town](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOki%20Doki%20Old%20Town%20Warsaw) — Historic building with unique, artist-designed rooms.
+- **Luxury**: [Westin Warsaw](https://www.booking.com/searchresults.html?ss=Westin Warsaw Warsaw) — Contemporary luxury with a stunning glass elevator.
+- **Budget**: [Hostel Wawa Star](https://www.booking.com/searchresults.html?ss=Hostel Wawa Star Warsaw) — Clean, reliable, and very budget-friendly.
+- **Hostel**: [Oki Doki Old Town](https://www.booking.com/searchresults.html?ss=Oki Doki Old Town Warsaw) — Historic building with unique, artist-designed rooms.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWarsaw) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWarsaw) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Warsaw) | [Hotels](https://www.booking.com/searchresults.html?ss=Warsaw) |
 | [Airbnb](https://www.airbnb.com/s/Warsaw--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Royal Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Castle%20Warsaw) — Meticulously rebuilt symbol of Polish history.
+- **Top Activity**: [Royal Castle](https://www.tripadvisor.com/Search?q=Royal Castle Warsaw) — Meticulously rebuilt symbol of Polish history.
 - **Social**: [Find Warsaw on Reddit](https://www.reddit.com/r/Warsaw/)
 - **Activities**: [Viator Tours in Warsaw](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DWarsaw)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Warsaw](https://www.reddit.com/r/Warsaw/) |
-| 📍 **TripAdvisor** | [Things to do in Warsaw](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWarsaw) |
-| 📖 **Lonely Planet** | [Warsaw Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWarsaw) |
+| 📍 **TripAdvisor** | [Things to do in Warsaw](https://www.tripadvisor.com/Search?q=Warsaw) |
+| 📖 **Lonely Planet** | [Warsaw Guide](https://www.lonelyplanet.com/search?q=Warsaw) |
 
 ## 🚀 Digital Nomad Hub
 

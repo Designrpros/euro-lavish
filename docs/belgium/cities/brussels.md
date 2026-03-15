@@ -30,25 +30,25 @@ description: Cost of Living in Brussels
 | 🥾 **Hiking Trails** | [Find Trails in Brussels](https://www.google.com/maps/search/Hiking+Trails+in+Brussels) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Amigo](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Amigo%20Brussels) — Refined elegance steps away from Grand Place.
-- **Budget**: [MEININGER Brussels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMEININGER%20Brussels%20Brussels) — Cool design hotel in a former carbon factory.
-- **Hostel**: [Sleep Well Youth Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSleep%20Well%20Youth%20Hostel%20Brussels) — Central, green, and very well-equipped.
+- **Luxury**: [Hotel Amigo](https://www.booking.com/searchresults.html?ss=Hotel Amigo Brussels) — Refined elegance steps away from Grand Place.
+- **Budget**: [MEININGER Brussels](https://www.booking.com/searchresults.html?ss=MEININGER Brussels Brussels) — Cool design hotel in a former carbon factory.
+- **Hostel**: [Sleep Well Youth Hostel](https://www.booking.com/searchresults.html?ss=Sleep Well Youth Hostel Brussels) — Central, green, and very well-equipped.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrussels) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBrussels) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Brussels) | [Hotels](https://www.booking.com/searchresults.html?ss=Brussels) |
 | [Airbnb](https://www.airbnb.com/s/Brussels--Belgium) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Grand Place](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGrand%20Place%20Brussels) — One of the most beautiful town squares in the world.
+- **Top Activity**: [Grand Place](https://www.tripadvisor.com/Search?q=Grand Place Brussels) — One of the most beautiful town squares in the world.
 - **Social**: [Find Brussels on Reddit](https://www.reddit.com/r/Brussels/)
 - **Activities**: [Viator Tours in Brussels](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBrussels)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Brussels](https://www.reddit.com/r/Brussels/) |
-| 📍 **TripAdvisor** | [Things to do in Brussels](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBrussels) |
-| 📖 **Lonely Planet** | [Brussels Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBrussels) |
+| 📍 **TripAdvisor** | [Things to do in Brussels](https://www.tripadvisor.com/Search?q=Brussels) |
+| 📖 **Lonely Planet** | [Brussels Guide](https://www.lonelyplanet.com/search?q=Brussels) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Sliema
 | 🥾 **Hiking Trails** | [Find Trails in Sliema](https://www.google.com/maps/search/Hiking+Trails+in+Sliema) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Palace](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Palace%20Sliema) — Five-star urban luxury with a stunning rooftop pool.
-- **Budget**: [Two Pillows Micro Boutique](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwo%20Pillows%20Micro%20Boutique%20Sliema) — Innovative and stylish stay with spa facilities.
-- **Hostel**: [Corner Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCorner%20Hostel%20Sliema) — Centrally located in a restored Maltese townhouse.
+- **Luxury**: [The Palace](https://www.booking.com/searchresults.html?ss=The Palace Sliema) — Five-star urban luxury with a stunning rooftop pool.
+- **Budget**: [Two Pillows Micro Boutique](https://www.booking.com/searchresults.html?ss=Two Pillows Micro Boutique Sliema) — Innovative and stylish stay with spa facilities.
+- **Hostel**: [Corner Hostel](https://www.booking.com/searchresults.html?ss=Corner Hostel Sliema) — Centrally located in a restored Maltese townhouse.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSliema) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSliema) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Sliema) | [Hotels](https://www.booking.com/searchresults.html?ss=Sliema) |
 | [Airbnb](https://www.airbnb.com/s/Sliema--Malta) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Sliema Promenade](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSliema%20Promenade%20Sliema) — Join the locals for a seaside walk with city views.
+- **Top Activity**: [Sliema Promenade](https://www.tripadvisor.com/Search?q=Sliema Promenade Sliema) — Join the locals for a seaside walk with city views.
 - **Social**: [Find Sliema on Reddit](https://www.reddit.com/r/Sliema/)
 - **Activities**: [Viator Tours in Sliema](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSliema)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Sliema](https://www.reddit.com/r/Sliema/) |
-| 📍 **TripAdvisor** | [Things to do in Sliema](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSliema) |
-| 📖 **Lonely Planet** | [Sliema Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSliema) |
+| 📍 **TripAdvisor** | [Things to do in Sliema](https://www.tripadvisor.com/Search?q=Sliema) |
+| 📖 **Lonely Planet** | [Sliema Guide](https://www.lonelyplanet.com/search?q=Sliema) |
 
 ## 🚀 Digital Nomad Hub
 

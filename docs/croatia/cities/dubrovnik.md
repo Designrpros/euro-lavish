@@ -30,25 +30,25 @@ description: Cost of Living in Dubrovnik
 | 🥾 **Hiking Trails** | [Find Trails in Dubrovnik](https://www.google.com/maps/search/Hiking+Trails+in+Dubrovnik) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Excelsior](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Excelsior%20Dubrovnik) — Iconic luxury with the best views of the Old Town.
-- **Budget**: [City Walls Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCity%20Walls%20Hostel%20Dubrovnik) — Sleep inside the UNESCO-listed medieval walls.
-- **Hostel**: [Hostel Angelina](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Angelina%20Dubrovnik) — Charming and social, located in a quiet Old Town corner.
+- **Luxury**: [Hotel Excelsior](https://www.booking.com/searchresults.html?ss=Hotel Excelsior Dubrovnik) — Iconic luxury with the best views of the Old Town.
+- **Budget**: [City Walls Hostel](https://www.booking.com/searchresults.html?ss=City Walls Hostel Dubrovnik) — Sleep inside the UNESCO-listed medieval walls.
+- **Hostel**: [Hostel Angelina](https://www.booking.com/searchresults.html?ss=Hostel Angelina Dubrovnik) — Charming and social, located in a quiet Old Town corner.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDubrovnik) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDubrovnik) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Dubrovnik) | [Hotels](https://www.booking.com/searchresults.html?ss=Dubrovnik) |
 | [Airbnb](https://www.airbnb.com/s/Dubrovnik--Croatia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Walk the City Walls](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWalk%20the%20City%20Walls%20Dubrovnik) — The best way to see the 'Pearl of the Adriatic'.
+- **Top Activity**: [Walk the City Walls](https://www.tripadvisor.com/Search?q=Walk the City Walls Dubrovnik) — The best way to see the 'Pearl of the Adriatic'.
 - **Social**: [Find Dubrovnik on Reddit](https://www.reddit.com/r/Dubrovnik/)
 - **Activities**: [Viator Tours in Dubrovnik](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DDubrovnik)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Dubrovnik](https://www.reddit.com/r/Dubrovnik/) |
-| 📍 **TripAdvisor** | [Things to do in Dubrovnik](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDubrovnik) |
-| 📖 **Lonely Planet** | [Dubrovnik Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDubrovnik) |
+| 📍 **TripAdvisor** | [Things to do in Dubrovnik](https://www.tripadvisor.com/Search?q=Dubrovnik) |
+| 📖 **Lonely Planet** | [Dubrovnik Guide](https://www.lonelyplanet.com/search?q=Dubrovnik) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Porto
 | 🥾 **Hiking Trails** | [Find Trails in Porto](https://www.google.com/maps/search/Hiking+Trails+in+Porto) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Yeatman](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Yeatman%20Porto) — Wine-themed luxury with the best views of Porto.
-- **Budget**: [Gaia Porto Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGaia%20Porto%20Hostel%20Porto) — Affordable and friendly across the bridge.
-- **Hostel**: [Rivoli Cinema Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRivoli%20Cinema%20Hostel%20Porto) — Each room is themed after a different movie director.
+- **Luxury**: [The Yeatman](https://www.booking.com/searchresults.html?ss=The Yeatman Porto) — Wine-themed luxury with the best views of Porto.
+- **Budget**: [Gaia Porto Hostel](https://www.booking.com/searchresults.html?ss=Gaia Porto Hostel Porto) — Affordable and friendly across the bridge.
+- **Hostel**: [Rivoli Cinema Hostel](https://www.booking.com/searchresults.html?ss=Rivoli Cinema Hostel Porto) — Each room is themed after a different movie director.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPorto) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPorto) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Porto) | [Hotels](https://www.booking.com/searchresults.html?ss=Porto) |
 | [Airbnb](https://www.airbnb.com/s/Porto--Portugal) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Douro River Cruise](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDouro%20River%20Cruise%20Porto) — See the city's six bridges from the water.
+- **Top Activity**: [Douro River Cruise](https://www.tripadvisor.com/Search?q=Douro River Cruise Porto) — See the city's six bridges from the water.
 - **Social**: [Find Porto on Reddit](https://www.reddit.com/r/Porto/)
 - **Activities**: [Viator Tours in Porto](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DPorto)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Porto](https://www.reddit.com/r/Porto/) |
-| 📍 **TripAdvisor** | [Things to do in Porto](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPorto) |
-| 📖 **Lonely Planet** | [Porto Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPorto) |
+| 📍 **TripAdvisor** | [Things to do in Porto](https://www.tripadvisor.com/Search?q=Porto) |
+| 📖 **Lonely Planet** | [Porto Guide](https://www.lonelyplanet.com/search?q=Porto) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Andorra la Vella
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAndorra) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAndorra) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Andorra) | [Hotels](https://www.booking.com/searchresults.html?ss=Andorra) |
 | [Airbnb](https://www.airbnb.com/s/Andorra--Andorra) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Andorra la Vella
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Andorra](https://www.reddit.com/r/Andorra/) |
-| 📍 **TripAdvisor** | [Things to do in Andorra](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAndorra) |
-| 📖 **Lonely Planet** | [Andorra Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAndorra) |
+| 📍 **TripAdvisor** | [Things to do in Andorra](https://www.tripadvisor.com/Search?q=Andorra) |
+| 📖 **Lonely Planet** | [Andorra Guide](https://www.lonelyplanet.com/search?q=Andorra) |
 
 ## 🚀 Digital Nomad Hub
 

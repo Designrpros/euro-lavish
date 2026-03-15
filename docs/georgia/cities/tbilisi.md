@@ -31,7 +31,7 @@ description: Cost of Living in Tbilisi
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTbilisi) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTbilisi) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Tbilisi) | [Hotels](https://www.booking.com/searchresults.html?ss=Tbilisi) |
 | [Airbnb](https://www.airbnb.com/s/Tbilisi--Georgia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Tbilisi
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tbilisi](https://www.reddit.com/r/Tbilisi/) |
-| 📍 **TripAdvisor** | [Things to do in Tbilisi](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTbilisi) |
-| 📖 **Lonely Planet** | [Tbilisi Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTbilisi) |
+| 📍 **TripAdvisor** | [Things to do in Tbilisi](https://www.tripadvisor.com/Search?q=Tbilisi) |
+| 📖 **Lonely Planet** | [Tbilisi Guide](https://www.lonelyplanet.com/search?q=Tbilisi) |
 
 ## 🚀 Digital Nomad Hub
 

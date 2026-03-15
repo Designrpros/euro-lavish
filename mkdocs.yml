@@ -20,7 +20,6 @@ theme:
 
 extra_javascript:
   - assets/javascripts/analytics.js
-  - assets/javascripts/router.js
 
 plugins:
   - search:

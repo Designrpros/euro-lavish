@@ -30,25 +30,25 @@ description: Cost of Living in Barcelona
 | 🥾 **Hiking Trails** | [Find Trails in Barcelona](https://www.google.com/maps/search/Hiking+Trails+in+Barcelona) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Arts Barcelona](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Arts%20Barcelona%20Barcelona) — Iconic oceanfront luxury with Michelin dining.
-- **Budget**: [Onefam Ramblas](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOnefam%20Ramblas%20Barcelona) — Social atmosphere with free communal dinners.
-- **Hostel**: [Yeah Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYeah%20Hostel%20Barcelona) — Modern, social, and perfectly located for exploring.
+- **Luxury**: [Hotel Arts Barcelona](https://www.booking.com/searchresults.html?ss=Hotel Arts Barcelona Barcelona) — Iconic oceanfront luxury with Michelin dining.
+- **Budget**: [Onefam Ramblas](https://www.booking.com/searchresults.html?ss=Onefam Ramblas Barcelona) — Social atmosphere with free communal dinners.
+- **Hostel**: [Yeah Hostel](https://www.booking.com/searchresults.html?ss=Yeah Hostel Barcelona) — Modern, social, and perfectly located for exploring.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBarcelona) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBarcelona) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Barcelona) | [Hotels](https://www.booking.com/searchresults.html?ss=Barcelona) |
 | [Airbnb](https://www.airbnb.com/s/Barcelona--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Sagrada Familia](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSagrada%20Familia%20Barcelona) — Gaudí's unfinished architectural masterpiece.
+- **Top Activity**: [Sagrada Familia](https://www.tripadvisor.com/Search?q=Sagrada Familia Barcelona) — Gaudí's unfinished architectural masterpiece.
 - **Social**: [Find Barcelona on Reddit](https://www.reddit.com/r/Barcelona/)
 - **Activities**: [Viator Tours in Barcelona](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBarcelona)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Barcelona](https://www.reddit.com/r/Barcelona/) |
-| 📍 **TripAdvisor** | [Things to do in Barcelona](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBarcelona) |
-| 📖 **Lonely Planet** | [Barcelona Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBarcelona) |
+| 📍 **TripAdvisor** | [Things to do in Barcelona](https://www.tripadvisor.com/Search?q=Barcelona) |
+| 📖 **Lonely Planet** | [Barcelona Guide](https://www.lonelyplanet.com/search?q=Barcelona) |
 
 ## 🚀 Digital Nomad Hub
 

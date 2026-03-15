@@ -33,7 +33,7 @@ description: Cost of Living in Osijek
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOsijek) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOsijek) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Osijek) | [Hotels](https://www.booking.com/searchresults.html?ss=Osijek) |
 | [Airbnb](https://www.airbnb.com/s/Osijek--Croatia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Osijek
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Osijek](https://www.reddit.com/r/Osijek/) |
-| 📍 **TripAdvisor** | [Things to do in Osijek](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOsijek) |
-| 📖 **Lonely Planet** | [Osijek Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DOsijek) |
+| 📍 **TripAdvisor** | [Things to do in Osijek](https://www.tripadvisor.com/Search?q=Osijek) |
+| 📖 **Lonely Planet** | [Osijek Guide](https://www.lonelyplanet.com/search?q=Osijek) |
 
 ## 🚀 Digital Nomad Hub
 

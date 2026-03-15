@@ -30,25 +30,25 @@ description: Cost of Living in Marseille
 | 🥾 **Hiking Trails** | [Find Trails in Marseille](https://www.google.com/maps/search/Hiking+Trails+in+Marseille) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Sofitel Vieux Port](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofitel%20Vieux%20Port%20Marseille) — Breathtaking views of the harbor and the Mediterranean.
-- **Budget**: [Mama Shelter Marseille](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMama%20Shelter%20Marseille%20Marseille) — Playful, trendy design at an unbeatable price point.
-- **Hostel**: [The People Marseille](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20People%20Marseille%20Marseille) — Modern pod hostel with a stunning shared terrace.
+- **Luxury**: [Sofitel Vieux Port](https://www.booking.com/searchresults.html?ss=Sofitel Vieux Port Marseille) — Breathtaking views of the harbor and the Mediterranean.
+- **Budget**: [Mama Shelter Marseille](https://www.booking.com/searchresults.html?ss=Mama Shelter Marseille Marseille) — Playful, trendy design at an unbeatable price point.
+- **Hostel**: [The People Marseille](https://www.booking.com/searchresults.html?ss=The People Marseille Marseille) — Modern pod hostel with a stunning shared terrace.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMarseille) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMarseille) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Marseille) | [Hotels](https://www.booking.com/searchresults.html?ss=Marseille) |
 | [Airbnb](https://www.airbnb.com/s/Marseille--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Basilique Notre-Dame](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBasilique%20Notre-Dame%20Marseille) — The golden-topped symbol of Marseille with 360 views.
+- **Top Activity**: [Basilique Notre-Dame](https://www.tripadvisor.com/Search?q=Basilique Notre-Dame Marseille) — The golden-topped symbol of Marseille with 360 views.
 - **Social**: [Find Marseille on Reddit](https://www.reddit.com/r/Marseille/)
 - **Activities**: [Viator Tours in Marseille](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMarseille)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Marseille](https://www.reddit.com/r/Marseille/) |
-| 📍 **TripAdvisor** | [Things to do in Marseille](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMarseille) |
-| 📖 **Lonely Planet** | [Marseille Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMarseille) |
+| 📍 **TripAdvisor** | [Things to do in Marseille](https://www.tripadvisor.com/Search?q=Marseille) |
+| 📖 **Lonely Planet** | [Marseille Guide](https://www.lonelyplanet.com/search?q=Marseille) |
 
 ## 🚀 Digital Nomad Hub
 

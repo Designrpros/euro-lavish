@@ -30,25 +30,25 @@ description: Cost of Living in Bucharest
 | 🥾 **Hiking Trails** | [Find Trails in Bucharest](https://www.google.com/maps/search/Hiking+Trails+in+Bucharest) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [JW Marriott Bucharest](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJW%20Marriott%20Bucharest%20Bucharest) — Palatial luxury near the Palace of the Parliament.
-- **Budget**: [First Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFirst%20Hostel%20Bucharest) — Clean and modern with a friendly local vibe.
-- **Hostel**: [Podstel Umbrella](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPodstel%20Umbrella%20Bucharest) — Charming hostel in a restored 1920s mansion.
+- **Luxury**: [JW Marriott Bucharest](https://www.booking.com/searchresults.html?ss=JW Marriott Bucharest Bucharest) — Palatial luxury near the Palace of the Parliament.
+- **Budget**: [First Hostel](https://www.booking.com/searchresults.html?ss=First Hostel Bucharest) — Clean and modern with a friendly local vibe.
+- **Hostel**: [Podstel Umbrella](https://www.booking.com/searchresults.html?ss=Podstel Umbrella Bucharest) — Charming hostel in a restored 1920s mansion.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBucharest) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBucharest) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bucharest) | [Hotels](https://www.booking.com/searchresults.html?ss=Bucharest) |
 | [Airbnb](https://www.airbnb.com/s/Bucharest--Romania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Palace of the Parliament](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPalace%20of%20the%20Parliament%20Bucharest) — The heaviest building in the world and a communist relic.
+- **Top Activity**: [Palace of the Parliament](https://www.tripadvisor.com/Search?q=Palace of the Parliament Bucharest) — The heaviest building in the world and a communist relic.
 - **Social**: [Find Bucharest on Reddit](https://www.reddit.com/r/Bucharest/)
 - **Activities**: [Viator Tours in Bucharest](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DBucharest)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bucharest](https://www.reddit.com/r/Bucharest/) |
-| 📍 **TripAdvisor** | [Things to do in Bucharest](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBucharest) |
-| 📖 **Lonely Planet** | [Bucharest Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBucharest) |
+| 📍 **TripAdvisor** | [Things to do in Bucharest](https://www.tripadvisor.com/Search?q=Bucharest) |
+| 📖 **Lonely Planet** | [Bucharest Guide](https://www.lonelyplanet.com/search?q=Bucharest) |
 
 ## 🚀 Digital Nomad Hub
 

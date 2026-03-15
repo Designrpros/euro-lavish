@@ -30,25 +30,25 @@ description: Cost of Living in Rhodes
 | 🥾 **Hiking Trails** | [Find Trails in Rhodes](https://www.google.com/maps/search/Hiking+Trails+in+Rhodes) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Elysium Resort & Spa](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DElysium%20Resort%20%26%20Spa%20Rhodes) — Ultra-modern luxury with incredible Aegean views.
-- **Budget**: [Pegasos Deluxe Beach](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPegasos%20Deluxe%20Beach%20Rhodes) — Excellent value for a full beach resort experience.
-- **Hostel**: [STAY Hostel Rhodes](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSTAY%20Hostel%20Rhodes%20Rhodes) — Boutique design hostel with a focus on digital nomads.
+- **Luxury**: [Elysium Resort & Spa](https://www.booking.com/searchresults.html?ss=Elysium Resort & Spa Rhodes) — Ultra-modern luxury with incredible Aegean views.
+- **Budget**: [Pegasos Deluxe Beach](https://www.booking.com/searchresults.html?ss=Pegasos Deluxe Beach Rhodes) — Excellent value for a full beach resort experience.
+- **Hostel**: [STAY Hostel Rhodes](https://www.booking.com/searchresults.html?ss=STAY Hostel Rhodes Rhodes) — Boutique design hostel with a focus on digital nomads.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRhodes) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRhodes) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Rhodes) | [Hotels](https://www.booking.com/searchresults.html?ss=Rhodes) |
 | [Airbnb](https://www.airbnb.com/s/Rhodes--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Old Town Rhodes](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Town%20Rhodes%20Rhodes) — Europe's oldest inhabited medieval city.
+- **Top Activity**: [Old Town Rhodes](https://www.tripadvisor.com/Search?q=Old Town Rhodes Rhodes) — Europe's oldest inhabited medieval city.
 - **Social**: [Find Rhodes on Reddit](https://www.reddit.com/r/Rhodes/)
 - **Activities**: [Viator Tours in Rhodes](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DRhodes)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Rhodes](https://www.reddit.com/r/Rhodes/) |
-| 📍 **TripAdvisor** | [Things to do in Rhodes](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRhodes) |
-| 📖 **Lonely Planet** | [Rhodes Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRhodes) |
+| 📍 **TripAdvisor** | [Things to do in Rhodes](https://www.tripadvisor.com/Search?q=Rhodes) |
+| 📖 **Lonely Planet** | [Rhodes Guide](https://www.lonelyplanet.com/search?q=Rhodes) |
 
 ## 🚀 Digital Nomad Hub
 

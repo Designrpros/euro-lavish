@@ -30,25 +30,25 @@ description: Cost of Living in Edinburgh
 | 🥾 **Hiking Trails** | [Find Trails in Edinburgh](https://www.google.com/maps/search/Hiking+Trails+in+Edinburgh) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Balmoral Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Balmoral%20Hotel%20Edinburgh) — The ultimate Edinburgh icon with Clock Tower views.
-- **Budget**: [Motel One Princes Street](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMotel%20One%20Princes%20Street%20Edinburgh) — Chic, modern design in a prestigious location.
-- **Hostel**: [Castle Rock Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCastle%20Rock%20Hostel%20Edinburgh) — Stunning views directly of Edinburgh Castle.
+- **Luxury**: [The Balmoral Hotel](https://www.booking.com/searchresults.html?ss=The Balmoral Hotel Edinburgh) — The ultimate Edinburgh icon with Clock Tower views.
+- **Budget**: [Motel One Princes Street](https://www.booking.com/searchresults.html?ss=Motel One Princes Street Edinburgh) — Chic, modern design in a prestigious location.
+- **Hostel**: [Castle Rock Hostel](https://www.booking.com/searchresults.html?ss=Castle Rock Hostel Edinburgh) — Stunning views directly of Edinburgh Castle.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEdinburgh) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEdinburgh) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Edinburgh) | [Hotels](https://www.booking.com/searchresults.html?ss=Edinburgh) |
 | [Airbnb](https://www.airbnb.com/s/Edinburgh--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Edinburgh Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh%20Castle%20Edinburgh) — The historic fortress and crown jewels of Scotland.
+- **Top Activity**: [Edinburgh Castle](https://www.tripadvisor.com/Search?q=Edinburgh Castle Edinburgh) — The historic fortress and crown jewels of Scotland.
 - **Social**: [Find Edinburgh on Reddit](https://www.reddit.com/r/Edinburgh/)
 - **Activities**: [Viator Tours in Edinburgh](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DEdinburgh)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Edinburgh](https://www.reddit.com/r/Edinburgh/) |
-| 📍 **TripAdvisor** | [Things to do in Edinburgh](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEdinburgh) |
-| 📖 **Lonely Planet** | [Edinburgh Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DEdinburgh) |
+| 📍 **TripAdvisor** | [Things to do in Edinburgh](https://www.tripadvisor.com/Search?q=Edinburgh) |
+| 📖 **Lonely Planet** | [Edinburgh Guide](https://www.lonelyplanet.com/search?q=Edinburgh) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Bitola
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBitola) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBitola) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bitola) | [Hotels](https://www.booking.com/searchresults.html?ss=Bitola) |
 | [Airbnb](https://www.airbnb.com/s/Bitola--North Macedonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Bitola
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bitola](https://www.reddit.com/r/Bitola/) |
-| 📍 **TripAdvisor** | [Things to do in Bitola](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBitola) |
-| 📖 **Lonely Planet** | [Bitola Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBitola) |
+| 📍 **TripAdvisor** | [Things to do in Bitola](https://www.tripadvisor.com/Search?q=Bitola) |
+| 📖 **Lonely Planet** | [Bitola Guide](https://www.lonelyplanet.com/search?q=Bitola) |
 
 ## 🚀 Digital Nomad Hub
 

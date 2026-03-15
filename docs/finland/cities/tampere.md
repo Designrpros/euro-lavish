@@ -30,25 +30,25 @@ description: Cost of Living in Tampere
 | 🥾 **Hiking Trails** | [Find Trails in Tampere](https://www.google.com/maps/search/Hiking+Trails+in+Tampere) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Radisson Blu Grand Hotel Tammer](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRadisson%20Blu%20Grand%20Hotel%20Tammer%20Tampere) — Historic neo-Renaissance luxury and elegance.
-- **Budget**: [Dream Hostel & Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDream%20Hostel%20%26%20Hotel%20Tampere) — Award-winning design hostel with a very cool vibe.
-- **Hostel**: [Dream Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDream%20Hostel%20Tampere) — The social soul of the city with frequent events.
+- **Luxury**: [Radisson Blu Grand Hotel Tammer](https://www.booking.com/searchresults.html?ss=Radisson Blu Grand Hotel Tammer Tampere) — Historic neo-Renaissance luxury and elegance.
+- **Budget**: [Dream Hostel & Hotel](https://www.booking.com/searchresults.html?ss=Dream Hostel & Hotel Tampere) — Award-winning design hostel with a very cool vibe.
+- **Hostel**: [Dream Hostel](https://www.booking.com/searchresults.html?ss=Dream Hostel Tampere) — The social soul of the city with frequent events.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTampere) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTampere) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Tampere) | [Hotels](https://www.booking.com/searchresults.html?ss=Tampere) |
 | [Airbnb](https://www.airbnb.com/s/Tampere--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Pyynikki Observation Tower](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPyynikki%20Observation%20Tower%20Tampere) — Eat the world-famous donuts with incredible lake views.
+- **Top Activity**: [Pyynikki Observation Tower](https://www.tripadvisor.com/Search?q=Pyynikki Observation Tower Tampere) — Eat the world-famous donuts with incredible lake views.
 - **Social**: [Find Tampere on Reddit](https://www.reddit.com/r/Tampere/)
 - **Activities**: [Viator Tours in Tampere](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DTampere)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tampere](https://www.reddit.com/r/Tampere/) |
-| 📍 **TripAdvisor** | [Things to do in Tampere](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTampere) |
-| 📖 **Lonely Planet** | [Tampere Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTampere) |
+| 📍 **TripAdvisor** | [Things to do in Tampere](https://www.tripadvisor.com/Search?q=Tampere) |
+| 📖 **Lonely Planet** | [Tampere Guide](https://www.lonelyplanet.com/search?q=Tampere) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Reykjavik
 | 🥾 **Hiking Trails** | [Find Trails in Reykjavik](https://www.google.com/maps/search/Hiking+Trails+in+Reykjavik) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Reykjavik EDITION](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Reykjavik%20EDITION%20Reykjavik) — Modern luxury on the scenic waterfront.
-- **Budget**: [Hotel Cabin](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Cabin%20Reykjavik) — Efficient and reliable budget accommodation.
-- **Hostel**: [Loft HI Eco Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLoft%20HI%20Eco%20Hostel%20Reykjavik) — Central eco-friendly hostel with a great rooftop.
+- **Luxury**: [The Reykjavik EDITION](https://www.booking.com/searchresults.html?ss=The Reykjavik EDITION Reykjavik) — Modern luxury on the scenic waterfront.
+- **Budget**: [Hotel Cabin](https://www.booking.com/searchresults.html?ss=Hotel Cabin Reykjavik) — Efficient and reliable budget accommodation.
+- **Hostel**: [Loft HI Eco Hostel](https://www.booking.com/searchresults.html?ss=Loft HI Eco Hostel Reykjavik) — Central eco-friendly hostel with a great rooftop.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReykjavik) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReykjavik) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) | [Hotels](https://www.booking.com/searchresults.html?ss=Reykjavik) |
 | [Airbnb](https://www.airbnb.com/s/Reykjavik--Iceland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Hallgrímskirkja](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHallgr%C3%ADmskirkja%20Reykjavik) — Iceland's largest church and best city viewpoint.
+- **Top Activity**: [Hallgrímskirkja](https://www.tripadvisor.com/Search?q=Hallgrímskirkja Reykjavik) — Iceland's largest church and best city viewpoint.
 - **Social**: [Find Reykjavik on Reddit](https://www.reddit.com/r/Reykjavik/)
 - **Activities**: [Viator Tours in Reykjavik](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DReykjavik)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Reykjavik](https://www.reddit.com/r/Reykjavik/) |
-| 📍 **TripAdvisor** | [Things to do in Reykjavik](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DReykjavik) |
-| 📖 **Lonely Planet** | [Reykjavik Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DReykjavik) |
+| 📍 **TripAdvisor** | [Things to do in Reykjavik](https://www.tripadvisor.com/Search?q=Reykjavik) |
+| 📖 **Lonely Planet** | [Reykjavik Guide](https://www.lonelyplanet.com/search?q=Reykjavik) |
 
 ## 🚀 Digital Nomad Hub
 

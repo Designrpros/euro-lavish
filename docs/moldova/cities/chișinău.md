@@ -31,7 +31,7 @@ description: Cost of Living in Chișinău
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChișinău) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChișinău) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Chișinău) | [Hotels](https://www.booking.com/searchresults.html?ss=Chișinău) |
 | [Airbnb](https://www.airbnb.com/s/Chișinău--Moldova) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Chișinău
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Chișinău](https://www.reddit.com/r/Chișinău/) |
-| 📍 **TripAdvisor** | [Things to do in Chișinău](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DChișinău) |
-| 📖 **Lonely Planet** | [Chișinău Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DChișinău) |
+| 📍 **TripAdvisor** | [Things to do in Chișinău](https://www.tripadvisor.com/Search?q=Chișinău) |
+| 📖 **Lonely Planet** | [Chișinău Guide](https://www.lonelyplanet.com/search?q=Chișinău) |
 
 ## 🚀 Digital Nomad Hub
 

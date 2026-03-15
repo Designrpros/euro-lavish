@@ -30,25 +30,25 @@ description: Cost of Living in Glasgow
 | 🥾 **Hiking Trails** | [Find Trails in Glasgow](https://www.google.com/maps/search/Hiking+Trails+in+Glasgow) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Kimpton Blythswood Square](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKimpton%20Blythswood%20Square%20Glasgow) — Five-star luxury with an incredible spa in a historic square.
-- **Budget**: [Moxy Glasgow Merchant City](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMoxy%20Glasgow%20Merchant%20City%20Glasgow) — Trendy, industrial design at a very friendly price.
-- **Hostel**: [Glasgow Youth Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow%20Youth%20Hostel%20Glasgow) — Consistently rated the best overall hostel in Scotland.
+- **Luxury**: [Kimpton Blythswood Square](https://www.booking.com/searchresults.html?ss=Kimpton Blythswood Square Glasgow) — Five-star luxury with an incredible spa in a historic square.
+- **Budget**: [Moxy Glasgow Merchant City](https://www.booking.com/searchresults.html?ss=Moxy Glasgow Merchant City Glasgow) — Trendy, industrial design at a very friendly price.
+- **Hostel**: [Glasgow Youth Hostel](https://www.booking.com/searchresults.html?ss=Glasgow Youth Hostel Glasgow) — Consistently rated the best overall hostel in Scotland.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGlasgow) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Glasgow) | [Hotels](https://www.booking.com/searchresults.html?ss=Glasgow) |
 | [Airbnb](https://www.airbnb.com/s/Glasgow--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Kelvingrove Art Gallery](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKelvingrove%20Art%20Gallery%20Glasgow) — One of Scotland's most popular free attractions.
+- **Top Activity**: [Kelvingrove Art Gallery](https://www.tripadvisor.com/Search?q=Kelvingrove Art Gallery Glasgow) — One of Scotland's most popular free attractions.
 - **Social**: [Find Glasgow on Reddit](https://www.reddit.com/r/Glasgow/)
 - **Activities**: [Viator Tours in Glasgow](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DGlasgow)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Glasgow](https://www.reddit.com/r/Glasgow/) |
-| 📍 **TripAdvisor** | [Things to do in Glasgow](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGlasgow) |
-| 📖 **Lonely Planet** | [Glasgow Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGlasgow) |
+| 📍 **TripAdvisor** | [Things to do in Glasgow](https://www.tripadvisor.com/Search?q=Glasgow) |
+| 📖 **Lonely Planet** | [Glasgow Guide](https://www.lonelyplanet.com/search?q=Glasgow) |
 
 ## 🚀 Digital Nomad Hub
 

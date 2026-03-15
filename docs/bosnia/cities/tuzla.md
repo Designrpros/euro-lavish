@@ -31,7 +31,7 @@ description: Cost of Living in Tuzla
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTuzla) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTuzla) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Tuzla) | [Hotels](https://www.booking.com/searchresults.html?ss=Tuzla) |
 | [Airbnb](https://www.airbnb.com/s/Tuzla--Bosnia and Herzegovina) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Tuzla
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Tuzla](https://www.reddit.com/r/Tuzla/) |
-| 📍 **TripAdvisor** | [Things to do in Tuzla](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTuzla) |
-| 📖 **Lonely Planet** | [Tuzla Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DTuzla) |
+| 📍 **TripAdvisor** | [Things to do in Tuzla](https://www.tripadvisor.com/Search?q=Tuzla) |
+| 📖 **Lonely Planet** | [Tuzla Guide](https://www.lonelyplanet.com/search?q=Tuzla) |
 
 ## 🚀 Digital Nomad Hub
 

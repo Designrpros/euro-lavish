@@ -30,25 +30,25 @@ description: Cost of Living in Heraklion
 | 🥾 **Hiking Trails** | [Find Trails in Heraklion](https://www.google.com/maps/search/Hiking+Trails+in+Heraklion) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [GDM Megaron](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGDM%20Megaron%20Heraklion) — Grand historic luxury overlooking the Venetian harbor.
-- **Budget**: [Kronos Hotel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKronos%20Hotel%20Heraklion) — Reliable and clean stay right on the seafront.
-- **Hostel**: [So Young Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSo%20Young%20Hostel%20Heraklion) — Modern, social, and perfectly located in the center.
+- **Luxury**: [GDM Megaron](https://www.booking.com/searchresults.html?ss=GDM Megaron Heraklion) — Grand historic luxury overlooking the Venetian harbor.
+- **Budget**: [Kronos Hotel](https://www.booking.com/searchresults.html?ss=Kronos Hotel Heraklion) — Reliable and clean stay right on the seafront.
+- **Hostel**: [So Young Hostel](https://www.booking.com/searchresults.html?ss=So Young Hostel Heraklion) — Modern, social, and perfectly located in the center.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeraklion) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHeraklion) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Heraklion) | [Hotels](https://www.booking.com/searchresults.html?ss=Heraklion) |
 | [Airbnb](https://www.airbnb.com/s/Heraklion--Greece) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Knossos Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKnossos%20Palace%20Heraklion) — Explore the mythical heart of Minoan civilization.
+- **Top Activity**: [Knossos Palace](https://www.tripadvisor.com/Search?q=Knossos Palace Heraklion) — Explore the mythical heart of Minoan civilization.
 - **Social**: [Find Heraklion on Reddit](https://www.reddit.com/r/Heraklion/)
 - **Activities**: [Viator Tours in Heraklion](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DHeraklion)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Heraklion](https://www.reddit.com/r/Heraklion/) |
-| 📍 **TripAdvisor** | [Things to do in Heraklion](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHeraklion) |
-| 📖 **Lonely Planet** | [Heraklion Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHeraklion) |
+| 📍 **TripAdvisor** | [Things to do in Heraklion](https://www.tripadvisor.com/Search?q=Heraklion) |
+| 📖 **Lonely Planet** | [Heraklion Guide](https://www.lonelyplanet.com/search?q=Heraklion) |
 
 ## 🚀 Digital Nomad Hub
 

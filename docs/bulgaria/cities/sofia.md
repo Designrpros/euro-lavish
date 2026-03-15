@@ -30,25 +30,25 @@ description: Cost of Living in Sofia
 | 🥾 **Hiking Trails** | [Find Trails in Sofia](https://www.google.com/maps/search/Hiking+Trails+in+Sofia) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Grand Hotel Sofia](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrand%20Hotel%20Sofia%20Sofia) — Timeless elegance and the finest service in town.
-- **Budget**: [Ivory Tower](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DIvory%20Tower%20Sofia) — Simple comfort in the heart of the historic center.
-- **Hostel**: [Hostel Mostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Mostel%20Sofia) — A legendary hiker and backpacker hub with free dinner.
+- **Luxury**: [Grand Hotel Sofia](https://www.booking.com/searchresults.html?ss=Grand Hotel Sofia Sofia) — Timeless elegance and the finest service in town.
+- **Budget**: [Ivory Tower](https://www.booking.com/searchresults.html?ss=Ivory Tower Sofia) — Simple comfort in the heart of the historic center.
+- **Hostel**: [Hostel Mostel](https://www.booking.com/searchresults.html?ss=Hostel Mostel Sofia) — A legendary hiker and backpacker hub with free dinner.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofia) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofia) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Sofia) | [Hotels](https://www.booking.com/searchresults.html?ss=Sofia) |
 | [Airbnb](https://www.airbnb.com/s/Sofia--Bulgaria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Alexander Nevsky Cathedral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAlexander%20Nevsky%20Cathedral%20Sofia) — One of the world's largest Orthodox cathedrals.
+- **Top Activity**: [Alexander Nevsky Cathedral](https://www.tripadvisor.com/Search?q=Alexander Nevsky Cathedral Sofia) — One of the world's largest Orthodox cathedrals.
 - **Social**: [Find Sofia on Reddit](https://www.reddit.com/r/Sofia/)
 - **Activities**: [Viator Tours in Sofia](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSofia)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Sofia](https://www.reddit.com/r/Sofia/) |
-| 📍 **TripAdvisor** | [Things to do in Sofia](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSofia) |
-| 📖 **Lonely Planet** | [Sofia Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSofia) |
+| 📍 **TripAdvisor** | [Things to do in Sofia](https://www.tripadvisor.com/Search?q=Sofia) |
+| 📖 **Lonely Planet** | [Sofia Guide](https://www.lonelyplanet.com/search?q=Sofia) |
 
 ## 🚀 Digital Nomad Hub
 

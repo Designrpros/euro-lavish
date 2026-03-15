@@ -31,7 +31,7 @@ description: Cost of Living in Ganja
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGanja) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGanja) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Ganja) | [Hotels](https://www.booking.com/searchresults.html?ss=Ganja) |
 | [Airbnb](https://www.airbnb.com/s/Ganja--Azerbaijan) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Ganja
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Ganja](https://www.reddit.com/r/Ganja/) |
-| 📍 **TripAdvisor** | [Things to do in Ganja](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGanja) |
-| 📖 **Lonely Planet** | [Ganja Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGanja) |
+| 📍 **TripAdvisor** | [Things to do in Ganja](https://www.tripadvisor.com/Search?q=Ganja) |
+| 📖 **Lonely Planet** | [Ganja Guide](https://www.lonelyplanet.com/search?q=Ganja) |
 
 ## 🚀 Digital Nomad Hub
 

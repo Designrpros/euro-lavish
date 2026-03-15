@@ -30,25 +30,25 @@ description: Cost of Living in Galway
 | 🥾 **Hiking Trails** | [Find Trails in Galway](https://www.google.com/maps/search/Hiking+Trails+in+Galway) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The G Hotel & Spa](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20G%20Hotel%20%26%20Spa%20Galway) — Avant-garde design meets luxury overlooking Lough Atalia.
-- **Budget**: [Leonardo Hotel Galway](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLeonardo%20Hotel%20Galway%20Galway) — Reliable comfort in the heart of the Latin Quarter.
-- **Hostel**: [Kinlay Hostel Galway](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKinlay%20Hostel%20Galway%20Galway) — Award-winning pod-style beds in a prime location.
+- **Luxury**: [The G Hotel & Spa](https://www.booking.com/searchresults.html?ss=The G Hotel & Spa Galway) — Avant-garde design meets luxury overlooking Lough Atalia.
+- **Budget**: [Leonardo Hotel Galway](https://www.booking.com/searchresults.html?ss=Leonardo Hotel Galway Galway) — Reliable comfort in the heart of the Latin Quarter.
+- **Hostel**: [Kinlay Hostel Galway](https://www.booking.com/searchresults.html?ss=Kinlay Hostel Galway Galway) — Award-winning pod-style beds in a prime location.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGalway) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGalway) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Galway) | [Hotels](https://www.booking.com/searchresults.html?ss=Galway) |
 | [Airbnb](https://www.airbnb.com/s/Galway--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Eyre Square](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEyre%20Square%20Galway) — The vibrant heart and meeting place of Galway.
+- **Top Activity**: [Eyre Square](https://www.tripadvisor.com/Search?q=Eyre Square Galway) — The vibrant heart and meeting place of Galway.
 - **Social**: [Find Galway on Reddit](https://www.reddit.com/r/Galway/)
 - **Activities**: [Viator Tours in Galway](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DGalway)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Galway](https://www.reddit.com/r/Galway/) |
-| 📍 **TripAdvisor** | [Things to do in Galway](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DGalway) |
-| 📖 **Lonely Planet** | [Galway Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DGalway) |
+| 📍 **TripAdvisor** | [Things to do in Galway](https://www.tripadvisor.com/Search?q=Galway) |
+| 📖 **Lonely Planet** | [Galway Guide](https://www.lonelyplanet.com/search?q=Galway) |
 
 ## 🚀 Digital Nomad Hub
 

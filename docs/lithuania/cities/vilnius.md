@@ -31,7 +31,7 @@ description: Cost of Living in Vilnius
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilnius) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilnius) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Vilnius) | [Hotels](https://www.booking.com/searchresults.html?ss=Vilnius) |
 | [Airbnb](https://www.airbnb.com/s/Vilnius--Lithuania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Vilnius
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Vilnius](https://www.reddit.com/r/Vilnius/) |
-| 📍 **TripAdvisor** | [Things to do in Vilnius](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVilnius) |
-| 📖 **Lonely Planet** | [Vilnius Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVilnius) |
+| 📍 **TripAdvisor** | [Things to do in Vilnius](https://www.tripadvisor.com/Search?q=Vilnius) |
+| 📖 **Lonely Planet** | [Vilnius Guide](https://www.lonelyplanet.com/search?q=Vilnius) |
 
 ## 🚀 Digital Nomad Hub
 

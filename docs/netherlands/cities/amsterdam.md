@@ -30,25 +30,25 @@ description: Cost of Living in Amsterdam
 | 🥾 **Hiking Trails** | [Find Trails in Amsterdam](https://www.google.com/maps/search/Hiking+Trails+in+Amsterdam) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Pulitzer Amsterdam](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPulitzer%20Amsterdam%20Amsterdam) — Set across 25 restored 17th-century canal houses.
-- **Budget**: [The Hoxton](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Hoxton%20Amsterdam) — Cool, industrial design in a former canal-side office.
-- **Hostel**: [Clinknoord](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DClinknoord%20Amsterdam) — Creative hub located in a former laboratory.
+- **Luxury**: [Pulitzer Amsterdam](https://www.booking.com/searchresults.html?ss=Pulitzer Amsterdam Amsterdam) — Set across 25 restored 17th-century canal houses.
+- **Budget**: [The Hoxton](https://www.booking.com/searchresults.html?ss=The Hoxton Amsterdam) — Cool, industrial design in a former canal-side office.
+- **Hostel**: [Clinknoord](https://www.booking.com/searchresults.html?ss=Clinknoord Amsterdam) — Creative hub located in a former laboratory.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmsterdam) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmsterdam) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) | [Hotels](https://www.booking.com/searchresults.html?ss=Amsterdam) |
 | [Airbnb](https://www.airbnb.com/s/Amsterdam--Netherlands) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Anne Frank House](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAnne%20Frank%20House%20Amsterdam) — A powerful and moving piece of living history.
+- **Top Activity**: [Anne Frank House](https://www.tripadvisor.com/Search?q=Anne Frank House Amsterdam) — A powerful and moving piece of living history.
 - **Social**: [Find Amsterdam on Reddit](https://www.reddit.com/r/Amsterdam/)
 - **Activities**: [Viator Tours in Amsterdam](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DAmsterdam)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Amsterdam](https://www.reddit.com/r/Amsterdam/) |
-| 📍 **TripAdvisor** | [Things to do in Amsterdam](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAmsterdam) |
-| 📖 **Lonely Planet** | [Amsterdam Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAmsterdam) |
+| 📍 **TripAdvisor** | [Things to do in Amsterdam](https://www.tripadvisor.com/Search?q=Amsterdam) |
+| 📖 **Lonely Planet** | [Amsterdam Guide](https://www.lonelyplanet.com/search?q=Amsterdam) |
 
 ## 🚀 Digital Nomad Hub
 

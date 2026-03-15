@@ -30,25 +30,25 @@ description: Cost of Living in Naples
 | 🥾 **Hiking Trails** | [Find Trails in Naples](https://www.google.com/maps/search/Hiking+Trails+in+Naples) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Grand Hotel Parker's](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrand%20Hotel%20Parker%27s%20Naples) — Five-star history and refinement overlooking the bay.
-- **Budget**: [Hotel Piazza Bellini](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Piazza%20Bellini%20Naples) — Located in a 16th-century palace in the historic center.
-- **Hostel**: [Hostel of the Sun](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20of%20the%20Sun%20Naples) — Bright, colorful, and famous for its tours and hospitality.
+- **Luxury**: [Grand Hotel Parker's](https://www.booking.com/searchresults.html?ss=Grand Hotel Parker's Naples) — Five-star history and refinement overlooking the bay.
+- **Budget**: [Hotel Piazza Bellini](https://www.booking.com/searchresults.html?ss=Hotel Piazza Bellini Naples) — Located in a 16th-century palace in the historic center.
+- **Hostel**: [Hostel of the Sun](https://www.booking.com/searchresults.html?ss=Hostel of the Sun Naples) — Bright, colorful, and famous for its tours and hospitality.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNaples) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNaples) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Naples) | [Hotels](https://www.booking.com/searchresults.html?ss=Naples) |
 | [Airbnb](https://www.airbnb.com/s/Naples--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Pompeii Day Trip](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPompeii%20Day%20Trip%20Naples) — Explore the perfectly preserved Roman city.
+- **Top Activity**: [Pompeii Day Trip](https://www.tripadvisor.com/Search?q=Pompeii Day Trip Naples) — Explore the perfectly preserved Roman city.
 - **Social**: [Find Naples on Reddit](https://www.reddit.com/r/Naples/)
 - **Activities**: [Viator Tours in Naples](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DNaples)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Naples](https://www.reddit.com/r/Naples/) |
-| 📍 **TripAdvisor** | [Things to do in Naples](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNaples) |
-| 📖 **Lonely Planet** | [Naples Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNaples) |
+| 📍 **TripAdvisor** | [Things to do in Naples](https://www.tripadvisor.com/Search?q=Naples) |
+| 📖 **Lonely Planet** | [Naples Guide](https://www.lonelyplanet.com/search?q=Naples) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Podgorica
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPodgorica) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPodgorica) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Podgorica) | [Hotels](https://www.booking.com/searchresults.html?ss=Podgorica) |
 | [Airbnb](https://www.airbnb.com/s/Podgorica--Montenegro) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Podgorica
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Podgorica](https://www.reddit.com/r/Podgorica/) |
-| 📍 **TripAdvisor** | [Things to do in Podgorica](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPodgorica) |
-| 📖 **Lonely Planet** | [Podgorica Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPodgorica) |
+| 📍 **TripAdvisor** | [Things to do in Podgorica](https://www.tripadvisor.com/Search?q=Podgorica) |
+| 📖 **Lonely Planet** | [Podgorica Guide](https://www.lonelyplanet.com/search?q=Podgorica) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Madrid
 | 🥾 **Hiking Trails** | [Find Trails in Madrid](https://www.google.com/maps/search/Hiking+Trails+in+Madrid) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Four Seasons Madrid](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Madrid%20Madrid) — Contemporary luxury with an incredible rooftop.
-- **Budget**: [Vincci The Mint](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVincci%20The%20Mint%20Madrid) — Modern vibes and great views on Gran Vía.
-- **Hostel**: [The Hat Madrid](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Hat%20Madrid%20Madrid) — Stylish rooftop hostel in a 19th-century palace.
+- **Luxury**: [Four Seasons Madrid](https://www.booking.com/searchresults.html?ss=Four Seasons Madrid Madrid) — Contemporary luxury with an incredible rooftop.
+- **Budget**: [Vincci The Mint](https://www.booking.com/searchresults.html?ss=Vincci The Mint Madrid) — Modern vibes and great views on Gran Vía.
+- **Hostel**: [The Hat Madrid](https://www.booking.com/searchresults.html?ss=The Hat Madrid Madrid) — Stylish rooftop hostel in a 19th-century palace.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMadrid) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMadrid) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Madrid) | [Hotels](https://www.booking.com/searchresults.html?ss=Madrid) |
 | [Airbnb](https://www.airbnb.com/s/Madrid--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Prado Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrado%20Museum%20Madrid) — One of the finest art collections in the world.
+- **Top Activity**: [Prado Museum](https://www.tripadvisor.com/Search?q=Prado Museum Madrid) — One of the finest art collections in the world.
 - **Social**: [Find Madrid on Reddit](https://www.reddit.com/r/Madrid/)
 - **Activities**: [Viator Tours in Madrid](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DMadrid)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Madrid](https://www.reddit.com/r/Madrid/) |
-| 📍 **TripAdvisor** | [Things to do in Madrid](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMadrid) |
-| 📖 **Lonely Planet** | [Madrid Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMadrid) |
+| 📍 **TripAdvisor** | [Things to do in Madrid](https://www.tripadvisor.com/Search?q=Madrid) |
+| 📖 **Lonely Planet** | [Madrid Guide](https://www.lonelyplanet.com/search?q=Madrid) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -33,7 +33,7 @@ description: Cost of Living in Bern
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBern) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBern) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Bern) | [Hotels](https://www.booking.com/searchresults.html?ss=Bern) |
 | [Airbnb](https://www.airbnb.com/s/Bern--Switzerland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Bern
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Bern](https://www.reddit.com/r/Bern/) |
-| 📍 **TripAdvisor** | [Things to do in Bern](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBern) |
-| 📖 **Lonely Planet** | [Bern Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBern) |
+| 📍 **TripAdvisor** | [Things to do in Bern](https://www.tripadvisor.com/Search?q=Bern) |
+| 📖 **Lonely Planet** | [Bern Guide](https://www.lonelyplanet.com/search?q=Bern) |
 
 ## 🚀 Digital Nomad Hub
 

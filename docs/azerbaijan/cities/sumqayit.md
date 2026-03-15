@@ -31,7 +31,7 @@ description: Cost of Living in Sumqayit
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSumqayit) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSumqayit) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Sumqayit) | [Hotels](https://www.booking.com/searchresults.html?ss=Sumqayit) |
 | [Airbnb](https://www.airbnb.com/s/Sumqayit--Azerbaijan) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Sumqayit
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Sumqayit](https://www.reddit.com/r/Sumqayit/) |
-| 📍 **TripAdvisor** | [Things to do in Sumqayit](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSumqayit) |
-| 📖 **Lonely Planet** | [Sumqayit Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSumqayit) |
+| 📍 **TripAdvisor** | [Things to do in Sumqayit](https://www.tripadvisor.com/Search?q=Sumqayit) |
+| 📖 **Lonely Planet** | [Sumqayit Guide](https://www.lonelyplanet.com/search?q=Sumqayit) |
 
 ## 🚀 Digital Nomad Hub
 

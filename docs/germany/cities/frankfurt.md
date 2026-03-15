@@ -30,25 +30,25 @@ description: Cost of Living in Frankfurt
 | 🥾 **Hiking Trails** | [Find Trails in Frankfurt](https://www.google.com/maps/search/Hiking+Trails+in+Frankfurt) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Jumeirah Frankfurt](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJumeirah%20Frankfurt%20Frankfurt) — Sleek skyscraper luxury with skyline views.
-- **Budget**: [Hotel Europa Life](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Europa%20Life%20Frankfurt) — Efficient and clean, perfect for business or leisure.
-- **Hostel**: [Five Elements Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFive%20Elements%20Hostel%20Frankfurt) — Famous for its pub crawls and social atmosphere.
+- **Luxury**: [Jumeirah Frankfurt](https://www.booking.com/searchresults.html?ss=Jumeirah Frankfurt Frankfurt) — Sleek skyscraper luxury with skyline views.
+- **Budget**: [Hotel Europa Life](https://www.booking.com/searchresults.html?ss=Hotel Europa Life Frankfurt) — Efficient and clean, perfect for business or leisure.
+- **Hostel**: [Five Elements Hostel](https://www.booking.com/searchresults.html?ss=Five Elements Hostel Frankfurt) — Famous for its pub crawls and social atmosphere.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFrankfurt) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFrankfurt) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Frankfurt) | [Hotels](https://www.booking.com/searchresults.html?ss=Frankfurt) |
 | [Airbnb](https://www.airbnb.com/s/Frankfurt--Germany) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Römerberg](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DR%C3%B6merberg%20Frankfurt) — Frankfurt's historic heart with timber-framed houses.
+- **Top Activity**: [Römerberg](https://www.tripadvisor.com/Search?q=Römerberg Frankfurt) — Frankfurt's historic heart with timber-framed houses.
 - **Social**: [Find Frankfurt on Reddit](https://www.reddit.com/r/Frankfurt/)
 - **Activities**: [Viator Tours in Frankfurt](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DFrankfurt)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Frankfurt](https://www.reddit.com/r/Frankfurt/) |
-| 📍 **TripAdvisor** | [Things to do in Frankfurt](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DFrankfurt) |
-| 📖 **Lonely Planet** | [Frankfurt Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DFrankfurt) |
+| 📍 **TripAdvisor** | [Things to do in Frankfurt](https://www.tripadvisor.com/Search?q=Frankfurt) |
+| 📖 **Lonely Planet** | [Frankfurt Guide](https://www.lonelyplanet.com/search?q=Frankfurt) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Seville
 | 🥾 **Hiking Trails** | [Find Trails in Seville](https://www.google.com/maps/search/Hiking+Trails+in+Seville) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Kivir](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Kivir%20Seville) — Refined stay overlooking the Guadalquivir river.
-- **Budget**: [Hotel Alcántara](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Alc%C3%A1ntara%20Seville) — Traditional charm in the historic Santa Cruz district.
-- **Hostel**: [La Banda Rooftop](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLa%20Banda%20Rooftop%20Seville) — Famous rooftop dinners and incredible cathedral views.
+- **Luxury**: [Hotel Kivir](https://www.booking.com/searchresults.html?ss=Hotel Kivir Seville) — Refined stay overlooking the Guadalquivir river.
+- **Budget**: [Hotel Alcántara](https://www.booking.com/searchresults.html?ss=Hotel Alcántara Seville) — Traditional charm in the historic Santa Cruz district.
+- **Hostel**: [La Banda Rooftop](https://www.booking.com/searchresults.html?ss=La Banda Rooftop Seville) — Famous rooftop dinners and incredible cathedral views.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSeville) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSeville) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Seville) | [Hotels](https://www.booking.com/searchresults.html?ss=Seville) |
 | [Airbnb](https://www.airbnb.com/s/Seville--Spain) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Royal Alcázar](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRoyal%20Alc%C3%A1zar%20Seville) — Breathtaking Moorish palace and exotic gardens.
+- **Top Activity**: [Royal Alcázar](https://www.tripadvisor.com/Search?q=Royal Alcázar Seville) — Breathtaking Moorish palace and exotic gardens.
 - **Social**: [Find Seville on Reddit](https://www.reddit.com/r/Seville/)
 - **Activities**: [Viator Tours in Seville](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DSeville)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Seville](https://www.reddit.com/r/Seville/) |
-| 📍 **TripAdvisor** | [Things to do in Seville](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSeville) |
-| 📖 **Lonely Planet** | [Seville Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSeville) |
+| 📍 **TripAdvisor** | [Things to do in Seville](https://www.tripadvisor.com/Search?q=Seville) |
+| 📖 **Lonely Planet** | [Seville Guide](https://www.lonelyplanet.com/search?q=Seville) |
 
 ## 🚀 Digital Nomad Hub
 

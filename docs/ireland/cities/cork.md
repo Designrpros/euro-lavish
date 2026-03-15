@@ -30,25 +30,25 @@ description: Cost of Living in Cork
 | 🥾 **Hiking Trails** | [Find Trails in Cork](https://www.google.com/maps/search/Hiking+Trails+in+Cork) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hayfield Manor](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHayfield%20Manor%20Cork) — Family-owned luxury with a stunning garden oasis.
-- **Budget**: [Kinlay House Cork](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKinlay%20House%20Cork%20Cork) — Centrally located with a cozy, friendly atmosphere.
-- **Hostel**: [Sheilas Tourist Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSheilas%20Tourist%20Hostel%20Cork) — Famous for its sauna and social communal areas.
+- **Luxury**: [Hayfield Manor](https://www.booking.com/searchresults.html?ss=Hayfield Manor Cork) — Family-owned luxury with a stunning garden oasis.
+- **Budget**: [Kinlay House Cork](https://www.booking.com/searchresults.html?ss=Kinlay House Cork Cork) — Centrally located with a cozy, friendly atmosphere.
+- **Hostel**: [Sheilas Tourist Hostel](https://www.booking.com/searchresults.html?ss=Sheilas Tourist Hostel Cork) — Famous for its sauna and social communal areas.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCork) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCork) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Cork) | [Hotels](https://www.booking.com/searchresults.html?ss=Cork) |
 | [Airbnb](https://www.airbnb.com/s/Cork--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [English Market](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DEnglish%20Market%20Cork) — Historic food market with incredible local produce.
+- **Top Activity**: [English Market](https://www.tripadvisor.com/Search?q=English Market Cork) — Historic food market with incredible local produce.
 - **Social**: [Find Cork on Reddit](https://www.reddit.com/r/Cork/)
 - **Activities**: [Viator Tours in Cork](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DCork)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Cork](https://www.reddit.com/r/Cork/) |
-| 📍 **TripAdvisor** | [Things to do in Cork](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCork) |
-| 📖 **Lonely Planet** | [Cork Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCork) |
+| 📍 **TripAdvisor** | [Things to do in Cork](https://www.tripadvisor.com/Search?q=Cork) |
+| 📖 **Lonely Planet** | [Cork Guide](https://www.lonelyplanet.com/search?q=Cork) |
 
 ## 🚀 Digital Nomad Hub
 

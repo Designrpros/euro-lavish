@@ -33,7 +33,7 @@ description: Cost of Living in Varna
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVarna) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVarna) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Varna) | [Hotels](https://www.booking.com/searchresults.html?ss=Varna) |
 | [Airbnb](https://www.airbnb.com/s/Varna--Bulgaria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Varna
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Varna](https://www.reddit.com/r/Varna/) |
-| 📍 **TripAdvisor** | [Things to do in Varna](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVarna) |
-| 📖 **Lonely Planet** | [Varna Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVarna) |
+| 📍 **TripAdvisor** | [Things to do in Varna](https://www.tripadvisor.com/Search?q=Varna) |
+| 📖 **Lonely Planet** | [Varna Guide](https://www.lonelyplanet.com/search?q=Varna) |
 
 ## 🚀 Digital Nomad Hub
 

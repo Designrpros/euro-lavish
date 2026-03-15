@@ -30,25 +30,25 @@ description: Cost of Living in Zurich
 | 🥾 **Hiking Trails** | [Find Trails in Zurich](https://www.google.com/maps/search/Hiking+Trails+in+Zurich) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Dolder Grand](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Dolder%20Grand%20Zurich) — Fairytale castle luxury overlooking the lake.
-- **Budget**: [Oldtown Hostel Otter](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOldtown%20Hostel%20Otter%20Zurich) — Charming stay in the heart of the historic center.
-- **Hostel**: [Zurich Youth Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZurich%20Youth%20Hostel%20Zurich) — Modern, sleek, and highly efficient Swiss design.
+- **Luxury**: [The Dolder Grand](https://www.booking.com/searchresults.html?ss=The Dolder Grand Zurich) — Fairytale castle luxury overlooking the lake.
+- **Budget**: [Oldtown Hostel Otter](https://www.booking.com/searchresults.html?ss=Oldtown Hostel Otter Zurich) — Charming stay in the heart of the historic center.
+- **Hostel**: [Zurich Youth Hostel](https://www.booking.com/searchresults.html?ss=Zurich Youth Hostel Zurich) — Modern, sleek, and highly efficient Swiss design.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZurich) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZurich) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Zurich) | [Hotels](https://www.booking.com/searchresults.html?ss=Zurich) |
 | [Airbnb](https://www.airbnb.com/s/Zurich--Switzerland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Lake Zurich](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLake%20Zurich%20Zurich) — Take a boat cruise for stunning Alpine views.
+- **Top Activity**: [Lake Zurich](https://www.tripadvisor.com/Search?q=Lake Zurich Zurich) — Take a boat cruise for stunning Alpine views.
 - **Social**: [Find Zurich on Reddit](https://www.reddit.com/r/Zurich/)
 - **Activities**: [Viator Tours in Zurich](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DZurich)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Zurich](https://www.reddit.com/r/Zurich/) |
-| 📍 **TripAdvisor** | [Things to do in Zurich](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DZurich) |
-| 📖 **Lonely Planet** | [Zurich Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DZurich) |
+| 📍 **TripAdvisor** | [Things to do in Zurich](https://www.tripadvisor.com/Search?q=Zurich) |
+| 📖 **Lonely Planet** | [Zurich Guide](https://www.lonelyplanet.com/search?q=Zurich) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -33,7 +33,7 @@ description: Cost of Living in Szeged
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSzeged) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSzeged) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Szeged) | [Hotels](https://www.booking.com/searchresults.html?ss=Szeged) |
 | [Airbnb](https://www.airbnb.com/s/Szeged--Hungary) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Szeged
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Szeged](https://www.reddit.com/r/Szeged/) |
-| 📍 **TripAdvisor** | [Things to do in Szeged](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSzeged) |
-| 📖 **Lonely Planet** | [Szeged Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSzeged) |
+| 📍 **TripAdvisor** | [Things to do in Szeged](https://www.tripadvisor.com/Search?q=Szeged) |
+| 📖 **Lonely Planet** | [Szeged Guide](https://www.lonelyplanet.com/search?q=Szeged) |
 
 ## 🚀 Digital Nomad Hub
 

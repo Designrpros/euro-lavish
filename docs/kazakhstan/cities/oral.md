@@ -31,7 +31,7 @@ description: Cost of Living in Oral
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOral) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOral) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Oral) | [Hotels](https://www.booking.com/searchresults.html?ss=Oral) |
 | [Airbnb](https://www.airbnb.com/s/Oral--Kazakhstan (European)) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Oral
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Oral](https://www.reddit.com/r/Oral/) |
-| 📍 **TripAdvisor** | [Things to do in Oral](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOral) |
-| 📖 **Lonely Planet** | [Oral Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DOral) |
+| 📍 **TripAdvisor** | [Things to do in Oral](https://www.tripadvisor.com/Search?q=Oral) |
+| 📖 **Lonely Planet** | [Oral Guide](https://www.lonelyplanet.com/search?q=Oral) |
 
 ## 🚀 Digital Nomad Hub
 

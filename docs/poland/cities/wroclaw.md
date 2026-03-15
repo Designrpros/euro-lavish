@@ -30,25 +30,25 @@ description: Cost of Living in Wroclaw
 | 🥾 **Hiking Trails** | [Find Trails in Wroclaw](https://www.google.com/maps/search/Hiking+Trails+in+Wroclaw) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [The Bridge Wroclaw](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Bridge%20Wroclaw%20Wroclaw) — Luxury stay on the historic Cathedral Island.
-- **Budget**: [Hostel Bemma](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Bemma%20Wroclaw) — Charming and eco-friendly stay in the center.
-- **Hostel**: [Corner Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCorner%20Hostel%20Wroclaw) — Vibrant and social, perfect for meeting travelers.
+- **Luxury**: [The Bridge Wroclaw](https://www.booking.com/searchresults.html?ss=The Bridge Wroclaw Wroclaw) — Luxury stay on the historic Cathedral Island.
+- **Budget**: [Hostel Bemma](https://www.booking.com/searchresults.html?ss=Hostel Bemma Wroclaw) — Charming and eco-friendly stay in the center.
+- **Hostel**: [Corner Hostel](https://www.booking.com/searchresults.html?ss=Corner Hostel Wroclaw) — Vibrant and social, perfect for meeting travelers.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWroclaw) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWroclaw) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Wroclaw) | [Hotels](https://www.booking.com/searchresults.html?ss=Wroclaw) |
 | [Airbnb](https://www.airbnb.com/s/Wroclaw--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Wroclaw Dwarves](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWroclaw%20Dwarves%20Wroclaw) — Find the hundreds of bronze gnomes hidden across the city.
+- **Top Activity**: [Wroclaw Dwarves](https://www.tripadvisor.com/Search?q=Wroclaw Dwarves Wroclaw) — Find the hundreds of bronze gnomes hidden across the city.
 - **Social**: [Find Wroclaw on Reddit](https://www.reddit.com/r/Wroclaw/)
 - **Activities**: [Viator Tours in Wroclaw](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DWroclaw)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Wroclaw](https://www.reddit.com/r/Wroclaw/) |
-| 📍 **TripAdvisor** | [Things to do in Wroclaw](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DWroclaw) |
-| 📖 **Lonely Planet** | [Wroclaw Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DWroclaw) |
+| 📍 **TripAdvisor** | [Things to do in Wroclaw](https://www.tripadvisor.com/Search?q=Wroclaw) |
+| 📖 **Lonely Planet** | [Wroclaw Guide](https://www.lonelyplanet.com/search?q=Wroclaw) |
 
 ## 🚀 Digital Nomad Hub
 

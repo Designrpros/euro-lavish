@@ -31,7 +31,7 @@ description: Cost of Living in Lviv
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLviv) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLviv) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Lviv) | [Hotels](https://www.booking.com/searchresults.html?ss=Lviv) |
 | [Airbnb](https://www.airbnb.com/s/Lviv--Ukraine) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Lviv
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lviv](https://www.reddit.com/r/Lviv/) |
-| 📍 **TripAdvisor** | [Things to do in Lviv](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLviv) |
-| 📖 **Lonely Planet** | [Lviv Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLviv) |
+| 📍 **TripAdvisor** | [Things to do in Lviv](https://www.tripadvisor.com/Search?q=Lviv) |
+| 📖 **Lonely Planet** | [Lviv Guide](https://www.lonelyplanet.com/search?q=Lviv) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Manchester
 | 🥾 **Hiking Trails** | [Find Trails in Manchester](https://www.google.com/maps/search/Hiking+Trails+in+Manchester) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hyatt Regency Manchester](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHyatt%20Regency%20Manchester%20Manchester) — Contemporary luxury with an incredible skyline view.
-- **Budget**: [easyHotel Manchester](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DeasyHotel%20Manchester%20Manchester) — Perfect central location for budget explorers.
-- **Hostel**: [YHA Manchester](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYHA%20Manchester%20Manchester) — Award-winning hostel with a great bar and canal views.
+- **Luxury**: [Hyatt Regency Manchester](https://www.booking.com/searchresults.html?ss=Hyatt Regency Manchester Manchester) — Contemporary luxury with an incredible skyline view.
+- **Budget**: [easyHotel Manchester](https://www.booking.com/searchresults.html?ss=easyHotel Manchester Manchester) — Perfect central location for budget explorers.
+- **Hostel**: [YHA Manchester](https://www.booking.com/searchresults.html?ss=YHA Manchester Manchester) — Award-winning hostel with a great bar and canal views.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DManchester) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DManchester) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Manchester) | [Hotels](https://www.booking.com/searchresults.html?ss=Manchester) |
 | [Airbnb](https://www.airbnb.com/s/Manchester--UK) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Old Trafford Tour](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DOld%20Trafford%20Tour%20Manchester) — Walking through the history of the world-famous stadium.
+- **Top Activity**: [Old Trafford Tour](https://www.tripadvisor.com/Search?q=Old Trafford Tour Manchester) — Walking through the history of the world-famous stadium.
 - **Social**: [Find Manchester on Reddit](https://www.reddit.com/r/Manchester/)
 - **Activities**: [Viator Tours in Manchester](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DManchester)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Manchester](https://www.reddit.com/r/Manchester/) |
-| 📍 **TripAdvisor** | [Things to do in Manchester](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DManchester) |
-| 📖 **Lonely Planet** | [Manchester Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DManchester) |
+| 📍 **TripAdvisor** | [Things to do in Manchester](https://www.tripadvisor.com/Search?q=Manchester) |
+| 📖 **Lonely Planet** | [Manchester Guide](https://www.lonelyplanet.com/search?q=Manchester) |
 
 ## 🚀 Digital Nomad Hub
 

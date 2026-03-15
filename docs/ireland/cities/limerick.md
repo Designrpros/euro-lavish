@@ -33,7 +33,7 @@ description: Cost of Living in Limerick
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLimerick) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLimerick) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Limerick) | [Hotels](https://www.booking.com/searchresults.html?ss=Limerick) |
 | [Airbnb](https://www.airbnb.com/s/Limerick--Ireland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -41,8 +41,8 @@ description: Cost of Living in Limerick
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Limerick](https://www.reddit.com/r/Limerick/) |
-| 📍 **TripAdvisor** | [Things to do in Limerick](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLimerick) |
-| 📖 **Lonely Planet** | [Limerick Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLimerick) |
+| 📍 **TripAdvisor** | [Things to do in Limerick](https://www.tripadvisor.com/Search?q=Limerick) |
+| 📖 **Lonely Planet** | [Limerick Guide](https://www.lonelyplanet.com/search?q=Limerick) |
 
 ## 🚀 Digital Nomad Hub
 

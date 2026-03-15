@@ -30,25 +30,25 @@ description: Cost of Living in Copenhagen
 | 🥾 **Hiking Trails** | [Find Trails in Copenhagen](https://www.google.com/maps/search/Hiking+Trails+in+Copenhagen) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel d'Angleterre](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20d%27Angleterre%20Copenhagen) — Copenhagen's most prestigious luxury stay.
-- **Budget**: [Wakeup Copenhagen](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWakeup%20Copenhagen%20Copenhagen) — Sleek, minimalist, and very budget-friendly.
-- **Hostel**: [Next House Copenhagen](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNext%20House%20Copenhagen%20Copenhagen) — Upscale hostel with a bar, gym, and cinema.
+- **Luxury**: [Hotel d'Angleterre](https://www.booking.com/searchresults.html?ss=Hotel d'Angleterre Copenhagen) — Copenhagen's most prestigious luxury stay.
+- **Budget**: [Wakeup Copenhagen](https://www.booking.com/searchresults.html?ss=Wakeup Copenhagen Copenhagen) — Sleek, minimalist, and very budget-friendly.
+- **Hostel**: [Next House Copenhagen](https://www.booking.com/searchresults.html?ss=Next House Copenhagen Copenhagen) — Upscale hostel with a bar, gym, and cinema.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCopenhagen) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCopenhagen) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) | [Hotels](https://www.booking.com/searchresults.html?ss=Copenhagen) |
 | [Airbnb](https://www.airbnb.com/s/Copenhagen--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Tivoli Gardens](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DTivoli%20Gardens%20Copenhagen) — The world's second-oldest amusement park.
+- **Top Activity**: [Tivoli Gardens](https://www.tripadvisor.com/Search?q=Tivoli Gardens Copenhagen) — The world's second-oldest amusement park.
 - **Social**: [Find Copenhagen on Reddit](https://www.reddit.com/r/Copenhagen/)
 - **Activities**: [Viator Tours in Copenhagen](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DCopenhagen)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Copenhagen](https://www.reddit.com/r/Copenhagen/) |
-| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DCopenhagen) |
-| 📖 **Lonely Planet** | [Copenhagen Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DCopenhagen) |
+| 📍 **TripAdvisor** | [Things to do in Copenhagen](https://www.tripadvisor.com/Search?q=Copenhagen) |
+| 📖 **Lonely Planet** | [Copenhagen Guide](https://www.lonelyplanet.com/search?q=Copenhagen) |
 
 ## 🚀 Digital Nomad Hub
 

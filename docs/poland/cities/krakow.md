@@ -30,25 +30,25 @@ description: Cost of Living in Krakow
 | 🥾 **Hiking Trails** | [Find Trails in Krakow](https://www.google.com/maps/search/Hiking+Trails+in+Krakow) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Stary](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Stary%20Krakow) — Award-winning design in a historic medieval building.
-- **Budget**: [Ginger Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGinger%20Hostel%20Krakow) — Cozy, colorful, and right next to the Wawel Castle.
-- **Hostel**: [Greg & Tom Beer House](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGreg%20%26%20Tom%20Beer%20House%20Krakow) — Famous for its pub crawls and social atmosphere.
+- **Luxury**: [Hotel Stary](https://www.booking.com/searchresults.html?ss=Hotel Stary Krakow) — Award-winning design in a historic medieval building.
+- **Budget**: [Ginger Hostel](https://www.booking.com/searchresults.html?ss=Ginger Hostel Krakow) — Cozy, colorful, and right next to the Wawel Castle.
+- **Hostel**: [Greg & Tom Beer House](https://www.booking.com/searchresults.html?ss=Greg & Tom Beer House Krakow) — Famous for its pub crawls and social atmosphere.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKrakow) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKrakow) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Krakow) | [Hotels](https://www.booking.com/searchresults.html?ss=Krakow) |
 | [Airbnb](https://www.airbnb.com/s/Krakow--Poland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Main Market Square](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMain%20Market%20Square%20Krakow) — One of the largest and most beautiful medieval squares in Europe.
+- **Top Activity**: [Main Market Square](https://www.tripadvisor.com/Search?q=Main Market Square Krakow) — One of the largest and most beautiful medieval squares in Europe.
 - **Social**: [Find Krakow on Reddit](https://www.reddit.com/r/Krakow/)
 - **Activities**: [Viator Tours in Krakow](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DKrakow)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Krakow](https://www.reddit.com/r/Krakow/) |
-| 📍 **TripAdvisor** | [Things to do in Krakow](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKrakow) |
-| 📖 **Lonely Planet** | [Krakow Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKrakow) |
+| 📍 **TripAdvisor** | [Things to do in Krakow](https://www.tripadvisor.com/Search?q=Krakow) |
+| 📖 **Lonely Planet** | [Krakow Guide](https://www.lonelyplanet.com/search?q=Krakow) |
 
 ## 🚀 Digital Nomad Hub
 

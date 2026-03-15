@@ -31,7 +31,7 @@ description: Cost of Living in San Marino
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSan) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSan) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=San) | [Hotels](https://www.booking.com/searchresults.html?ss=San) |
 | [Airbnb](https://www.airbnb.com/s/San--San Marino) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in San Marino
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/San](https://www.reddit.com/r/San/) |
-| 📍 **TripAdvisor** | [Things to do in San](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSan) |
-| 📖 **Lonely Planet** | [San Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSan) |
+| 📍 **TripAdvisor** | [Things to do in San](https://www.tripadvisor.com/Search?q=San) |
+| 📖 **Lonely Planet** | [San Guide](https://www.lonelyplanet.com/search?q=San) |
 
 ## 🚀 Digital Nomad Hub
 

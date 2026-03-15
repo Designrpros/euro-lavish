@@ -31,7 +31,7 @@ description: Cost of Living in Vlorë
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVlorë) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVlorë) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Vlorë) | [Hotels](https://www.booking.com/searchresults.html?ss=Vlorë) |
 | [Airbnb](https://www.airbnb.com/s/Vlorë--Albania) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Vlorë
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Vlorë](https://www.reddit.com/r/Vlorë/) |
-| 📍 **TripAdvisor** | [Things to do in Vlorë](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVlorë) |
-| 📖 **Lonely Planet** | [Vlorë Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVlorë) |
+| 📍 **TripAdvisor** | [Things to do in Vlorë](https://www.tripadvisor.com/Search?q=Vlorë) |
+| 📖 **Lonely Planet** | [Vlorë Guide](https://www.lonelyplanet.com/search?q=Vlorë) |
 
 ## 🚀 Digital Nomad Hub
 

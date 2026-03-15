@@ -30,25 +30,25 @@ description: Cost of Living in Aarhus
 | 🥾 **Hiking Trails** | [Find Trails in Aarhus](https://www.google.com/maps/search/Hiking+Trails+in+Aarhus) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Royal](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Royal%20Aarhus) — The city's oldest luxury hotel, full of art and history.
-- **Budget**: [WAKEUP Aarhus](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWAKEUP%20Aarhus%20Aarhus) — Cool, minimalist Danish design at a budget price.
-- **Hostel**: [Danhostel Aarhus City](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDanhostel%20Aarhus%20City%20Aarhus) — Stunning central location with a rooftop shared area.
+- **Luxury**: [Hotel Royal](https://www.booking.com/searchresults.html?ss=Hotel Royal Aarhus) — The city's oldest luxury hotel, full of art and history.
+- **Budget**: [WAKEUP Aarhus](https://www.booking.com/searchresults.html?ss=WAKEUP Aarhus Aarhus) — Cool, minimalist Danish design at a budget price.
+- **Hostel**: [Danhostel Aarhus City](https://www.booking.com/searchresults.html?ss=Danhostel Aarhus City Aarhus) — Stunning central location with a rooftop shared area.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAarhus) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAarhus) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Aarhus) | [Hotels](https://www.booking.com/searchresults.html?ss=Aarhus) |
 | [Airbnb](https://www.airbnb.com/s/Aarhus--Denmark) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [ARoS Art Museum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DARoS%20Art%20Museum%20Aarhus) — Walk through the iconic rainbow panorama on the roof.
+- **Top Activity**: [ARoS Art Museum](https://www.tripadvisor.com/Search?q=ARoS Art Museum Aarhus) — Walk through the iconic rainbow panorama on the roof.
 - **Social**: [Find Aarhus on Reddit](https://www.reddit.com/r/Aarhus/)
 - **Activities**: [Viator Tours in Aarhus](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DAarhus)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Aarhus](https://www.reddit.com/r/Aarhus/) |
-| 📍 **TripAdvisor** | [Things to do in Aarhus](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DAarhus) |
-| 📖 **Lonely Planet** | [Aarhus Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DAarhus) |
+| 📍 **TripAdvisor** | [Things to do in Aarhus](https://www.tripadvisor.com/Search?q=Aarhus) |
+| 📖 **Lonely Planet** | [Aarhus Guide](https://www.lonelyplanet.com/search?q=Aarhus) |
 
 ## 🚀 Digital Nomad Hub
 

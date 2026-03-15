@@ -31,7 +31,7 @@ description: Cost of Living in Saint Petersburg
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSaint) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSaint) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Saint) | [Hotels](https://www.booking.com/searchresults.html?ss=Saint) |
 | [Airbnb](https://www.airbnb.com/s/Saint--Russia (European)) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Saint Petersburg
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Saint](https://www.reddit.com/r/Saint/) |
-| 📍 **TripAdvisor** | [Things to do in Saint](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSaint) |
-| 📖 **Lonely Planet** | [Saint Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DSaint) |
+| 📍 **TripAdvisor** | [Things to do in Saint](https://www.tripadvisor.com/Search?q=Saint) |
+| 📖 **Lonely Planet** | [Saint Guide](https://www.lonelyplanet.com/search?q=Saint) |
 
 ## 🚀 Digital Nomad Hub
 

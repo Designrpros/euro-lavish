@@ -31,7 +31,7 @@ description: Cost of Living in Kumanovo
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKumanovo) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKumanovo) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Kumanovo) | [Hotels](https://www.booking.com/searchresults.html?ss=Kumanovo) |
 | [Airbnb](https://www.airbnb.com/s/Kumanovo--North Macedonia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Kumanovo
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kumanovo](https://www.reddit.com/r/Kumanovo/) |
-| 📍 **TripAdvisor** | [Things to do in Kumanovo](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKumanovo) |
-| 📖 **Lonely Planet** | [Kumanovo Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKumanovo) |
+| 📍 **TripAdvisor** | [Things to do in Kumanovo](https://www.tripadvisor.com/Search?q=Kumanovo) |
+| 📖 **Lonely Planet** | [Kumanovo Guide](https://www.lonelyplanet.com/search?q=Kumanovo) |
 
 ## 🚀 Digital Nomad Hub
 

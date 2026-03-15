@@ -31,7 +31,7 @@ description: Cost of Living in Moscow
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMoscow) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMoscow) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Moscow) | [Hotels](https://www.booking.com/searchresults.html?ss=Moscow) |
 | [Airbnb](https://www.airbnb.com/s/Moscow--Russia (European)) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Moscow
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Moscow](https://www.reddit.com/r/Moscow/) |
-| 📍 **TripAdvisor** | [Things to do in Moscow](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DMoscow) |
-| 📖 **Lonely Planet** | [Moscow Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DMoscow) |
+| 📍 **TripAdvisor** | [Things to do in Moscow](https://www.tripadvisor.com/Search?q=Moscow) |
+| 📖 **Lonely Planet** | [Moscow Guide](https://www.lonelyplanet.com/search?q=Moscow) |
 
 ## 🚀 Digital Nomad Hub
 

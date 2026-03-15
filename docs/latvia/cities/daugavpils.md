@@ -31,7 +31,7 @@ description: Cost of Living in Daugavpils
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDaugavpils) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDaugavpils) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Daugavpils) | [Hotels](https://www.booking.com/searchresults.html?ss=Daugavpils) |
 | [Airbnb](https://www.airbnb.com/s/Daugavpils--Latvia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Daugavpils
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Daugavpils](https://www.reddit.com/r/Daugavpils/) |
-| 📍 **TripAdvisor** | [Things to do in Daugavpils](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DDaugavpils) |
-| 📖 **Lonely Planet** | [Daugavpils Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DDaugavpils) |
+| 📍 **TripAdvisor** | [Things to do in Daugavpils](https://www.tripadvisor.com/Search?q=Daugavpils) |
+| 📖 **Lonely Planet** | [Daugavpils Guide](https://www.lonelyplanet.com/search?q=Daugavpils) |
 
 ## 🚀 Digital Nomad Hub
 

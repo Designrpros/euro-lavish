@@ -30,25 +30,25 @@ description: Cost of Living in Helsinki
 | 🥾 **Hiking Trails** | [Find Trails in Helsinki](https://www.google.com/maps/search/Hiking+Trails+in+Helsinki) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Kämp](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20K%C3%A4mp%20Helsinki) — Old-world elegance and impeccable service.
-- **Budget**: [Scandic Helsinki Hub](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DScandic%20Helsinki%20Hub%20Helsinki) — Comfortable stay in a former printing house.
-- **Hostel**: [The Yard Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%20Yard%20Hostel%20Helsinki) — Stylish boutique hostel right in the center.
+- **Luxury**: [Hotel Kämp](https://www.booking.com/searchresults.html?ss=Hotel Kämp Helsinki) — Old-world elegance and impeccable service.
+- **Budget**: [Scandic Helsinki Hub](https://www.booking.com/searchresults.html?ss=Scandic Helsinki Hub Helsinki) — Comfortable stay in a former printing house.
+- **Hostel**: [The Yard Hostel](https://www.booking.com/searchresults.html?ss=The Yard Hostel Helsinki) — Stylish boutique hostel right in the center.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHelsinki) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHelsinki) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Helsinki) | [Hotels](https://www.booking.com/searchresults.html?ss=Helsinki) |
 | [Airbnb](https://www.airbnb.com/s/Helsinki--Finland) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Suomenlinna Fortress](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSuomenlinna%20Fortress%20Helsinki) — UNESCO island sea fortress and nature.
+- **Top Activity**: [Suomenlinna Fortress](https://www.tripadvisor.com/Search?q=Suomenlinna Fortress Helsinki) — UNESCO island sea fortress and nature.
 - **Social**: [Find Helsinki on Reddit](https://www.reddit.com/r/Helsinki/)
 - **Activities**: [Viator Tours in Helsinki](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DHelsinki)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Helsinki](https://www.reddit.com/r/Helsinki/) |
-| 📍 **TripAdvisor** | [Things to do in Helsinki](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DHelsinki) |
-| 📖 **Lonely Planet** | [Helsinki Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DHelsinki) |
+| 📍 **TripAdvisor** | [Things to do in Helsinki](https://www.tripadvisor.com/Search?q=Helsinki) |
+| 📖 **Lonely Planet** | [Helsinki Guide](https://www.lonelyplanet.com/search?q=Helsinki) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -31,7 +31,7 @@ description: Cost of Living in Kutaisi
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKutaisi) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKutaisi) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Kutaisi) | [Hotels](https://www.booking.com/searchresults.html?ss=Kutaisi) |
 | [Airbnb](https://www.airbnb.com/s/Kutaisi--Georgia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Kutaisi
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Kutaisi](https://www.reddit.com/r/Kutaisi/) |
-| 📍 **TripAdvisor** | [Things to do in Kutaisi](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DKutaisi) |
-| 📖 **Lonely Planet** | [Kutaisi Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DKutaisi) |
+| 📍 **TripAdvisor** | [Things to do in Kutaisi](https://www.tripadvisor.com/Search?q=Kutaisi) |
+| 📖 **Lonely Planet** | [Kutaisi Guide](https://www.lonelyplanet.com/search?q=Kutaisi) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -13,8 +13,8 @@ description: Services we recommend - and earn commission from
 
 | Service | Description | Commission |
 |----------|-------------|----------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2F) | 🔴 World's largest hotel site | ~3-5% |
-| [Hotels.com](https://tp.media/r?marker=710853&p=285&u=https%3A%2F%2Fwww.hotels.com) | 🔵 Hotel search engine | ~3% |
+| [Booking.com](https://www.booking.com/) | 🔴 World's largest hotel site | ~3-5% |
+| [Hotels.com](https://www.hotels.com) | 🔵 Hotel search engine | ~3% |
 | [Airbnb](https://www.airbnb.com/c/alcatel5) | 🟡 Private home rentals | ~3% |
 | [Vrbo](https://www.vrbo.com) | Vacation rentals | ~3% |
 

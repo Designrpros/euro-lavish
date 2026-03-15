@@ -30,25 +30,25 @@ description: Cost of Living in Lyon
 | 🥾 **Hiking Trails** | [Find Trails in Lyon](https://www.google.com/maps/search/Hiking+Trails+in+Lyon) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Villa Maïa](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilla%20Ma%C3%AFa%20Lyon) — Stunning contemporary design on Fourvière Hill.
-- **Budget**: [Hotel Silky by HappyCulture](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Silky%20by%20HappyCulture%20Lyon) — Charming boutique stay in the city's historic center.
-- **Hostel**: [ho36 Hostel](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3Dho36%20Hostel%20Lyon) — Unique hybrid hostel with a very cool communal vibe.
+- **Luxury**: [Villa Maïa](https://www.booking.com/searchresults.html?ss=Villa Maïa Lyon) — Stunning contemporary design on Fourvière Hill.
+- **Budget**: [Hotel Silky by HappyCulture](https://www.booking.com/searchresults.html?ss=Hotel Silky by HappyCulture Lyon) — Charming boutique stay in the city's historic center.
+- **Hostel**: [ho36 Hostel](https://www.booking.com/searchresults.html?ss=ho36 Hostel Lyon) — Unique hybrid hostel with a very cool communal vibe.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLyon) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLyon) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Lyon) | [Hotels](https://www.booking.com/searchresults.html?ss=Lyon) |
 | [Airbnb](https://www.airbnb.com/s/Lyon--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Vieux Lyon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVieux%20Lyon%20Lyon) — Explore the secret 'traboules' of the historic old town.
+- **Top Activity**: [Vieux Lyon](https://www.tripadvisor.com/Search?q=Vieux Lyon Lyon) — Explore the secret 'traboules' of the historic old town.
 - **Social**: [Find Lyon on Reddit](https://www.reddit.com/r/Lyon/)
 - **Activities**: [Viator Tours in Lyon](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DLyon)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Lyon](https://www.reddit.com/r/Lyon/) |
-| 📍 **TripAdvisor** | [Things to do in Lyon](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLyon) |
-| 📖 **Lonely Planet** | [Lyon Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLyon) |
+| 📍 **TripAdvisor** | [Things to do in Lyon](https://www.tripadvisor.com/Search?q=Lyon) |
+| 📖 **Lonely Planet** | [Lyon Guide](https://www.lonelyplanet.com/search?q=Lyon) |
 
 ## 🚀 Digital Nomad Hub
 

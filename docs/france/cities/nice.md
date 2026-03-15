@@ -30,25 +30,25 @@ description: Cost of Living in Nice
 | 🥾 **Hiking Trails** | [Find Trails in Nice](https://www.google.com/maps/search/Hiking+Trails+in+Nice) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hôtel Negresco](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DH%C3%B4tel%20Negresco%20Nice) — The world-famous landmark of French Riviera luxury.
-- **Budget**: [Mama Shelter Nice](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMama%20Shelter%20Nice%20Nice) — Sleek, modern, and perfectly located for beach days.
-- **Hostel**: [Villa Saint Exupery](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVilla%20Saint%20Exupery%20Nice) — Legendary social atmosphere steps from the beach.
+- **Luxury**: [Hôtel Negresco](https://www.booking.com/searchresults.html?ss=Hôtel Negresco Nice) — The world-famous landmark of French Riviera luxury.
+- **Budget**: [Mama Shelter Nice](https://www.booking.com/searchresults.html?ss=Mama Shelter Nice Nice) — Sleek, modern, and perfectly located for beach days.
+- **Hostel**: [Villa Saint Exupery](https://www.booking.com/searchresults.html?ss=Villa Saint Exupery Nice) — Legendary social atmosphere steps from the beach.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNice) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNice) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Nice) | [Hotels](https://www.booking.com/searchresults.html?ss=Nice) |
 | [Airbnb](https://www.airbnb.com/s/Nice--France) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Promenade des Anglais](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPromenade%20des%20Anglais%20Nice) — The iconic seaside walkway of the Côte d'Azur.
+- **Top Activity**: [Promenade des Anglais](https://www.tripadvisor.com/Search?q=Promenade des Anglais Nice) — The iconic seaside walkway of the Côte d'Azur.
 - **Social**: [Find Nice on Reddit](https://www.reddit.com/r/Nice/)
 - **Activities**: [Viator Tours in Nice](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DNice)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Nice](https://www.reddit.com/r/Nice/) |
-| 📍 **TripAdvisor** | [Things to do in Nice](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNice) |
-| 📖 **Lonely Planet** | [Nice Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNice) |
+| 📍 **TripAdvisor** | [Things to do in Nice](https://www.tripadvisor.com/Search?q=Nice) |
+| 📖 **Lonely Planet** | [Nice Guide](https://www.lonelyplanet.com/search?q=Nice) |
 
 ## 🚀 Digital Nomad Hub
 

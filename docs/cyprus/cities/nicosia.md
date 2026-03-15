@@ -31,7 +31,7 @@ description: Cost of Living in Nicosia
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNicosia) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNicosia) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Nicosia) | [Hotels](https://www.booking.com/searchresults.html?ss=Nicosia) |
 | [Airbnb](https://www.airbnb.com/s/Nicosia--Cyprus) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Nicosia
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Nicosia](https://www.reddit.com/r/Nicosia/) |
-| 📍 **TripAdvisor** | [Things to do in Nicosia](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DNicosia) |
-| 📖 **Lonely Planet** | [Nicosia Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DNicosia) |
+| 📍 **TripAdvisor** | [Things to do in Nicosia](https://www.tripadvisor.com/Search?q=Nicosia) |
+| 📖 **Lonely Planet** | [Nicosia Guide](https://www.lonelyplanet.com/search?q=Nicosia) |
 
 ## 🚀 Digital Nomad Hub
 

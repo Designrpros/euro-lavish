@@ -30,25 +30,25 @@ description: Cost of Living in Rome
 | 🥾 **Hiking Trails** | [Find Trails in Rome](https://www.google.com/maps/search/Hiking+Trails+in+Rome) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel de la Ville](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20de%20la%20Ville%20Rome) — Rooftop glamour above the Spanish Steps.
-- **Budget**: [Hotel Lord Byron](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Lord%20Byron%20Rome) — Art Deco elegance in the quiet Parioli district.
-- **Hostel**: [YellowSquare Rome](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYellowSquare%20Rome%20Rome) — Legendary party hostel with its own club and salon.
+- **Luxury**: [Hotel de la Ville](https://www.booking.com/searchresults.html?ss=Hotel de la Ville Rome) — Rooftop glamour above the Spanish Steps.
+- **Budget**: [Hotel Lord Byron](https://www.booking.com/searchresults.html?ss=Hotel Lord Byron Rome) — Art Deco elegance in the quiet Parioli district.
+- **Hostel**: [YellowSquare Rome](https://www.booking.com/searchresults.html?ss=YellowSquare Rome Rome) — Legendary party hostel with its own club and salon.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRome) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRome) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Rome) | [Hotels](https://www.booking.com/searchresults.html?ss=Rome) |
 | [Airbnb](https://www.airbnb.com/s/Rome--Italy) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [The Colosseum](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DThe%20Colosseum%20Rome) — The iconic symbol of Ancient Roman power.
+- **Top Activity**: [The Colosseum](https://www.tripadvisor.com/Search?q=The Colosseum Rome) — The iconic symbol of Ancient Roman power.
 - **Social**: [Find Rome on Reddit](https://www.reddit.com/r/Rome/)
 - **Activities**: [Viator Tours in Rome](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DRome)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Rome](https://www.reddit.com/r/Rome/) |
-| 📍 **TripAdvisor** | [Things to do in Rome](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DRome) |
-| 📖 **Lonely Planet** | [Rome Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DRome) |
+| 📍 **TripAdvisor** | [Things to do in Rome](https://www.tripadvisor.com/Search?q=Rome) |
+| 📖 **Lonely Planet** | [Rome Guide](https://www.lonelyplanet.com/search?q=Rome) |
 
 ## 🚀 Digital Nomad Hub
 

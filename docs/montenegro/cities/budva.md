@@ -31,7 +31,7 @@ description: Cost of Living in Budva
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudva) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBudva) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Budva) | [Hotels](https://www.booking.com/searchresults.html?ss=Budva) |
 | [Airbnb](https://www.airbnb.com/s/Budva--Montenegro) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Budva
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Budva](https://www.reddit.com/r/Budva/) |
-| 📍 **TripAdvisor** | [Things to do in Budva](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DBudva) |
-| 📖 **Lonely Planet** | [Budva Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DBudva) |
+| 📍 **TripAdvisor** | [Things to do in Budva](https://www.tripadvisor.com/Search?q=Budva) |
+| 📖 **Lonely Planet** | [Budva Guide](https://www.lonelyplanet.com/search?q=Budva) |
 
 ## 🚀 Digital Nomad Hub
 

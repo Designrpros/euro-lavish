@@ -31,7 +31,7 @@ description: Cost of Living in Liepāja
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiepāja) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiepāja) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Liepāja) | [Hotels](https://www.booking.com/searchresults.html?ss=Liepāja) |
 | [Airbnb](https://www.airbnb.com/s/Liepāja--Latvia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
@@ -39,8 +39,8 @@ description: Cost of Living in Liepāja
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Liepāja](https://www.reddit.com/r/Liepāja/) |
-| 📍 **TripAdvisor** | [Things to do in Liepāja](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DLiepāja) |
-| 📖 **Lonely Planet** | [Liepāja Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DLiepāja) |
+| 📍 **TripAdvisor** | [Things to do in Liepāja](https://www.tripadvisor.com/Search?q=Liepāja) |
+| 📖 **Lonely Planet** | [Liepāja Guide](https://www.lonelyplanet.com/search?q=Liepāja) |
 
 ## 🚀 Digital Nomad Hub
 

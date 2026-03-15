@@ -30,25 +30,25 @@ description: Cost of Living in Prague
 | 🥾 **Hiking Trails** | [Find Trails in Prague](https://www.google.com/maps/search/Hiking+Trails+in+Prague) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Four Seasons Prague](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%20Seasons%20Prague%20Prague) — Unrivaled luxury with views of the Charles Bridge.
-- **Budget**: [Miss Sophie's Downtown](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMiss%20Sophie%27s%20Downtown%20Prague) — Boutique apartments with a cozy, homey feel.
-- **Hostel**: [Onefam Old Town](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOnefam%20Old%20Town%20Prague) — The ultimate social hostel with free nightly dinners.
+- **Luxury**: [Four Seasons Prague](https://www.booking.com/searchresults.html?ss=Four Seasons Prague Prague) — Unrivaled luxury with views of the Charles Bridge.
+- **Budget**: [Miss Sophie's Downtown](https://www.booking.com/searchresults.html?ss=Miss Sophie's Downtown Prague) — Boutique apartments with a cozy, homey feel.
+- **Hostel**: [Onefam Old Town](https://www.booking.com/searchresults.html?ss=Onefam Old Town Prague) — The ultimate social hostel with free nightly dinners.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPrague) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPrague) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Prague) | [Hotels](https://www.booking.com/searchresults.html?ss=Prague) |
 | [Airbnb](https://www.airbnb.com/s/Prague--Czechia) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Prague Castle](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrague%20Castle%20Prague) — The largest ancient castle complex in the world.
+- **Top Activity**: [Prague Castle](https://www.tripadvisor.com/Search?q=Prague Castle Prague) — The largest ancient castle complex in the world.
 - **Social**: [Find Prague on Reddit](https://www.reddit.com/r/Prague/)
 - **Activities**: [Viator Tours in Prague](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DPrague)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Prague](https://www.reddit.com/r/Prague/) |
-| 📍 **TripAdvisor** | [Things to do in Prague](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DPrague) |
-| 📖 **Lonely Planet** | [Prague Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DPrague) |
+| 📍 **TripAdvisor** | [Things to do in Prague](https://www.tripadvisor.com/Search?q=Prague) |
+| 📖 **Lonely Planet** | [Prague Guide](https://www.lonelyplanet.com/search?q=Prague) |
 
 ## 🚀 Digital Nomad Hub
 

@@ -30,25 +30,25 @@ description: Cost of Living in Vienna
 | 🥾 **Hiking Trails** | [Find Trails in Vienna](https://www.google.com/maps/search/Hiking+Trails+in+Vienna) |
 
 ## 🏨 Recommended Accommodation
-- **Luxury**: [Hotel Sacher](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%20Sacher%20Vienna) — Famous for luxury and the legendary Sacher Torte.
-- **Budget**: [Zoku Vienna](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZoku%20Vienna%20Vienna) — Award-winning 'loft' style rooms for modern nomads.
-- **Hostel**: [Hostel Ruthensteiner](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHostel%20Ruthensteiner%20Vienna) — Eco-friendly, musical, and incredibly friendly vibe.
+- **Luxury**: [Hotel Sacher](https://www.booking.com/searchresults.html?ss=Hotel Sacher Vienna) — Famous for luxury and the legendary Sacher Torte.
+- **Budget**: [Zoku Vienna](https://www.booking.com/searchresults.html?ss=Zoku Vienna Vienna) — Award-winning 'loft' style rooms for modern nomads.
+- **Hostel**: [Hostel Ruthensteiner](https://www.booking.com/searchresults.html?ss=Hostel Ruthensteiner Vienna) — Eco-friendly, musical, and incredibly friendly vibe.
 
 | Service | Link |
 |---------|------|
-| [Booking.com](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVienna) | [Hotels](https://tp.media/r?marker=710853&p=121&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DVienna) |
+| [Booking.com](https://www.booking.com/searchresults.html?ss=Vienna) | [Hotels](https://www.booking.com/searchresults.html?ss=Vienna) |
 | [Airbnb](https://www.airbnb.com/s/Vienna--Austria) | Vacation Rentals |
 
 ## 🧭 Explore & Community
-- **Top Activity**: [Schönbrunn Palace](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DSch%C3%B6nbrunn%20Palace%20Vienna) — The magnificent former imperial summer residence.
+- **Top Activity**: [Schönbrunn Palace](https://www.tripadvisor.com/Search?q=Schönbrunn Palace Vienna) — The magnificent former imperial summer residence.
 - **Social**: [Find Vienna on Reddit](https://www.reddit.com/r/Vienna/)
 - **Activities**: [Viator Tours in Vienna](https://tp.media/r?marker=710853&p=89&u=https%3A%2F%2Fwww.viator.com%2FsearchResults%2Fall%3Ftext%3DVienna)
 
 | Platform | Link |
 |----------|------|
 | 💬 **Reddit** | [r/Vienna](https://www.reddit.com/r/Vienna/) |
-| 📍 **TripAdvisor** | [Things to do in Vienna](https://tp.media/r?marker=710853&p=125&u=https%3A%2F%2Fwww.tripadvisor.com%2FSearch%3Fq%3DVienna) |
-| 📖 **Lonely Planet** | [Vienna Guide](https://tp.media/r?marker=710853&p=170&u=https%3A%2F%2Fwww.lonelyplanet.com%2Fsearch%3Fq%3DVienna) |
+| 📍 **TripAdvisor** | [Things to do in Vienna](https://www.tripadvisor.com/Search?q=Vienna) |
+| 📖 **Lonely Planet** | [Vienna Guide](https://www.lonelyplanet.com/search?q=Vienna) |
 
 ## 🚀 Digital Nomad Hub
 
